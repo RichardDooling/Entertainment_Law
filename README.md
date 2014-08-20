@@ -1,12 +1,10 @@
-# Entertainment Law
-
-## Lawyers For The Talent
+# Lawyers For The Talent
 
 ###### By Richard Dooling
 
 I teach Entertainment Law at the University of Nebraska College of Law. I also teach an undergraduate course at the University, which might be called Entertainment Law for Artists. 
 
-* [My Nebraska College of Law page](http://law.unl.edu/richard-dooling#about).
+* [My University of Nebraska College of Law page](http://law.unl.edu/richard-dooling#about).
 * [My Wikipedia page](http://en.wikipedia.org/wiki/Richard_Dooling).
 * [My IMDB page](http://www.imdb.com/name/nm0233223/).
 * [One sorely neglected blog](http://dooling.com).
@@ -34,5 +32,9 @@ You don't need to know Markdown or computer programming to use or view these fil
 
 However, if you are willing to spend a little time learning how Git and GitHub work, you will be able to quickly fetch the latest versions of these files to your computer using a simple free application available at [GitHub](https://github.com/). 
 
-If you are curious about GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS] page.
+If you are curious about GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS](https://github.com/RichardDooling/Entertainment_Law/blob/master/CONTRIBUTIONS.md) page.
+
+Richard Dooling
+
+University of Nebraska College of Law
 
