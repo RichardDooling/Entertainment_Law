@@ -1,7 +1,7 @@
 ---
 Author: Richard Dooling
 Title: Lawyers For The Talent
-...
+---
 
 # Lawyers For The Talent
 
