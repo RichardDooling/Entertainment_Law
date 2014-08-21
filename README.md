@@ -46,8 +46,6 @@ If you click on the Introduction.docx, you can't view it, but you can download i
 
 If you would like to download ALL of the files in this repository, look for the two buttons at the bottom of the right sidebar:
 
-![Buttons](buttons.png)\
-
 If you click on the "Download Zip" button, you will download a zip file containing all the files in this repository. Probably not so bad at first, but over the course of the semester more files will be added. You'll have a version problem, which is why Git and GitHub were invented. 
 
 ### Cloning
