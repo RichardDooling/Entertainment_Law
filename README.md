@@ -34,7 +34,7 @@ Each folder contains three files, all named after the folder:
 * one Word file (.docx)
 * one PDF file (.pdf)
 
-All files contain the same content, just in different formats. For example, the Introduction folder contains two files:
+All files contain the same content, just in different formats. For example, the Introduction folder contains three files:
 
 * Introduction.md
 * Introduction.docx
