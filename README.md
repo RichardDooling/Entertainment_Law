@@ -26,13 +26,37 @@ Whenever possible, I link to free content, including Wikipedia, YouTube, [Google
 
 ### Files & Folders
 
-Each folder contains one Markdown file (.md) named after the folder. For instance, the Introduction folder contains a Markdown file called Introduction.md. These Markdown files are the source files for the text you see on the screen when you view them. I also make this content available to my students as Word files (.docx) and as PDFs.
+You don't need to know Markdown or computer programming to use or view these files. Public repositories (like this one) can be browsed and the files can be downloaded by anyone. If you are a student looking to download or view the Entertainment Law files, just find the files you want and download them.
 
-You don't need to know Markdown or computer programming to use or view these files. Public repositories (like this one) can be browsed and the files can be downloaded by anyone. If you are a student looking to download or view the Entertainment Law files, you may stop here.
+Each folder contains two files, both are named after the folder:
 
-However, if you are willing to spend a little time learning how Git and GitHub work, you will be able to quickly fetch the latest versions of these files to your computer using a simple free application available at [GitHub](https://github.com/). 
+* one Markdown file (.md)
+* one Word file (.docx)
 
-If you are curious about GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS](https://github.com/RichardDooling/Entertainment_Law/blob/master/CONTRIBUTIONS.md) page.
+Both files contain the same content, just in different formats. For example, the Introduction folder contains two files:
+
+* Introduction.md
+* Introduction.docx
+
+If you click on the Markdown file (Introduction.md) you can view it as you would a webpage. 
+
+If you click on the Introduction.docx, you can't view it, but you can download it if you click on the link that says "view raw."
+
+### Download Zip
+
+If you would like to download ALL of the files in this repository, look for the two buttons at the bottom of the right sidebar:
+
+![Buttons](buttons.png)\
+
+If you click on the "Download Zip" button, you will download a zip file containing all the files in this repository. Probably not so bad at first, but over the course of the semester more files will be added. You'll have a version problem, which is why Git and GitHub were invented. 
+
+### Cloning
+
+Consider investing a little time and learning how to "clone" the entire repository in your desktop. If you click on "Clone in Desktop" you will download the GitHub program, and you will be asked to create a free GitHub account. Using a simple GitHub app you will be able to quickly fetch the latest versions of these files to your computer using a simple free application available at [GitHub](https://github.com/). 
+
+### Contributing
+
+No obligation here. Only for the curious, but if you get interested in how GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS](https://github.com/RichardDooling/Entertainment_Law/blob/master/CONTRIBUTIONS.md) page.
 
 Richard Dooling
 
