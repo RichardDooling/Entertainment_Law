@@ -33,6 +33,13 @@ Finally, the economics and indeed the international economics of the industry qu
 
 * [Study: Global Media Industry Poised to Top $2 Trillion in 2016](http://www.hollywoodreporter.com/news/study-global-media-industry-poised-562694) describing the most recent [PriceWaterhouseCooper’s 2013 Entertainment Report](http://www.hollywoodreporter.com/sites/default/files/custom/Documents/PWC_chart_rev21012x5711px.pdf). 
 
+Some bad reasons for becoming an entertainment lawyer are because you want to hang out with celebrities. Sure entertainment lawyers typically love the arts and admire their clients, but at bottom they WORK long and hard for their clients, and the limelight is just a distraction.
+
+> Just like Frances Gumm became Judy Garland, and Thomas Mapother III became Tom Cruise, "entertainment law" is actually a more glamorized, fabricated name for contract law, copyright law, intellectual property law, licensing law, litigation, and working really hard just like every other lawyer out there . . . . Entertainment lawyers are merely copyright, contract, or IP lawyers who have clients in the entertainment business, just like sports lawyers have clients in the sports business.
+
+* Erica Winter, [Entertainment Law - Glamor By Association?](http://www.lawcrossing.com/article/379/Entertainment-Law-Glamor-By-Association/#) 
+* Diane Dannenfeldt, [How Entertainment Lawyers Work](http://entertainment.howstuffworks.com/entertainment-lawyer.htm)
+
 ### Entertainment Categories
 
 Entertainment used to mean "show business," or the business of creating shows for film, television, radio and theaters. Nowadays, thanks to the Internet, "entertainment" can happen anywhere you have an Internet connection, so the "entertainment industry" arguably embraces almost all artistic endeavors from publishing to video games, to the visual arts, fine arts, dance, making [vines][vine], [mashups](http://djearworm.com/), music (all kinds!), as well as the usual feature films, television, and radio (Pandora, Spotify, and your local AM station).
@@ -101,6 +108,7 @@ With all of their representatives taking percentages of their earnings off the t
 ### Lawyers For The Talent
 
 Lawyers play big roles in the entertainment industry because, like agents and managers, they are paid on commission, are part of the team responsible for getting entertainment products made, and are key to protecting rights and getting people paid. What do entertainment lawyers do? No easy answer will suffice, only a bland one, namely, they provide legal services to those who work in the entertainment industry.  
+
 
 A lawyer drafting or editing a contract for a poet whose works will soon appear in a free literary rag or on a poetry website and the lawyers responsible for drafting [Beyonce's $50 million deal][beyonce50] with Pepsi are all working in the entertainment industry, because after all: What is entertainment? 
 

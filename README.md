@@ -28,23 +28,25 @@ Whenever possible, I link to free content, including Wikipedia, YouTube, [Google
 
 You don't need to know Markdown or computer programming to use or view these files. Public repositories (like this one) can be browsed and the files can be downloaded by anyone. If you are a student looking to download or view the Entertainment Law files, just find the files you want and download them.
 
-Each folder contains two files, both are named after the folder:
+Each folder contains three files, all named after the folder:
 
 * one Markdown file (.md)
 * one Word file (.docx)
+* one PDF file (.pdf)
 
-Both files contain the same content, just in different formats. For example, the Introduction folder contains two files:
+All files contain the same content, just in different formats. For example, the Introduction folder contains two files:
 
 * Introduction.md
 * Introduction.docx
+* Introduction.pdf
 
 If you click on the Markdown file (Introduction.md) you can view it as you would a webpage. 
 
-If you click on the Introduction.docx, you can't view it, but you can download it if you click on the link that says "view raw."
+If you click on the Introduction.docx or Introduction. pdf, you can't view the files, but you can download them if you click on the link that says "view raw."
 
 ### Download Zip
 
-If you would like to download ALL of the files in this repository, look for the two buttons at the bottom of the right sidebar:
+If you would like to download ALL of the files in this repository, look for the two buttons at the bottom of the right sidebar: "Clone in Desktop" and "Download Zip".
 
 If you click on the "Download Zip" button, you will download a zip file containing all the files in this repository. Probably not so bad at first, but over the course of the semester more files will be added. You'll have a version problem, which is why Git and GitHub were invented. 
 
