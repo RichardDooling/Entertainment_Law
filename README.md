@@ -8,7 +8,7 @@ I teach Entertainment Law at the University of Nebraska College of Law. I also t
 * [My Wikipedia page](http://en.wikipedia.org/wiki/Richard_Dooling).
 * [My IMDB page](http://www.imdb.com/name/nm0233223/).
 * [One sorely neglected blog](http://dooling.com).
-* [Twitter \@RichardDooling](http://twitter.com/richarddooling).
+* [Twitter @RichardDooling](http://twitter.com/richarddooling).
 
 This is a public repository of the files I use to teach Entertainment Law. Since it's open to all, please read the following:
 
