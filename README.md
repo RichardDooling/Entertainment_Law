@@ -12,7 +12,7 @@ I teach Entertainment Law at the University of Nebraska College of Law. I also t
 
 This is a public repository of the files I use to teach Entertainment Law. Since it's open to all, please read the following:
 
-### THE USUAL DISCLAIMERS
+### NOT THE USUAL DISCLAIMER
 
 Yes, I am a lawyer, and yes I teach Entertainment Law, but I am not YOUR lawyer and the text you find in these files is NOT legal advice. To paraphrase Hunter Thompson, the entertainment industry is a "cruel and shallow money trench . . . a long plastic hallway where thieves and pimps run free and good men die like dogs." It's no place to be guessing about your legal rights. If you need legal advice, GET A LAWYER! 
 
