@@ -37,7 +37,7 @@ If you are curious about Markdown, the following links may help.
 
 ### Text Editors
 
-To write Markdown files, you'll need a [text editor](http://en.wikipedia.org/wiki/Text_editor). There are [dozens to choose from](http://en.wikipedia.org/wiki/Text_editor). Many are free, others cost money, but are usually a lot cheaper than Microsoft Word. At the moment, [Sublime Text](http://www.sublimetext.com/) seems to be very popular, and it is easy to use. I like [Vim](http://www.vim.org/about.php), and since I'm often working on a Mac, I use [MacVim](https://code.google.com/p/macvim/).[^1]
+To write Markdown files, you'll need a [text editor](http://en.wikipedia.org/wiki/Text_editor). There are [dozens to choose from](http://en.wikipedia.org/wiki/Text_editor). Many are free, others cost money, but are usually a lot cheaper than Microsoft Word. At the moment, [Sublime Text](http://www.sublimetext.com/) seems to be very popular, and it is easy to use. I like [Vim](http://www.vim.org/about.php), and since I'm often working on a Mac, I use [MacVim](https://code.google.com/p/macvim/).
 
 Why switch from writing in Microsoft Word to writing in a text editor? Sample a few opinions on the subject:
 
@@ -55,6 +55,4 @@ If you decide to jump in, Google to find many free resources. These are just a f
 Richard Dooling
 
 University of Nebraska College of law
-
-[^1]: Does Github do footnotes?
 
