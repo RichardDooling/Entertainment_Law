@@ -3,8 +3,8 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: First Amendment - Sex
-date: 24 August 2014
-version: 1.0
+date: 27 August 2014
+version: 1.1
 ---
 
 # Lawyers For The Talent
@@ -1044,6 +1044,10 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 * The [*Miller* test at Wikipedia][miller_test].
 *  [*New York v.  Ferber*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=458us747&appflag=67.12), 458 US 747 (1982).  [Wikipedia](http://en.wikipedia.org/wiki/New_York_v._Ferber).
 *  [*American Booksellers v. Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986).  [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
+
+### Changelog
+
+* Version 1.1 - 27-Aug-2014 - fixed broken ref links
 
 <!--Cases -->
 
