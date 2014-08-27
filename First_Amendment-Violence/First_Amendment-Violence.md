@@ -21,7 +21,7 @@ Shall we allow the family members of these victims to sue you in tort for indire
 
 What if somebody hires you to make a documentary about the production and sale of so-called [“crush videos”][stevens] wherein animals are brutally tortured and killed? Do these cruel and sometimes deadly side effects of violent "speech" suggest that extreme violence should be banned or regulated the way obscenity is banned and regulated?
 
-Do we need a [*Miller* test][miller_test] for violence?  If regulation is required, who should regulate? The government? Industry groups, like the [Motion Picture Association of America (MPAA)][mpaa] or the [Entertainment Software Ratings Board (ESRB)][esrb]? 
+Do we need a [*Miller* test][miller_test] for violence?  If regulation is required, who should regulate? The government? Industry groups, like the [Motion Picture Association of America - MPAA][mpaa] or the [Entertainment Software Ratings Board - ESRB][esrb]? 
 
 ### Headline cases
 
