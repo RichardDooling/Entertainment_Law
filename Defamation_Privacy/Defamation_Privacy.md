@@ -41,7 +41,7 @@ Stories, songs, movies, even photos about real people, may defame them, especial
 * [“Fact-Based Stories”](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. 2009. 
 * [Defamation Law Made Simple at Nolo.com.][defamation]
 * [FreeAdvice: How to Prove Libel or Slander](http://injury-law.freeadvice.com/injury-law/libel_and_slander/prove-libel-and-slander.htm)
-* Eric E. Johnson, [Defamation Flowchart](http://eejlaw.com/m/defamation_flowcharts.pdf)
+* [Eric E. Johnson](http://www.ericejohnson.com/), [Defamation Flowchart](http://eejlaw.com/m/defamation_flowcharts.pdf)
 
 ### Headline Cases
 
