@@ -40,7 +40,8 @@ Do we need a [*Miller* test][miller_test] for violence?  If regulation is requir
 
 ### Recommended
 
-*   [*The People v. Larry Flynt*](http://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt).
+*  [*The People v. Larry Flynt*](http://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt).
 
 [miller_test]: http://en.wikipedia.org/wiki/Miller_test "The *Miller* Obscenity Test"
 [esrb]:	http://www.esrb.org/index-js.jsp "ESRB"
+[stevens]: http://en.wikipedia.org/wiki/United_States_v._Stevens	"U.S. v. Stevens
