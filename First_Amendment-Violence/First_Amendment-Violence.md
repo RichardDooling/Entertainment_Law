@@ -13,7 +13,7 @@ version: 1.0
 
 ## First Amendment - Violence
 
-<span style="color: red">!!! Page Under Construction !!!</span>
+<p style="color:red">!!! Page Under Construction !!!</p>
 
 If speech is just too “sexy,” it can be outlawed as obscene in the United States. Can it also be outlawed if it is just too violent? What if your rap song arguably "causes" somebody to shoot a cop? Your lurid magazine article about erotic asphyxiation arguably “causes” somebody to accidentally hang themselves? Subliminal lyrics in your heavy metal song arguably "cause" somebody to commit suicide?  Or your violent video game arguably “causes” or “inspires” a school shooting? 
 
@@ -44,4 +44,5 @@ Do we need a [*Miller* test][miller_test] for violence?  If regulation is requir
 
 [miller_test]: http://en.wikipedia.org/wiki/Miller_test "The *Miller* Obscenity Test"
 [esrb]:	http://www.esrb.org/index-js.jsp "ESRB"
-[stevens]: http://en.wikipedia.org/wiki/United_States_v._Stevens	"U.S. v. Stevens
+[stevens]: http://en.wikipedia.org/wiki/United_States_v._Stevens "U.S. v. Stevens"
+[nbk]: 	https://en.wikipedia.org/wiki/List_of_alleged_Natural_Born_Killers_copycat_crimes "Copycat Crimes & Natural Born Killers"
