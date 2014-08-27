@@ -56,7 +56,7 @@ Why was the First Amendment added to the Constitution in 1789? And if Congress m
 Do we have a First Amendment because speaking one's mind is a basic human right? Like the freedom to travel, or freedom to buy birth control? Perhaps the colonists wanted only to be certain that their new American government would be prohibited from imposing [prior restraints](http://en.wikipedia.org/wiki/Prior_restraint) on speech, the sort of licensing schemes that inspired the poet John Milton to write [Areopagitica](http://en.wikipedia.org/wiki/Areopagitica)? Maybe free speech is a kind of civic "safety valve" allowing aggrieved citizens to march in the streets or issue screeds on street corners instead of arming themselves and starting a civil war? Theories one and all that have been propounded as possible reasons we have a First Amendment.
 
 
-#### The Marketplace of Ideas #### 
+#### The Marketplace of Ideas  
 
 When the Supreme Court addresses these questions, they steer between two competing principles of First Amendment jurisprudence that will never be reconciled (think [Scylla and Charybdis](http://en.wikipedia.org/wiki/Between_Scylla_and_Charybdis), a rock and a hard place, the horns of a dilemma).
 
