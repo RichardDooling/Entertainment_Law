@@ -241,3 +241,5 @@ Sometimes called "life story rights," these rights are usually a simple agreemen
 * [Reverse defamation, the Newsweek Bitcoin story, and Satoshi Nakamoto](
 http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/03/18/reverse-defamation-the-newsweek-bitcoin-story-and-satoshi-nakamoto/)
 
+[survival]: http://www.amazon.com/Independent-Film-Producers-Survival-Guide/dp/0825637236/ref=sr_1_1?ie=UTF8&qid=1375835406&sr=8-1&keywords=independent+producers+survival+guide "Independent Producers Survival Guide"
+
