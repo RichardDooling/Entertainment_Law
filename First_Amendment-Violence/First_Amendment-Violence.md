@@ -42,3 +42,5 @@ Do we need a [*Miller* test][miller_test] for violence?  If regulation is requir
 
 *   [*The People v. Larry Flynt*](http://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt).
 
+[miller_test]: http://en.wikipedia.org/wiki/Miller_test "The *Miller* Obscenity Test"
+[esrb]:	http://www.esrb.org/index-js.jsp "ESRB"
