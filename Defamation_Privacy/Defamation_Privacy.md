@@ -11,7 +11,7 @@ version: 1.0
 
 ###### by Richard Dooling
 
-<span style="color: red">!!! Page Under Construction !!!</span>
+**!!! Page Under Construction !!!**
 
 ## Defamation - Privacy 
 
@@ -242,4 +242,6 @@ Sometimes called "life story rights," these rights are usually a simple agreemen
 http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/03/18/reverse-defamation-the-newsweek-bitcoin-story-and-satoshi-nakamoto/)
 
 [survival]: http://www.amazon.com/Independent-Film-Producers-Survival-Guide/dp/0825637236/ref=sr_1_1?ie=UTF8&qid=1375835406&sr=8-1&keywords=independent+producers+survival+guide "Independent Producers Survival Guide"
-
+[courtney]:			http://www.abajournal.com/news/article/courtney_love_takes_stand_in_former_attorneys_libel_lawsuit_over_critical	"Courtney Love Defames Via Twitter"
+[twibel]:			http://www.hollywoodreporter.com/thr-esq/courtney-love-wins-twitter-defamation-673972	"Courtney Love Wins 'Twibel' Case"
+[defamation]:			http://www.nolo.com/legal-encyclopedia/defamation-law-made-simple-29718.html	"What is Defamation? Answer at Nolo.com."
