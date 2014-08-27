@@ -42,8 +42,8 @@ Do we need a [*Miller* test][miller_test] for violence?  If regulation is requir
 
 *  [*The People v. Larry Flynt*](http://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt).
 
-[miller_test]: http://en.wikipedia.org/wiki/Miller_test "The *Miller* Obscenity Test"
-[esrb]:	http://www.esrb.org/index-js.jsp "ESRB"
+[miller_test]: http://en.wikipedia.org/wiki/Miller_test "The Miller Obscenity Test"
+[esrb]: http://www.esrb.org/index-js.jsp "ESRB"
 [stevens]: http://en.wikipedia.org/wiki/United_States_v._Stevens "U.S. v. Stevens"
 [nbk]: https://en.wikipedia.org/wiki/List_of_alleged_Natural_Born_Killers_copycat_crimes "Copycat Crimes & Natural Born Killers"
-[mpaa]:	http://www.mpaa.org/ "MPAA"
+[mpaa]: http://www.mpaa.org/ "MPAA"
