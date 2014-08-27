@@ -13,7 +13,7 @@ version: 1.0
 
 ## First Amendment - Violence
 
-<p style="color:red">!!! Page Under Construction !!!</p>
+** !!! Page Under Construction !!! **
 
 If speech is just too “sexy,” it can be outlawed as obscene in the United States. Can it also be outlawed if it is just too violent? What if your rap song arguably "causes" somebody to shoot a cop? Your lurid magazine article about erotic asphyxiation arguably “causes” somebody to accidentally hang themselves? Subliminal lyrics in your heavy metal song arguably "cause" somebody to commit suicide?  Or your violent video game arguably “causes” or “inspires” a school shooting? 
 
@@ -21,7 +21,7 @@ Shall we allow the family members of these victims to sue you in tort for indire
 
 What if somebody hires you to make a documentary about the production and sale of so-called [“crush videos”][stevens] wherein animals are brutally tortured and killed? Do these cruel and sometimes deadly side effects of violent "speech" suggest that extreme violence should be banned or regulated the way obscenity is banned and regulated?
 
-Do we need a [*Miller* test][miller_test] for violence?  If regulation is required, who should regulate? The government? Industry groups, like the [Motion Picture Association of America (MPAA)][mpaa] or the [Entertainment Software Ratings Board (ESRB)][esrb]? 
+Do we need a [*Miller* test][miller_test] for violence?  If regulation is required, who should regulate? The government? Industry groups, like the [Motion Picture Association of America (MPAA)][mpaa] or the [Entertainment Software Ratings Board][esrb](ESRB)? 
 
 ### Headline cases
 
@@ -46,3 +46,4 @@ Do we need a [*Miller* test][miller_test] for violence?  If regulation is requir
 [esrb]:	http://www.esrb.org/index-js.jsp "ESRB"
 [stevens]: http://en.wikipedia.org/wiki/United_States_v._Stevens "U.S. v. Stevens"
 [nbk]: https://en.wikipedia.org/wiki/List_of_alleged_Natural_Born_Killers_copycat_crimes "Copycat Crimes & Natural Born Killers"
+[mpaa]:				http://www.mpaa.org/	"MPAA"
