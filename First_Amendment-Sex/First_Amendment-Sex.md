@@ -3,8 +3,8 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: First Amendment - Sex
-date: 27 August 2014
-version: 1.1
+date: 30 August 2014
+version: 1.2
 ---
 
 # Lawyers For The Talent
@@ -43,7 +43,7 @@ If the First Amendment doesn't mean what it says, then what does it mean? Some F
 
 Sounds like a question the professor might pose to kill twenty minutes of class time when he's unprepared to teach the next case, but the question lurks in the background of many a Supreme Court opinion. If not all speech is protected, courts often consider what the Founders meant by the simple statement: Congress shall make no law abridging the freedom of speech.
 
-Why was the First Amendment added to the Constitution in 1789? And if Congress meant what it said about passing no laws abridging the freedom of speech, why in 1798, less than ten years later, did Congress pass the [Alien and Sedition Acts](http://en.wikipedia.org/wiki/Alien_and_Sedition_Acts) which made it a crime for anyone to publish "false, scandalous, and malicious writing against the government or its officials."
+Why was the First Amendment added to the Constitution in 1791? And if Congress meant what it said about passing no laws abridging the freedom of speech, why seven years later (in 1798) did Congress pass the [Alien and Sedition Acts](http://en.wikipedia.org/wiki/Alien_and_Sedition_Acts) which made it a crime for anyone to publish "false, scandalous, and malicious writing against the government or its officials?"
 
 [Eugene Volokh](http://en.wikipedia.org/wiki/Eugene_Volokh) argues that the problematic words are not "make no law," but rather "the freedom of speech." In speculating on what the Founders had in mind, Volokh has this to say.
 
@@ -85,7 +85,7 @@ Oh, what might have been! In 1915, when the motion picture business was still in
 ###### U.S. Supreme Court (1915)
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=7270078849202844362)
-* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=236+U.S.+23\&appflag=67.12)
+* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=35+S.Ct.+387&appflag=67.12)
 * [case at Wikipedia.](http://en.wikipedia.org/wiki/Mutual_Film_Corporation_v._Industrial_Commission_of_Ohio) 
 
 The state government of Ohio had passed a statute in 1913 forming a board of censors which had the duty of reviewing and approving all films intended to be exhibited in the state. The board charged a fee for the approval service. The board could order the arrest of anyone showing an unapproved film in the state.
