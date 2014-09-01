@@ -1,3 +1,12 @@
+---
+author: Richard Dooling
+title: Entertainment Law
+subtitle: Lawyers For The Talent
+chapter: readme.md
+date: 01-Sep-2014
+version: 1.1
+---
+
 # Lawyers For The Talent
 
 ###### By Richard Dooling
