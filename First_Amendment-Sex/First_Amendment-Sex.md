@@ -249,7 +249,8 @@ In declaring that movies are indeed protected speech under the First Amendment, 
 ### *Chaplinsky v. New Hampshire*
 
 ###### U.S. Supreme Court (1942)
- 
+
+* [case at Google Scholar](http://scholar.google.com/scholar_case?case=124249671461500618&scilh=0)
 * [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=315+U.S.+568&appflag=67.12).
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Chaplinsky_v._New_Hampshire).
 
