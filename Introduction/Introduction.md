@@ -1,6 +1,9 @@
 ---
 Author: Richard Dooling
-Title: Lawyers For The Talent
+Title: Entertainment Law
+Subtitle: Lawyers For The Talent
+Chapter: Introduction
+Date: 01-Sep-2014 
 ---
 
 # Lawyers For The Talent
