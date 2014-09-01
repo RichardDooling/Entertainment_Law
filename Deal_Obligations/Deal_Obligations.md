@@ -47,11 +47,16 @@ Also please see agency clauses pdf under "Course Documents" on Blackboard.
 ### Recommended ###
 
 * [Ben Stein Sues Firm For Backing Out Of Contract][stein]. Stein, the prolific actor, author, spokesperson, pundit and one-time star of Comedy Central's game show Win Ben Stein's Money, has sued a Japanese company and its New York ad agency for $300,000 for allegedly backing out of a deal to hire him to act in commercials when they found out about his beliefs on global warming.
-
 * [Penguin Group files lawsuits against prominent writers who fail to deliver books][penguin]. A New York publisher this week filed lawsuits against several prominent writers who failed to deliver books for which they received hefty contractual advances, records show. The Penguin Group's New York State Supreme Court breach of contract/unjust enrichment complaints include copies of book contracts signed by the respective defendants.
 
 [goldwater]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=532+F.Supp.+619&appflag=67.12 "Harcourt v. Goldwater"
 [doubleday]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=763+F.2d+495&appflag=67.12 "Doubleday v. Tony Curtis"
 [zilg]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=717+F.2d+671&appflag=67.12 "Zilg v. Prentice Hall"
 [buchwald]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1990+WL+357611&appflag=67.12 "Buchwald v. Paramount Pictures"
-
+[goudal]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=5+p2d+432&appflag=67.12 "Goudal v. Cecil B. Demille"
+[loews]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=185+F.2d+641&appflag=67.12 "Loew's Inc v. Cole"
+[morals]: http://en.wikipedia.org/wiki/Morals_clause "Morals clauses"
+[stein]: http://www.hollywoodreporter.com/thr-esq/ben-stein-global-warming-lawsuit-280816 "Ben Stein Contract Lawsuit"
+[net_profits]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1992+WL+1462910&appflag=67.12	"Net Profits in Buchwald"
+[penguin]: http://www.thesmokinggun.com/buster/penguin-group/book-publisher-sues-over-advances-657390 "Penguin Lawsuit For Undelivered Mss"
+[tiger_morals]:	http://www.abajournal.com/magazine/article/hold_that_tiger/ "Tiger Woods and Morals Clauses"
