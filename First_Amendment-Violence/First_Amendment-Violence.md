@@ -573,7 +573,7 @@ was a creature of circumstance.
 Cardozo's opinion in *Palsgraf,* while cited as the cornerstone of the
 American doctrine of a limited duty of care, has been criticized for its
 conclusory reasoning regarding whether Palsgraf's harm really was
-sufficiently unforeseeable &hellip;  Such conclusory reasoning
+sufficiently unforeseeable &hellip; Such conclusory reasoning
 has been endemic in the jurisprudence of determining duty by assessing
 foreseeability. Courts often end up merely listing factual reasons why a
 particular harm, although having materialized, would have appeared
