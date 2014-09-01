@@ -50,3 +50,8 @@ Also please see agency clauses pdf under "Course Documents" on Blackboard.
 
 * [Penguin Group files lawsuits against prominent writers who fail to deliver books][penguin]. A New York publisher this week filed lawsuits against several prominent writers who failed to deliver books for which they received hefty contractual advances, records show. The Penguin Group's New York State Supreme Court breach of contract/unjust enrichment complaints include copies of book contracts signed by the respective defendants.
 
+[goldwater]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=532+F.Supp.+619&appflag=67.12 "Harcourt v. Goldwater"
+[doubleday]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=763+F.2d+495&appflag=67.12 "Doubleday v. Tony Curtis"
+[zilg]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=717+F.2d+671&appflag=67.12 "Zilg v. Prentice Hall"
+[buchwald]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1990+WL+357611&appflag=67.12 "Buchwald v. Paramount Pictures"
+
