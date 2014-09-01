@@ -3,8 +3,8 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: Celebrity, Publicity Rights
-date: 26 August 2014
-version: 1.0
+date: 30 August 2014
+version: 1.1
 ---
 
 # Lawyers For The Talent
@@ -65,8 +65,11 @@ Eventually, this "likeness" branch of the "right of privacy" was refined. The no
 #### Totally Optional Readings & Viewings
 
 * [Katherine Heigl Sues Duane Reed Drug Stores Over Photo](http://www.washingtonpost.com/entertainment/celebrities/actress-heigl-sues-pharmacy-company-over-photo/2014/04/09/ffa1b0aa-c03a-11e3-9ee7-02c1e10a03f0_story.html)
+* [Katherine Heigl Ends Lawsuit Over Duane Reade Tweet (Exclusive)](http://www.hollywoodreporter.com/thr-esq/katherine-heigl-ends-lawsuit-duane-728552)
 * [Lindsay Lohan is suing the makers of Grand Theft Auto V](http://www.bbc.co.uk/newsbeat/28129505)
 * [James Franco Sued for Violating Film Rights to Charles Bukowski Novel](http://www.hollywoodreporter.com/thr-esq/james-franco-sued-violating-film-699013)
 
+### Changelog
 
+Version 1.1 - 30-Aug-2014 - added THRESQ update on Katherine Heigl publicity rights lawsuit.
 

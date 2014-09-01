@@ -58,6 +58,16 @@ Consider investing a little time and learning how to "clone" the entire reposito
 
 No obligation here. Only for the curious, but if you get interested in how GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS](https://github.com/RichardDooling/Entertainment_Law/blob/master/CONTRIBUTIONS.md) page.
 
+#### Typos, Glitches
+
+If you spot a typo or formatting glitch please [submit an issue.](https://github.com/RichardDooling/Entertainment_Law/issues). 
+
+On the [Entertainment Law repository page](https://github.com/RichardDooling/Entertainment_Law), on the right, click on the !Issues icon and describe the problem. If need be, copy in text illustrating the problem.
+
+Issues are easy to submit, and you'll be making the text better for those who come after you.
+
+Thank you,
+
 Richard Dooling
 
 University of Nebraska College of Law

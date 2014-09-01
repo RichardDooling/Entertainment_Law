@@ -321,7 +321,7 @@ Which raised the question: What about virtual child pornography, in which no act
 
 ###### U.S. Supreme Court (2002)
 
-* [case at Google Scholar](http://scholar.google.com/scholar_case?case=5628256980652867975)
+* [case at Google Scholar](http://scholar.google.com/scholar_case?case=4016009721484982910)
 * [how cited at Google Scholar](http://scholar.google.com/scholar_case?about=4016009721484982910)
 * [case at Westlaw][ashcroft].
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Ashcroft_v._Free_Speech_Coalition)
@@ -1021,7 +1021,7 @@ Please read these two cases in their entirety. Keep your eye on the ball: Is Geo
 ### *FCC v. Fox Television Stations* (Fox II)
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=9187101700166207966) 
 * [case at Westlaw][fox]
-* [case at Wikipedia](http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012)).
+* [case at Wikipedia](http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012).
 
 #### Totally Optional Reading
 
@@ -1048,6 +1048,7 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 ### Changelog
 
 * Version 1.1 - 27-Aug-2014 - fixed broken ref links
+* Version 1.2 - 30-Aug-2014 - fixed paragraph headers and Mutual Film broken link.
 
 <!--Cases -->
 
@@ -1069,13 +1070,16 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 <!-- BEGIN COMMENT -->
 
 <!-- 
-And The easiest way to see them in action is to look at some cases where the government has sued artists and tried to stop them from "speaking." In keeping with our intellectual property/oil well analogy, it's as if the government says: It's against the law for you to drill for certain kinds of speech, or make certain kinds of intellectual property. 
+
+BONEYARD SCRAPS
+
+The easiest way to see them in action is to look at some cases where the government has sued artists and tried to stop them from "speaking." In keeping with our intellectual property/oil well analogy, it's as if the government says: It's against the law for you to drill for certain kinds of speech, or make certain kinds of intellectual property. 
 
 Most artists hope to earn their living in the intellectual property business, so their lawyers must know the rules. Here is a [handy list of unprotected speech categories](http://en.wikipedia.org/wiki/United_States_free_speech_exceptions).
 
 ### A Tendency To Deprave And Corrupt
 
-If the First Amendment plainly does not mean what it says, namely, that Congress shall make no law abridging speech, then it invites courts to consider what it SHOULD mean, or the plain language of the First Amendment Is it because freedom to speak is a
+If the First Amendment plainly does not mean what it says, namely, that Congress shall make no law abridging speech, then it invites courts to consider what it SHOULD mean, or COULD mean, or what the Founding Fathers thought it meant.
 
 Seditious Libel
 
@@ -1084,9 +1088,8 @@ http://historyempire.com/zenger-trial/
 
 http://www.ushistory.org/us/7c.asp
 
-But when courts try to decide whether speech is protected or unprotected they naturally wonder what if the speech in question 
+But when courts try to decide whether speech is protected or unprotected they naturally wonder: Is this the sort of speech the Founding Fathers had in mind when they wrote the First Amendment?
 
-Is this the sort of speech the Founding Fathers had in mind when they wrote the First Amendment?
 What is the purpose of Was this the sort of speech the Founding Fathers would for the next case. A professor might Sounds like a question the professor would pose
 
 The Supreme Court now holds that almost every provision of the Bill of Rights applies to both the federal government and the states.  http://en.wikipedia.org/wiki/Gitlow_v._New_York
@@ -1096,6 +1099,20 @@ And how prosecutors then Eventually, the Court found its way to the famous *Mill
 And The easiest way to see them in action is to look at some cases where the government has sued artists and tried to stop them from "speaking."
 
 *   [*New York v.  Ferber*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=458us747&appflag=67.12), 458 US 747 (1982). 
+
+The government expresses its misgivings about vulgar speech in the form of periodic enforcement actions filed by the Federal Communications Commission (FCC).  their application to various  Obscenity litigation occupied the Supreme Court's attention in the latter half of the last century, and still lingers in the form of the FCC's on-and-off obsession with "excretions" 
+
+The *Pacifica* footnotes on "excretions" are laughable these days when every other high-def ad on that huge TV screen is selling excretion-related product: Menstruation, incontence, BPH and frequency of urination, "regularity," and of course erectile dysfunction. 
+
+The word "excretory" occurs nine times in the *Pacifica* opinion, and each it's the FCC that appears obsessed. In each citation of FCC materials, the Commission is careful to note that it's descriptions of "sexual *and* excretory functions" that are problematic. Not since [Stanley Kubrick's *Dr. Strangelove,*](http://en.wikipedia.org/wiki/Dr._Strangelove) where United States Air Force Brigadier General Jack D. Ripper was obsessed with the safety of "our nation's precious bodily fluids" have government officials put their own peculiar obsessions on display with such OCD flair. The FCC seems find the words "shit" and "piss" to be particularly disturbing and at various times has taken the position that "fuck" ALWAYS connotes sex, even if it's used by a rapper saying, "Fuck the police!" Justice Harlan and a wiser Court disposed of these matters once and for all in *Cohen v. California* back in 1972
+
+In the latter half of the last century, the United States Supreme Court wrestled with obscenity statutes and definitions. 
+  . But the obscenity problem has been largely "solved" by the Internet. These days those who want obscenity can easily find it online, and only once in a great while do others accidentally happen upon porn on the Internet. The porn industry is huge. Its paradox from day one. It needs to be everywhere and easily accessible, but also invisible, so as not to antagonize religious conservatives or market is huge, but the industry also depends for its survival 
+
+the rest of the citizens of the Internet ever society d we know when we see it. Those who want to find it can easily do so, and the rest almost never accidentally see the stuff, so nobody cares. Hysterical If you want it, you can find it. On broadcast television here in 2014 it is a crime to say certain words. No major changes since *Pacifica*, just turf battles about how many times you can say fuck, or whether the person saying fuck is in a Steven Spielberg movie, where it's probably okay to say fuck, whereas if you were 
+ Its content is regulated by the FCC if it is on broadcast television
+Can it also be outlawed if it is just too violent?
+
 -->
 
 <!-- END COMMENT -->
