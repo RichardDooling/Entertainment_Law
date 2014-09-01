@@ -3,8 +3,8 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: First Amendment - Sex
-date: 30 August 2014
-version: 1.2
+date: 01-Sep-2014
+version: 1.3
 ---
 
 # Lawyers For The Talent
@@ -72,7 +72,7 @@ Justice Louis Brandeis offered a parallel and sometimes competing principle of F
 
 > Those who won our independence . . . believed that freedom to think as you will and to speak as you think are means indispensable to the discovery and spread of political truth; that without free speech and assembly discussion would be futile . . .  --Whitney v. California (1927)
 
-See how Justice Brandeis suggests that the First Amendment does not exist to protect all speech; it exists to protect speech that leads to the discovery and spread of "political truth." Brandeis wants to protect speech, not because it's an absolute value or good for the soul, but because it's essential for democracy and civic republicanism. Quite a different concern than Justice Holmes' marketplace where it's every idea for itself and survival of the fittest. In fact, Holmes would probably say that there is no such thing as "political truth." Truth is whatever the marketplace says it is. If cat videos beat out President Obama's State of the Union address, so be it.
+See how Justice Brandeis suggests that the First Amendment does not exist to protect *all* speech; it exists to protect speech that leads to the discovery and spread of "political truth." Brandeis wants to protect speech, not because it's an absolute value or good for the soul, but because it's essential for democracy and civic republicanism. Quite a different concern than Justice Holmes' marketplace where it's every idea for itself and survival of the fittest. In fact, Holmes would probably say that there is no such thing as "political truth." Truth is whatever the marketplace says it is. If cat videos beat out President Obama's State of the Union address, so be it.
 
 But a film producer or a director or an author needs an entertainment lawyer, not a con law scholar. The First Amendment is an absorbing system of case law and legal theories, but we have to get on with the business of ENTERTAINMENT.
 
@@ -1050,6 +1050,7 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 
 * Version 1.1 - 27-Aug-2014 - fixed broken ref links
 * Version 1.2 - 30-Aug-2014 - fixed paragraph headers and Mutual Film broken link.
+* Version 1.3 - 01-Sep-2014 - fixed broken links
 
 <!--Cases -->
 
