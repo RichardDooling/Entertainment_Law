@@ -1566,7 +1566,9 @@ the court held a newspaper and other defendants liable for publishing
 the name of a victim of a sexual assault while her attacker was still at
 large. The causal connection between the published information and the
 attacker's continued threats to the victim was again straightforward.
-### Headline cases
+
+#### Note on *Rice v. Paladin* 
+
 
 *   [*Rice v. Paladin Enterprises*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=128f3d233&appflag=67.12), 128 F.3d 233 (4th Cir. 1997). *Hit Man: A Technical Manual For Independent Contractors* at [Wikipedia](http://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors).  
 *   [*Miramax Films v.  MPAA*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=560nys2d730&appflag=67.12), 560 N.Y.S.2d 730 (1990). Trailer for [*This Film Is Not Yet Rated*](http://www.youtube.com/watch?v=UTL3XMDwY0c)
@@ -1580,7 +1582,8 @@ attacker's continued threats to the victim was again straightforward.
 
 ### Recommended
 
-*  [*The People v. Larry Flynt*](http://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt).
+* [*The People v. Larry Flynt*](http://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt).
+* [An eighth-grade teacher who writes fiction under a nom de plume is ordered to undergo an "emergency medical evaluation" for his novel about a school shooting"](http://www.theatlantic.com/national/archive/2014/09/in-cambridge-md-a-soviet-style-punishment-for-a-novelist/379431/)
 
 [miller_test]: http://en.wikipedia.org/wiki/Miller_test "The Miller Obscenity Test"
 [esrb]: http://www.esrb.org/index-js.jsp "ESRB"

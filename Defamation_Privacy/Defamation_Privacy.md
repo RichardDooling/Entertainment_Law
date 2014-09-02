@@ -245,3 +245,4 @@ http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/03/18/reverse-defam
 [courtney]: http://www.abajournal.com/news/article/courtney_love_takes_stand_in_former_attorneys_libel_lawsuit_over_critical "Courtney Love Sued For Defaming Via Twitter"
 [twibel]: http://www.hollywoodreporter.com/thr-esq/courtney-love-wins-twitter-defamation-673972 "Courtney Love Wins Twibel Case"
 [defamation]: http://www.nolo.com/legal-encyclopedia/defamation-law-made-simple-29718.html "What is Defamation? Answer at Nolo.com."
+[brandeis_article]: http://en.wikipedia.org/wiki/The_Right_to_Privacy_(article) "The Right of Privacy"
