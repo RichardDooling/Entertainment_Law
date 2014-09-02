@@ -181,12 +181,11 @@ Lawyer and programmer, [Ken Liu](http://kenliu.name/), has a great explanation a
 
 > Do I have to register to get copyright protection?
 
-> You do not. There was a time when registration made a difference in whether a work was protected by US copyright, but current law is explicit that “registration is not a condition of copyright protection.” [17 USC §408(a)](http://www.copyright.gov/title17/92chap4.html#408). Copyright attaches as soon as “original works of authorship” are “fixed in any tangible medium of expression.” [17 USC §102(a)](http://www.copyright.gov/title17/92chap1.html#102). In other words, your words are copyrighted as soon as you write them down, whether they’re in a notebook, a Microsoft Word file, a blog post, a forum posting, or even a Facebook comment. Registration has nothing to do with it.
+> You do not. There was a time when registration made a difference in whether a work was protected by US copyright, but current law is explicit that "registration is not a condition of copyright protection." [17 USC §408(a)](http://www.copyright.gov/title17/92chap4.html#408). Copyright attaches as soon as “original works of authorship” are "fixed in any tangible medium of expression." [17 USC §102(a)](http://www.copyright.gov/title17/92chap1.html#102). In other words, your words are copyrighted as soon as you write them down, whether they’re in a notebook, a Microsoft Word file, a blog post, a forum posting, or even a Facebook comment. Registration has nothing to do with it.
 
 Many additional protections come with registration, but probably most important are the possibility of obtaining statutory damages and attorneys fees instead of having to prove actual damages:
 
-> Normally, when someone infringes your copyright, you’re entitled only to “actual damages” and “profits of the infringer that are attributable to the infringement” [17 USC §504(b)](
-http://www.copyright.gov/title17/92chap5.html#504). This can be a burden that makes pursuing a legal remedy not worthwhile: How do you prove the profits that some random web site made from publishing your story without permission? And how do you prove what sales you might have lost because of the web site’s unauthorized publication of your story? Since the US operates under the “American Rule” where each party pays their own lawyers, you might not even be able to afford to pay a lawyer to stop the infringing activity.
+> Normally, when someone infringes your copyright, you’re entitled only to "actual damages" and "profits of the infringer that are attributable to the infringement" [17 USC §504(b)](http://www.copyright.gov/title17/92chap5.html#504). This can be a burden that makes pursuing a legal remedy not worthwhile: How do you prove the profits that some random web site made from publishing your story without permission? And how do you prove what sales you might have lost because of the web site’s unauthorized publication of your story? Since the US operates under the “American Rule” where each party pays their own lawyers, you might not even be able to afford to pay a lawyer to stop the infringing activity.
 
 > But with timely registration, you get the option of electing statutory damages instead. [17 USC §504(c)](http://www.copyright.gov/title17/92chap5.html#504). This can be between $750 to $30,000 per work (and up to $150,000 per work if the infringement was willful). Plus, you may get attorney’s fees and costs at the court’s discretion, making it more likely that you can retain a lawyer on a contingency fee basis. [17 USC §505](http://www.copyright.gov/title17/92chap5.html#505). With these benefits, it may well make sense to pursue cases that otherwise you would not.
 
@@ -217,5 +216,7 @@ http://www.copyright.gov/title17/92chap5.html#504). This can be a burden that ma
 
 [4ever-1day]: http://www.youtube.com/watch?v=tk862BbjWx4 "Forever Less One Day: Copyright"
 [101]: http://www.copyright.gov/title17/92chap1.html#101 "Section 101: Defintions"
-[102]: http://www.copyright.gov/title17/92chap1.html#102 "Section 102: Subject Matter"	
+[102]: http://www.copyright.gov/title17/92chap1.html#102 "Section 102: Subject Matter"
 [harper]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=105+S.Ct.+2218&appflag=67.12 "Harper & Row v. Nation Enterprises"
+[beastie]: http://artsbeat.blogs.nytimes.com/2013/11/25/the-beastie-boys-fight-online-video-parody-of-girls/?_r=0 "Beastie Boys Mad About 'Girls' Parody"
+
