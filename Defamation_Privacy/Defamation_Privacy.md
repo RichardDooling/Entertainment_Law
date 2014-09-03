@@ -28,7 +28,7 @@ by name? If your client makes a documentary and wears hidden microphones and
 cameras to film a quack doctor who is selling banned substances or
 unsafe herbal remedies does the client risk an invasion of privacy claim?
 
-The catch-all "life story rights" is not a legal term, just a handy grab bag term for the rights involved. The artist (filmmaker, storyteller, photographer, fine artist, even songwriters) wants to tell a person's "life story" or use their name, image or likeness without getting sued for it. Therefore artist and living subject execute a simple agreement, wherein the subject promises not to sue for defamation, invasion of privacy, use of name, image, or likeness, and a number of other claims. A nice description can be found in a passage called [“Fact-Based Stories”](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. (2009), by Gunnar Erickson, Mark Halloran & Harris Tulchin.  
+The catch-all "life story rights" is not a legal term, just a handy grab bag term for the rights involved. The artist (filmmaker, storyteller, photographer, fine artist, even songwriters) wants to tell a person's "life story" or use their name, image or likeness without getting sued for it. Therefore, artist and living subject execute a simple agreement, wherein the subject promises not to sue for defamation, invasion of privacy, use of name, image, or likeness, and a number of other claims. A nice description can be found in a passage called [“Fact-Based Stories”](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. (2009), by Gunnar Erickson, Mark Halloran & Harris Tulchin.  
 
 In the international context, these rights are all jurisdiction-specific and depend on careful, specific drafting of contract provisions.  
 
@@ -45,13 +45,14 @@ Stories, songs, movies, even photos about real people, may defame them, especial
 
 ### Headline Cases
 
-*   [*New York Times Co. v.  Sullivan*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=376+us+254&appflag=67.12), 376 U.S. 254 (1964). [Wikipedia](http://en.wikipedia.org/wiki/New_York_Times_Co._v._Sullivan)
+*   [*New York Times Co. v. Sullivan*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=376+us+254&appflag=67.12), 376 U.S. 254 (1964). [Wikipedia](http://en.wikipedia.org/wiki/New_York_Times_Co._v._Sullivan)
 *   [NYTimes Editorial: The Uninhibited Press 50 Years Later](http://www.nytimes.com/2014/03/09/opinion/sunday/the-uninhibited-press-50-years-later.html).
 
 ### Defamation
 
-Two forms: Libel and slander. 
-* Libel (mneumonic sounds like "label") is defamation in print; it's written or recorded, as in television or movies. 
+Two forms: Libel and slander.
+
+* Libel (mneumonic sounds like "label") is defamation in print; it's written or recorded, as in television or movies.   
 * Slander is defamation by way of the spoken word.
 
 The plaintiff suing for defamation must be able to prove:
@@ -74,14 +75,14 @@ The communication:
 
 #### Defamation Per Se
 
-All states except Arizona, Arkansas, Missouri, and Tennessee recognize that some categories of false statements are so innately harmful that they are considered to be defamatory per se. In the common law tradition, damages for such false statements are presumed and do not have to be proven.
+All states, except Arizona, Arkansas, Missouri, and Tennessee, recognize that some categories of false statements are so innately harmful that they are considered to be defamatory per se. In the common law tradition, damages for such false statements are presumed and do not have to be proven.
 
 Statements are defamatory per se where they falsely impute to the plaintiff one or more of the following:
 
 1. Allegations or imputations "injurious to another in their trade, business, or profession"
-2. Allegations or imputations "of loathsome disease" (historically leprosy and sexually transmitted disease, now also including mental illness)
+2. Allegations or imputations "of loathsome disease" (historically leprosy and sexually transmitted disease, now also includes mental illness)
 3. Allegations or imputations of "unchastity" (usually only in unmarried people and sometimes only in women)
-4. Allegations or imputations of criminal activity (sometimes only crimes of moral turpitude)
+4. Allegations or imputations of criminal activity (sometimes only crimes of [moral turpitude](http://en.wikipedia.org/wiki/Moral_turpitude))
 
 [Wikipedia: Defamation Per Se](http://en.wikipedia.org/wiki/United_States_defamation_law#Defamation_per_se)
 
@@ -111,8 +112,7 @@ The rule that somebody alleging defamation should have to prove untruth, rather 
 
 In England, the development was specifically rejected in [*Derbyshire County Council v. Times Newspapers Ltd*](http://www.independent.co.uk/news/uk/law-report-local-authorities-cannot-institute-libel-actions-derbyshire-county-council-v-times-newspapers-ltd-and-others--house-of-lords-lord-keith-lord-griffiths-lord-goff-of-chieveley-lord-brownewilkinson-and-lord-woolf-18-february-1993-1473954.html) (1993), and it was also rejected in Canada in [*Hill v. Church of Scientology of Toronto*](http://en.wikipedia.org/wiki/Hill_v._Church_of_Scientology_of_Toronto) (1995), and more recently in [*Grant v. Torstar Corp.*](http://en.wikipedia.org/wiki/Grant_v._Torstar_Corp.) (2009). 
 
-In Australia, the High Court held in [*Theophanous v. The Herald & Weekly Times Ltd*](http://en.wikipedia.org/wiki/Theophanous_v_Herald_%26_Weekly_Times_Ltd) (1994)
-the Australian constitution implied a freedom of political communication and a freedom to publish material discussing government and political matters, but *Theophanous* was overruled by the High Court of Australia in [*Lange v Australian Broadcasting Corporation*](http://en.wikipedia.org/wiki/Lange_v_Australian_Broadcasting_Corporation) (1997).
+In Australia, the High Court held in [*Theophanous v. The Herald & Weekly Times Ltd*](http://en.wikipedia.org/wiki/Theophanous_v_Herald_%26_Weekly_Times_Ltd) (1994) that the Australian constitution implied a freedom of political communication and a freedom to publish material discussing government and political matters, but *Theophanous* was overruled by the High Court of Australia in [*Lange v Australian Broadcasting Corporation*](http://en.wikipedia.org/wiki/Lange_v_Australian_Broadcasting_Corporation) (1997).
 
 #### Reference/Footnote cases
 
@@ -153,8 +153,9 @@ Privacy rights come in four different flavors, best described by Justice Louis B
 3. False Light - Presentation of people in a false light in the public eye.
 4. Celebrity Publicity Rights - Appropriation of one's name, image, or likeness.
 
-* [Wikipedia: Privacy Laws of the United States](http://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States)
-* [Wikipedia: Privacy Laws By Country](http://en.wikipedia.org/wiki/Privacy_law#Privacy_laws_by_country)
+
+[Wikipedia: Privacy Laws of the United States](http://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States)  
+[Wikipedia: Privacy Laws By Country](http://en.wikipedia.org/wiki/Privacy_law#Privacy_laws_by_country)
 
 #### 1. Intrusion Upon Seclusion
 
@@ -166,7 +167,7 @@ Privacy rights come in four different flavors, best described by Justice Louis B
 
 ###### aka Public disclosure of true but embarrassing private facts.
 
-> One who gives publicity to a matter concerning the private life of another is subject to liability to the other for invasion of his privacy, if the matter publicized is of a kind that
+> One who gives publicity to a matter concerning the private life of another is subject to liability to the other for invasion of his privacy, if the matter publicized is of a kind that:
 
 > (a) would be highly offensive to a reasonable person, and
 > (b) is not of legitimate concern to the public.
@@ -175,7 +176,7 @@ Privacy rights come in four different flavors, best described by Justice Louis B
 
 #### 3. False Light
 
-> One who gives publicity to a matter concerning another that places the other before the public in a false light is subject to liability to the other for invasion of his privacy, if
+> One who gives publicity to a matter concerning another that places the other before the public in a false light is subject to liability to the other for invasion of his privacy, if:
 
 > (a) the false light in which the other was placed would be highly offensive to a reasonable person, and
 > (b) the actor had knowledge of or acted in reckless disregard as to the falsity of the publicized matter and the false light in which the other would be placed.
