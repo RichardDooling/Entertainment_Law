@@ -1022,7 +1022,7 @@ Please read these two cases in their entirety. Keep your eye on the ball: Is Geo
 ### *FCC v. Fox Television Stations* (Fox II)
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=9187101700166207966) 
 * [case at Westlaw][fox]
-* [case at Wikipedia](http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012).
+* [case at Wikipedia](http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012)).
 
 #### Totally Optional Reading
 
@@ -1051,6 +1051,7 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 * Version 1.1 - 27-Aug-2014 - fixed broken ref links
 * Version 1.2 - 30-Aug-2014 - fixed paragraph headers and Mutual Film broken link.
 * Version 1.3 - 01-Sep-2014 - fixed broken links
+* Version 1.4 - 03-Sep-2014 - fixed broken link Fox II
 
 <!--Cases -->
 
