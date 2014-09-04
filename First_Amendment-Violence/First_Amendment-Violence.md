@@ -1567,23 +1567,30 @@ the name of a victim of a sexual assault while her attacker was still at
 large. The causal connection between the published information and the
 attacker's continued threats to the victim was again straightforward.
 
-#### Note on *Rice v. Paladin* 
+#### Note on *Rice v. Paladin,* 
 
+###### Fourth Circuit (1997)
 
-*   [*Rice v. Paladin Enterprises*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=128f3d233&appflag=67.12), 128 F.3d 233 (4th Cir. 1997). *Hit Man: A Technical Manual For Independent Contractors* at [Wikipedia](http://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors).  
-*   [*Miramax Films v.  MPAA*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=560nys2d730&appflag=67.12), 560 N.Y.S.2d 730 (1990). Trailer for [*This Film Is Not Yet Rated*](http://www.youtube.com/watch?v=UTL3XMDwY0c)
+* [Reason Magazine: The Day They Came To Sue The Book](http://reason.com/archives/1999/08/01/the-day-they-came-to-sue-the-b)
+* [Case at Google Scholar](http://scholar.google.com/scholar_case?case=11246858167733420309&scilh=0)
+* [Case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=128f3d233&appflag=67.12).
+* [Case at Wikipedia](http://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors). 
+* [*Hit Man: A Technical Manual For Independent Contractors* - complete text][hitman]
 
 ### Referenced Cases
 
-*   [*U.S. v.  Stevens*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=130+S.Ct.+1577\&appflag=67.12), 130 S.Ct. 1577 (2010).  [Wikipedia](http://en.wikipedia.org/wiki/United_States_v._Stevens).  
-*   [*Weirum v.  RKO*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=539+P.2d+36&appflag=67.12), 539 P.2d 36 (1975).  [Wikipedia](http://en.wikipedia.org/wiki/RKO_General#Notable_Legal_Case).  
-*   [*Byers v.  Edmundson*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=826+So.2d+551&appflag=67.12), 826 So.2d 551 (1st Cir. 2002). [Wikipedia list of copycat crimes committed by individuals allegedly influenced by the 1994 film *Natural Born Killers*](https://en.wikipedia.org/wiki/List_of_alleged_Natural_Born_Killers_copycat_crimes).  
-*   [*Davidson v. Time Warner,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1997+WL+405907&appflag=67.12) 1997 WL 405907 (S.D.Tx 1997). [Case note on *Davidson v.  Time-Warner*](http://tinyurl.com/ml5vvz8).
+* [*U.S. v.  Stevens*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=130+S.Ct.+1577\&appflag=67.12), 130 S.Ct. 1577 (2010).  [Wikipedia](http://en.wikipedia.org/wiki/United_States_v._Stevens).  
+* [*Weirum v.  RKO*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=539+P.2d+36&appflag=67.12), 539 P.2d 36 (1975). [Wikipedia](http://en.wikipedia.org/wiki/RKO_General#Notable_Legal_Case).  
+* [*Byers v.  Edmundson*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=826+So.2d+551&appflag=67.12), 826 So.2d 551 (1st Cir. 2002). [Wikipedia list of copycat crimes committed by individuals allegedly influenced by the 1994 film *Natural Born Killers*](https://en.wikipedia.org/wiki/List_of_alleged_Natural_Born_Killers_copycat_crimes).  
+* [*Davidson v. Time Warner,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1997+WL+405907&appflag=67.12) 1997 WL 405907 (S.D.Tx 1997). [Case note on *Davidson v. Time-Warner*](http://tinyurl.com/ml5vvz8).
+* [*Miramax Films v.  MPAA*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=560nys2d730&appflag=67.12), 560 N.Y.S.2d 730 (1990). 
+* Trailer for [*This Film Is Not Yet Rated*](http://www.youtube.com/watch?v=UTL3XMDwY0c).
 
 ### Recommended
 
 * [*The People v. Larry Flynt*](http://en.wikipedia.org/wiki/The_People_vs._Larry_Flynt).
-* [An eighth-grade teacher who writes fiction under a nom de plume is ordered to undergo an "emergency medical evaluation" for his novel about a school shooting"](http://www.theatlantic.com/national/archive/2014/09/in-cambridge-md-a-soviet-style-punishment-for-a-novelist/379431/)
+* [An eighth-grade teacher who writes fiction under a nom de plume is ordered to undergo an "emergency medical evaluation" for his novel about a school shooting"](http://www.theatlantic.com/national/archive/2014/09/in-cambridge-md-a-soviet-style-punishment-for-a-novelist/379431/).
+* Trailer for [*This Film Is Not Yet Rated*](http://www.youtube.com/watch?v=UTL3XMDwY0c).
 
 [miller_test]: http://en.wikipedia.org/wiki/Miller_test "The Miller Obscenity Test"
 [esrb]: http://www.esrb.org/index-js.jsp "ESRB"
@@ -1592,3 +1599,5 @@ attacker's continued threats to the victim was again straightforward.
 [mpaa]: http://www.mpaa.org/ "MPAA"
 [2pac-made-me]: http://thediscography.org/discoDbDetail.php?req=942 "Cop Killer: '2pac Made Me Do It!'"
 [brown]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=131sct2729&appflag=67.12 "Brown v. Entertainment Merchants"
+[hitman]: http://users.telenet.be/sterf/texts/other/HitMan-Manual_for_Independent_Contractors.pdf "Hit Man A Manual For Independent Contractors"
+
