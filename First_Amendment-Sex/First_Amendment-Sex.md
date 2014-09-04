@@ -3,8 +3,8 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: First Amendment - Sex
-date: 01-Sep-2014
-version: 1.3
+date: 03-Sep-2014
+version: 1.5
 ---
 
 # Lawyers For The Talent
@@ -53,8 +53,9 @@ Why was the First Amendment added to the Constitution in 1791? And if Congress m
 
 > Now, to be sure, during and after the controversy over the Sedition Act of 1798, some foes of the Act argued that the First Amendment did bar Congress from any authority to restrict spoken or printed words. But I'm rather skeptical that this was then or is now a sound interpretation of the constitutional text.
 
-Do we have a First Amendment because speaking one's mind is a basic human right? Like the freedom to travel, or freedom to buy birth control? Perhaps the colonists wanted only to be certain that their new American government would be prohibited from imposing [prior restraints](http://en.wikipedia.org/wiki/Prior_restraint) on speech, the sort of licensing schemes that inspired the poet John Milton to write [Areopagitica](http://en.wikipedia.org/wiki/Areopagitica)? Maybe free speech is a kind of civic "safety valve" allowing aggrieved citizens to march in the streets or issue screeds on street corners instead of arming themselves and starting a civil war? Theories one and all that have been propounded as possible reasons we have a First Amendment.
+* [Eugene Volokh on the meaning of "Congress shall make no law . .  ."](http://www.volokh.com/2012/09/19/the-founders-free-speechpress-clause/).
 
+Do we have a First Amendment because speaking one's mind is a basic human right? Like the freedom to travel, or freedom to buy birth control? Perhaps the colonists wanted only to be certain that their new American government would be prohibited from imposing [prior restraints](http://en.wikipedia.org/wiki/Prior_restraint) on speech, the sort of licensing schemes that inspired the poet John Milton to write [Areopagitica](http://en.wikipedia.org/wiki/Areopagitica)? Maybe free speech is a kind of civic "safety valve" allowing aggrieved citizens to march in the streets or issue screeds on street corners instead of arming themselves and starting a civil war? Theories one and all that have been propounded as possible reasons we have a First Amendment.
 
 #### The Marketplace of Ideas  
 
@@ -1052,6 +1053,7 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 * Version 1.2 - 30-Aug-2014 - fixed paragraph headers and Mutual Film broken link.
 * Version 1.3 - 01-Sep-2014 - fixed broken links
 * Version 1.4 - 03-Sep-2014 - fixed broken link Fox II
+* Version 1.5 - 03-Sep-2014 - Added Volokh link
 
 <!--Cases -->
 
