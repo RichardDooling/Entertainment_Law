@@ -128,6 +128,7 @@ In Australia, the High Court held in [*Theophanous v. The Herald & Weekly Times 
     - [summary of case](http://www.thesmokinggun.com/documents/crime/judge-raps-eminem-accuser)
     - [fyi the full opinion](http://www.thesmokinggun.com/file/judge-raps-eminem-accuser)(optional reading)
 - [Reverse defamation, the Newsweek Bitcoin story, and Satoshi Nakamoto](http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/03/18/reverse-defamation-the-newsweek-bitcoin-story-and-satoshi-nakamoto/)
+* [What is More Defamatory? A False Accusation of Homophobia or of Homosexuality?](http://www.trademarkandcopyrightlawblog.com/2014/09/whatismore/)
 
 ##### Courtney Love & Defamation via Twitter
 
@@ -156,6 +157,8 @@ Privacy rights come in four different flavors, best described by Justice Louis B
 
 [Wikipedia: Privacy Laws of the United States](http://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States)  
 [Wikipedia: Privacy Laws By Country](http://en.wikipedia.org/wiki/Privacy_law#Privacy_laws_by_country)
+
+* [If Only J-Law Could Retain Brandeis](http://www.bloombergview.com/articles/2014-09-05/if-only-j-law-could-retain-brandeis?alcmpid=view).
 
 #### 1. Intrusion Upon Seclusion
 

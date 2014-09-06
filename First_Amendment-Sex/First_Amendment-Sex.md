@@ -3,8 +3,8 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: First Amendment - Sex
-date: 03-Sep-2014
-version: 1.5
+date: 04-Sep-2014
+version: 1.6
 ---
 
 # Lawyers For The Talent
@@ -485,7 +485,7 @@ speech unprotected by the First Amendment. [198 F. 3d, at
 The Court of Appeals voted to  deny the petition for rehearing
 en banc, over the dissent of three judges. See 220 F. 3d 1113 (2000).
 
-While the Ninth Circuit found the CPPA invalid on its face, four other
+While the Ninth Circuit found the CPPA invalid on its face, four other Courts of Appeals have sustained it. 
 
 We granted certiorari. 531 U. S. 1124 (2001).
 
@@ -1005,6 +1005,8 @@ For these reasons, I would construe the CPPA in a manner consistent with
 the First Amendment, reverse the Court of Appeals' judgment, and uphold
 the statute in its entirety.
 
+* [USDOJ Citizens Guide To U.S. Federal Law On Child Pornography](http://www.justice.gov/criminal/ceos/citizensguide/citizensguide_porn.html).
+
 ## Indecency
 
 Just as we get comfortable with the notion of categories, and the notion that speech is either protected or unprotected, along comes a category of speech the FCC wishes to REGULATE. 
@@ -1021,6 +1023,7 @@ Please read these two cases in their entirety. Keep your eye on the ball: Is Geo
 * George Carlin's [Seven Dirty Words][7dirty] routine.
 
 ### *FCC v. Fox Television Stations* (Fox II)
+
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=9187101700166207966) 
 * [case at Westlaw][fox]
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012)).
