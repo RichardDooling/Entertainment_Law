@@ -55,32 +55,23 @@ Respondents, representing the video-game and software industries, brought a pree
 
 California correctly acknowledges that video games qualify for First Amendment protection. The Free Speech Clause exists principally to protect discourse on public matters, but we have long recognized that it is difficult to distinguish politics from entertainment, and dangerous to try. "Everyone is familiar with instances of propaganda through fiction. What is one man's amusement, teaches another's doctrine." [*Winters v. New York,* (Sct. 1948)](http://scholar.google.com/scholar_case?case=16314089118204976902&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  Like the protected books, plays, and movies that preceded them, video games communicate ideas—and even social messages—through many familiar literary devices (such as characters, dialogue, plot, and music) and through features distinctive to the medium (such as the player's interaction with the virtual world). That suffices to confer First Amendment protection. Under our Constitution, "esthetic and moral judgments about art and literature &hellip; are for the individual to make, not for the Government to decree, even with the mandate or approval of a majority." [*United States v. Playboy Entertainment Group, Inc.,* (Sct. 2000)](http://scholar.google.com/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  And whatever the challenges of applying the Constitution to ever-advancing technology, "the basic principles of freedom of speech and the press, like the First Amendment's command, do not vary" when a new and different medium for communication appears. [*Joseph Burstyn, Inc. v. Wilson,* (Sct. 1952)](http://scholar.google.com/scholar_case?case=5628256980652867975&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
  
-The most basic of those principles is this: "[A]s a general matter &hellip; government has no power to restrict expression because of its message, its ideas, its subject matter, or its content." [*Ashcroft v. American Civil Liberties Union,* 535 U.S. 564, 573, 122 S.Ct. 1700, 152 L.Ed.2d 771 (2002)](http://scholar.google.com/scholar_case?case=8027362013479204062&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0). There are of course exceptions.  "'From 1791 to the present,' &hellip; the First Amendment has 'permitted restrictions upon the content of speech in a few limited areas,' and has never 'include[d] a freedom to disregard these traditional limitations.'" [*United States v. Stevens,* (Sct. 2010)](http://scholar.google.com/scholar_case?case=85657697512539256&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) (quoting [*R.A.V. v. St. Paul,* (Sct. 1992)](http://scholar.google.com/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)).  These limited areas—such as obscenity, [*Roth v. United States,* (Sct. 1957),](http://scholar.google.com/scholar_case?case=14778925784015245625&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) incitement, [*Brandenburg v. Ohio,* (Sct. 1969) *(per curiam)*](http://scholar.google.com/scholar_case?case=15538842772335942956&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)*,* and fighting words, [*Chaplinsky v. New Hampshire,* Sct. 1942)](http://scholar.google.com/scholar_case?case=124249671461500618&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)—represent "well-defined and narrowly limited classes of speech, the prevention and
+The most basic of those principles is this: "[A]s a general matter &hellip; government has no power to restrict expression because of its message, its ideas, its subject matter, or its content." [*Ashcroft v. American Civil Liberties Union,* (Sct. 2002)](http://scholar.google.com/scholar_case?case=8027362013479204062&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0). There are of course exceptions.  "'From 1791 to the present' &hellip; the First Amendment has 'permitted restrictions upon the content of speech in a few limited areas,' and has never 'include[d] a freedom to disregard these traditional limitations.'" [*United States v. Stevens,* (Sct. 2010)](http://scholar.google.com/scholar_case?case=85657697512539256&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) (quoting [*R.A.V. v. St. Paul,* (Sct. 1992)](http://scholar.google.com/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)).  These limited areas—such as obscenity, [*Roth v. United States,* (Sct. 1957),](http://scholar.google.com/scholar_case?case=14778925784015245625&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) incitement, [*Brandenburg v. Ohio,* (Sct. 1969) *(per curiam)*](http://scholar.google.com/scholar_case?case=15538842772335942956&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)*,* and fighting words, [*Chaplinsky v. New Hampshire,* Sct. 1942)](http://scholar.google.com/scholar_case?case=124249671461500618&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)—represent "well-defined and narrowly limited classes of speech, the prevention and
 punishment of which have never been thought to raise any Constitutional
-problem," *id.,* at 571-572, 62 S.Ct. 766.
+problem." 
 
-Last Term, in *Stevens,* we held that new categories of unprotected speech may not be added to the list by a legislature that concludes certain speech is too harmful to be tolerated. *Stevens* concerned a federal statute purporting to criminalize the creation, sale, or possession of certain depictions of animal cruelty &hellip; The statute covered depictions "in which a living animal is intentionally maimed, mutilated, tortured, wounded, or killed" if that harm to the animal was illegal where the "the creation, sale, or possession t[ook] place," § 48(c)(1). A saving clause largely borrowed from our obscenity jurisprudence, see [*Miller v. California,* 413 U.S. 15, 24, 93 S.Ct. 2607, 37 L.Ed.2d 419 (1973),](http://scholar.google.com/scholar_case?case=287180442152313659&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) exempted depictions with "serious religious, political, scientific, educational, journalistic, historical, or artistic value," § 48(b). We held that statute to be an impermissible content-based restriction on speech. There was no American tradition of forbidding the *depiction of* animal cruelty— though States have long had laws against *committing* it.
+Last term, in *Stevens,* we held that new categories of unprotected speech may not be added to the list by a legislature that concludes certain speech is too harmful to be tolerated. *Stevens* concerned a federal statute purporting to criminalize the creation, sale, or possession of certain depictions of animal cruelty &hellip; The statute covered depictions "in which a living animal is intentionally maimed, mutilated, tortured, wounded, or killed" if that harm to the animal was illegal where the "the creation, sale, or possession t[ook] place," § 48(c)(1). A saving clause largely borrowed from our obscenity jurisprudence, see [*Miller v. California,* (Sct. 1973),](http://scholar.google.com/scholar_case?case=287180442152313659&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) exempted depictions with "serious religious, political, scientific, educational, journalistic, historical, or artistic value," § 48(b). We held that statute to be an impermissible content-based restriction on speech. There was no American tradition of forbidding the *depiction of* animal cruelty— though States have long had laws against *committing* it.
 
-The Government argued in *Stevens* that lack of a historical warrant did not matter; that it could create new categories of unprotected speech by applying a "simple balancing test" that weighs the value of a particular category of speech against its social costs and then punishes that category of speech if it fails the test. [*Stevens,* 559 U.S., at \_\_\_, 130 S.Ct., at 1585](http://scholar.google.com/scholar_case?case=85657697512539256&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  We emphatically rejected that "startling and dangerous" proposition. "Maybe there are some categories of speech that have been historically unprotected, but have not yet been specifically identified or discussed as such in our case law." &hellip; But without persuasive evidence that a novel restriction on content is part of a long (if heretofore unrecognized) tradition of proscription, a legislature may not revise the "judgment [of] the American people," embodied in the First Amendment, "that the benefits of its restrictions on the Government outweigh the costs." 
+The Government argued in *Stevens* that lack of a historical warrant did not matter; that it could create new categories of unprotected speech by applying a "simple balancing test" that weighs the value of a particular category of speech against its social costs and then punishes that category of speech if it fails the test. [*Stevens, supra*](http://scholar.google.com/scholar_case?case=85657697512539256&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  We emphatically rejected that "startling and dangerous" proposition. "Maybe there are some categories of speech that have been historically unprotected, but have not yet been specifically identified or discussed as such in our case law." &hellip; But without persuasive evidence that a novel restriction on content is part of a long (if heretofore unrecognized) tradition of proscription, a legislature may not revise the "judgment [of] the American people," embodied in the First Amendment, "that the benefits of its restrictions on the Government outweigh the costs." 
 
-That holding controls this case. As in *Stevens,* California has tried to make violent-speech regulation look like obscenity regulation by appending a saving clause required for the latter. That does not suffice. Our cases have been clear that the obscenity exception to the First Amendment does not cover whatever a legislature finds shocking, but only depictions of "sexual conduct," [*Miller, supra,* at 24](/scholar_case?case=287180442152313659&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0), [93 S.Ct.  2607](/scholar_case?case=287180442152313659&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  See also [*Cohen v. California,* (Sct. 1971)](/scholar_case?case=7398433541275578772&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0); [*Roth, supra,* at 487](/scholar_case?case=14778925784015245625&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0), and n. 20, [77 S.Ct.  1304](/scholar_case?case=14778925784015245625&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  
+That holding controls this case. As in *Stevens,* California has tried to make violent-speech regulation look like obscenity regulation by appending a saving clause required for the latter. That does not suffice. Our cases have been clear that the obscenity exception to the First Amendment does not cover whatever a legislature finds shocking, but only depictions of "sexual conduct," [*Miller, supra,*](http://scholar.google.com/scholar_case?case=287180442152313659&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0). See also [*Cohen v. California,* (Sct. 1971)](http://scholar.google.com/scholar_case?case=7398433541275578772&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0); [*Roth, supra,* at 487](http://scholar.google.com/scholar_case?case=14778925784015245625&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  
 
-*Stevens* was not the first time we have encountered and rejected a State's attempt to shoehorn speech about violence into obscenity.  In *Winters,* we considered a New York criminal statute "forbid[ding] the massing of stories of bloodshed and lust in such a way as to incite to crime against the person," [333 U.S., at 514, 68 S.Ct.  665](http://scholar.google.com/scholar_case?case=16314089118204976902&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  The New York Court of Appeals upheld the provision as a law against obscenity.  "[T]here can be no more precise test of written indecency or obscenity," it said, "than the continuing and changeable experience of the community as to what types of books are likely to bring about the corruption of public morals or other analogous injury to the public order." &hellip; That is of course the same expansive view of governmental power to abridge the freedom of speech based on interest-balancing that we rejected in *Stevens.* Our opinion in *Winters,* which concluded that the New York statute failed a heightened vagueness standard applicable to restrictions upon speech entitled to First Amendment protection, [333 U.S., at 517-519, 68 S.Ct.  665,](http://scholar.google.com/scholar_case?case=16314089118204976902&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) made clear that violence is not part of the obscenity that the Constitution permits to be regulated. The speech reached by the statute contained "no indecency or obscenity in any sense heretofore known to the law." 
+*Stevens* was not the first time we have encountered and rejected a State's attempt to shoehorn speech about violence into obscenity.  In *Winters,* we considered a New York criminal statute "forbid[ding] the massing of stories of bloodshed and lust in such a way as to incite to crime against the person," [*Winters*](http://scholar.google.com/scholar_case?case=16314089118204976902&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  The New York Court of Appeals upheld the provision as a law against obscenity.  "[T]here can be no more precise test of written indecency or obscenity," it said, "than the continuing and changeable experience of the community as to what types of books are likely to bring about the corruption of public morals or other analogous injury to the public order." &hellip; That is of course the same expansive view of governmental power to abridge the freedom of speech based on interest-balancing that we rejected in *Stevens.* Our opinion in *Winters,* which concluded that the New York statute failed a heightened vagueness standard applicable to restrictions upon speech entitled to First Amendment protection, [*Winters*](http://scholar.google.com/scholar_case?case=16314089118204976902&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) made clear that violence is not part of the obscenity that the Constitution permits to be regulated. The speech reached by the statute contained "no indecency or obscenity in any sense heretofore known to the law." 
 
-Because speech about violence is not obscene, it is of no consequence that California's statute mimics the New York statute regulating obscenity-for-minors that we upheld in [*Ginsberg v. New York,* 390 U.S.  629, 88 S.Ct. 1274, 20 L.Ed.2d 195 (1968)](http://scholar.google.com/scholar_case?case=8460647428333624773&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  That case approved a prohibition on the sale to minors of *sexual* material that would be obscene from the perspective of a child. We held that the legislature could "adjus[t] the definition of obscenity 'to social realities by permitting the appeal of this type of material to be assessed in terms of the sexual interests' of  minors." [88 S.Ct.  1274](http://scholar.google.com/scholar_case?case=8460647428333624773&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) (quoting [*Mishkin v. New York,* 383 U.S. 502, 509, 86 S.Ct. 958, 16 L.Ed.2d 56 (1966)](http://scholar.google.com/scholar_case?case=4466224718599454757&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)).  And because "obscenity is not protected expression," the New York statute could be sustained so long as the legislature's judgment that the proscribed materials were harmful to children "was not irrational." [390 U.S., at 641, 88 S.Ct.
-1274](http://scholar.google.com/scholar_case?case=8460647428333624773&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
+Because speech about violence is not obscene, it is of no consequence that California's statute mimics the New York statute regulating obscenity-for-minors that we upheld in [*Ginsberg v. New York,* (Sct. 1968)](http://scholar.google.com/scholar_case?case=8460647428333624773&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  That case approved a prohibition on the sale to minors of *sexual* material that would be obscene from the perspective of a child. We held that the legislature could "adjus[t] the definition of obscenity 'to social realities by permitting the appeal of this type of material to be assessed in terms of the sexual interests' of  minors." [*Ginsberg*](http://scholar.google.com/scholar_case?case=8460647428333624773&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) (quoting [*Mishkin v. New York,*  (1966)](http://scholar.google.com/scholar_case?case=4466224718599454757&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)).  And because "obscenity is not protected expression," the New York statute could be sustained so long as the legislature's judgment that the proscribed materials were harmful to children "was not irrational." [*Ginsberg*](http://scholar.google.com/scholar_case?case=8460647428333624773&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
 
-The California Act is something else entirely. It does not adjust the
-boundaries of an existing category of unprotected speech to ensure that
-a definition designed for adults is not uncritically applied to
-children. California does not argue that it is empowered to prohibit
-selling offensively violent works *to adults*--and it is wise not to,
-since that is but a hair's breadth from the argument rejected in
-*Stevens.* Instead, it wishes to create a wholly new category of
-content-based regulation that is permissible only for speech directed at
-children.
+The California Act is something else entirely. It does not adjust the boundaries of an existing category of unprotected speech to ensure that a definition designed for adults is not uncritically applied to children. California does not argue that it is empowered to prohibit selling offensively violent works *to adults*--and it is wise not to, since that is but a hair's breadth from the argument rejected in *Stevens.* Instead, it wishes to create a wholly new category of content-based regulation that is permissible only for speech directed at children.
 
-That is unprecedented and mistaken. "[M]inors are entitled to a significant measure of First Amendment protection, and only in relatively narrow and well-defined circumstances may government bar public dissemination of protected materials to them." [*Erznoznik v.  Jacksonville,*](http://scholar.google.com/scholar_case?case=7611920100258061680&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)[2268, 45 L.Ed.2d 125 (1975)](http://scholar.google.com/scholar_case?case=7611920100258061680&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) (citation omitted). No doubt a State possesses legitimate power to protect children from harm, [*Ginsberg, supra,*](http://scholar.google.com/scholar_case?case=8460647428333624773&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0); [*Prince v. Massachusetts,* (Sct. 1944),](http://scholar.google.com/scholar_case?case=3012582275354260465&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) but that does not include a free-floating power to restrict the ideas to which children may be exposed. "Speech that is neither obscene as to youths nor subject to some other legitimate proscription cannot be suppressed solely to protect the young from ideas or images that a legislative body thinks unsuitable for them." [*Erznoznik, supra,*](http://scholar.google.com/scholar_case?case=7611920100258061680&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
+That is unprecedented and mistaken. "[M]inors are entitled to a significant measure of First Amendment protection, and only in relatively narrow and well-defined circumstances may government bar public dissemination of protected materials to them." [*Erznoznik v.  Jacksonville,*](http://scholar.google.com/scholar_case?case=7611920100258061680&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0). No doubt a State possesses legitimate power to protect children from harm, [*Ginsberg, supra,*](http://scholar.google.com/scholar_case?case=8460647428333624773&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0); [*Prince v. Massachusetts,* (Sct. 1944),](http://scholar.google.com/scholar_case?case=3012582275354260465&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) but that does not include a free-floating power to restrict the ideas to which children may be exposed. "Speech that is neither obscene as to youths nor subject to some other legitimate proscription cannot be suppressed solely to protect the young from ideas or images that a legislative body thinks unsuitable for them." [*Erznoznik, supra,*](http://scholar.google.com/scholar_case?case=7611920100258061680&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
 
 California's argument would fare better if there were a longstanding
 tradition in this country of specially restricting children's access to
@@ -134,21 +125,19 @@ the more interactive. Literature when it is successful draws the reader
 into the story, makes him identify with the characters, invites him to
 judge them and quarrel with them, to experience their joys and
 sufferings as the reader's own." [*American Amusement Machine Assn. v.
-Kendrick,* (C.A.7 2001)](http://scholar.google.com/scholar_case?case=13025078069235542866&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)
+Kendrick,* (7th Cir. 2001)](http://scholar.google.com/scholar_case?case=13025078069235542866&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)
 (striking down a similar restriction on violent video games).
 
 Justice ALITO has done considerable independent research to identify &hellip; video games in which "the violence is astounding. Victims are dismembered, decapitated, disemboweled, set on fire, and chopped into little pieces &hellip; Blood gushes, splatters, and pools." Justice ALITO recounts all these disgusting video games in order to disgust us--but disgust is not a valid basis for restricting expression. And the same is true of Justice ALITO's description of those video games he has discovered that have a racial or ethnic motive for their violenc--"ethnic cleansing' [of] &hellip; African Americans, Latinos, or Jews." To what end does he relate this? Does it somehow increase the "aggressiveness" that California wishes to suppress? Who knows? But it does arouse the reader's ire, and the reader's desire to put an end to this horrible message. Thus, ironically, Justice ALITO's argument highlights the precise danger posed by the California Act: that the *ideas* expressed by speech—whether it be violence, or gore, or racism--and not its objective effects, may be the real reason for governmental proscription.
 
 ### III
 
-Because the Act imposes a restriction on the content of protected speech, it is invalid unless California can demonstrate that it passes strict scrutiny--that is, unless it is justified by a compelling government interest and is narrowly drawn to serve that interest.  [*R.A.V.,*](/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0). The State must specifically identify an "actual problem" in need of solving, [*Playboy,*](/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) and the curtailment of free speech must be actually necessary to the solution, see [*R.A.V., supra,*](/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0), [112 S.Ct.  2538](/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  That is a demanding standard. "It is rare that a regulation restricting speech because of its content will ever be permissible." [*Playboy, supra,* at 818](/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0), [120 S.Ct.  1878](/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
+Because the Act imposes a restriction on the content of protected speech, it is invalid unless California can demonstrate that it passes strict scrutiny--that is, unless it is justified by a compelling government interest and is narrowly drawn to serve that interest.  [*R.A.V.,*](/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0). The State must specifically identify an "actual problem" in need of solving, [*Playboy,*](http://scholar.google.com/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) and the curtailment of free speech must be actually necessary to the solution, see [*R.A.V., supra,*](http://scholar.google.com/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  That is a demanding standard. "It is rare that a regulation restricting speech because of its content will ever be permissible." [*Playboy, supra,* at 818](http://scholar.google.com/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
 
 California cannot meet that standard. At the outset, it acknowledges
 that it cannot show a direct causal link between violent video games and
 harm to minors. Rather, relying upon our decision in [*Turner
-Broadcasting System, Inc. v. FCC,* 512 U.S. 622, 114 S.Ct. 2445, 129
-L.Ed.2d 497
-(1994),](http://scholar.google.com/scholar_case?case=5334675097720961353&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)
+Broadcasting System, Inc. v. FCC,* (Sct. 1994),](http://scholar.google.com/scholar_case?case=5334675097720961353&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)
 the State claims that it need not produce such proof because the
 legislature can make a predictive judgment that such a link exists,
 based on competing psychological studies. But reliance on *Turner
@@ -166,9 +155,7 @@ and with good reason: They do not prove that violent video games *cause*
 minors to *act* aggressively (which would at least be a beginning).
 Instead, "[n]early all of the research is based on correlation, not
 evidence of causation, and most of the studies suffer from significant,
-admitted flaws in methodology." *Video Software Dealers Assn.* [556
-F.3d, at
-964](http://scholar.google.com/scholar_case?case=18016190414381938126&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
+admitted flaws in methodology." [*Video Software Dealers Assn.*](http://scholar.google.com/scholar_case?case=18016190414381938126&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
 They show at best some correlation between exposure to violent
 entertainment and minuscule real-world effects, such as children's
 feeling more aggressive or making louder noises in the few minutes after
@@ -482,8 +469,7 @@ invoked, but not terribly well defined, concept in the common law of
 tort &hellip; Kentucky's
 particular use of foreseeability in the duty inquiry finds its roots in
 perhaps the most famous application of the foreseeability principle. In
-[*Palsgraf v. Long Island Railroad Co.,* 248 N.Y. 339, 162 N.E. 99
-(1928),](http://scholar.google.com/scholar_case?about=8468647111215907111&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
+[*Palsgraf v. Long Island Railroad Co.,* (N.Y. 1928),](http://scholar.google.com/scholar_case?about=8468647111215907111&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
 then-Judge Cardozo determined that the defendant's duty is to avoid
 "risks reasonably to be perceived." *Id.* at 100. As every former law
 student remembers, the plaintiff in *Palsgraf* had bought a train ticket
@@ -541,8 +527,7 @@ to the context of this case, for evaluating the probability of harm.
 
 This court has encountered this foreseeability inquiry under Kentucky
 law before in a situation similar to this case. In [*Watters v. TSR,
-Inc.,* 904 F.2d 378 (6th
-Cir.1990),](http://scholar.google.com/scholar_case?case=10196421278862987651&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
+Inc.,* (6th Cir. 1990),](http://scholar.google.com/scholar_case?case=10196421278862987651&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
 the mother of a suicide victim sued TSR for manufacturing the game
 "Dungeons and Dragons." The suicide victim regularly played the game.
 The mother contended that the game's violent  content
@@ -636,18 +621,14 @@ third-party violence, can be liable when their affirmative actions
 misconduct." Restatement of Torts (Second) § 302B, cmt. e.H. Generally,
 such circumstances are limited to cases in which the defendant has given
 a young child access to ultra-hazardous materials such as blasting caps,
-[*Vills v. City of Cloquet,* 119 Minn. 277, 138 N.W. 33
-(1912),](http://scholar.google.com/scholar_case?about=15516340448157145729&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
-or firearms. [*Spivey v. Sheeler,* 514 S.W.2d 667
-(Ky.1974)](http://scholar.google.com/scholar_case?case=12187369012283356840&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
+[*Vills v. City of Cloquet,* (MN 1912),](http://scholar.google.com/scholar_case?about=15516340448157145729&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
+or firearms. [*Spivey v. Sheeler,* (KY 1974)](http://scholar.google.com/scholar_case?case=12187369012283356840&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
 Even in those cases, courts have relied on the third party's severely
 diminished capacity to handle the ultra-hazardous materials. With older
 third  parties, courts have found liability only where
 defendants have vested a particular person, under circumstances that
 made his nefarious plans clear, with the tools that he then quickly used
-to commit the criminal act. *See* [*Meers v. McDowell,* 110 Ky. 926, 62
-S.W. 1013
-(1901)](http://scholar.google.com/scholar_case?about=13723756947186741433&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
+to commit the criminal act. *See* [*Meers v. McDowell,* (1901)](http://scholar.google.com/scholar_case?about=13723756947186741433&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
 Arguably, the defendants' games, movie, and internet sites gave Carneal
 the ideas and emotions, the "psychological tools," to commit three
 murders. However, this case lacks such crucial features of our
@@ -676,18 +657,7 @@ court that attaching tort liability to the effect that such ideas have
 on a criminal actor would raise significant constitutional problems
 under the First Amendment that ought to be avoided.&hellip;  
 
-Although the plaintiffs' contentions in this case do not
-concern the absolute proscription of the defendants' conduct, courts
-have made clear that attaching tort liability to protected speech can
-violate the First Amendment. *See* [*New York Times v. Sullivan,* 376
-U.S. 254, 265, 84 S.Ct. 710, 11 L.Ed.2d 686
-(1964)](http://scholar.google.com/scholar_case?case=10183527771703896207&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
-("Although this is a civil lawsuit between private parties, the Alabama
-courts have applied a state rule of law which petitioners claim to
-impose invalid restrictions on their constitutional freedoms of speech
-and press. It matters not that that law has been applied in a civil
-action and that it is common law only, though supplemented by
-statute.").
+Although the plaintiffs' contentions in this case do not concern the absolute proscription of the defendants' conduct, courts have made clear that attaching tort liability to protected speech can violate the First Amendment. *See* [*New York Times v. Sullivan,* (Sct. 1964)](http://scholar.google.com/scholar_case?case=10183527771703896207&q=james+meow&hl=en&as_sdt=6,28&scilh=0) ("Although this is a civil lawsuit between private parties, the Alabama courts have applied a state rule of law which petitioners claim to impose invalid restrictions on their constitutional freedoms of speech and press. It matters not that that law has been applied in a civil action and that it is common law only, though supplemented by statute.").
 
 [The court found that movies and video games are protected speech under the First Amendment.
 
@@ -705,22 +675,15 @@ children or, even more specifically, to Carneal. The protections of the
 First Amendment have always adapted to the audience intended for the
 speech. Specifically, we have recognized certain speech, while fully
 protected when directed to adults, may be restricted when directed
-towards minors. *See, e.g.,* [*Sable Communications v. FCC,* 492 U.S.
-115, 126, 109 S.Ct. 2829, 106 L.Ed.2d 93
-(1989)](http://scholar.google.com/scholar_case?case=12959937071120946576&q=james+meow&hl=en&as_sdt=6,28&scilh=0);
-[*Connection Distrib. Co. v. Reno,* 154 F.3d 281, 291-92 (6th
+towards minors. *See, e.g.,* [*Sable Communications v. FCC,* (Sct. 1989)](http://scholar.google.com/scholar_case?case=12959937071120946576&q=james+meow&hl=en&as_sdt=6,28&scilh=0);
+[*Connection Distrib. Co. v. Reno,* (6th
 Cir.1998)](http://scholar.google.com/scholar_case?case=16910959375208847134&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
 We have also required, however, that such regulations be narrowly
 tailored to protecting minors from speech that may improperly influence
 them and not effect an "unnecessarily broad suppression of speech"
-appropriate for adults. [*Reno v. American Civil Liberties Union,* 521
-U.S. 844, 874-75, 117 S.Ct. 2329, 138 L.Ed.2d 874
-(1997)](http://scholar.google.com/scholar_case?case=1557224836887427725&q=james+meow&hl=en&as_sdt=6,28&scilh=0);
-[*United States v. Playboy Entm't Group, Inc.,* 529 U.S. 803, 812-13,
-120 S.Ct. 1878, 146 L.Ed.2d 865
-(2000)](http://scholar.google.com/scholar_case?case=11989907166283121695&q=james+meow&hl=en&as_sdt=6,28&scilh=0);
-[*Connection Distrib.,* 154 F.3d at
-292](http://scholar.google.com/scholar_case?case=16910959375208847134&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
+appropriate for adults. [*Reno v. American Civil Liberties Union,* (Sct. 1997)](http://scholar.google.com/scholar_case?case=1557224836887427725&q=james+meow&hl=en&as_sdt=6,28&scilh=0);
+[*United States v. Playboy Entm't Group, Inc.,* (Sct. 2000)](http://scholar.google.com/scholar_case?case=11989907166283121695&q=james+meow&hl=en&as_sdt=6,28&scilh=0);
+[*Connection Distrib.,*](http://scholar.google.com/scholar_case?case=16910959375208847134&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
 
 Of course, the measure here intended to protect minors from the improper
 influence of otherwise protected speech is quite different from the
@@ -757,61 +720,11 @@ regulation of protected speech should be directed in the first instance
 to the legislative and executive branches of state and federal
 governments, not the courts.
 
-Our concerns about adequately evaluating the narrow tailoring of
-regulations wane if the underlying expression is completely unprotected.
-Whether certain speech is not protected at all is a question that courts
-are regularly called upon to answer. James argues that to the extent
-that the content distributed by the defendants is at all expressive, it
-constitutes obscene material that is unprotected by the First Amendment.
-*See* [*Paris Adult Theatre I v. Slaton,* 413 U.S. 49, 69, 93 S.Ct.
-2628, 37 L.Ed.2d 446
-(1973)](http://scholar.google.com/scholar_case?case=7437343063858529835&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
-It would be novel to argue that the video games and *The Basketball
-Diaries* are obscene. As we understand James's complaint, he complains
-that the video games and the movie are excessively violent — yet we have
-generally applied our obscenity jurisprudence only to material of a
-sexual nature, appealing only to prurient interest and lacking any other
-socially redeeming value. *See* [*Miller v. California,* 413 U.S. 15,
-23-24, 93 S.Ct. 2607, 37 L.Ed.2d 419
-(1973)](http://scholar.google.com/scholar_case?case=287180442152313659&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
-("We now confine the scope of [obscene material] to works which depict
-or describe sexual conduct."); [*United States v. Thoma,* 726 F.2d 1191,
-1200 (7th
-Cir.1984)](http://scholar.google.com/scholar_case?case=6449473028065384946&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
-(holding that because depictions of violence are not sexual, obscenity
-jurisprudence does not apply).
+Our concerns about adequately evaluating the narrow tailoring of regulations wane if the underlying expression is completely unprotected.  Whether certain speech is not protected at all is a question that courts are regularly called upon to answer. James argues that to the extent that the content distributed by the defendants is at all expressive, it constitutes obscene material that is unprotected by the First Amendment.  *See* [*Paris Adult Theatre I v. Slaton,* (Sct. 1973)](http://scholar.google.com/scholar_case?case=7437343063858529835&q=james+meow&hl=en&as_sdt=6,28&scilh=0).  It would be novel to argue that the video games and *The Basketball Diaries* are obscene. As we understand James's complaint, he complains that the video games and the movie are excessively violent — yet we have generally applied our obscenity jurisprudence only to material of a sexual nature, appealing only to prurient interest and lacking any other socially redeeming value. *See* [*Miller v. California,* (Sct. 1973)](http://scholar.google.com/scholar_case?case=287180442152313659&q=james+meow&hl=en&as_sdt=6,28&scilh=0) ("We now confine the scope of [obscene material] to works which depict or describe sexual conduct."); [*United States v. Thoma,* (7th Cir.1984)](http://scholar.google.com/scholar_case?case=6449473028065384946&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (holding that because depictions of violence are not sexual, obscenity jurisprudence does not apply).
 
-With the sexually-oriented internet defendants, James has an arguable
-basis to allege that the material is unprotected speech under our
-conventional obscenity jurisprudence. Nevertheless, where the First
-Amendment concerns wane the most with the possibility of obscenity, the
-foreseeability problems loom the largest. In his complaint, James
-contends that the sexual content displayed by the internet sites made
-"virtual sex pleasurable and attractive" for Carneal and caused him to
-undertake his violent actions. To us, however, James's allegations
-regarding his exposure to violence seem much closer to the mark. After
-all, James does not seek to hold the internet defendants responsible
- for a sexual crime: Carneal never endeavored sexually to abuse
-his victims, just to kill them.
+With the sexually-oriented internet defendants, James has an arguable basis to allege that the material is unprotected speech under our conventional obscenity jurisprudence. Nevertheless, where the First Amendment concerns wane the most with the possibility of obscenity, the foreseeability problems loom the largest. In his complaint, James contends that the sexual content displayed by the internet sites made "virtual sex pleasurable and attractive" for Carneal and caused him to undertake his violent actions. To us, however, James's allegations regarding his exposure to violence seem much closer to the mark. After all, James does not seek to hold the internet defendants responsible for a sexual crime: Carneal never endeavored sexually to abuse his victims, just to kill them.  
 
-With the movie and video game defendants, James contends that their
-material is excessively violent and constitutes obscene, non-protected
-speech. We decline to extend our obscenity jurisprudence to violent,
-instead of sexually explicit, material. Even if we were to consider such
-an expansion, James's arguments are not conceptually linked to our
-obscenity jurisprudence. The concept of obscenity was designed to permit
-the regulation of "offensive" material, that is, material that people
-find "disgusting" or "degrading." *See* [*American Amusement Mach. Ass'n
-v. Kendrick,* 244 F.3d 572, 574 (7th
-Cir.2001)](http://scholar.google.com/scholar_case?case=13025078069235542866&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
-James's argument, on the other hand, is that the violent content of
-these video games and the movie shapes behavior and causes its consumers
-to commit violent acts. This is a different claim than the obscenity
-doctrine, which is a limit on the extent to which the community's
-sensibilities can be shocked by speech, not a protection against the
-behavior that the speech creates. *Id.* at 574-75 (holding that the law
-of obscenity does not apply to the argument that violence in video games
-causes players to commit violent acts).
+With the movie and video game defendants, James contends that their material is excessively violent and constitutes obscene, non-protected speech. We decline to extend our obscenity jurisprudence to violent, instead of sexually explicit, material. Even if we were to consider such an expansion, James's arguments are not conceptually linked to our obscenity jurisprudence. The concept of obscenity was designed to permit the regulation of "offensive" material, that is, material that people find "disgusting" or "degrading." *See* [*American Amusement Mach. Ass'n v. Kendrick,* (7th Cir.2001)](http://scholar.google.com/scholar_case?case=13025078069235542866&q=james+meow&hl=en&as_sdt=6,28&scilh=0).  James's argument, on the other hand, is that the violent content of these video games and the movie shapes behavior and causes its consumers to commit violent acts. This is a different claim than the obscenity doctrine, which is a limit on the extent to which the community's sensibilities can be shocked by speech, not a protection against the behavior that the speech creates. *Id.* at 574-75 (holding that the law of obscenity does not apply to the argument that violence in video games causes players to commit violent acts).  
 
 This is not to say that protecting people from the violence that speech
 might incite is a completely impermissible purpose for regulating
@@ -820,9 +733,7 @@ different category of our First Amendment jurisprudence, excluding from
 constitutional protection those communicated ideas and images that
 incite others to violence. Speech that falls within this category of
 incitement is not entitled to First Amendment protection. *See* [*R.A.V.
-v. City of St. Paul,* 505 U.S. 377, 384-85, 112 S.Ct. 2538, 120 L.Ed.2d
-305
-(1992)](http://scholar.google.com/scholar_case?case=14621372290934958371&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
+v. City of St. Paul,* (Sct. 1992)](http://scholar.google.com/scholar_case?case=14621372290934958371&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
 The Court firmly set out the test for whether speech constitutes
 unprotected incitement to violence in [*Brandenburg v. Ohio,* 395 U.S.
 444, 89 S.Ct. 1827, 23 L.Ed.2d 430
@@ -837,9 +748,7 @@ falls well short of this threshold. First, while the defendants in this
 case may not have exercised exquisite care regarding the persuasive
 power of the violent material that they disseminated, they certainly did
 not "intend" to produce violent actions by the consumers, as is required
-by the *Brandenburg* test. [*Hess v. Indiana,* 414 U.S. 105, 108, 94
-S.Ct. 326, 38 L.Ed.2d
-303](http://scholar.google.com/scholar_case?case=4042159652386241321&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
+by the *Brandenburg* test. [*Hess v. Indiana,*](http://scholar.google.com/scholar_case?case=4042159652386241321&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
 (requiring evidence that the speaker "intended" his words to produce
 violent conduct under the *Brandenburg* test). Second, the threat of a
 person like Carneal reacting to the violent content of the defendants'
@@ -852,7 +761,7 @@ satisfy the *Brandenburg* test. [*Ashcroft v. Free Speech Coalition,*](http://sc
 ("The mere tendency of speech to encourage unlawful acts is not a
 sufficient reason for banning it absent some showing of a direct
 connection between the speech and imminent illegal conduct."); [*McCoy
-v. Stewart,* 282 F.3d 626, 631 (9th
+v. Stewart,* (9th
 Cir.2002)](http://scholar.google.com/scholar_case?case=4786465207502783304&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
 (holding that incitement is not imminent if it risks third-party
 violence at some "indefinite future time").  Third, it is a long
@@ -868,11 +777,11 @@ violence in its viewers or consumers, is governed by a less stringent
 standard. Federal courts, however, have generally demanded that all
 expression, advocacy or not, meet the *Brandenburg* test before its
 regulation for its tendency to incite violence is permitted. *See*
-[*Dworkin v. Hustler Magazine, Inc.,* 867 F.2d 1188, 1199-1200 (9th
+[*Dworkin v. Hustler Magazine, Inc.,* (9th
 Cir.1989)](http://scholar.google.com/scholar_case?case=391927733878660348&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
 (applying the *Brandenburg* test to arguments that pornography causes
 viewers to engage in conduct that is violent and degrading to women);
-[*Herceg v. Hustler Magazine, Inc.,* 814 F.2d 1017, 1024 (5th
+[*Herceg v. Hustler Magazine, Inc.,* (5th
 Cir.1987)](http://scholar.google.com/scholar_case?case=7844372980201599517&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
 (rejecting suggestion "that a less stringent standard than the
 *Brandenburg* test be applied in cases involving non-political speech
@@ -896,8 +805,7 @@ defendants' video games, movie, and internet transmissions constitute
 "products," and their violent content "product defects." Under Kentucky
 law, manufacturers, distributors, and retailers of "products" are
 strictly liable for damages caused by "defects" in those products.
-[*Clark v. Hauck Mfg. Co.,* 910 S.W.2d 247, 250
-(Ky.1995)](http://scholar.google.com/scholar_case?case=218030355871374852&q=james+meow&hl=en&as_sdt=6,28&scilh=0);
+[*Clark v. Hauck Mfg. Co.,* (KY 1995)](http://scholar.google.com/scholar_case?case=218030355871374852&q=james+meow&hl=en&as_sdt=6,28&scilh=0);
 Restatement (Second) of Torts § 402A. If this theory of liability were
 to apply, James's failure to establish a duty to exercise ordinary care
 to prevent the victims' injuries (See Part III.A) would be irrelevant.
@@ -919,8 +827,7 @@ ultimately used the product. Kentucky courts, but certainly not all
 courts, have extended the protection of products liability to
 "bystanders" who are injured by the product, but are not "using" or
 "consuming" the product. [*Embs v. Pepsi-Cola Bottling Co. of
-Lexington,* 528 S.W.2d 703
-(Ky.1975)](http://scholar.google.com/scholar_case?case=14151903145400687453&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
+Lexington,* (KY 1975)](http://scholar.google.com/scholar_case?case=14151903145400687453&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
 (holding that bystander could recover on strict liability basis for
 injuries caused by exploding soda bottle); Restatement (Second) of Torts
 § 402A, n.1 (noting the split in authority regarding whether bystanders
@@ -938,7 +845,7 @@ the video games, movie, and internet transmissions were not "products,"
 at least in the sense that James sought to attach liability to them.
 
 This court has already substantially resolved the question of Kentucky
-law presented. In [*Watters v. TSR,* 904 F.2d 378 (6th
+law presented. In [*Watters v. TSR,* (6th
 Cir.1990),](http://scholar.google.com/scholar_case?case=10196421278862987651&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
 this court held that "words and pictures" contained in a board game
 could not constitute "products" for purposes of maintaining a strict
@@ -948,18 +855,7 @@ James's theory of liability, that the ideas conveyed by the video games,
 movie cassettes and internet transmissions, caused Carneal to kill his
 victims, attempts to attach product liability in a nearly identical way.
 
-James argues that, at least in this case, we are not just dealing with
-"words and pictures." Carneal, of course, had video game cartridges and
-movie cassettes. James argues that the test for determining whether an
-item is a product for purposes of Kentucky law is whether it is
-"tangible," and that the cartridges and cassettes are "tangible." As for
-the internet sites, James points us to a court that has held that
-"electricity" is a "product" for purposes of strict liability under
-Kentucky law. *See* [*C.G. Bryant v. Tri-County Elec. Membership Corp.,*
-844 F.Supp. 347, 352
-(W.D.Ky.1994)](http://scholar.google.com/scholar_case?case=14353781368890549739&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
-Internet sites are nothing more than communicative electrical pulses,
-James contends. James argues that there is no relevant difference
+James argues that, at least in this case, we are not just dealing with "words and pictures." Carneal, of course, had video game cartridges and movie cassettes. James argues that the test for determining whether an item is a product for purposes of Kentucky law is whether it is "tangible," and that the cartridges and cassettes are "tangible." As for the internet sites, James points us to a court that has held that "electricity" is a "product" for purposes of strict liability under Kentucky law. *See* [*C.G. Bryant v. Tri-County Elec. Membership Corp.,* (WD KY 1994)](http://scholar.google.com/scholar_case?case=14353781368890549739&q=james+meow&hl=en&as_sdt=6,28&scilh=0).  Internet sites are nothing more than communicative electrical pulses, James contends. James argues that there is no relevant difference
 between the internet transmissions and the electricity.
 
 And of course James is partially correct. Certainly if a video cassette
@@ -973,8 +869,7 @@ willing to separate the sense in which the tangible containers of those
 ideas are products from their communicative element for purposes of
 strict liability.&hellip; 
 
-[*See, e.g.,* [*Winter v. G.P. Putnam's Sons,* 938 F.2d 1033, 1036 (9th
-Cir.1991)](http://scholar.google.com/scholar_case?case=8197049031942033273&q=james+meow&hl=en&as_sdt=6,28&scilh=0)(publisher owed no duty of care to mushroom enthusiasts who relied on misinformation contained in *The Encyclopedia of Mushrooms*); [*Jones v. J.B. Lippincott Co.,* 694 F.Supp. 1216, 1217-18 (D.Md.  1988)](http://scholar.google.com/scholar_case?case=12134749983314046468&q=james+meow&hl=en&as_sdt=6,28&scilh=0)(publisher of medical text not liable for injuries suffered by nursing student who treated herself for constipation after consulting the text and suffered injury).]
+[*See, e.g.,* [*Winter v. G.P. Putnam's Sons,* (9th Cir.1991)](http://scholar.google.com/scholar_case?case=8197049031942033273&q=james+meow&hl=en&as_sdt=6,28&scilh=0)(publisher owed no duty of care to mushroom enthusiasts who relied on misinformation contained in *The Encyclopedia of Mushrooms*); [*Jones v. J.B. Lippincott Co.,* (D. MD  1988)](http://scholar.google.com/scholar_case?case=12134749983314046468&q=james+meow&hl=en&as_sdt=6,28&scilh=0)(publisher of medical text not liable for injuries suffered by nursing student who treated herself for constipation after consulting the text and suffered injury).]
 
 We find these decisions well reasoned. The video game cartridges, movie
 cassette, and internet transmissions are not sufficiently "tangible" to
@@ -1129,50 +1024,11 @@ advocacy, let alone incitement to engage in the practice.&hellip;
 
 ### Civil Liability? 
 
-Herceg and Andy V. contend that, while the first amendment might prevent
-the state from punishing publication of such articles as criminal, it
-does not foreclose imposing civil liability for damages that result from
-publication. In [*New York Times v.
-Sullivan*](http://scholar.google.com/scholar_case?case=10183527771703896207&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)*,*
-the Supreme Court held, "what a State may not constitutionally bring
-about by means of a criminal statute is likewise beyond the reach of its
-civil law of libel," because the fear of civil liberty might be
-"markedly more inhibiting than the fear of prosecution under a criminal
-statute." The same rationale forbids the state to impose
-damages for publication of "Orgasm of Death" if it could not
-constitutionally make the publication of that article a crime.
+Herceg and Andy V. contend that, while the first amendment might prevent the state from punishing publication of such articles as criminal, it does not foreclose imposing civil liability for damages that result from publication. In [*New York Times v.  Sullivan*](http://scholar.google.com/scholar_case?case=10183527771703896207&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)*,* the Supreme Court held, "what a State may not constitutionally bring about by means of a criminal statute is likewise beyond the reach of its civil law of libel," because the fear of civil liberty might be "markedly more inhibiting than the fear of prosecution under a criminal statute." The same rationale forbids the state to impose damages for publication of "Orgasm of Death" if it could not constitutionally make the publication of that article a crime.
 
-One state Supreme Court decision, however, may be read to imply that the
-state may impose civil liability in such a situation. In *Weirum v. RKO
-General, Inc.,* the Supreme Court of California held that
-a radio station catering primarily to teenagers could be held liable for
-wrongful death damages arising from an accident caused when two youths
-who listened to a promotional broadcast engaged in a street race in
-order to be the first to reach the site at which the station had
-announced prize money would be given away. Most  of the
-opinion dealt with whether the radio station owed a duty of care to the
-killed non-listener, and the first amendment defense was summarily
-rejected because "[t]he First Amendment does not sanction the infliction
-of physical injury merely because achieved by word, rather than
-act."
+One state Supreme Court decision, however, may be read to imply that the state may impose civil liability in such a situation. In *Weirum v. RKO General, Inc.,* the Supreme Court of California held that a radio station catering primarily to teenagers could be held liable for wrongful death damages arising from an accident caused when two youths who listened to a promotional broadcast engaged in a street race in order to be the first to reach the site at which the station had announced prize money would be given away. Most  of the opinion dealt with whether the radio station owed a duty of care to the killed non-listener, and the first amendment defense was summarily rejected because "[t]he First Amendment does not sanction the infliction of physical injury merely because achieved by word, rather than act."
 
-As the California court itself noted, "virtually every act involves some
-conceivable danger." The analysis employed by the
-California Supreme Court, however, provides no guidance for
-distinguishing between protected speech containing — or implying —
-dangerous ideas and speech so clearly and immediately dangerous and "of
-such slight social value as a step to truth that any benefit that may be
-derived from [it] is clearly outweighed by the social interest in order
-and morality." Because the speech challenged was merely a
-promotional device to encourage listeners to continue listening to the
-radio station, it may have been entitled only to limited first amendment
-protection. The broadcast announcements included
-light-hearted warnings that listeners should "get your kids out of the
-street" because of the reckless driving that the
-announcement might incite, and no warning of any kind was given to urge
-listeners who sought to win the prizes to use discretion in driving. In
-contrast, the Hustler article, while published in a magazine published
-for profit, was not an effort to achieve a commercial result and, at
+As the California court itself noted, "virtually every act involves some conceivable danger." The analysis employed by the California Supreme Court, however, provides no guidance for distinguishing between protected speech containing — or implying — dangerous ideas and speech so clearly and immediately dangerous and "of such slight social value as a step to truth that any benefit that may be derived from [it] is clearly outweighed by the social interest in order and morality." Because the speech challenged was merely a promotional device to encourage listeners to continue listening to the radio station, it may have been entitled only to limited first amendment protection. The broadcast announcements included light-hearted warnings that listeners should "get your kids out of the street" because of the reckless driving that the announcement might incite, and no warning of any kind was given to urge listeners who sought to win the prizes to use discretion in driving. In contrast, the Hustler article, while published in a magazine published for profit, was not an effort to achieve a commercial result and, at
 least in the explicit meaning of the words employed, attempts to
 dissuade its readers from conducting the dangerous activity it
 describes.&hellip;
@@ -1326,34 +1182,22 @@ amendment purposes and, analytically, can be no less important than the
 interest in reputation. The state's interest in this case is to protect
 the lives of adolescents who might be encouraged by pornographic
 publications and specifically instructed how to attempt life-threatening
-activities. In [*NAACP v. Claiborne Hardware Company,* 458 U.S. 886, 102
-S.Ct. 3409, 73 L.Ed.2d 1215
-(1982),](http://scholar.google.com/scholar_case?case=7271075303659098319&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
+activities. In [*NAACP v. Claiborne Hardware Company,* (Sct. 1982),](http://scholar.google.com/scholar_case?case=7271075303659098319&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
 the Supreme Court assumed that if violence had broken out as a result of
 Charles Evers' incendiary speech, both the mob and the speaker could
 have been subjected to damage claims by the victims. For similar
 reasons, "fighting words" have long been outside the sphere of first
-amendment protection. *See* [*Chaplinsky v. New Hampshire,* 315 U.S.
-568, 62 S.Ct. 766, 86 L.Ed. 1031
-(1942)](http://scholar.google.com/scholar_case?case=124249671461500618&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+amendment protection. *See* [*Chaplinsky v. New Hampshire,* (Sct. 1942)](http://scholar.google.com/scholar_case?case=124249671461500618&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
 The Supreme Court has also dealt favorably with state regulations
 designed to protect minors from performing sexual acts by prohibiting
-distribution of films containing such acts. [*New York v. Ferber,* 458
-U.S. 747, 102 S.Ct. 3348, 73 L.Ed.2d 1113
-(1982)](http://scholar.google.com/scholar_case?case=1226851723986989726&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+distribution of films containing such acts. [*New York v. Ferber,* (Sct. 1982)](http://scholar.google.com/scholar_case?case=1226851723986989726&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
 There the Court found it "evident beyond the need for elaboration that a
 State's interest in \`safeguarding the physical and psychological
-wellbeing of a minor' is \`compelling'." [458 U.S. at 756-57, 102 S.Ct.
-at
-3354,](http://scholar.google.com/scholar_case?case=1226851723986989726&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
-(quoting [*Globe Newspaper Co. v. Superior Court,* 457 U.S. 596, 607,
-102 S.Ct. 2613, 2620, 73 L.Ed.2d 248
-(1982)](http://scholar.google.com/scholar_case?case=9138451588502129368&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)).
+wellbeing of a minor' is \`compelling'." [*Ferber*](http://scholar.google.com/scholar_case?case=1226851723986989726&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
+(quoting [*Globe Newspaper Co. v. Superior Court,* (Sct. 1982)](http://scholar.google.com/scholar_case?case=9138451588502129368&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)).
 The Court has even gone so far as to uphold an FCC regulation banning
 "indecent" speech from the airwaves at the times when children would be
-in the audience. [*F.C.C. v. Pacifica Foundation,* 438 U.S. 726, 98
-S.Ct. 3026, 57 L.Ed.2d 1073
-(1978)](http://scholar.google.com/scholar_case?case=9738309099999149495&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+in the audience. [*F.C.C. v. Pacifica Foundation,* (Sct. 1978)](http://scholar.google.com/scholar_case?case=9738309099999149495&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
 States already regulate the distribution of pornography to minors, *see*
 Schauer, *supra* n. 9, at 196-97, and a remedy for the collateral
 consequences of unauthorized distribution, by way of a civil action for
@@ -1362,15 +1206,11 @@ damages, would only serve to reinforce that regulation.
 Permitting recovery of damages in defamation cases offers an analogous
 framework. Balanced against the state interest, the Court held in *Dun &
 Bradstreet* that the first amendment interest at stake was less
-important than the one weighed in *Gertz.* [472 U.S. at 758, 105 S.Ct.
-at
-2945](http://scholar.google.com/scholar_case?case=14343170427684392260&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+important than the one weighed in [*Gertz*](http://scholar.google.com/scholar_case?case=14343170427684392260&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
 While *Gertz* involved a libelous publication on a matter of public
 concern, the false information in *Dun & Bradstreet* was contained in a
 credit report distributed to merchants. The Court employed the test of
-content, form and context, best articulated in [*Connick v. Myers,* 461
-U.S. 138, 148-49, 103 S.Ct. 1684, 1690, 75 L.Ed.2d 708
-(1983),](http://scholar.google.com/scholar_case?case=12292534138488546769&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
+content, form and context, best articulated in [*Connick v. Myers,* (Sct. 1983),](http://scholar.google.com/scholar_case?case=12292534138488546769&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
 to analyze whether the credit report was a matter of "public concern."
 Speech on matters of "private concern," the Court found, while not
 wholly unprotected, is not as substantial relative to important state
@@ -1393,12 +1233,8 @@ regulation. No sensitive first amendment genius is required to see that,
 as the Court concluded in *Dun & Bradstreet,* "[t]here is simply no
 credible argument that this type of [speech] requires special protection
 to insure that 'debate on public issues [will] be uninhibited, robust,
-and wide-open.'" [472 U.S. at 762, 105 S.Ct. at
-2947,](http://scholar.google.com/scholar_case?case=14343170427684392260&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
-(quoting [*New York
-Times*](http://scholar.google.com/scholar_case?case=10183527771703896207&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)[*Co.
-v. Sullivan,* 376 U.S. 254, 270, 84 S.Ct. 710, 721, 11 L.Ed.2d 686
-(1967)](http://scholar.google.com/scholar_case?case=10183527771703896207&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)).
+and wide-open.'" [*Dun & Bradstreet*](http://scholar.google.com/scholar_case?case=14343170427684392260&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0) quoting [*New York
+Times v. Sullivan,* (1967)](http://scholar.google.com/scholar_case?case=10183527771703896207&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
 
 To place *Hustler* effectively on a par with *Dun & Bradstreet*'s
 "private speech" or with commercial speech, for purposes
@@ -1408,15 +1244,12 @@ of Hustler may be found legally obscene and therefore entitled to no
 first amendment protection. Second, tort liability would result
 after-the-fact, not as a prior restraint, and would be based on harm
 directly caused by the publication in issue. *See* [*NAACP v. Claiborne
-Hardware Co.,* 458 U.S. at 917-919, 102 S.Ct. at
-3427-28](http://scholar.google.com/scholar_case?case=7271075303659098319&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+Hardware Co.,*](http://scholar.google.com/scholar_case?case=7271075303659098319&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
 Third, to the extent any chilling effect existed from the exposure to
 tort liability, this would, in my view, protect society from loss of
 life and limb, a legitimate, indeed compelling, state interest. Fourth,
 obscenity has been widely regulated by prior restraints for over a
-century. Before [*Roth v. United States,* 354 U.S. 476, 77 S.Ct. 1304, 1
-L.Ed.2d 1498
-(1957),](http://scholar.google.com/scholar_case?case=14778925784015245625&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
+century. Before [*Roth v. United States,* (Sct. 1957),](http://scholar.google.com/scholar_case?case=14778925784015245625&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
 there was no *Hustler* magazine and it would probably have been banned.
 Despite such regulation, it does not appear that the pre-*Roth* era was
 a political dark age. Conversely, increasing leniency on pornography in
@@ -1489,15 +1322,12 @@ End of excerpts from Judge Edith Grossman's concurring & dissenting opinion.
 
 #### Note on *Weirum v. RKO*
 
-In [*Weirum v. RKO,* 15 Cal.3d 40, 123 Cal.Rptr. 468, 539
-P.2d 36
-(1975),](http://scholar.google.com/scholar_case?case=836093554391354911&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
+In [*Weirum v. RKO,* (CA 1975),](http://scholar.google.com/scholar_case?case=836093554391354911&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
 the Supreme Court of California held a radio station liable for
 broadcasting a promotional event which caused the teenage listeners to
 participate in a high-speed chase in the Los Angeles freeways killing a
 motorist. There was a direct connection between the station's broadcast
-and the fatal accident. In [*Hyde v. Missouri,* 637 S.W.2d 251
-(Mo.Ct.App.1982)](http://scholar.google.com/scholar_case?case=6013208883755367940&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
+and the fatal accident. In [*Hyde v. Missouri,* (Mo. Ct. App. 1982)](http://scholar.google.com/scholar_case?case=6013208883755367940&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
 the court held a newspaper and other defendants liable for publishing
 the name of a victim of a sexual assault while her attacker was still at
 large. The causal connection between the published information and the
