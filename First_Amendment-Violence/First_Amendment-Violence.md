@@ -3,8 +3,6 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: First Amendment - Violence
-date: 30-Aug-2014 
-version: 1.1
 ---
 
 # Lawyers For The Talent
