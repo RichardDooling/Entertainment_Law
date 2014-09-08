@@ -11,13 +11,11 @@ version: 1.0
 
 ###### by Richard Dooling
 
-**!!! Page Under Construction !!!**
-
 ## Defamation - Privacy 
 
-# "Life Story Rights" 
+### "Life Story Rights" 
 
-Do artists have a First Amendment right to tell stories, or write songs, or make movies that someone else believes defames them? Invades their privacy? “Steals” their “life story”?
+Do artists have a First Amendment right to tell stories, or write songs, or make movies that someone else believes defames them? Invades their privacy? "Steals" their "life story"?
 
 Sometimes called "life story rights," these rights are usually a simple
 agreement not to sue for defamation, invasion of privacy, and many other
@@ -37,16 +35,16 @@ In the international context, these rights are all jurisdiction-specific and dep
 Stories, songs, movies, even photos about real people, may defame them, especially if those works of art contain or suggest false statements of fact. 
 
 * [Wikipedia: Defamation](http://en.wikipedia.org/wiki/Defamation) (please read only sections 1-5, from "Types" to "Freedom of Speech").
-* [Libel In Fiction: Making A Henry James Adaptation Too Personal](http://www.hollywoodreporter.com/thr-esq/screenwriter-sued-making-henry-james-697876)
+* [Libel In Fiction: Making A Henry James Adaptation Too Personal](http://www.hollywoodreporter.com/thr-esq/screenwriter-sued-making-henry-james-697876).
 * [“Fact-Based Stories”](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. 2009. 
 * [Defamation Law Made Simple at Nolo.com.][defamation]
-* [FreeAdvice: How to Prove Libel or Slander](http://injury-law.freeadvice.com/injury-law/libel_and_slander/prove-libel-and-slander.htm)
-* [Eric E. Johnson](http://www.ericejohnson.com/), [Defamation Flowchart](http://eejlaw.com/m/defamation_flowcharts.pdf)
+* [FreeAdvice: How to Prove Libel or Slander](http://injury-law.freeadvice.com/injury-law/libel_and_slander/prove-libel-and-slander.htm).
+* [Eric E. Johnson](http://www.ericejohnson.com/), [Defamation Flowchart](http://eejlaw.com/m/defamation_flowcharts.pdf).
 
 ### Headline Cases
 
-*   [*New York Times Co. v. Sullivan*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=376+us+254&appflag=67.12), 376 U.S. 254 (1964). [Wikipedia](http://en.wikipedia.org/wiki/New_York_Times_Co._v._Sullivan)
-*   [NYTimes Editorial: The Uninhibited Press 50 Years Later](http://www.nytimes.com/2014/03/09/opinion/sunday/the-uninhibited-press-50-years-later.html).
+* [*New York Times Co. v. Sullivan*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=376+us+254&appflag=67.12), 376 U.S. 254 (1964). [Wikipedia](http://en.wikipedia.org/wiki/New_York_Times_Co._v._Sullivan).
+* [NYTimes Editorial: The Uninhibited Press 50 Years Later](http://www.nytimes.com/2014/03/09/opinion/sunday/the-uninhibited-press-50-years-later.html).
 
 ### Defamation
 
@@ -219,7 +217,6 @@ Shulman then appealed to the California Supreme Court. In an important decision 
 #### Totally Optional Readings & Viewings
 
 [The New Yorker: Time, Inc. v. Hill](http://www.newyorker.com/archive/1989/04/17/1989_04_17_090_TNY_CARDS_000350412) (description of the Hill case, which was argued by Richard Nixon before he became President of the United States).
-
 
 old page below
 --------------
