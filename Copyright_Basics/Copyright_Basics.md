@@ -201,18 +201,14 @@ Many additional protections come with registration, but probably most important 
 *   [*Denker v.  Uhry,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=820+F.+Supp.+722&appflag=67.12) 820 F. Supp. 722 (SDNY 1992). [*New York Times*](http://www.nytimes.com/1992/12/10/style/chronicle-352892.html).
 *   [*Beal v. Paramount Pictures,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=806fsupp963&appflag=67.12) 806 F. Supp. 963 (ND Ga 1992). [Noncopyrightable subject
     matter](http://itlaw.wikia.com/wiki/Noncopyrightable_subject_matter).
-*   [*Campbell AKA Luke Skywalker v. Acuff-Rose Music, Inc.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=510us569&appflag=67.12) 510 US 569 (1994).  [Wikipedia](http://en.wikipedia.org/wiki/Campbell_v._Acuff-Rose_Music,_Inc.).  
 
 ### Recommended Reading & Listening ###
 
-*   [Larry Lessig TED Talk on User Generated
-    Content](http://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity.html).
-*   [Lawrence Lessig Sues Over Takedown of YouTube Video Featuring
-    Phoenix
-    Song](http://www.hollywoodreporter.com/thr-esq/lawrence-lessig-sues-takedown-youtube-613549)
-*   [*Harper & Row v. The
-    Nation,*][harper] 471 US 439 (1985). [Wikipedia](http://en.wikipedia.org/wiki/Harper_%26_Row_v._Nation_Enterprises)
-*   [Beastie Boys Fight Online Parody of 'Girls'][beastie]
+* [Larry Lessig TED Talk on User Generated Content](http://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity.html).
+* [Lawrence Lessig Sues Over Takedown of YouTube Video Featuring Phoenix Song](http://www.hollywoodreporter.com/thr-esq/lawrence-lessig-sues-takedown-youtube-613549)
+* [Beastie Boys Fight Online Parody of 'Girls'][beastie]
+* [Marvin Gaye's Children Use Audio Mashup to Prove 'Blurred Lines' Is Infringing](http://www.hollywoodreporter.com/thr-esq/marvin-gayes-children-use-audio-731178)
+
 
 [4ever-1day]: http://www.youtube.com/watch?v=tk862BbjWx4 "Forever Less One Day: Copyright"
 [101]: http://www.copyright.gov/title17/92chap1.html#101 "Section 101: Defintions"

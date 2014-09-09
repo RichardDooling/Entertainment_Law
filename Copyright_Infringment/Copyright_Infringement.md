@@ -109,9 +109,17 @@ The court does. AFTER the fact. Meaning that the accused infringer has already b
 
 ###### Harper & Row v. The Nation (Sct. 1985)
 
-In March 1979, an undisclosed source provided The Nation Magazine with the unpublished manuscript of *A Time to Heal: The Autobiography of Gerald R. Ford.* Working directly from the bootleg manuscript, an editor of The Nation produced a short piece entitled “The Ford Memoirs-Behind the Nixon Pardon.” 
+The Watergate Scandall forced Richard Nixon to resign as President of the United States in 1974. Vice President Gerald Ford became president, and thirty days later granted Nixon a full pardon for any crimes he may have committed while in office. 
 
-The Nation piece was timed to “scoop” an article scheduled shortly to appear in Time Magazine. Time had agreed to purchase the exclusive right to print prepublication excerpts from the copyright holders, Harper & Row Publishers, Inc. ("Harper"). When Time found out about The Nation article, Time canceled its agreement. 
+The decision caused an outrcy in the press and public indignation from citizens (particularly Democracts) who wanted Nixon tried, convicted, and possibly sent to prison. 
+
+Five years later, Ford published *A Time to Heal: The Autobiography of Gerald R. Ford.* and was marketed in part as Ford's chance to explain his decision to pardon Nixon. 
+
+In March 1979, weeks before Ford's publisher *Harper & Row* planned to publish *A Time To Heal,* an undisclosed source provided The Nation Magazine with Ford's unpublished manuscript. 
+
+Working directly from the bootleg copy of the pages, an editor of The Nation produced a short piece entitled “The Ford Memoirs-Behind the Nixon Pardon.” 
+
+The Nation piece was timed to "scoop" an article scheduled shortly to appear in Time Magazine. Time had agreed to purchase the exclusive right to print prepublication excerpts from the copyright holders, Harper & Row Publishers, Inc. ("Harper"). When Time found out about The Nation article, Time canceled its agreement. 
 
 Harper sued The Nation for copyright infringement and won. 
 
@@ -131,7 +139,7 @@ As for the *character* of The Nation's use, the trial court found that The Natio
 
 2. The nature of the copyrighted work:
 
-The Court characterized “A Time to Heal” as an unpublished historical narrative or autobiography. The law generally recognizes a greater need to disseminate factual works than works of fiction or fantasy, but the Court again stressed: "The fact that a work is unpublished is a critical element of its 'nature.'"
+The Court characterized "A Time to Heal" as an unpublished historical narrative or autobiography. The law generally recognizes a greater need to disseminate factual works than works of fiction or fantasy, but the Court again stressed: "The fact that a work is unpublished is a critical element of its 'nature.'"
 
 > The right of first publication encompasses not only the choice whether to publish at all, but also the choices of when, where, and in what form first to publish a work.
 
@@ -147,7 +155,7 @@ The Court found that "this last factor is undoubtedly the single most important 
 
 #### Headline cases ####
 
-*  [*Harper & Row v. The Nation,*](http://en.wikipedia.org/wiki/Harper_%26_Row_v._Nation_Enterprises) (Sct. 1985).
+* [*Harper & Row v. The Nation,*][harper] 471 US 439 (1985). [Wikipedia](http://en.wikipedia.org/wiki/Harper_%26_Row_v._Nation_Enterprises)
 *   [*Campbell AKA Luke Skywalker v. Acuff-Rose Music, Inc.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=510us569&appflag=67.12) 510 US 569 (1994).  [Wikipedia](http://en.wikipedia.org/wiki/Campbell_v._Acuff-Rose_Music,_Inc.). 
  
 ##### Reference/Footnote Cases
@@ -176,5 +184,5 @@ http://creativeartsadvocate.com/independent-creation-vs-subconscious-copying/)
 * [NYTimes on 5Pointz Graffiti Site](http://www.nytimes.com/2013/11/20/nyregion/5pointz-a-graffiti-mecca-in-queens-is-wiped-clean-overnight.html)
 
 [aba-copyright]: http://www.americanbar.org/groups/young_lawyers/publications/the_101_201_practice_series/elements_of_a_copyright.html "Elements of Copyright Claim"
-
+[harper]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=105+S.Ct.+2218&appflag=67.12 "Harper & Row v. Nation Enterprises"
 [beastie]: http://artsbeat.blogs.nytimes.com/2013/11/25/the-beastie-boys-fight-online-video-parody-of-girls/?_r=0 "Beastie Boys Mad About 'Girls' Parody"
