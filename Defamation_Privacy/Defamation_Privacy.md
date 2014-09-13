@@ -31,8 +31,7 @@ Let's look first at defamation.
 
 Stories, songs, movies, even photos about real people, may defame them, especially if those works of art contain or suggest false statements of fact. 
 
-* [Wikipedia: Defamation](http://en.wikipedia.org/wiki/Defamation) (please read only sections 1-5, from "Types" to "Freedom of Speech").
-* [“Fact-Based Stories”](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. 2009. 
+* ["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. 2009. 
 * [Defamation Law Made Simple at Nolo.com.][defamation]
 * [FreeAdvice: How to Prove Libel or Slander](http://injury-law.freeadvice.com/injury-law/libel_and_slander/prove-libel-and-slander.htm).
 * [Eric E. Johnson](http://www.ericejohnson.com/), [Defamation Flowchart](http://eejlaw.com/m/defamation_flowcharts.pdf).
@@ -72,7 +71,7 @@ Statements are defamatory per se where they falsely impute to the plaintiff one 
 
 ### Defamation Meets First Amendment
 
-Sometimes called the constitutionalization of defamation, *New York Times v. Sullivan* changed everything for public officials who don't like the way they are portrayed in the press. It all started in Montgomery, Alabama and the civil rights movement in the South. 
+Sometimes called the constitutionalization of defamation law, *New York Times v. Sullivan* changed everything for public officials who don't like the way they are portrayed in the press. It all started in Montgomery, Alabama and the civil rights movement in the South. 
 
 ## New York Times v. Sullivan
 
@@ -800,14 +799,7 @@ Cir.1989)](http://scholar.google.com/scholar_case?case=1704090655237798849&q=mat
 #### B.
 
 Matthews also contends that appropriation can occur through the
-fictionalized account of his life. *See* [*Benavidez v. Anheuser Busch,
-Inc.,* 873 F.2d 102, 104 (5th Cir.
-1989)](http://scholar.google.com/scholar_case?case=6814196677681817464&q=matthews+wozencraft&hl=en&as_sdt=6,28&scilh=0).
-The cases he cites, however, do not support his argument, as they apply
-the "false light" doctrine. In each of them, (1) the plaintiff's real
-name was used; (2) false or defamatory statements were made regarding
-the plaintiff; and (3) the plaintiff alleged invasion of privacy by
-false light, not misappropriation.
+fictionalized account of his life. The cases he cites, however, do not support his argument, as they apply the "false light" doctrine. In each of them, (1) the plaintiff's real name was used; (2) false or defamatory statements were made regarding the plaintiff; and (3) the plaintiff alleged invasion of privacy by false light, not misappropriation.
 
 By contrast, RUSH does not use Matthews's real name, and Matthews admits
 that all the material facts are true. Thus, assuming he is trying to
@@ -816,18 +808,7 @@ misappropriation, his attempt fails.
 
 #### C.
 
-Even if Matthews has created a genuine issue of material fact on his
-misappropriation claim, Wozencraft is entitled to summary judgment as a
-matter of law because of free speech and public domain defenses. Even
-though the district court did not base its holding upon these grounds,
-they can still serve as the basis for affirming. *See* [*Degan v. Ford
-Motor Co.,* 869 F.2d 889, 892 (5th
-Cir.1989)](http://scholar.google.com/scholar_case?case=11996769050209238283&q=matthews+wozencraft&hl=en&as_sdt=6,28&scilh=0)
-(court may ignore any erroneous holding of the district court and affirm
-judgment on other grounds); [*Church of Scientology v. Cazares,* 638
-F.2d 1272 (5th Cir. Mar.
-1981)](http://scholar.google.com/scholar_case?case=14275925964255270542&q=matthews+wozencraft&hl=en&as_sdt=6,28&scilh=0)
-(same).
+Even if Matthews has created a genuine issue of material fact on his misappropriation claim, Wozencraft is entitled to summary judgment as a matter of law because of free speech and public domain defenses. 
 
 #####  1.
 
@@ -835,7 +816,7 @@ While there is no binding authority directly on point, we conclude that
 Wozencraft's novel falls within the protection of the First Amendment.
 It is immaterial whether RUSH "is viewed as an historical or a fictional
 work," [*Meeropol v. Nizer* (2d Cir.1977),](http://scholar.google.com/scholar_case?case=15243536244801528103&q=matthews+wozencraft&hl=en&as_sdt=6,28&scilh=0) so long as it is not "simply a disguised commercial advertisement for
-the sale of goods or services." [*Rogers v. Grimaldi* (2d Cir.1989)](http://scholar.google.com/scholar_case?case=1704090655237798849).
+the sale of goods or services." [*Rogers v. Grimaldi* (2d Cir. 1989)](http://scholar.google.com/scholar_case?case=1704090655237798849).
 
 The book and its accompanying publicity have converted Matthews into a
 public figure under [*Gertz v. Robert Welch, Inc.* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202)
