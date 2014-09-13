@@ -43,19 +43,6 @@ Two forms: Libel and slander.
 * Libel (mneumonic sounds like "label") is defamation in print; it's written or recorded, as in television or movies.   
 * Slander is defamation by way of the spoken word.
 
-#### Elements
-
-First let's look at rules for stating a claim for defamation as they existed before *New York Time v. Sullivan*. 
-
-A plaintiff suing for defamation had to prove:
-
-1. A statement had been made about the plaintiff;
-2. The statement had been "published" to at least one other party;
-3. The statement was false (presumed at common law);
-4. The statement harmed the subject's reputation by lowering his or her standing in at least some part of the community. 
-
-[Restatement 2nd of Torts §559](http://tinyurl.com/ksezohp)
-
 #### Defamation Per Se
 
 All states, except Arizona, Arkansas, Missouri, and Tennessee, recognize that some categories of false statements are so harmful that they are considered to be defamatory per se. In the common law tradition, damages for such false statements are presumed and do not have to be proven.
@@ -71,7 +58,20 @@ Statements are defamatory per se where they falsely impute to the plaintiff one 
 
 ### Defamation Meets First Amendment
 
-Sometimes called the constitutionalization of defamation law, *New York Times v. Sullivan* changed everything for public officials who don't like the way they are portrayed in the press. It all started in Montgomery, Alabama and the civil rights movement in the South. 
+Sometimes called the constitutionalization of defamation law, [*New York Times v. Sullivan*][sullivan] changed everything for public officials who don't like the way they are portrayed in the press. It all started in Montgomery, Alabama and the civil rights movement in the South. 
+
+#### Elements
+
+First let's look at the rules for stating a claim for defamation as they existed before [*New York Time v. Sullivan*][sullivan]. 
+
+A plaintiff suing for defamation had to prove:
+
+1. A statement had been made about the plaintiff;
+2. The statement had been "published" to at least one other party;
+3. The statement was false (presumed at common law);
+4. The statement harmed the subject's reputation by lowering his or her standing in at least some part of the community. 
+
+[Restatement 2nd of Torts §559](http://tinyurl.com/ksezohp).
 
 ## New York Times v. Sullivan
 
@@ -273,8 +273,7 @@ that defendants entertained serious doubts as to Hauser's account or
 that there were obvious reasons to doubt the veracity or accuracy of
 Hauser's book. Absent such evidence, reliance on *Execution* is not
 evidence of actual malice. [*Herbert v. Lando*](http://scholar.google.com/scholar_case?case=16697660620075994229) (plaintiff must show either that publisher "entertained serious doubts"
-or "obvious reasons" to doubt source). [*St. Amant*](http://scholar.google.com/scholar_case?case=8635492247136926004) ("[R]eckless conduct is not measured by whether a reasonably prudent man
-would have published or would have investigated before publishing.")
+or "obvious reasons" to doubt source). [*St. Amant*][amant] ("[R]eckless conduct is not measured by whether a reasonably prudent man would have published or would have investigated before publishing.")
 
 #### C. *Failure to Consult Plaintiff Prior to Making Film*
 
@@ -398,8 +397,7 @@ In [*Street v. National Broadcasting Co.* (6th Cir.),](http://scholar.google.com
 Court of Appeals affirmed a ruling on a directed verdict that the
 dramatization embodied in defendant's broadcast program on the
 Scottsboro rape trial was protected by the [*New York Times v.
-Sullivan*](http://scholar.google.com/scholar_case?case=10183527771703896207)
-standard, and not chargeable with actual malice. While the dramatization
+Sullivan*][sullivan] standard, and not chargeable with actual malice. While the dramatization
  contained certain literal falsehoods, including undocumented
 statements and conversations &hellip; the movie was based "in all material respects" on the Judge's findings in the Scottsboro case, and a book by a historian documenting the
 Scottsboro trial. *Id.* at 1237. 
@@ -414,7 +412,7 @@ Scottsboro trial. *Id.* at 1237.
 [*Hotchner v. Castillo-Puche* (2d Cir. 1977)](http://scholar.google.com/scholar_case?case=15961362284476302575). Defendant published a book which purported to quote derogatory remarks
 by Ernest Hemingway about plaintiff. Defendant did not print the literal
 words used by Hemingway, and "was fictionalizing to some extent."
-[*Hotchner,* 551 F.2d at 914](http://scholar.google.com/scholar_case?case=15961362284476302575&q=davis+v.+costa-gavras&hl=en&as_sdt=6,28&scilh=0).
+[*Hotchner,* 551 F.2d at 914](http://scholar.google.com/scholar_case?case=15961362284476302575).
 The Court of Appeals held that such fictionalization or dramatization
 does not satisfy the requirement of clear and convincing evidence from
 which a jury might reasonably find that defendant published the alleged
@@ -530,7 +528,7 @@ Junta, tells Ed Horman that a friend was present and saw Charles
 detained at the Ministry of Defense in the office of Chilean General
 Lutz, after he was arrested. According to the friend, an American
 official was present in the office when the decision was made that the
-prisoner "must \`disappear'" because "he knew too much." Paris could not
+prisoner "must 'disappear'" because "he knew too much." Paris could not
 identify the American official but noted that, "The ministry is full of
 them. Their Milgroup office is just down the hall from the General."
 
@@ -829,7 +827,6 @@ v. Hill* (S.Ct. 1967)](http://scholar.google.com/scholar_case?case=1317837040906
 Neither the book nor the movie holds out Matthews in a false light or in
 an embarrassing way; thus, his claim is meritless.
 
-
 ##### 2.
 
 Liability for misappropriation also will not arise when the information
@@ -880,13 +877,14 @@ Matthews has created no genuine issue of material fact under Texas law.
 Thus, we AFFIRM the district court's grant of summary judgment on all
 claims.
 
+##### footnote
+
 *See* W. PAGE KEETON ET AL., PROSSER AND KEETON ON THE LAW
 OF TORTS § 117 at 853 (5th ed. 1984) ("Nor is there any liability [for
 misappropriation] when the plaintiff's character, occupation and the
 general outline of his career, with many incidents in his life, are used
 as the basis for a figure in a novel who is still clearly a fictional
 one.")
-
 
 ## Privacy Rights 
 
@@ -898,7 +896,6 @@ Privacy rights come in four different flavors, best described by Justice Louis B
 2. Publication of Private Facts - Public disclosure of true but embarrassing private facts.
 3. False Light - Presentation of people in a false light in the public eye.
 4. Celebrity Publicity Rights - Appropriation of one's name, image, or likeness.
-
 
 [Wikipedia: Privacy Laws of the United States](http://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States)  
 [Wikipedia: Privacy Laws By Country](http://en.wikipedia.org/wiki/Privacy_law#Privacy_laws_by_country)
@@ -940,35 +937,1030 @@ Defamation focuses on the damage to the plaintiff’s reputation in the communit
 
 ### *Shulman v. Group W. Productions* (CA 1998) 
 
-*  [*Shulman v. Group W.  Productions*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=955+P.2d+469&appflag=67.12), 955 P.2d 469 (Cal. Sct. 1998).
+* [case at Google scholar](http://scholar.google.com/scholar_case?case=699835474797912872)
+* [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=955+P.2d+469&appflag=67.12), 955 P.2d 469 (Cal. Sct. 1998).
 
 A medical news team (with a private paramedic and a ride-along cameraman) covered a car crash in which Ruth Shulman was gravely injured. The news team filmed the scene and put a mic on a nurse, who went into the helicopter where Ruth Shulman was being treated for her injuries.
 
-The accident turned Ruth Shulman into a paraplegic. The news team videotaped her saying things like, “I just want to die. I don’t want to go through with this.” Shulman was in a state of shock at the accident scene, so she did not recall that her statements were videotaped and recorded.
+The accident turned Ruth Shulman into a paraplegic. The news team videotaped her saying things like, "I just want to die. I don’t want to go through with this." Shulman was in a state of shock at the accident scene, so she did not recall that her statements were videotaped and recorded.
 
 Three months after the accident, Ruth Shulman watched herself on *On Scene: Emergency Response*, a reality news show. The producers did not use her last name, but Shulman was upset that her comments and images of her were enhanced, and then aired on national television – without her permission. 
 
 Ruth Shulman sued for invasion of privacy. Her case was dismissed when the Superior Court ruled that the media had a First Amendment right to videotape and broadcast the sights and sounds of her ordeal. 
 
-Shulman then appealed to the California Supreme Court. In an important decision for the right of privacy, the Supreme Court found for Ruth Shulman by ruling that the reality TV show producers intruded on Ruth Shulman's right of privacy at the scene of the highway accident by filming and recording her ordeal without her permission. 
+Shulman then appealed to the California Supreme Court. In an important decision for the right of privacy, the Supreme Court found for Ruth Shulman by ruling that the reality TV show producers intruded on Ruth Shulman's right of privacy at the scene of the highway accident by filming and recording her ordeal without her permission.
+
+## Haynes v. Alfred A. Knopf, Inc.
+
+###### US Court of Appeals, 7th Circuit (1993)
+
+* [case on Google Scholar](http://scholar.google.com/scholar_case?case=1592914839096728664)
+* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=8+F.3d+1222&appflag=67.12)
+
+POSNER, Chief Judge.
+
+Luther Haynes and his wife, Dorothy Haynes née Johnson, appeal from the
+dismissal on the defendants' motion for summary judgment of their suit
+against Nicholas Lemann, the author of a highly praised, best-selling
+book of social and political history called *The Promised Land: The
+Great Black Migration and How It Changed America* (1991), and Alfred A.
+Knopf, Inc., the book's publisher. The plaintiffs claim that the book
+libels Luther Haynes and invades both plaintiffs' right of privacy.
+Federal jurisdiction is based on diversity, and the common law of
+Illinois is agreed to govern the substantive issues. The appeal presents
+difficult issues at the intersection of tort law and freedom of the
+press.
+
+Between 1940 and 1970, five million blacks moved from impoverished rural
+areas in the South to the cities of the North in search of a better
+life. Some found it, and after sojourns of shorter or greater length in
+the poor black districts of the cities moved to middle-class areas.
+Others, despite the ballyhooed efforts of the federal government,
+particularly between 1964 and 1972, to erase poverty and racial
+discrimination, remained mired in what has come to be called the "urban
+ghetto." *The Promised Land* is a history of the migration. It is not
+history as a professional historian, a demographer, or a social
+scientist would write it. Lemann is none of these. He is a journalist
+and has written a journalistic history, in which the focus is on
+individuals whether powerful or representative. In the former group are
+the politicians who invented, executed, or exploited the "Great Society"
+programs. In the latter are a handful of the actual migrants. Foremost
+among these is Ruby Lee Daniels. Her story is the spine of the book. We
+are introduced to her on page 7; we take leave of her on page 346,
+within a few pages of the end of the text of the book.
+
+When we meet her, it is the early 1940s and she is a young woman picking
+cotton on a plantation in Clarksdale, Mississippi. "[B]lack sharecropper
+society on the eve of the introduction [in the 1940s] of the mechanical
+cotton picker [a major spur to the migration] was the equivalent of
+big-city ghetto society today in many ways. It was the national center
+of illegitimate childbearing and of the female-headed family." Ruby had
+married young, but after her husband had been inducted into the army on
+the eve of World War II she had fallen in love with a married man, by
+whom she had had a child. The man's wife died and Ruby married him, but
+they broke up after a month. Glowing reports from an aunt who had moved
+to Chicago persuaded Ruby Daniels to move there in 1946. She found a job
+doing janitorial work, but eventually lost the job and went on public
+aid. She was unmarried, and had several children, when in 1953 she met
+"the most important man in her life." Luther Haynes, born in 1924 or
+1925, a sharecropper from Mississippi, had moved to Chicago in an effort
+to effect a reconciliation with his wife. The effort had failed. When he
+met Ruby Daniels he had a well-paying job in an awning factory. They
+lived together, and had children. But then "Luther began to drink too
+much. When he drank he got mean, and he and Ruby would get into
+ferocious quarrels. He was still working, but he wasn't always bringing
+his paycheck home." Ruby got work as a maid. They moved to a poorer part
+of the city. The relationship went downhill. "It got to the point where
+[Luther] would go out on Friday evenings after picking up his paycheck,
+and Ruby would hope he wouldn't come home, because she knew he would be
+drunk. On the Friday evenings when he did come home — over the years
+Ruby developed a devastating  imitation of Luther, and could
+recreate the scene quite vividly — he would walk into the apartment, put
+on a record and turn up the volume, and saunter into their bedroom, a
+bottle in one hand and a cigarette in the other, in the mood for love.
+On one such night, Ruby's last child, Kevin, was conceived. Kevin always
+had something wrong with him — he was very moody, he was scrawny, and he
+had a severe speech impediment. Ruby was never able to find out exactly
+what the problem was, but she blamed it on Luther; all that alcohol must
+have gotten into his sperm, she said."
+
+Ruby was on public aid, but was cut off when social workers discovered
+she had a man in the house. She got a night job. Luther was supposed to
+stay with the children while she was at work, especially since they
+lived in a dangerous neighborhood; but often when she came home, at 3:00
+a.m. or so, she would "find the older children awake, and when she would
+ask them if Luther had been there, the answer would be, 'No, ma'am.'"
+Ruby's last aid check, arriving providentially after she had been cut
+off, enabled the couple to buy a modest house on contract — it "was, by
+a wide margin, the best place she had ever lived." But "after only a few
+months, Luther ruined everything by going out and buying a brand-new
+1961 Pontiac. It meant more to him than the house did, and when they
+couldn't make the house payment, he insisted on keeping the car" even
+though she hadn't enough money to buy shoes for the children. The family
+was kicked out of the house. They now moved frequently. They were
+reaching rock bottom. At this nadir, hope appeared in the ironic form of
+the Robert Taylor Homes, then a brand-new public housing project, now a
+notorious focus of drug addiction and gang violence. Ruby had had an
+application for public housing on file for many years, but the housing
+authority screened out unwed mothers. Told by a social worker that she
+could have an apartment in the Taylor Homes if she produced a marriage
+license, she and Luther (who was now divorced from his first wife) were
+married forthwith and promptly accepted as tenants. "The Haynes family
+chose to rejoice in their good fortune in becoming residents of the
+Robert Taylor Homes. As Ruby's son Larry, who was twelve years old at
+the time, says, 'I thought that was the beautifullest place in the
+world.'"
+
+Even in the halcyon days of 1962, the Robert Taylor Homes were no
+paradise. There was considerable crime, and there were gangs, and Ruby's
+son Kermit joined one. Kermit was not Luther's son and did not recognize
+his authority. The two quarreled a lot. Meanwhile Luther had lost his
+job in the awning factory "that he had had for a decade, and then
+bounced around a little. He lost jobs because of transportation
+problems, because of layoffs, because of a bout of serious illness,
+because of his drinking, because he had a minor criminal record (having
+been in jail for disorderly conduct following a fight with Ruby), and
+because creditors were after him." He resumed "his old habit of not
+returning from work on Fridays after he got his paycheck." One weekend
+he didn't come home at all. In a search of his things Ruby discovered
+evidence that Luther was having an affair with Dorothy Johnson, a former
+neighbor. "Luther was not being particularly careful; he saw in Dorothy,
+who was younger than Ruby, who had three children compared to Ruby's
+eight, who had a job while Ruby was on public aid, the promise of an
+escape from the ghetto, and he was entranced." The children discovered
+the affair. Kermit tried to strangle Luther. In 1965 Luther moved out
+permanently, and eventually he and Ruby divorced.
+
+Ruby remained in the Robert Taylor Homes until 1979, when she moved back
+to Clarksdale. She had become eligible for social security in 1978; and
+with her surviving children (one of her sons had died, either a suicide
+or murdered) now adults, though most of them deeply troubled adults and
+Kevin, whom Ruby in a custody proceeding described as retarded, still
+living at home, Ruby "is settling into old age with a sense of
+contentment about the circumstances she has found." But "there has
+always been that nagging sensation of incompleteness, which made itself
+felt most directly in her relationships with men."
+
+ After divorcing Ruby, Luther Haynes married Dorothy Johnson.
+He is still married to her, "owns a home on the far South Side of
+Chicago, and has worked for years as a parking-lot attendant; only
+recently have he and Ruby found that they can speak civilly to each
+other on the phone."
+
+There is much more to the book than our paraphrase and excerpts—much
+about other migrants, about the travails of Ruby's children, about
+discrimination against blacks in both the North and the South, and about
+the politics of poverty programs in Washington and Chicago. But the
+excerpts we have quoted contain all the passages upon which the
+Hayneses' lawsuit is founded.
+
+### Defamation
+
+The charge of libel is confined to three statements in the book: that Haynes left his children alone at night when he was supposed to be watching them; that he lost a job or jobs because of drinking; and that he spent money on a car that he should have used to buy shoes for his children. We do not agree with the defendants that the dismissal of the libel claim must be upheld because Haynes has failed to allege pecuniary loss from the alleged libels ("special damages"). The rule in Illinois, which used to be limited to slander cases but has been extended to all defamation cases, [*Brown & Williamson Tobacco Corp. v. Jacobson* (7th Cir.1983)](http://scholar.google.com/scholar_case?case=2482630921714735229) is that a plaintiff can maintain a suit for defamation without proof of special damages only if the defamatory statement falls into one of four "per se" categories: commission of a crime; infection with a type of communicable disease that could cause the infected person to be shunned; malfeasance or misfeasance in the performance of an office or a job; and (what is closely related, but less redolent of actual misconduct and usable by business firms as well as by workers or professionals) unfitness for one's profession or trade. *Id.* at 267-68; [*Mittelman v.  Witous* (Ill. 1989)](http://scholar.google.com/scholar_case?case=13391763345781536115).  The statements that Haynes claims are libelous can be interpreted, though just barely, as implying that he was guilty of criminal neglect of his children and was unable to discharge the duties of at least one of his jobs because of alcohol. Ever since modification of the "innocent construction" doctrine in [*Chapski v. Copley Press* (Ill. 1982),](http://scholar.google.com/scholar_case?case=13218046548992207255) which left the doctrine meaning merely that a court should not strain to put a defamatory interpretation on an ambiguous statement, Illinois courts (and federal courts when interpreting Illinois law) have
+been quick to find implications of criminal conduct or of employee or
+business misconduct in statements that might have seemed susceptible of
+an interpretation that would have taken them out of the per se
+categories. See [*Babb v. Minder* (7th Cir. 1986)](http://scholar.google.com/scholar_case?case=3037575594865725968) (statement that employee had "mooned" held actionable as an accusation
+of the crime of indecent exposure); [*Costello v. Capital Cities
+Communications, Inc.* (Ill. 1988)](http://scholar.google.com/scholar_case?case=2262435237814463228)
+(statement that employee had lied held actionable as implying lack of
+integrity in performance of duties); 
+[*Crinkley v. Dow Jones & Co.*(Ill.App.3d 1983)](http://scholar.google.com/scholar_case?case=10602561162619040127&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+(statement alleging payoffs to agents of foreign governments held
+actionable); [*Brown & Williamson Tobacco Corp. v. Jacobson* (7th Cir. 1983)](http://scholar.google.com/scholar_case?case=2482630921714735229)
+(allegations that cigarette company attempted through its advertising to
+entice children to smoke held actionable).
+
+The requirement of proving special damages does prevent Haynes from
+basing a libel claim on two other statements in the book that he
+contends are false: that his drinking was responsible for Kevin's
+defects and that his motives for leaving Ruby for Dorothy were
+financial. (The second is an implication rather than an outright
+statement, but we shall give Haynes the benefit of the doubt and assume
+with him that the book implies that his motives were financial rather
+than—an interpretation that the passage also supports, and that the
+innocent-construction rule, even in its tempered form after *Chapski,*
+might therefore require be placed on it — a more diffuse hope of
+betterment.) These statements are not within any of the per se
+categories and therefore are not actionable, because Haynes alleges no
+pecuniary injury.  They probably would be nonactionable in any
+event as obvious statements of opinion (Ruby's and Lemann's
+respectively) rather than of fact. A statement of fact is not shielded
+from an action for defamation by being prefaced with the words "in my
+opinion," but if it is plain that the speaker is expressing a subjective
+view, an interpretation, a theory, conjecture, or surmise, rather than
+claiming to be in possession of objectively verifiable facts, the
+statement is not actionable. [*Milkovich v. Lorain Journal Co.* (S.Ct. 1990)](http://scholar.google.com/scholar_case?case=7582860956470530700);
+
+The facts about Kevin's condition and about the respective financial
+circumstances of Ruby and Dorothy were uncontested, and Ruby and Lemann
+were entitled to their interpretation of them. Luther drank heavily; the
+proposition that a man's heavy drinking can, and that Luther's heavy
+drinking did, damage a fetus is represented in the book merely as Ruby's
+conjecture. A reasonable reader would not suppose that she had proof, or
+even the scientific knowledge that might ground a reasonable inference.
+As for Luther's motives for leaving Ruby for Dorothy, they can never be
+known for sure (even by Luther) and anyone is entitled to speculate on a
+person's motives from the known facts of his behavior. Luther Haynes
+left a poor woman for a less poor one, and Lemann drew a natural though
+not inevitable inference. He did not pretend to have the inside dope. He
+and Ruby claim insight, not information that the plaintiff might be able
+to prove false in a trial.
+
+Lemann's source for the only statements upon which Luther Haynes can
+base his claim for defamation, as for most of the rest of what he wrote
+about Haynes, was Ruby Daniels. He had interviewed Haynes as well, but
+Haynes in his deposition denied that Lemann had questioned him about his
+relationship with Ruby. Haynes swears that he never left his children
+alone in a dangerous neighborhood when he was supposed to be with them,
+did not by his expenditures on the Pontiac deprive his children of
+shoes, and was fired not for drinking but because he had been given a
+bottle of liquor by a friend which was found unopened in his pocket by
+his supervisor; since his job was that of an armed security guard, the
+supervisor was unwilling to take a chance on the truthfulness of his
+story. Haynes's version of how he lost a job because of "drinking" is
+corroborated by Lemann's notes of his interview with Haynes, but is not
+mentioned in the book.
+
+It would take a trial to decide whether Ruby Daniels (and hence Nicholas
+Lemann) or Luther Haynes should be believed on these three matters. But
+the district judge was nevertheless correct to dismiss the defamation
+claim because if the gist of a defamatory statement is true, if in other
+words the statement is substantially true, error in detail is not
+actionable (citations omitted). 
+
+To evaluate the application of this rule to Haynes's libel claims
+requires us to consider facts brought out in discovery and not
+contested, although they are not in the book. Haynes in his deposition
+admitted to drinking heavily during the period when he lost his job
+because of the unopened liquor bottle in his pocket. He admitted to
+being arrested and jailed for assaulting a police officer after
+drinking. When he walked out on Ruby he also walked out on his four
+children by her, and he refused to support  them. She was
+forced to obtain court orders for child support. Haynes repeatedly
+flouted the orders and eventually was jailed for contempt. During their
+divorce proceedings it came out that, after leaving Ruby, he and Dorothy
+Johnson had had a marriage ceremony and he had entered their names in
+the marriage registry of the county clerk's office —two years before his
+divorce from Ruby.
+
+Beside these uncontested facts — not to mention the facts about Haynes
+in the book that he does not contend are false — the alleged falsehoods
+pale. They do not exhibit him in a worse light than a bare recitation of
+the uncontested facts about his behavior in relation to Ruby and her
+children would do. For Lemann left out much that was true. He did not
+mention the bigamous marriage, the repeated flouting of child-support
+orders, the arrest for assaulting a police officer, or the jailing for
+contempt. Substitute the true for the false (if Haynes is believed), and
+the damage to Haynes's reputation would be no less.
+
+The rule of substantial truth is based on a recognition that falsehoods
+which do no *incremental* damage to the plaintiff's reputation do not
+injure the only interest that the law of defamation protects. A news
+report that contains a false statement is actionable "only when
+'significantly greater opprobrium' results from the report containing
+the falsehood than would result from the report without the falsehood."
+[*Herron v. King Broadcasting Co., supra,*](http://scholar.google.com/scholar_case?case=17202290302354597366).
+Even when the plaintiff in a defamation suit is not a public figure, the
+Supreme Court insists in the name of the First Amendment that unless the
+author is deliberately lying or is recklessly indifferent to the truth
+or falsity of what he says (neither is a plausible hypothesis here), the
+plaintiff must prove actual though not necessarily pecuniary harm in
+order to recover damages. [*Gertz v. Robert Welch, Inc.* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202).
+Falsehoods that do not harm the plaintiff's reputation more than a full
+recital of the true facts about him would do are thus not actionable.
+The rule making substantial truth a complete defense and the
+constitutional limitations on defamation suits coincide.
+
+Ordinarily the question whether a defamatory work is substantially true
+although erroneous in some details is for the jury. [*Kohn v. West
+Hawaii Today, Inc.,* (HW 1982)](http://scholar.google.com/scholar_case?case=18205638400160040600).
+But no reasonable jury, even if it believed Luther Haynes over Ruby
+Daniels on every issue on which they differ, could find that *The
+Promised Land* was not substantially true in its depiction of Luther at
+the time he lived with Ruby. He *was* a heavy drinker, a bad husband, a
+bad father, an erratic employee. These are things either that he
+concedes or that are incontestably established by the judicial records
+in his matrimonial litigation. Whether he left the children alone at
+night on some occasions when Ruby was working, or was fired for drinking
+rather than for having liquor on his person while working, or preferred
+to spend money on his car than on his children's shoes, are details
+that, while not trivial, would not if corrected have altered the picture
+that the true facts paint. And it makes no difference that the true
+facts were unknown until the trial. A person does not have a legally
+protected right to a reputation based on the concealment of the truth.
+This is implicit in the rule that truth — not just known truth (see
+*Restatement (Second) of Torts* § 581A, comment h (1977); *Prosser and
+Keeton on the Law of Torts* § 116, at pp. 840-41 (5th ed. 1984)) — is a
+complete defense to defamation. And the burden of proving falsity rests
+on the plaintiff. [*Philadelphia Newspapers, Inc. v. Hepps* (S.Ct. 1986)](http://scholar.google.com/scholar_case?case=3066699330828671613) 
+
+We must be careful, however, that we are not construing the gist of the
+allegedly defamatory statements so broadly as to invite defendants to
+commit, in effect, a further but privileged libel, by bringing to light
+every discreditable act that the plaintiff may have committed, in an
+effort to show that he is as "bad" as the defamatory statements depict
+him. This would strip people who had done bad things of any legal
+protection against being defamed; they would be defamation outlaws. The
+true damaging facts must be closely related to the false ones. But that
+ test is satisfied. Luther abandoned his children and was
+eventually jailed for doing so. These truths encompass and transcend
+what, whether or not it might be elevated to criminal neglect, is, after
+all, common enough — leaving children, some of them teenagers,
+unattended late at night. (And how different is that from leaving a
+child at night with a teenage babysitter?) An armed security guard who
+is discovered by his employer to have a bottle of liquor in his pocket
+is equivalent in irresponsible employee conduct to an ordinary worker
+found drinking on the job. And a decision to spend money on a car rather
+than on one's children's clothes is subsumed by total financial
+abandonment of one's children in violation of court orders, an
+abandonment compounded by a bigamous marriage to a woman who herself had
+children. The allegedly false facts about Luther were variants of the
+true that did not paint him in a worse light. Corresponding to the
+"immaterial error[s]" of which the substantial-truth cases speak,
+[*Sivulich v. Howard Publications, Inc.,* 126 Ill.App.3d 129, 81 Ill.
+Dec. 416, 418, 466 N.E.2d 1218, 1220
+(1984),](http://scholar.google.com/scholar_case?case=15779388720675284227&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+the alleged falsehoods were merely illustrations of undoubted truths
+about Luther Haynes's character at the time, illustrations that even if
+false in detail conveyed an accurate impression. They were therefore
+substantially true within the meaning which this term must bear to make
+sense of the cases.
+
+### Invasion of Privacy
+
+The major claim in the complaint, and the focus of the appeal, is not
+defamation, however; it is invasion of the right of privacy. In tort law
+the term "right of privacy" covers several distinct wrongs. Using a
+celebrity's (or other person's) name or picture in advertising without
+his consent. [*Carson v. Here's Johnny Portable Toilets, Inc.,* (6th
+Cir. 1983)](http://scholar.google.com/scholar_case?case=18021528625868373370);
+[*Martin Luther King, Jr., Center for Social Change, Inc. v. American
+Heritage Products, Inc.,* (GA 1982)](http://scholar.google.com/scholar_case?case=1102676940012657150);
+[*Haelan Laboratories v. Topps Chewing Gum* (2d Cir. 1953)](http://scholar.google.com/scholar_case?case=18211552832825571674);
+[*Douglass v. Hustler Magazine, Inc.* (7th Cir. 1985)](http://scholar.google.com/scholar_case?case=17887957795289404111).
+Tapping someone's phone, or otherwise invading a person's private space.
+[*De May v. Roberts* (MI 1881)] (many citations omitted); 
+
+Harassing a celebrity by following her too closely, albeit on a public
+street. Cf. [*Galella v. Onassis* (2d Cir. 1973)](http://scholar.google.com/scholar_case?case=1876391558280554729). Casting a person in a false light by
+publicizing details of the person's life that while true are so selected
+or highlighted as to convey a misleading impression of the person's
+character. [*Time, Inc. v. Hill* (S.Ct. 1967)](http://scholar.google.com/scholar_case?case=13178370409068522665).
+Publicizing personal facts that while true and not misleading are so
+intimate that their disclosure to the public is deeply embarrassing to
+the person thus exposed and is perceived as gratuitous by the community (many citations omitted).
+
+The last, the publicizing of personal facts, is the aspect of invasion
+of privacy charged by the Hayneses.
+
+Even people who have nothing rationally to be ashamed of can be
+mortified by the publication of intimate details of their life. Most
+people in no wise deformed or disfigured would nevertheless be deeply
+upset if nude photographs of themselves were published in a newspaper or
+a book. They feel the same way about photographs of their sexual
+activities, however "normal," or about a narrative of those activities,
+or about having their medical records publicized. Although it is well
+known that every human being defecates, no adult human being in our
+society wants a newspaper to show a picture of him defecating. The
+desire for privacy illustrated by these examples is a mysterious but
+deep fact about human personality. It deserves and in our society
+receives legal protection. The nature of the injury shows, by the way,
+that the defendants are wrong to argue that this branch of the right of
+privacy requires proof of special damages. 
+
+But this is not the character of the depictions of the Hayneses in *The
+Promised Land.* Although the plaintiff's claim that the book depicts
+their "sex life" and "ridicules" Luther Haynes's lovemaking (the
+reference is to the passage we quoted in which the author refers to
+Ruby's "devastating imitation" of Luther's manner when he would come
+home Friday nights in an amorous mood), these characterizations are
+misleading. No sexual act is described in the book. No intimate details
+are revealed. Entering one's bedroom with a bottle in one hand and a
+cigarette in the other is not foreplay. Ruby's speculation that Kevin's
+problems may have been due to Luther's having been a heavy drinker is
+not the narration of a sexual act.
+
+We said that proof of special damages is not required in a case in which
+the public revelation of personal facts is claimed to be an invasion of
+privacy. Even so, a plaintiff is not allowed to evade the rule that
+requires proof of such damages in defamation cases (outside the per se
+categories) by attempting to prove that some of the personal facts
+publicized about him are false, unless he is prepared to prove special
+damages — and perhaps, as we are about to see, there is no "unless."
+Haynes denies that his drinking had anything to do with his son Kevin's
+defects or that he was actuated by mercenary considerations in leaving
+Ruby for Dorothy. These denials, we have seen, could not be made the
+basis of a libel case in the absence of proof of special damages, here
+lacking. No more, we think, can they be used to enhance a privacy case,
+whether it is a false-light case, [*Brown & Williamson Tobacco Corp. v.
+Jacobson, supra,*](http://scholar.google.com/scholar_case?case=2482630921714735229)
+
+See generally *Restatement (Second) of Torts, supra,* § 652E, comment e.
+Indeed, that type of case presupposes the truth of the facts disclosed.
+*Id.* If they are false, the interest invaded is that protected by the
+defamation and false-light torts: the interest in being represented
+truthfully to the world.
+
+Absence of special damages may be the reason why the Hayneses have not
+appealed the dismissal of their claim that the defendants cast Luther in
+a false light — though in fairness to him we should point out that they
+may have placed him in a false light with respect to his motives for
+leaving Ruby. Lemann's interview notes suggest (as the book does not, at
+least not clearly) that the major difference which Haynes perceived
+between the two women was one of character rather than of financial
+wherewithal. According to the notes, Haynes told Lemann that Ruby "never
+wanted to work. She wanted to sit around and be on aid. I called Ruby
+and asked her why she let 'Nita [their daughter] have a baby and she
+said, She's grown. I couldn't handle that talk, so I said forget it.
+Ruby was on aid when I met her, and she wanted to have more kids so she
+could have more aid. Dorothy had three kids, and a job."
+
+This is an aside. The branch of privacy law that the Hayneses invoke in
+their appeal is not concerned with, and is not a proper surrogate for
+legal doctrines that are concerned with, the accuracy of the private
+facts revealed. It is concerned with the propriety of stripping away the
+veil of privacy with which we cover the embarrassing, the shameful, the
+tabooed, truths about us. [*Leidholdt v. L.F.P. Inc., supra,*](http://scholar.google.com/scholar_case?case=15529001075929717432).
+The revelations in the book are not about the intimate details of the
+Hayneses' life. They are about misconduct, in particular Luther's.
+(There is very little about Dorothy in the book, apart from the fact
+that she had had an affair with Luther while he was still married to
+Ruby and that they eventually became and have remained lawfully
+married.) The revelations are about his heavy drinking, his unstable
+employment, his adultery, his irresponsible and neglectful behavior
+toward his wife and children. So we must consider cases in which the
+right of privacy has been invoked as a shield against the revelation of
+previous misconduct.
+
+ Two early cases illustrate the range of judicial thinking. In
+[*Melvin v. Reid,* 112 Cal.App. 285, 297 Pac. 91
+(1931),](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+the plaintiff was a former prostitute, who had been prosecuted but
+acquitted of murder. She later had married and (she alleged) for seven
+years had lived a blameless respectable life in a community in which her
+lurid past was unknown — when all was revealed in a movie about the
+murder case which used her maiden name. The court held that these
+allegations stated a claim for invasion of privacy. The Hayneses' claim
+is similar although less dramatic. They have been a respectable married
+couple for two decades. Luther's alcohol problem is behind him. He has
+steady employment as a doorman. His wife is a nurse, and in 1990 he told
+Lemann that the couple's combined income was $60,000 a year. He is not
+in trouble with the domestic relations court. He is a deacon of his
+church. He has come a long way from sharecropping in Mississippi and
+public housing in Chicago and he and his wife want to bury their past
+just as Mrs. Melvin wanted to do and in [*Melvin v.
+Reid*](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+was held entitled to do. 
+
+In Luther Haynes's own words, from his deposition, "I know I haven't
+been no angel, but since almost 30 years ago I have turned my life
+completely around. I stopped the drinking and all this bad habits and
+stuff like that, which I deny, some of [it] I didn't deny, because I
+have changed my life. It take me almost 30 years to change it and I am
+deeply in my church. I look good in the eyes of my church members and my
+community. Now, what is going to happen now when this public reads this
+garbage which I didn't tell Mr. Lemann to write? Then all this is going
+to go down the drain. And I worked like a son of a gun to build myself
+up in a good reputation and he has torn it down."
+
+But with [*Melvin v.
+Reid*](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+compare [*Sidis v. F-R Publishing Corp.,* 113 F.2d 806 (2d Cir.
+1940),](http://scholar.google.com/scholar_case?case=14505170794897587048&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+another old case but one more consonant with modern thinking about the
+proper balance between the right of privacy and the freedom of the
+press. A child prodigy had flamed out; he was now an eccentric recluse.
+The *New Yorker* ran a "where is he now" article about him. The article,
+entitled "April Fool," did not reveal any misconduct by Sidis but it
+depicted him in mocking tones as a comical failure, in much the same way
+that the report of Ruby's "devastating imitation" of the amorous Luther
+Haynes could be thought to have depicted him as a comical failure,
+albeit with sinister consequences absent from Sidis's case. The invasion
+of Sidis's privacy was palpable. But the publisher won. No intimate
+physical details of Sidis's life had been revealed; and on the other
+side was the undoubted newsworthiness of a child prodigy, as of a woman
+prosecuted for murder. Sidis, unlike Mrs. Melvin, was not permitted to
+bury his past.
+
+Evolution along the divergent lines marked out by *Melvin* and *Sidis*
+continued &hellip; until [*Cox Broadcasting Corp. v. Cohn* (S.Ct. 1975),](http://scholar.google.com/scholar_case?case=7693360934058091897)
+which may have consigned the entire *Melvin* line to the outer darkness.
+A Georgia statute forbade the publication of names of rape victims. A
+television station obtained the name of a woman who had been raped and
+murdered from the indictment of her assailants (a public document), and
+broadcast it in defiance of the statute. The woman's father brought a
+tort suit against the broadcaster, claiming that the broadcast had
+violated his right of privacy. The broadcaster argued that the name of
+the woman was a matter of public concern, but the Georgia supreme court
+held that the statute established the contrary, and affirmed a finding
+of liability. The U.S. Supreme Court reversed, holding that the statute
+violated the First Amendment. The Court declined to rule whether the
+publication of truthful information can ever be made the basis of a tort
+suit for invasion of privacy, but held that the First Amendment creates
+a privilege to publish matters contained in public records even
+ if publication would offend the sensibilities of a reasonable
+person. Years later the Court extended the rule laid down in *Cox* to a
+case in which a newspaper published a rape victim's name (again in
+violation of a state statute) that it had obtained from a police report
+that was not a public document. [*Florida Star v. B.J.F.* (S.Ct. 1989)](http://scholar.google.com/scholar_case?case=11083261902857685106).
+Again the Court was careful not to hold that states can never provide a
+tort remedy to a person about whom truthful, but intensely private,
+information of some interest to the public is published. 
+
+We do not think the Court was being coy in *Cox* or *Florida Star* in
+declining to declare the tort of publicizing intensely personal facts
+totally defunct. (Indeed, the author of *Cox* dissented in *Florida
+Star.*) The publication of facts in a public record or other official
+document, such as the police report in the *Florida Star,* is not to be
+equated to publishing a photo of a couple making love or of a person
+undergoing some intimate medical procedure; we even doubt that it would
+make a difference in such a case if the photograph had been printed in a
+government document (say the patient's file in a Veterans Administration
+hospital).
+
+Yet despite the limited scope of the holdings of *Cox* and *Florida
+Star,* the implications of those decisions for the branch of the right
+of privacy that limits the publication of private facts are profound,
+even for a case such as this in which, unlike [*Melvin v.
+Reid*](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)*,*
+the primary source of the allegedly humiliating personal facts is not a
+public record. (The primary source is Ruby Daniels.) The Court must
+believe that the First Amendment greatly circumscribes the right even of
+a private figure to obtain damages for the publication of newsworthy
+facts about him, even when they are facts of a kind that people want
+very much to conceal. To be identified in the newspaper as a rape victim
+is intensely embarrassing. And it is not invited embarrassment. No one
+asks to be raped; the plaintiff in [*Melvin v. Reid*](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+did not ask to be prosecuted for murder (remember, she was acquitted,
+though whether she actually was innocent is unknown); Sidis did not
+decide to be a prodigy; and Luther Haynes did not aspire to be a
+representative figure in the great black migration from the South to the
+North. People who do not desire the limelight and do not deliberately
+choose a way of life or course of conduct calculated to thrust them into
+it nevertheless have no legal right to extinguish it if the experiences
+that have befallen them are newsworthy, even if they would prefer that
+those experiences be kept private. The possibility of an involuntary
+loss of privacy is recognized in the modern formulations of this branch
+of the privacy tort, which require not only that the private facts
+publicized be such as would make a reasonable person deeply offended by
+such publicity but also that they be facts in which the public has no
+legitimate interest. *Restatement (Second) of Torts, supra,* § 652D(b).
+
+The two criteria, offensiveness and newsworthiness, are related. An
+individual, and more pertinently perhaps the community, is most offended
+by the publication of intimate personal facts when the community has no
+interest in them beyond the voyeuristic thrill of penetrating the wall
+of privacy that surrounds a stranger. The reader of a book about the
+black migration to the North would have no legitimate interest in the
+details of Luther Haynes's sex life; but no such details are disclosed.
+Such a reader does have a legitimate interest in the aspects of Luther's
+conduct that the book reveals. For one of Lemann's major themes is the
+transposition virtually intact of a sharecropper morality characterized
+by a family structure "matriarchal and elastic" and by an "extremely
+unstable" marriage bond to the slums of the northern cities, and the
+interaction, largely random and sometimes perverse, of that morality
+with governmental programs to alleviate poverty. Public aid policies
+discouraged Ruby and Luther from living together; public housing
+policies precipitated a marriage  doomed to fail. No detail in
+the book claimed to invade the Hayneses' privacy is not germane to the
+story that the author wanted to tell, a story not only of legitimate but
+of transcendent public interest.
+
+The Hayneses question whether the linkage between the author's theme and
+their private life really is organic. They point out that many social
+histories do not mention individuals at all, let alone by name. That is
+true. Much of social science, including social history, proceeds by
+abstraction, aggregation, and quantification rather than by case
+studies; the economist Robert Fogel has won a Nobel prize for his
+statistical studies of economic history, including, not wholly unrelated
+to the subject of Lemann's book, the history of Negro slavery in the
+United States. But it would be absurd to suggest that cliometric or
+other aggregative, impersonal methods of doing social history are the
+only proper way to go about it and presumptuous to claim even that they
+are the best way. Lemann's book has been praised to the skies by
+distinguished scholars, among them black scholars covering a large
+portion of the ideological spectrum — Henry Louis Gates Jr., William
+Julius Wilson, and Patricia Williams. Lemann's methodology places the
+individual case history at center stage. If he cannot tell the story of
+Ruby Daniels without waivers from every person who she thinks did her
+wrong, he cannot write this book.
+
+Well, argue the Hayneses, at least Lemann could have changed their
+names. But the use of pseudonyms would not have gotten Lemann and Knopf
+off the legal hook. The details of the Hayneses' lives recounted in the
+book would identify them unmistakably to anyone who has known the
+Hayneses well for a long time (members of their families, for example),
+or who knew them before they got married; and no more is required for
+liability either in defamation law (citations omitted).
+
+Lemann would have had to change some, perhaps many, of the details. But
+then he would no longer have been writing history. He would have been
+writing fiction. The nonquantitative study of living persons would be
+abolished as a category of scholarship, to be replaced by the
+sociological novel. That is a genre with a distinguished history
+punctuated by famous names, such as Dickens, Zola, Stowe, Dreiser,
+Sinclair, Steinbeck, and Wolfe, but we do not think that the law of
+privacy makes it (or that the First Amendment would permit the law of
+privacy to make it) the exclusive format for a social history of living
+persons that tells their story rather than treating them as data points
+in a statistical study. Reporting the true facts about real people is
+necessary to "obviate any impression that the problems raised in the
+[book] are remote or hypothetical." [*Gilbert v. Medical Economics Co.,
+supra*](http://scholar.google.com/scholar_case?case=17792839258786586792).
+And surely a composite portrait of ghetto residents would be attacked as
+racial stereotyping.
+
+*The Promised Land* does not afford the reader a titillating glimpse of
+tabooed activities. The tone is decorous and restrained. Painful though
+it is for the Hayneses to see a past they would rather forget brought
+into the public view, the public needs the information conveyed by the
+book, including the information about Luther and Dorothy Haynes, in
+order to evaluate the profound social and political questions that the
+book raises. Given the *Cox* decision, moreover, all the discreditable
+facts about the Hayneses that are contained in judicial records are
+beyond the power of tort law to conceal; and the disclosure of those
+facts alone would strip away the Hayneses' privacy as effectively as
+*The Promised Land* has done. (This *case,* it could be argued, has
+stripped them of their privacy, since their story is now part of a
+judicial record — the record of this case.) We do not think it is an
+answer that Lemann got his facts from Ruby Daniels rather than from
+judicial records. The courts got the facts from Ruby. We cannot see what
+difference it makes that Lemann went to the source.
+
+Ordinarily the evaluation and comparison of offensiveness and
+newsworthiness would be, like other questions of the application
+ of a legal standard to the facts of a particular case,
+matters for a jury, not for a judge on a motion for summary judgment.
+But summary judgment is properly granted to a defendant when on the
+basis of the evidence obtained in pretrial discovery no reasonable jury
+could render a verdict for the plaintiff, [*Anderson v. Liberty Lobby,
+Inc.* (S.Ct. 1986)](http://scholar.google.com/scholar_case?case=9272001251064530131&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+and that is the situation here. No modern cases decided after *Cox,* and
+precious few before, go as far as the plaintiffs would have us go in
+this case. Almost all the recent cases on which they rely &hellip; 
+involve the vindication of paramount social interests, such as the
+protection of children, patients, and witnesses — interests not involved
+in this case. The plaintiffs' best post-*Cox* cases are [*Vassiliades v.  Garfinckel's,
+supra*](http://scholar.google.com/scholar_case?case=12881988089288894231)
+and [*Huskey v. National Broadcasting Co.* (N.D.Ill.1986),](http://scholar.google.com/scholar_case?case=18021807458979528821&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+the former involving before-and-after photos of a face lift, the latter
+involving television pictures of a prisoner dressed only in gym shorts.
+Photographic invasions of privacy usually are more painful than
+narrative ones, and even partial nudity is a considerable aggravating
+factor. *Vassiliades* also involved the special issue of patient rights,
+though it was not emphasized by the court.
+
+Illinois has been a follower rather than a leader in recognizing claims
+of invasion of privacy (citations omitted). The plaintiffs are asking us to innovate boldly in the name of the Illinois courts, and such a request is better addressed to those courts
+than to a federal court. If the plaintiffs had filed this case in an
+Illinois state court and it had been removed to the federal district
+court, they would have had no choice, and then we would have been
+duty-bound to be as innovative as we thought it plausible to suppose the
+Illinois courts would be. But the plaintiffs filed this suit in the
+district court originally — they *chose* the federal forum. And we have
+said before and will say again that plaintiffs who seek innovations in
+state law are ill advised to choose a federal court as their forum.
+
+To any suggestion that the outer bounds of liability should be left to a
+jury to decide we reply that in cases involving the rights protected by
+the speech and press clauses of the First Amendment the courts insist on
+firm judicial control of the jury. For the general principle, see [*New
+York Times Co. v. Sullivan* (S.Ct. 1964)][sullivan]
+
+The publication of books is not at the sufferance of juries.
+
+Does it follow, as the Hayneses' lawyer asked us rhetorically at oral
+argument, that a journalist who wanted to write a book about
+contemporary sexual practices could include the intimate details of
+named living persons' sexual acts without the persons' consent? Not
+necessarily, although the revelation of such details in the memoirs of
+former spouses and lovers is common enough and rarely provokes a lawsuit
+even when the former spouse or lover is still alive. The core of the
+branch of privacy law with which we have been dealing in this case is
+the protection of those intimate physical details the publicizing of
+which would be not merely embarrassing  and painful but deeply
+shocking to the average person subjected to such exposure. The public
+has a legitimate interest in sexuality, but that interest may be
+outweighed in such a case by the injury to the sensibilities of the
+persons made use of by the author in such a way. *Restatement (Second)
+of Torts, supra,* § 652D, comment h. At least the balance would be
+sufficiently close to preclude summary judgment for the author and
+publisher (citations omitted). 
+
+The judgment for the defendants is
+
+AFFIRMED.
+
+## Public Figures
+
+### *Street v. National Broadcasting Co.*
+
+#####(6th Circuit 1981)
+
+* [Case in Google Scholar](http://scholar.google.com/scholar_case?about=4559741824903610057&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
+* [Case in Wikipedia](http://en.wikipedia.org/wiki/National_Broadcasting_Co._v._United_States)
+* [Case in Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=319+U.S.+190&appflag=67.12)
+
+This is a Tennessee diversity case against the National Broadcasting Company for libel and invasion of privacy. The plaintiff-appellant, Victoria Price Street, was the prosecutrix and main witness in the famous rape trials of the Scottsboro boys, which occurred in Alabama more than forty years ago. NBC televised a play or historical drama
+entitled "Judge Horton and the Scottsboro Boys," dramatizing the role of the local presiding judge in one of those trials.
+
+The movie portrays Judge Horton as a courageous and tragic figure struggling to bring justice in a tense community gripped by racial prejudice and intent on vengeance against nine blacks accused of raping two white women. In the movie Judge Horton sets aside a jury verdict of
+guilty because he believes that the evidence shows that the prosecutrix — plaintiff in this action — falsely accused the Scottsboro defendants. The play portrays the plaintiff in the derogatory light that Judge Horton apparently viewed her: as a woman attempting to send nine
+innocent blacks to the electric chair for a rape they did not commit.
+
+This case presents the question of what tort and First Amendment principles apply to an historical drama that allegedly defames a living person who participated in the historical events portrayed. The plaintiff's case is based on principles of libel law and "false light" invasion of privacy arising from the derogatory portrayal. NBC raises alternative claims and defenses: (1) the claim that the published material is not defamatory; (2) the claim of truth; (3) the common law privilege of fair comment; (4) the common law privilege of fair report on a judicial proceeding; (5) the First Amendment claim that
+because the plaintiff is a public figure recovery must be based on a showing of malice; and (6) even if the malice standard is inapplicable, the claim that recovery must be based on a showing of negligence.
+
+At the end of all the proof, District Judge Neese directed a verdict for defendant on the ground that even though plaintiff was not a public figure at the time of publication the defamatory matter was not negligently published. We affirm for the reason that the historical  events and persons portrayed are "public" as distinguished from "private." A malice standard applies to public figures under the First Amendment, and there is no evidence that the play was published with malice.
+
+### I. STATEMENT OF FACTS
+
+In April 1931, nine black youths were accused of raping two young white women while riding a freight train between Chattanooga, Tennessee, and Huntsville, Alabama. The case was widely discussed in the local, national, and foreign press. The youths were quickly tried in Scottsboro, Alabama, and all were found guilty and sentenced to death. The Alabama Supreme Court affirmed the convictions.  
+
+The United States Supreme Court reversed all convictions on the ground that the defendants were denied the right to counsel guaranteed by the Sixth Amendment. The defendants were retried separately after a change of venue from
+Scottsboro to Decatur, Alabama. Patterson was the first defendant retried, and this trial was the subject of the NBC production. In a jury trial before Judge Horton, he was tried, convicted, and sentenced to death. Judge Horton set the verdict aside on the ground that the evidence was insufficient. Patterson and one other defendant, Norris,
+were then tried before another judge on essentially the same evidence, convicted, and sentenced to death. The judge let the verdicts stand, and the convictions were affirmed by the Alabama Supreme Court. 
+
+The United States Supreme Court again reversed, this time because blacks were systematically excluded from grand and petit juries. At his fourth retrial, Patterson was convicted and sentenced to seventy-five years in prison. 
+Defendants Weems and Andrew Wright were also convicted on retrial and sentenced to a term of years. Defendant Norris was convicted and his death sentence was commuted to life imprisonment by the Alabama governor. Defendants Montgomery, Roberson, Williams, and Leroy Wright were released without retrial. Powell pled guilty to assault allegedly committed during an attempted escape. The last Scottsboro defendant was paroled in 1950.
+
+The Scottsboro case aroused strong passions and conflicting opinions in the 1930s throughout the nation. Several all white juries convicted the Scottsboro defendants of rape. Two trial judges and the Alabama Supreme Court, at times by divided vote, let these verdicts stand. Judge Horton was the sole trial judge to find the facts in favor of the defendants. Liberal opinion supported Judge Horton's conclusions that the Scottsboro
+defendants had been falsely accused.
+
+During the lengthy course of the Scottsboro trials, newspapers frequently wrote about Victoria Price. She gave some interviews to the press. Thereafter, she disappeared from public view. The Scottsboro trials and her role in them continued to be the subject of public discussion, but there is no evidence that Mrs. Street sought publicity. NBC incorrectly stated in the movie that she was no longer living. After the first showing of "Judge Horton and the Scottsboro Boys," plaintiff notified NBC that she was living, and shortly thereafter she filed suit. Soon after plaintiff filed suit, NBC rebroadcast the dramatization
+omitting the statement that plaintiff was no longer living.
+
+#### The Dramatization
+
+The script for "Judge Horton and the Scottsboro Boys" was based on one chapter of a book by Dr. Daniel Carter, an historian, entitled *Scottsboro: A Tragedy of the American South*. The movie is based almost entirely on the information in Dr. Carter's book, which, in turn, was based on Judge Horton's findings at the 1933 trial, the transcript of the trial, contemporaneous newspaper reports of the trial, and interviews with Judge Horton and others. NBC purchased the movie from an independent producer.
+
+Plaintiff's major libel and invasion of privacy claims are based on nine scenes in the movie in which she is portrayed in a derogatory light. The essential facts concerning these claims are as follows:
+
+1. After an opening prologue, black and white youths are shown fighting on a train.  The train is halted, and the blacks are arrested. The next scene shows plaintiff standing next to Ruby Bates at the tracks. Plaintiff claims that this scene, in effect, makes her a perjurer because she testified at the 1933 trial and in this case that she fainted while alighting from the train and did not regain consciousness until she was taken to a local grocery store. Judge Horton, in his opinion sustaining the motion for a new trial, found that the observations of other witnesses and the testimony of the examining
+doctor contradicted her testimony in this respect. Horton concluded that it was unlikely that Victoria Price had fainted.
+
+2. As plaintiff and Ruby Bates are led away from the tracks by the sheriff and his men, the sheriff in the play calls the two women a "couple of bums." There is no indication in Judge Horton's opinion, in the 1933 trial transcript, or in Dr. Carter's book that this comment was
+actually made.
+
+3. In a pretrial conversation between two lawyers representing the defendant, the play portrays one of them as advising restraint in the cross-examination of plaintiff Price. He says to the other defense lawyer: "The Scottsboro transcripts are really clear .... The defense at the last trial made one thing very clear, Victoria was a *whore,* and they got it in the neck for it ...." (Emphasis added.) There is no evidence that this specific conversation between the two defense lawyers actually occurred. Dr. Carter does state in his book that one of the purposes of the defense in cross-examining plaintiff was to discredit her testimony by introducing evidence that she was a common prostitute.
+*Scottsboro* at 206.
+
+4. Plaintiff in this action contends that the movie falsely portrays her as defensive and evasive during her direct and cross-examination. 
+
+5. Plaintiff claims that the last question put to her on
+cross-examination in the play is inaccurate. In the movie the defense attorney asks: "One more question: have you ever heard of a white woman being arrested for perjury when she was the complaining witness against Negroes in the entire history of the state of Alabama?" According to the 1933 trial transcript, the actual question was, "I want to ask you if you have ever heard of any single white woman ever being locked up in jail when she is the complaining witness against Negroes in the history of the state of Alabama?" Plaintiff objects to the insertion of the word "perjury" in the play.
+
+6. In the play, Dr. Marvin Lynch, one of the doctors who examined plaintiff after she alighted from the train, approaches Judge Horton outside the courtroom and confides that he does not believe that the two women were raped by the Scottsboro boys. Dr. Lynch refuses to go on the
+witness stand and so testify, however. Plaintiff argues that this scene is improper because it is not supported in the 1933 trial record. This is true. Neither the 1933 trial transcript nor Judge Horton's opinion make reference to this incident. The Carter book does state, however,
+that Judge Horton told the author in a later interview that this incident occurred. *Scottsboro* at 214-15.
+
+7. The play portrays events leading up to plaintiff's trip to Chattanooga with her friend, Ruby Bates. It was on the return trip to Alabama that the rape alleged occurred. Lester Carter, a defense witness in the play, testifies that he had intercourse with Ruby Bates on the night before the trip to Chattanooga and that plaintiff had intercourse with Jack Tiller. During the testimony there is a flashback that shows an exchange in a boxcar in which Ruby Bates suggests that they all go to Chattanooga  and plaintiff says, "[m]aybe Ruby and me could hustle there while you two [Carter and Tiller] got some kind of fill-in
+work. What do you say?" This is an accurate abridgement of the substance of the actual testimony of Lester Carter at the 1933 trial, although Price denied, both at the 1933 trial and in the defamation trial below, that she had had intercourse with Tiller. Judge Horton specifically
+found that she did not tell the truth. The dramatization quoted or closely paraphrased substantial portions of Judge Horton's 1933 opinion. 
+
+8. Lester Carter also testifies in the play that plaintiff urged him to say that he had seen her raped. The 1933 trial transcript reveals that Carter actually testified that he overheard plaintiff tell another white youth that "if you don't testify according to what I testify I will see that you are took off the witness stand.&hellip;" Judge Horton in his opinion observed that there was evidence presented at the trial showing that Price encouraged others to support her version of what had happened.
+
+9. Another witness in the play, Dallas Ramsey, testifies that he saw plaintiff and Ruby Bates in a "hobo jungle" near the train tracks in Chattanooga the night before the train trip back to Alabama. Ramsey testifies that plaintiff stated that she and her husband were looking
+for work and that "her old man" was uptown scrounging for food. The play dramatizes Ramsey's testimony while he is on the stand by a flashback to the scene at the "hobo jungle." The flashback gives the impression that
+plaintiff is perhaps inviting sexual advances from Ramsey, although the words used do not state this specifically. The substance of Ramsey's testimony, as portrayed in the play, is found in the 1933 trial transcript. The record provides no basis for the suggestive flashback.
+
+### II. COMMON LAW CLAIMS AND DEFENSES
+
+#### A. Defamatory Nature of the Published Material
+
+Taken as a whole, the play conveys a defamatory image of the plaintiff. Although the words "bum" and "hustle" may be considered rhetorical hyperbole and therefore not necessarily defamatory, [*Letter Carriers v. Austin,* (S.Ct. 1974),](http://scholar.google.com/scholar_case?case=923744859423605953) the reference to plaintiff as a "whore" and her portrayal as a perjurer and a suborner of perjury is obviously defamatory. The suggestive flashbacks showing her inviting sexual advances of Ramsey and Tiller reinforce the defamation. The effect of the drama as a whole is to create a character, Victoria Price. She is portrayed as a loose woman who falsely accuses the Scottsboro boys of raping her. This image of her character is created throughout the play by her own words and actions in the  flashbacks and in the witness chair and by what others say about her.
+
+#### B. The Privilege of Fair Comment
+
+The portrayal of Victoria Price in this way is not expressed in the play as a matter of opinion. The characterization is expressed as concrete fact. The common law privilege of fair comment, adopted in Tennessee and explained in [*Venn v. Tennessean Newspapers, Inc.,*(M.D.Tenn. 1962),](http://scholar.google.com/scholar_case?case=14047302044250172971)
+*aff'd,* [313 F.2d 639 (6th Cir.),](http://scholar.google.com/scholar_case?case=18040896426752233502)
+*cert. denied,* [374 U.S. 830 (1963),](http://scholar.google.com/scholar_case?about=16196949732337435619&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
+is now protected as opinion under the First Amendment, [*Gertz v. Robert Welch, Inc.,* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202).
+But this play does not say to the viewer that this is NBC's opinion about the character and actions of Victoria Price. It shows her inviting sexual intercourse and swearing falsely. We do not believe this characterization fits within the traditional fair comment privilege
+protecting opinion. *See* [*Cianci v. New York Times Publishing Co.,* (2nd Cir. 1980, *as amended* Oct. 27, 1980)](http://scholar.google.com/scholar_case?case=15742491952572175828&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
+(magazine article interpreting evidence of rape not expression of
+opinion).
+
+#### C. The Defense of Truth and the Privilege of Fair Report of a Judicial Proceeding
+
+In his opinion setting aside the verdict, Judge Horton found, in effect, that NBC's characterization of Victoria Price was true. The movie characterizes her as Judge Horton found the facts in his opinion. This does not mean, however, that the case should be withdrawn from the jury on the basis of the defense of truth or the privilege of fair report of a judicial proceeding.
+
+Neither Judge Horton's findings nor the final convictions based on the testimony of Victoria Price and affirmed on appeal settle the question of truth. That still remains an open question. Technical doctrines of res judicata and collateral estoppel do not apply in this context. Neither Victoria Price nor NBC were parties in the 1930s trials. In addition, citizens obviously have a right to attack the fairness of a trial. Judicial proceedings resolve disputes, but they do not establish the truth for all time. In libel cases the question of truth is normally
+one for the jury in a defamation action.
+
+Many of the scenes actually quote or paraphrase the trial transcript, but the movie is not a completely accurate report of the trial. Witnesses who corroborate Victoria Price's version of the facts are omitted. The portions of the original trial that show her as a perjurer and a promiscuous woman are emphasized. The flashbacks consistently show plaintiff's conduct in a derogatory light. The flashbacks entirely accept the theory of the case presented by Judge Horton and the defense and reject the theory of the case presented by the state and the plaintiff. Under such circumstances the common law privilege permitting publication of defamatory material as a part of a fair and accurate report on judicial proceedings is not satisfied. The element of balance and neutrality is missing. *See* [*Langford v. Vanderbilt University,* (Tenn.App. 1958)](http://scholar.google.com/scholar_case?case=2991746111379933624).
+
+### III. THE FIRST AMENDMENT DEFENSES
+
+#### A. Plaintiff was a Public Figure During the Scottsboro Trials
+
+Since common law defenses do not support the directed verdict for NBC,
+we must reach the constitutional issues, particularly the question
+whether plaintiff should be characterized as a "public figure." In
+*Gertz,* the Supreme Court held that one characterized as a "public
+figure," as distinguished from a private individual, "may recover for
+injury to reputation *only on clear and convincing proof* that the
+defamatory falsehood was made *with knowledge of its falsity or with
+reckless disregard for the truth.*" [*Gertz*](http://scholar.google.com/scholar_case?case=7102507483896624202)
+(emphasis added). In balancing the need to protect "private
+personality" and reputation  against the need "to assure to
+the freedoms of speech and press that 'breathing space' essential to
+their free exercise," the Supreme Court has developed a general test to
+determine public figure status.
+
+*Gertz* establishes a two-step analysis to determine if an individual is
+a public figure. First, does a "public controversy" exist? Second, what
+is "the nature and extent of [the] individual's participation" in that
+public controversy? [*Gertz*](http://scholar.google.com/scholar_case?case=7102507483896624202&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0).
+Three factors determine the "nature and extent" of an individual's
+involvement: the extent to which participation in the controversy is
+voluntary, the extent to which there is access to channels of effective
+communication in order to counteract false statements, and the
+prominence of the role played in the public controversy. [*Gertz*](http://scholar.google.com/scholar_case?case=7102507483896624202&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0).
+
+The Supreme Court has not clearly defined the elements of a "public controversy." It is evident that it is not simply any controversy of general or public interest. Not all judicial proceedings are public controversies.  Several factors, however, lead to the conclusion that the Scottsboro case is the kind of public controversy referred to in *Gertz.* The Scottsboro trials were the focus of major public debate over the ability of our courts to render even-handed justice. It generated widespread press and attracted public attention for several years. It was also a contributing factor in changing public attitudes about the right of black citizens to equal treatment under law and in changing constitutional principles governing the right to counsel and the exclusion of blacks from the jury.
+
+The first factor in determining the nature and extent of plaintiff's
+participation is the prominence of her role in the public controversy.
+She was the only alleged victim, and she was the major witness for the
+State in the prosecution of the nine black youths. Ruby Bates, the other
+young woman who earlier had testified against the defendants, later
+recanted her incriminating testimony. Plaintiff was left as the sole
+prosecutrix. Therefore, she played a prominent role in the public
+controversy.
+
+The second part of the test of public figure status is also met.
+Plaintiff had "access to the channels of effective communication and
+hence ... a ... realistic opportunity to counteract false statements."
+[*Gertz*](http://scholar.google.com/scholar_case?case=7102507483896624202).
+The evidence indicates that plaintiff recognized her importance to the
+criminal trials and the interest of the public in her as a personality.
+The press clamored to interview her. She clearly had access to the media
+and was able to broadcast her view of the events.
+
+The most troublesome issue is whether plaintiff "voluntarily" "thrust"
+herself to the forefront of this public controversy. It cannot be said
+that a rape victim "voluntarily" injects herself into a criminal
+prosecution for rape. *See* [*Time, Inc. v. Firestone,* (S.Ct. 1976)](http://scholar.google.com/scholar_case?case=12685855173622583678).
+In such an instance, voluntariness in the legal sense is closely bound
+to the issue of truth. If she was raped, her participation in the
+initial legal proceedings was involuntary for the purpose of determining
+her public figure status; if she falsely accused the defendants, her
+participation in this controversy was "voluntary." But legal standards
+in libel cases should not be drawn so that either the courts or the
+press must first determine the issue of truth before they can determine
+whether an individual should be treated as a public or a private figure.
+The principle of libel law should not be drawn in such a way that it
+forces the press, in an uncertain public controversy, to guess correctly
+about a woman's chastity.
+
+When the issue of truth and the issue of voluntariness are the same, it
+is necessary to determine the public figure status of the individual
+without regard to whether she "voluntarily" thrust herself in the
+forefront of the public controversy. If  there were no
+evidence of voluntariness other than that turning on the issue of truth,
+we would not consider the fact of voluntariness. In such a case, the
+other factors — prominence and access to media — alone would determine
+public figure status. But in this case, there is evidence of
+voluntariness not bound up with the issue of truth. Plaintiff gave press
+interviews and aggressively promoted her version of the case outside of
+her actual courtroom testimony. In the context of a widely-reported,
+intense public controversy concerning the fairness of our criminal
+justice system, plaintiff was a public figure under *Gertz* because she
+played a major role, had effective access to the media and encouraged
+public interest in herself.
+
+#### B. Plaintiff Remains a Public Figure 
+
+The Supreme Court has explicitly reserved the question of "whether or
+when an individual who was once a public figure may lose that status by
+the passage of time." [*Wolston v. Reader's Digest Ass'n, Inc.,* (S.Ct. 1979)](http://scholar.google.com/scholar_case?case=14330147117680431779).
+In *Wolston* the District of Columbia Circuit found that plaintiff was a
+public figure and retained that status for the purpose of later
+discussion of the espionage case in which he was called as a witness.
+The Supreme Court found that the plaintiff's role in the original public
+controversy was so minor that he was not a public figure. It therefore
+reserved the question of whether a person retains his public figure
+status.
+
+Plaintiff argues that even if she was a public figure at the time of the
+1930s trial, she lost her public figure status over the intervening
+forty years. We reject this argument and hold that once a person becomes
+a public figure in connection with a particular controversy, that person
+remains a public figure thereafter for purposes of later commentary or
+treatment of *that controversy.* This rule finds support in both case
+law and analysis of the constitutional malice standard.
+
+On this issue the Fifth Circuit has reached the same conclusion as the
+District of Columbia Circuit in *Wolston.* In [*Brewer v. Memphis
+Publishing Co., Inc.,* (5th Cir. 1980),](http://scholar.google.com/scholar_case?case=3470754345585952877&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
+plaintiff sued when a newspaper implied that she was reviving a
+long-dormant romantic relationship with Elvis Presley. The Fifth Circuit
+concluded that although the passage of time might narrow the range of
+topics protected by a malice standard, plaintiff remained a public
+figure when the defendant commented on her romantic relationship. The
+court noted that plaintiff's name continued to be connected with Presley
+even after her retirement from show business.
+
+Other courts have assumed *sub silentio* that the public figure status
+was retained over the passage of time. *See, e. g.,* [*Meeropol v. Nizer,* (2d Cir. 1977),](http://scholar.google.com/scholar_case?case=15243536244801528103&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
+*cert. denied,* [(S.Ct. 1978)](http://scholar.google.com/scholar_case?about=1891215749533979497&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
+(having spent most of their early years in limelight, sons of Julius and
+Ethel Rosenberg are public figures for purposes of subsequent commentary
+on Rosenberg trials). Some courts have relied on a pre-*Gertz*
+"newsworthiness" analysis to support a finding that the passage of time
+did not alter the standard of liability. 
+
+Our nation depends on "robust debate" to determine the best answer to
+public controversies of this sort. The public figure
+doctrine makes it possible for publishers to provide information on such
+issues to the debating public, undeterred by the threat of liability
+except in cases of actual malice. Developed in the context
+of contemporaneous reporting, the doctrine promotes a forceful exchange
+of views.
+
+Considerations that underlie the public figure doctrine in the context
+of contemporaneous reporting also apply to later historical or dramatic
+treatment of the same events. Past public figures who now live in
+obscurity do not lose their access to channels of communication if they
+choose to comment on their role in the past public controversy. And
+although the publisher of history does not operate under journalistic
+deadlines it generally makes little difference in terms of accuracy and
+verifiability that the events on which a publisher is reporting occurred
+decades ago. Although information may come to light over the course of
+time, the distance of years does not necessarily make more data
+available to a reporter: memories fade; witnesses forget; sources
+disappear.
+
+There is no reason for the debate to be any less vigorous when events
+that are the subject of current discussion occurred several years
+earlier. The mere passage of time does not automatically diminish the
+significance of events or the public's need for information. A nation
+that prizes its heritage need have no illusions about its past. It is no
+more fitting for the Court to constrain the analysis of past events than
+to stem the tide of current news. From Alfred Dreyfus to Alger Hiss,
+famous cases have been debated and reinterpreted by commentators and
+historians. A contrary rule would tend to restrain efforts to shed new
+light on historical events and reconsideration of past errors.
+
+The plaintiff was the pivotal character in the most famous rape case of
+the twentieth century. It became a political controversy as well as a
+legal dispute. As the white prosecutrix of nine black youths during an
+era of racial prejudice in the South, she aroused the attention of the
+nation. The prosecutions were among the first to focus the conscience of
+the nation on the question of the ability of our system of justice to
+provide fair trials to blacks in the South. The question persists today.
+As long as the question remains, the Scottsboro boys case will not be
+relegated to the dusty pages of the scholarly treatise. It will remain a
+living controversy.
+
+#### C. Evidence Insufficient to Support Malice
+
+A plaintiff may not recover under the malice standard unless there is
+"clear and convincing proof" that the defamation was published "with
+knowledge of its falsity or with reckless disregard for the truth."
+[*Gertz,*](http://scholar.google.com/scholar_case?case=7102507483896624202&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0).
+There is no evidence that NBC had  knowledge that its
+portrayal of Victoria Price was false or that NBC recklessly disregarded
+the truth. The derogatory portrayal of Price in the movie is based in
+all material respects on the detailed findings of Judge Horton at the
+trial and Dr. Carter in his book. When the truth is uncertain and seems
+undiscoverable through further investigation, reliance on these two
+sources is not unreasonable.
+
+We gain perspective on this question when we put to ourselves another
+case. Dr. Carter, in his book, persuasively argues, based on the
+evidence, that the Communist Party financed and controlled the defense
+of the Scottsboro boys. A different playwright might choose to portray
+Judge Horton as some Southern newspapers portrayed him at the time — as
+an evil judge who associated himself with a Communist cause and gave his
+approval to interracial rape in order to curry favor with the eastern
+press. The problem would be similar had Judge Horton — for many years
+before his death an obscure private citizen — sued the publisher for
+libel.
+
+Some controversial historical events like the Scottsboro trials become
+symbolic and take on an overlay of political meaning. Speech about such
+events becomes in part political speech. The hypothetical case and the
+actual case before us illustrate that an individual's social philosophy
+and political leanings color his historical perspective. His political
+opinions cause him to draw different lessons from history and to see
+historical events and facts in a different light. He believes the
+historical evidence he wants to believe and casts aside other evidence
+to the contrary. So long as there is no evidence of bad faith or
+conscious or extreme disregard of the truth, the speaker in such a
+situation does not violate the malice standard. His version of history
+may be wrong, but the law does not punish him for being a bad historian.
+
+The malice standard is flexible and encourages diverse political
+opinions and robust debate about social issues. It tolerates silly
+arguments and strange ways of yoking facts together in unusual patterns.
+But it is not infinitely expandable. It does not abolish all the common
+law of libel even in the political context. It still protects us against
+the "big political lie," the conscious or reckless falsehood. We do not
+have that in this case.
+
+Accordingly, the judgment of the District Court is affirmed.
+
 
 #### Footnote/Reference
 
 *   [*Spahn v. Julian Messner*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=233+NE.2d+840&appflag=67.12), 233 NE.2d 840 (NYCtApp 1967). Described in an article on False Light at [Wikipedia](http://en.wikipedia.org/wiki/False_light#Examples).
 *   [*Time, Inc. v.  Hill*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=385us374&appflag=67.12), 385 US 374 (1967). [Wikipedia](http://en.wikipedia.org/wiki/Time,_Inc._v._Hill).
 *   [*Douglass v. Hustler Magazine*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=769+F.2d+1128&appflag=67.12), 769 F.2d 1128 (7th Cir. 1985).
-*   [*Haynes v. Alfred Knopf, Inc.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=8+F.3d+1222&appflag=67.12), 8 F.3d 1222 (7th Cir. 1993).
 * [*Davis v.  Costa-Gavaras*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=654fsupp653&appflag=67.12), 654 F.Supp 653 (SDNY 1987). [Loyola Entertainment Law Journal Case Note](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr).  
 * [*Hustler v.  Falwell*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=108+S.Ct.+876&appflag=67.12), 108 S.Ct. 876 (1988). [Wikipedia](http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell).  
-*  [*Matthews v. Wozencraft,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=15f3d432&appflag=67.12) 15 F.3d 432 (5th Cir. 1994). [Texas Right of Publicity Law, citing *Matthews*](http://www.dmlp.org/legal-guide/texas-right-publicity-law).
-*   [*Shulman v. Group W.  Productions*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=955+P.2d+469&appflag=67.12), 955 P.2d 469 (Cal. Sct. 1998).  
-*   [*Dresbach v. Doubleday & Co.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=518+F.Supp+1285&appflag=67.12), 518 F.Supp 1285 (1981).  
-*   [*Street v.  NBC*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=645+F.2d+1227&appflag=67.12), 645 F.2d 1227 (6th Cir. 1981).
-*   [*Spahn v. Julian Messner*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=233+NE.2d+84&appflag=67.12), 233 NE.2d 840 (1967). Described in an article on False Light at [Wikipedia](http://en.wikipedia.org/wiki/False_light#Examples).  
-*   [*Time, Inc. v.  Hill*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=385us374&appflag=67.12), 385 US 374 (1967).  [Wikipedia](http://en.wikipedia.org/wiki/Time,_Inc._v._Hill).  
-*   [*Douglass v. Hustler Magazine*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=769+F.2d+1128&appflag=67.12), 769 F.2d 1128 (7th Cir. 1985)
-*   [*Davis v. Costa-Gavaras*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=654fsupp653&appflag=67.12), 654 F.Supp 653 (SDNY 1987) [Loyola Entertainment Law Journal Case Note](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr).
-*   [*Hustler v.  Falwell*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=108+S.Ct.+876&appflag=67.12), 108 S.Ct. 876 (1988).  [Wikipedia](http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell).
+* [*Hustler Magazine v. Falwell*: Pornography and First Amendment Rights (1997)](https://www.youtube.com/watch?v=WNRkDImrODg)
+* [*Matthews v. Wozencraft,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=15f3d432&appflag=67.12) 15 F.3d 432 (5th Cir. 1994). [Texas Right of Publicity Law, citing *Matthews*](http://www.dmlp.org/legal-guide/texas-right-publicity-law).
+* [*Shulman v. Group W.  Productions*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=955+P.2d+469&appflag=67.12), 955 P.2d 469 (Cal. Sct. 1998).  
+* [*Dresbach v. Doubleday & Co.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=518+F.Supp+1285&appflag=67.12), 518 F.Supp 1285 (1981).  
+* [*Street v.  NBC*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=645+F.2d+1227&appflag=67.12), 645 F.2d 1227 (6th Cir. 1981).
+* [*Spahn v. Julian Messner*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=233+NE.2d+84&appflag=67.12), 233 NE.2d 840 (1967). Described in an article on False Light at [Wikipedia](http://en.wikipedia.org/wiki/False_light#Examples).  
+* [*Time, Inc. v.  Hill*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=385us374&appflag=67.12), 385 US 374 (1967).  [Wikipedia](http://en.wikipedia.org/wiki/Time,_Inc._v._Hill).  
+* [*Douglass v. Hustler Magazine*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=769+F.2d+1128&appflag=67.12), 769 F.2d 1128 (7th Cir. 1985)
+* [*Davis v. Costa-Gavaras*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=654fsupp653&appflag=67.12), 654 F.Supp 653 (SDNY 1987) [Loyola Entertainment Law Journal Case Note](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr).
+*   [*Hustler v.  Falwell*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=108+S.Ct.+876&appflag=67.12), 108 S.Ct. 876 (1988). [Wikipedia](http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell).
 *   [*Dresbach v. Doubleday & Co.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=518+F.Supp+1285&appflag=67.12), 518 F.Supp 1285 (1981).
 *   [*Street v.  NBC*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=645+F.2d+1227&appflag=67.12), 645 F.2d 1227 (6th Cir. 1981).
 
