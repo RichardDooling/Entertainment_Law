@@ -1943,29 +1943,210 @@ have that in this case.
 
 Accordingly, the judgment of the District Court is affirmed.
 
+## What About Other Torts?
 
-#### Footnote/Reference
+What if instead of suing for defamation, the unhappy public figure sues for intentional infliction of emotional distress?
 
-*   [*Spahn v. Julian Messner*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=233+NE.2d+840&appflag=67.12), 233 NE.2d 840 (NYCtApp 1967). Described in an article on False Light at [Wikipedia](http://en.wikipedia.org/wiki/False_light#Examples).
-*   [*Time, Inc. v.  Hill*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=385us374&appflag=67.12), 385 US 374 (1967). [Wikipedia](http://en.wikipedia.org/wiki/Time,_Inc._v._Hill).
-*   [*Douglass v. Hustler Magazine*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=769+F.2d+1128&appflag=67.12), 769 F.2d 1128 (7th Cir. 1985).
-* [*Davis v.  Costa-Gavaras*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=654fsupp653&appflag=67.12), 654 F.Supp 653 (SDNY 1987). [Loyola Entertainment Law Journal Case Note](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr).  
-* [*Hustler v.  Falwell*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=108+S.Ct.+876&appflag=67.12), 108 S.Ct. 876 (1988). [Wikipedia](http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell).  
-* [*Hustler Magazine v. Falwell*: Pornography and First Amendment Rights (1997)](https://www.youtube.com/watch?v=WNRkDImrODg)
-* [*Matthews v. Wozencraft,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=15f3d432&appflag=67.12) 15 F.3d 432 (5th Cir. 1994). [Texas Right of Publicity Law, citing *Matthews*](http://www.dmlp.org/legal-guide/texas-right-publicity-law).
-* [*Shulman v. Group W.  Productions*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=955+P.2d+469&appflag=67.12), 955 P.2d 469 (Cal. Sct. 1998).  
-* [*Dresbach v. Doubleday & Co.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=518+F.Supp+1285&appflag=67.12), 518 F.Supp 1285 (1981).  
-* [*Street v.  NBC*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=645+F.2d+1227&appflag=67.12), 645 F.2d 1227 (6th Cir. 1981).
-* [*Spahn v. Julian Messner*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=233+NE.2d+84&appflag=67.12), 233 NE.2d 840 (1967). Described in an article on False Light at [Wikipedia](http://en.wikipedia.org/wiki/False_light#Examples).  
-* [*Time, Inc. v.  Hill*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=385us374&appflag=67.12), 385 US 374 (1967).  [Wikipedia](http://en.wikipedia.org/wiki/Time,_Inc._v._Hill).  
-* [*Douglass v. Hustler Magazine*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=769+F.2d+1128&appflag=67.12), 769 F.2d 1128 (7th Cir. 1985)
-* [*Davis v. Costa-Gavaras*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=654fsupp653&appflag=67.12), 654 F.Supp 653 (SDNY 1987) [Loyola Entertainment Law Journal Case Note](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr).
-*   [*Hustler v.  Falwell*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=108+S.Ct.+876&appflag=67.12), 108 S.Ct. 876 (1988). [Wikipedia](http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell).
-*   [*Dresbach v. Doubleday & Co.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=518+F.Supp+1285&appflag=67.12), 518 F.Supp 1285 (1981).
-*   [*Street v.  NBC*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=645+F.2d+1227&appflag=67.12), 645 F.2d 1227 (6th Cir. 1981).
+## *Hustler Magazine, Inc. v. Falwell,*
+
+###### United States Supreme Court (1988)
+
+* [case at Google Scholar](http://scholar.google.com/scholar_case?case=5069891851949874011)
+* [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=108+S.Ct.+876&appflag=67.12)
+* [case at Wikipedia](http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell)  
+* [Image of the Campari ad](http://law2.umkc.edu/faculty/projects/ftrials/falwell/campariL.jpg)
+
+The inside front cover of the November 1983 issue of Hustler Magazine
+featured a "parody" of an advertisement for Campari Liqueur that
+contained the name and picture of preacher Jerry Falwell and was entitled "Jerry
+Falwell talks about his first time." This parody was modeled after
+actual Campari ads that included interviews with various celebrities
+about their "first times." Although it was apparent by the end of each
+interview that this meant the first time they sampled Campari, the ads
+clearly played on the sexual double entendre of the general subject of
+"first times." Copying the form and layout of these Campari ads,
+Hustler's editors chose respondent as the featured celebrity and drafted
+an alleged "interview" with him in which he states that his "first time"
+was during a drunken incestuous rendezvous with his mother in an
+outhouse. The Hustler parody portrays respondent and his mother as drunk
+and immoral, and suggests that respondent is a hypocrite who preaches
+only when he is drunk. In small print at the bottom of the page, the ad
+contains the disclaimer, "ad parody — not to be taken seriously." The
+magazine's table of contents also lists the ad as "Fiction; Ad and
+Personality Parody."
+
+Soon after the November issue of Hustler became available to the public, Falwell sued Hustler Magazine and Larry Flynt to recover damages for libel, invasion of privacy, and
+intentional infliction of emotional distress. The case proceeded to
+trial. At the close of the evidence, the District Court
+granted a directed verdict for Flynt and Hustler on the invasion of privacy
+claim. The jury then found against Falwell on the libel claim,
+specifically finding that the ad parody could not "reasonably be
+understood as describing actual facts about Falwell or actual
+events in which [he] participated." The jury found for Falwell on the intentional infliction of emotional distress claim, however, and stated that he should be awarded $100,000 in
+
+On appeal, the United States Court of Appeals for the Fourth Circuit
+affirmed &hellip; rejecting Flynt and Hustler's argument that the "actual malice"
+standard of [*New York Times Co.* v. *Sullivan* (S.Ct. 1964)][sullivan] 
+must be met before Falwell (concededly a public figure) could recover for emotional distress.
+
+In the Fourth Circuit's view, the *New York Times* decision emphasized the
+constitutional importance not of the falsity of the statement or the
+defendant's disregard for the truth, but of the heightened level of
+culpability embodied in the requirement of "knowing . . . or reckless"
+conduct. Here, the *New York*  *Times* standard is satisfied by
+the state-law requirement, and the jury's finding, that the defendants
+have acted intentionally or recklessly, and that the sole issue before the court was "whether [the ad's] publication was sufficiently outrageous to constitute intentional
+infliction of emotional distress." 
+
+This case presents us with a novel question involving First Amendment
+limitations upon a State's authority to protect its citizens from the
+intentional infliction of emotional distress. We must decide whether a
+public figure may recover damages for emotional harm caused by the
+publication of an ad parody offensive to him, and doubtless gross and
+repugnant in the eyes of most. Falwell would have us find that a
+State's interest in protecting public figures from emotional distress is
+sufficient to deny First Amendment protection to speech that is patently
+offensive and is intended to inflict emotional injury, even when that
+speech could not reasonably have been interpreted as stating actual
+facts about the public figure involved. This we decline to do.&hellip;
+
+Of course, this does not mean that *any* speech about a public figure is
+immune from sanction in the form of damages. Since [*New York Times Co.*
+v. *Sullivan* (S.Ct. 1964),][sullivan] we have consistently ruled that a public figure may hold a speaker liable for the damage to reputation caused by publication of a
+defamatory falsehood, but only if the statement was made "with knowledge
+that it was false or with reckless disregard of whether it was false or
+not." &hellip; False statements of fact are particularly
+valueless; they interfere with the truth-seeking function of the
+marketplace of ideas, and they cause damage to an individual's
+reputation that cannot easily be repaired by counterspeech, however
+persuasive or effective. See [*Gertz,* 418 U. S., at 340, 344, n.
+9](http://scholar.google.com/scholar_case?case=7102507483896624202&q=hustler+flynt&hl=en&as_sdt=2006&scilh=0).
+But even though falsehoods have little value in and of themselves, they
+are "nevertheless inevitable in free debate," and a rule
+that would impose strict liability on a publisher for false factual
+assertions would have an undoubted "chilling" effect on speech relating
+to public figures that does have constitutional value. "Freedoms of
+expression require " 'breathing space.'" &hellip; This breathing space is provided by a constitutional rule that allows
+public figures to recover for libel or defamation only when they can
+prove *both* that the statement was false and that the statement was
+made with the requisite level of culpability.
+
+Respondent argues, however, that a different standard should apply in
+this case because here the State seeks to prevent not reputational
+damage, but the severe emotional distress suffered by the person who is
+the subject of an offensive publication. Cf. [*Zacchini* v.
+*Scripps-Howard Broadcasting Co.,* 433 U. S. 562
+(1977)](http://scholar.google.com/scholar_case?case=16238771870259020023)
+(ruling that the "actual malice" standard does not apply to the tort of
+appropriation of a right of publicity). In respondent's view, and in the
+view of the  Court of Appeals, so long as the utterance was
+intended to inflict emotional distress, was outrageous, and did in fact
+inflict serious emotional distress, it is of no constitutional import
+whether the statement was a fact or an opinion, or whether it was true
+or false. It is the intent to cause injury that is the gravamen of the
+tort, and the State's interest in preventing emotional harm simply
+outweighs whatever interest a speaker may have in speech of this type.
+
+Generally speaking the law does not regard the intent to inflict
+emotional distress as one which should receive much solicitude, and it
+is quite understandable that most if not all jurisdictions have chosen
+to make it civilly culpable where the conduct in question is
+sufficiently "outrageous." But in the world of debate about public
+affairs, many things done with motives that are less than admirable are
+protected by the First Amendment. In [*Garrison* v. *Louisiana,* 379 U.
+S. 64
+(1964),](http://scholar.google.com/scholar_case?case=6463657344879720774&q=hustler+flynt&hl=en&as_sdt=2006&scilh=0)
+we held that even when a speaker or writer is motivated by hatred or ill
+will his expression was protected by the First Amendment:
+
+> "Debate on public issues will not be uninhibited if the speaker must
+> run the risk that it will be proved in court that he spoke out of
+> hatred; even if he did speak out of hatred, utterances honestly
+> believed contribute to the free interchange of ideas and the
+> ascertainment of truth." *Id.,* at 73.
+
+Thus while such a bad motive may be deemed controlling for purposes of
+tort liability in other areas of the law, we think the First Amendment
+prohibits such a result in the area of public debate about public
+figures.
+
+Were we to hold otherwise, there can be little doubt that political
+cartoonists and satirists would be subjected to damages awards without
+any showing that their work falsely defamed its subject. Webster's
+defines a caricature as "the deliberately distorted picturing or
+imitating of a person, literary style, etc. by exaggerating features or
+mannerisms for satirical effect." The appeal of the political cartoon or caricature is often based on exploitation of unfortunate physical traits or politically embarrassing events — an exploitation often calculated to injure the feelings of the subject of the portrayal. The art of the cartoonist is often not reasoned or evenhanded, but slashing and one-sided. One cartoonist
+expressed the nature of the art in these words:
+
+> "The political cartoon is a weapon of attack, of scorn and ridicule
+> and satire; it is least effective when it tries to pat some politician
+> on the back. It is usually as welcome as a bee sting and is always
+> controversial in some quarters."
+
+Several famous examples of this type of intentionally injurious speech
+were drawn by Thomas Nast, probably the greatest American cartoonist to
+date, who was associated for many years during the post-Civil War era
+with Harper's Weekly. In the pages of that publication Nast conducted a
+graphic vendetta against William M. "Boss" Tweed and his corrupt
+associates in New York City's "Tweed Ring." It has been described by one
+historian of the subject as "a sustained attack which in its passion and
+effectiveness stands alone in the history of American graphic art." &hellip;
+Another writer
+explains that the success of the Nast cartoon was achieved "because of
+the emotional impact of its presentation. It continuously goes beyond
+the bounds of good taste and conventional manners."
+
+Despite their sometimes caustic nature, from the early cartoon
+portraying George Washington as an ass down to the present day, graphic
+depictions and satirical cartoons have played a prominent role in public
+and political debate. Nast's castigation of the Tweed Ring, Walt
+McDougall's characterization of Presidential candidate James G. Blaine's
+banquet with the millionaires at Delmonico's as "The Royal  Feast
+of Belshazzar," and numerous other efforts have undoubtedly had an
+effect on the course and outcome of contemporaneous debate. Lincoln's
+tall, gangling posture, Teddy Roosevelt's glasses and teeth, and
+Franklin D. Roosevelt's jutting jaw and cigarette holder have been
+memorialized by political cartoons with an effect that could not have
+been obtained by the photographer or the portrait artist. From the
+viewpoint of history it is clear that our political discourse would have
+been considerably poorer without them.
+
+Falwell contends, however, that the caricature in question here was
+so "outrageous" as to distinguish it from more traditional political
+cartoons. There is no doubt that the caricature of respondent and his
+mother published in Hustler is at best a distant cousin of the political
+cartoons described above, and a rather poor relation at that. If it were
+possible by laying down a principled standard to separate the one from
+the other, public discourse would probably suffer little or no harm. But
+we doubt that there is any such standard, and we are quite sure that the
+pejorative description "outrageous" does not supply one.
+"Outrageousness" in the area of political and social discourse has an
+inherent subjectiveness about it which would allow a jury to impose
+liability on the basis of the jurors' tastes or views, or perhaps on the
+basis of their dislike of a particular expression. An "outrageousness"
+standard thus runs afoul of our longstanding refusal to allow damages to
+be awarded because the speech in question may have an adverse emotional
+impact on the audience. See [*NAACP* v. *Claiborne Hardware Co.* (S.Ct. 1982)](http://scholar.google.com/scholar_case?case=7271075303659098319) ("Speech does not lose its protected character. . . simply because it may embarrass others or coerce them into action"). 
+
+> We conclude that public figures and public officials may not recover for
+the tort of intentional infliction of emotional distress by reason of
+publications such as the one here at issue without showing in addition
+that the publication *contains a false statement of fact* which was made
+with "actual malice," *i.e.,* with knowledge that the statement was
+false or with reckless disregard as to whether or not it was true. 
+
+For reasons heretofore stated this claim cannot, consistently with
+the First Amendment, form a basis for the award of damages when the
+conduct in question is the publication of a caricature such as the ad
+parody involved here. The judgment of the Court of Appeals is
+accordingly
+
+*Reversed.*
+
 
 #### Totally Optional Readings & Viewings
 
+* [*The People Versus Larry Flynt*][flynt] (stars Woody Harrelson and Courtney Love). This is a love song to the First Amendment directed by Czech director Milos Forman telling the tale of preacher Jerry Falwell's [landmark Supreme Court case][falwell] against Larry Flynt, the publisher of *Hustler Magazine* (on reserve in Schmid Library).
 * Amy J. Field, [A Curtain Call for Docudrama-Defamation Actions: A Clear Standard Takes a Bow](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr). Casenote discussing *Davis v.  Costa-Gavaras* (SDNY 1987).
 - *Deangelo Bailey v. Marshall Bruce Mathers, III, aka Eminem Slim Shady,* Macomb County Court (Michigan 2003):
     - [summary of case](http://www.thesmokinggun.com/documents/crime/judge-raps-eminem-accuser)
@@ -1998,7 +2179,8 @@ Blurred lines: Ninth Circuit applies same First Amendment protections to blogger
 [sullivan]: http://scholar.google.com/scholar_case?case=10183527771703896207 "New York Times v. Sullivan"
 [amant]: http://scholar.google.com/scholar_case?case=8635492247136926004 "St. Amant v. Thompson"
 [gertz]: http://scholar.google.com/scholar_case?case=7102507483896624202 "Gertz v. Robert Welch"
-
+[flynt]: http://www.imdb.com/title/tt0117318/ "The People v. Larry Flynt"
+[falwell]: http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell "Hustler vs. Falwell at Wikipedia"
 
 <!-- BEGIN COMMENT -->
 
