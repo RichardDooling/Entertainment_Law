@@ -112,7 +112,7 @@ After you've committed your changes, you push everything to your GitHub reposito
 
 Now go to YOUR FORK of the Entertainment Law Repository at GitHub.com.
 
-* Read the GitHub Help instructions on: [How to create a pull request.](GitHub on https://help.github.com/articles/creating-a-pull-request)
+* Read the GitHub Help instructions on: [How to create a pull request](https://help.github.com/articles/creating-a-pull-request).
 
 
 <!-- BEGIN COMMENT -->
