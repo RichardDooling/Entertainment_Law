@@ -2,9 +2,7 @@
 author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
-chapter: readme.md
-date: 01-Sep-2014
-version: 1.1
+file: readme.md
 ---
 
 # Lawyers For The Talent
@@ -71,7 +69,7 @@ No obligation here. Only for the curious, but if you get interested in how GitHu
 
 If you spot a typo or formatting glitch please [submit an issue.](https://github.com/RichardDooling/Entertainment_Law/issues). 
 
-On the [Entertainment Law repository page](https://github.com/RichardDooling/Entertainment_Law), on the right, click on the !Issues icon and describe the problem. If need be, copy in text illustrating the problem.
+On the [Entertainment Law repository page](https://github.com/RichardDooling/Entertainment_Law), on the right, click on the "Issues" link and describe the problem. If need be, copy in text illustrating the problem.
 
 Issues are easy to submit, and you'll be making the text better for those who come after you.
 

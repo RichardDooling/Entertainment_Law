@@ -91,11 +91,11 @@ The ad went on to list examples of official police intimidation and alleged that
 
 > It is uncontroverted that some of the statements contained in the two paragraphs were not accurate descriptions of events which occurred in Montgomery.
 
-L.B. Sullivan was the police commisioner for the city of Montgomery. Even though he wasn't named in the ad, Sullivan filed suit against the *New York Times*, alleging that it had wongfully implied that he was guilty of mindconduct. Four other suits were filed by other government officials. 
+L.B. Sullivan was the police commisioner for the city of Montgomery. Even though he wasn't named in the ad, Sullivan filed suit against the *New York Times*, alleging that it had wongfully implied that he was guilty of misconduct. Four other suits were filed by other government officials. 
 
 At trial the evidence showed that at least some of the statements in the ad were incorrect. The trial jury awarded Sullivan $500,000 in damages, and the Alabama Supreme Court affirmed the verdict. 
 
-A unanimous Supreme Court reversed, in essence overruling Alabama's interpretation of its own defamation laws. The Court held that the First Amendment required that in defamation actions brought by public officials, the plaintiff official must prove that the statement was made with "*actual malice*"--meaniing it was made *with knowledge that the statement was false* or *with reckeless disregard for the truth*. 
+A unanimous Supreme Court reversed, in essence overruling Alabama's interpretation of its own defamation laws. The Court held that the First Amendment required that in defamation actions brought by public officials, the plaintiff official must prove that the statement was made with "*actual malice*"--meaning it was made *with knowledge that the statement was false* or *with reckeless disregard for the truth*. 
 
 > We consider this case against the background of a profound national commitment to the principle that debate on public issues should be uninhibited, robust, and wide- open, and that it may well include vehement, caustic, and sometimes unpleasantly sharp attacks on government and public official.
 
@@ -141,7 +141,7 @@ Now let's look at some entertainment industry cases where public officials and f
 
 A summary of events leading up to the lawsuit:
 
-> Thomas Hauser wrote a book, *The Execution of Charles Horman,* which developed the thesis of Ed Horman, Charles' father, the US military in Chile had known and approved of the killing of his son by Pinochet's troops. Four years later, Costa-Gavras made a well-received movie, *Missing*, starring Jack Lemmon in the role of Ed Horman and Sally Field as his wife. *Missing* was a fictionalized version of the book, *Execution*, with the U.S. military head named Ray Tower. Davis, who had not sued the book's author or publisher, sued the movie director and studio for defamation. The legal issue posed by the case was whether there was any evidence of "actual malice" that would satisfy the *New York Times* standard.
+> Thomas Hauser wrote a book, *The Execution of Charles Horman,* which developed the thesis of Ed Horman, Charles' father, that the US military in Chile had known and approved of the killing of his son by Pinochet's troops. Four years later, Costa-Gavras made a well-received movie, *Missing*, starring Jack Lemmon in the role of Ed Horman and Sally Field as his wife. *Missing* was a fictionalized version of the book, *Execution*, with the U.S. military head named Ray Tower. Davis, who had not sued the book's author or publisher, sued the movie director and studio for defamation. The legal issue posed by the case was whether there was any evidence of "actual malice" that would satisfy the *New York Times* standard.
 
 > Paul C. Weiler, Gary Myers, *Entertainment, Media, and the Law: Text, Cases, and Problems* (4th Ed. 2011).
 
@@ -149,10 +149,7 @@ MILTON POLLACK, Senior District Judge.
 
 The defamation charged in the complaint is that in their film, "Missing," defendants (including Universal Studios) allegedly portrayed with actual malice that plaintiff, the Commander of the United States Military Group and Chief of the United States Mission to Chile at the time of the 1973 coup in Chile, ordered or approved a Chilean order to kill Charles Horman, an American residing in Chile.
 
-Actual malice is established in a public figure defamation litigation
-only where defendant publishes a statement "with knowledge that it was
-false or with reckless disregard of whether it was false or not." [*New
-York Times v. Sullivan,* (S.Ct. 1964) ][sullivan]. Reckless disregard in such a case means that a defendant published after he "in fact entertained serious doubts as to the truth of his publication." [*St. Amant v. Thompson,* (S.Ct. 1968)][amant]
+Actual malice is established in a public figure defamation litigation only where defendant publishes a statement "with knowledge that it was false or with reckless disregard of whether it was false or not." [*New York Times v. Sullivan,* (S.Ct. 1964) ][sullivan]. Reckless disregard in such a case means that a defendant published after he "in fact entertained serious doubts as to the truth of his publication." [*St. Amant v. Thompson* (S.Ct. 1968.)][amant]
 
 ### *Designated Evidence Offered by Plaintiff*
 
@@ -490,12 +487,7 @@ charge of the investigation."
 
 ##### 4. *The Final Embassy Meeting*
 
-In this scene Ed Horman tells Tower and the Embassy officials that he
-does not think that the military would kill Charles "unless an American
-official co-signed a kill order" and further indicates that he believes
-that American officials knew from the start that Charles was dead. These
-statements by Horman in the film directly reflect his beliefs as
-described in Hauser's book and as known to the filmmakers.
+In this scene Ed Horman tells Tower and the Embassy officials that he does not think that the military would kill Charles "unless an American official co-signed a kill order" and further indicates that he believes that American officials knew from the start that Charles was dead. These statements by Horman in the film directly reflect his beliefs as described in Hauser's book and as known to the filmmakers.
 
 ##### 5. *The Airport Scene*
 
@@ -1282,17 +1274,9 @@ Heritage Products, Inc.,* (GA 1982)](http://scholar.google.com/scholar_case?case
 Tapping someone's phone, or otherwise invading a person's private space.
 [*De May v. Roberts* (MI 1881)] (many citations omitted); 
 
-Harassing a celebrity by following her too closely, albeit on a public
-street. Cf. [*Galella v. Onassis* (2d Cir. 1973)](http://scholar.google.com/scholar_case?case=1876391558280554729). Casting a person in a false light by
-publicizing details of the person's life that while true are so selected
-or highlighted as to convey a misleading impression of the person's
-character. [*Time, Inc. v. Hill* (S.Ct. 1967)](http://scholar.google.com/scholar_case?case=13178370409068522665).
-Publicizing personal facts that while true and not misleading are so
-intimate that their disclosure to the public is deeply embarrassing to
-the person thus exposed and is perceived as gratuitous by the community (many citations omitted).
+Harassing a celebrity by following her too closely, albeit on a public street. Cf. [*Galella v. Onassis* (2d Cir. 1973)](http://scholar.google.com/scholar_case?case=1876391558280554729). Casting a person in a false light by publicizing details of the person's life that while true are so selected or highlighted as to convey a misleading impression of the person's character. [*Time, Inc. v. Hill* (S.Ct. 1967)](http://scholar.google.com/scholar_case?case=13178370409068522665).  Publicizing personal facts that while true and not misleading are so intimate that their disclosure to the public is deeply embarrassing to the person thus exposed and is perceived as gratuitous by the community (many citations omitted).
 
-The last, the publicizing of personal facts, is the aspect of invasion
-of privacy charged by the Hayneses.
+The last, the publicizing of personal facts, is the aspect of invasion of privacy charged by the Hayneses.
 
 Even people who have nothing rationally to be ashamed of can be
 mortified by the publication of intimate details of their life. Most
@@ -1336,8 +1320,7 @@ lacking. No more, we think, can they be used to enhance a privacy case,
 whether it is a false-light case, [*Brown & Williamson Tobacco Corp. v.
 Jacobson, supra,*](http://scholar.google.com/scholar_case?case=2482630921714735229)
 
-See generally *Restatement (Second) of Torts, supra,* § 652E, comment e.
-Indeed, that type of case presupposes the truth of the facts disclosed.
+See generally [*Restatement (Second) of Torts, supra,* § 652E, comment e.](http://tinyurl.com/lbhzrf5) Indeed, that type of case presupposes the truth of the facts disclosed.
 *Id.* If they are false, the interest invaded is that protected by the
 defamation and false-light torts: the interest in being represented
 truthfully to the world.
@@ -1390,8 +1373,7 @@ in trouble with the domestic relations court. He is a deacon of his
 church. He has come a long way from sharecropping in Mississippi and
 public housing in Chicago and he and his wife want to bury their past
 just as Mrs. Melvin wanted to do and in [*Melvin v.
-Reid*](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
-was held entitled to do. 
+Reid*](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0) was held entitled to do. 
 
 In Luther Haynes's own words, from his deposition, "I know I haven't
 been no angel, but since almost 30 years ago I have turned my life
@@ -1568,45 +1550,15 @@ answer that Lemann got his facts from Ruby Daniels rather than from
 judicial records. The courts got the facts from Ruby. We cannot see what
 difference it makes that Lemann went to the source.
 
-Ordinarily the evaluation and comparison of offensiveness and
-newsworthiness would be, like other questions of the application
- of a legal standard to the facts of a particular case,
-matters for a jury, not for a judge on a motion for summary judgment.
-But summary judgment is properly granted to a defendant when on the
-basis of the evidence obtained in pretrial discovery no reasonable jury
-could render a verdict for the plaintiff, [*Anderson v. Liberty Lobby,
-Inc.* (S.Ct. 1986)](http://scholar.google.com/scholar_case?case=9272001251064530131&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
-and that is the situation here. No modern cases decided after *Cox,* and
-precious few before, go as far as the plaintiffs would have us go in
-this case. Almost all the recent cases on which they rely &hellip; 
-involve the vindication of paramount social interests, such as the
-protection of children, patients, and witnesses — interests not involved
-in this case. The plaintiffs' best post-*Cox* cases are [*Vassiliades v.  Garfinckel's,
-supra*](http://scholar.google.com/scholar_case?case=12881988089288894231)
-and [*Huskey v. National Broadcasting Co.* (N.D.Ill.1986),](http://scholar.google.com/scholar_case?case=18021807458979528821&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
-the former involving before-and-after photos of a face lift, the latter
-involving television pictures of a prisoner dressed only in gym shorts.
-Photographic invasions of privacy usually are more painful than
-narrative ones, and even partial nudity is a considerable aggravating
-factor. *Vassiliades* also involved the special issue of patient rights,
-though it was not emphasized by the court.
+Ordinarily the evaluation and comparison of offensiveness and newsworthiness would be, like other questions of the application of a legal standard to the facts of a particular case, matters for a jury, not for a judge on a motion for summary judgment.  But summary judgment is properly granted to a defendant when on the basis of the evidence obtained in pretrial discovery no reasonable jury could render a verdict for the plaintiff, [*Anderson v. Liberty Lobby, Inc.* (S.Ct. 1986)](http://scholar.google.com/scholar_case?case=9272001251064530131&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0) and that is the situation here. No modern cases decided after *Cox,* and precious few before, go as far as the plaintiffs would have us go in this case. Almost all the recent cases on which they rely &hellip; involve the vindication of paramount social interests, such as the protection of children, patients, and witnesses — interests not involved in this case. The plaintiffs' best post-*Cox* cases are [*Vassiliades v.  Garfinckel's, supra*](http://scholar.google.com/scholar_case?case=12881988089288894231) and [*Huskey v. National Broadcasting Co.* (N.D.Ill.1986),](http://scholar.google.com/scholar_case?case=18021807458979528821&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0) the former involving before-and-after photos of a face lift, the latter involving television pictures of a prisoner dressed only in gym shorts.  Photographic invasions of privacy usually are more painful than narrative ones, and even partial nudity is a considerable aggravating factor. *Vassiliades* also involved the special issue of patient rights, though it was not emphasized by the court.
 
-Illinois has been a follower rather than a leader in recognizing claims
-of invasion of privacy (citations omitted). The plaintiffs are asking us to innovate boldly in the name of the Illinois courts, and such a request is better addressed to those courts
-than to a federal court. If the plaintiffs had filed this case in an
-Illinois state court and it had been removed to the federal district
-court, they would have had no choice, and then we would have been
-duty-bound to be as innovative as we thought it plausible to suppose the
-Illinois courts would be. But the plaintiffs filed this suit in the
-district court originally — they *chose* the federal forum. And we have
-said before and will say again that plaintiffs who seek innovations in
-state law are ill advised to choose a federal court as their forum.
+Illinois has been a follower rather than a leader in recognizing claims of invasion of privacy (citations omitted). The plaintiffs are asking us to innovate boldly in the name of the Illinois courts, and such a request is better addressed to those courts than to a federal court. If the plaintiffs had filed this case in an Illinois state court and it had been removed to the federal district court, they would have had no choice, and then we would have been duty-bound to be as innovative as we thought it plausible to suppose the Illinois courts would be. But the plaintiffs filed this suit in the district court originally — they *chose* the federal forum. And we have said before and will say again that plaintiffs who seek innovations in state law are ill advised to choose a federal court as their forum.
 
 To any suggestion that the outer bounds of liability should be left to a
 jury to decide we reply that in cases involving the rights protected by
 the speech and press clauses of the First Amendment the courts insist on
 firm judicial control of the jury. For the general principle, see [*New
-York Times Co. v. Sullivan* (S.Ct. 1964)][sullivan]
+York Times Co. v. Sullivan* (S.Ct. 1964)][sullivan].
 
 The publication of books is not at the sufferance of juries.
 
@@ -2142,6 +2094,11 @@ parody involved here. The judgment of the Court of Appeals is
 accordingly
 
 *Reversed.*
+
+#### Reference/Footnote Cases
+
+* [*Spahn v. Julian Mesner,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=23+a.d.2d+216&appflag=67.12), 260 NYS2d 451 (1965).  
+* [False Light at Wikipedia](http://en.wikipedia.org/wiki/False_light).  
 
 
 #### Totally Optional Readings & Viewings

@@ -3,8 +3,6 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: First Amendment - Sex
-date: 04-Sep-2014
-version: 1.6
 ---
 
 # Lawyers For The Talent
@@ -1033,9 +1031,10 @@ Please read these two cases in their entirety. Keep your eye on the ball: Is Geo
 * [Eugene Volokh on the meaning of "Congress shall make no law . .  ."](http://www.volokh.com/2012/09/19/the-founders-free-speechpress-clause/).  If the the tiny print bothers you, try [Readability.](http://www.readability.com/articles/xj1s2qys)
 * [Congress Shall Make No Law . . .][dooling_1sta], by Richard Dooling
 * [ACLU: Freedom of Expression in the Arts & Entertainment][aclu_1stA]
-*   [*The Atlantic:* “The Most Powerful Dissent in American History”](http://www.theatlantic.com/national/archive/2013/08/the-most-powerful-dissent-in-american-history/278503/) (a book that reveals precisely how and why Oliver Wendell Holmes changed his mind about the first amendment).
+*   [*The Atlantic:* "The Most Powerful Dissent in American History"](http://www.theatlantic.com/national/archive/2013/08/the-most-powerful-dissent-in-american-history/278503/) (a book that reveals precisely how and why Oliver Wendell Holmes changed his mind about the first amendment).
 *   [*The Atlantic:* "It's Time to Stop Using the 'Fire in a Crowded Theater' Quote"](http://www.theatlantic.com/national/archive/2012/11/its-time-to-stop-using-the-fire-in-a-crowded-theater-quote/264449/) (A nice take on the *US v. Schenk* and how it may have led to Holmes’ opinion in *Abrams*).
 *   [Fox Urges End to Broadcast Indecency Limits](http://www.hollywoodreporter.com/thr-esq/fox-urges-end-broadcast-indecency-572512)
+* [Highest criminal court in Texas strikes down "improper photography" statute](http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/09/18/texas-highest-criminal-court-strikes-down-improper-photography-statute/)
 
 ### Reference/Footnote Cases
 
