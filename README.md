@@ -63,7 +63,7 @@ Consider investing a little time and learning how to "clone" the entire reposito
 
 ### Contributing
 
-No obligation here. Only for the curious, but if you get interested in how GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS](https://github.com/RichardDooling/Entertainment_Law/blob/master/CONTRIBUTIONS.md) page.
+No obligation here. Only for the curious, but if you get interested in how GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS](https://github.com/RichardDooling/Entertainment_Law/blob/master/CONTRIBUTIONS.md) and [HELP](https://github.com/RichardDooling/Entertainment_Law/blob/master/HELP.md) pages.
 
 #### Typos, Glitches
 

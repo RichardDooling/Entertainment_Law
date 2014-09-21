@@ -26,7 +26,7 @@ Here's how.
 
 ## Install Git and GitHub
 
-Once you have Git and GitHub installed on your computer and have forked the Entertainment Law repository on GitHub, you will see a button to the right that says: "Clone In Desktop."
+Once you have [Git and GitHub installed on your computer](https://help.github.com/articles/set-up-git) and have [forked the Entertainment Law repository](https://help.github.com/articles/fork-a-repo) on GitHub, you will see a button to the right that says: "Clone In Desktop."
 
 Click on it and create a copy of your GitHub FORK of the Entertainment Law files on your computer.
 
@@ -58,7 +58,7 @@ If you are still not comfortable entering commands at the command line prompt, y
 
 Or take the [Git Tutorial](http://git-scm.com/book/en/Git-Basics).
 
-When you are comfortable using basic commands like `cd` to change directories, or `ls` (Mac/Unix) to list files, or `dir` (Windows), proceed.
+When you are comfortable using basic commands like `cd` to change directories, or `ls` (Mac/Unix) and `dir` (Windows) to list files, proceed.
 
 #### Syncing a Fork
 
