@@ -42,20 +42,27 @@ Likewise, three years later, in [*Pavesich v. New England Mutual Life Insurance,
 
 Pavesich, an artist by profession, sued claiming that he "never has had a policy of life insurance with the defendant company," and that the publication "tends to bring plaintiff into ridicule before the world, and especially with his friends and acquaintances, who know that he has no policy in the defendant company."
 
-The publication is a “trespass upon plaintiff's right of privacy, and was caused by breach of confidence and trust reposed” in the defendant Adams. The prayer was for damages in the sum of $25,000. The petition was demurred to generally, and specially on the grounds that there was a misjoinder of defendants and causes of action, that no facts were set forth from which malice can be inferred, and that no special damages were alleged. The court sustained the general demurrer, and the plaintiff excepted.
+The Georgia Supreme Court held:
+
+> The publication of a picture of a person, without his consent, as a part of an advertisement, for the purpose of exploiting the publisher's business, is a violation of the right of privacy of the person whose picture is reproduced, and entitles him to recover, without proof of special damage.
 
 Eventually, this "likeness" branch of the "right of privacy" was refined. The notion of "hurt feelings" caused by gossip or intrusive technology persisted in other branches of the privacy tort (intrusion, false light, publication of private facts), but the right of publicity took a different turn. An individual's name, image, and likeness became a species of property to be licensed. 
+
+In [*Haelan Labs v. Topps Chewing Gum* (2d Cir. 1953](http://scholar.google.com/scholar_case?case=1821155283282557167), the Second Circuit officially named the new right:
+
+> This right might be called a "right of publicity." For it is common knowledge that many prominent persons (especially actors and ballplayers), far from having their feelings bruised through public exposure of their likenesses, would feel sorely deprived if they no longer received money for authorizing advertisements, popularizing their countenances, displayed in mewspapers, magazines, busses, trains and subways. This right of publicity would usually yield them no money unless it could be made the subject of an exclusive grant which barred any other advertizer from using their pictures.
+
+The *Haelan* case and a famous law review article by [Melville B. Nimmer, *The Right of Publicity*](http://scholarship.law.duke.edu/lcp/vol19/iss2/6/) (1954), both took viewed "right of publicity" as akin to a property interest, rather than a privacy tort.
 
 ### Eugene Volokh
 
 ###### FREEDOM OF SPEECH AND THE RIGHT OF PUBLICITY
 
-> The right of publicity, in the words of the Restatement (Third) of Unfair Competition section 46, bars people from "appropriat[ing] the commercial value of a person's identity by using without consent the person’s name, likeness, or other indicia of identity for purposes of trade." Similarly, statutes such as California Civil Code section 3344 bar "us[ing] another's name, voice, signature, photograph, or likeness, in any manner, on or in products, merchandise, or goods, or for purposes of advertising or selling, or soliciting purchases of, products, merchandise, goods or services."
+> The right of publicity, in the words of the Restatement (Third) of Unfair Competition section 46, bars people from "appropriat[ing] the commercial value of a person's identity by using without consent the person's name, likeness, or other indicia of identity for purposes of trade." Similarly, statutes such as California Civil Code section 3344 bar "us[ing] another's name, voice, signature, photograph, or likeness, in any manner, on or in products, merchandise, or goods, or for purposes of advertising or selling, or soliciting purchases of, products, merchandise, goods or services."
 
 > Under standard First Amendment doctrine, this definition can't be accepted at face value—and in fact many lower courts have held that the First Amendment precludes right of publicity liability in many cases. For instance, an unauthorized biography is certainly a "product" and an item in "trade" that benefits from the "commercial value of [its subject's] identity"; it uses the subject’s name and often his photograph in goods (the biography itself); and yet unauthorized biographies are constitutionally protected from liability. Likewise for magazine or newspaper articles that focus on or mention unconsenting subjects, and that may often even include the subject's name and likeness on the front page as a means of capitalizing on the "commercial value" of the subject's identity.
 
 > Eugene Volokh, *Freedom of Speech and the Right of Publicity*, Houston Law Review 40 (2003)
-
 
 ## Major Right Of Publicity Cases
 
@@ -190,7 +197,7 @@ But, says the majority, our new right to publicity is violated only in cases inv
 
 Did the sculptors of our Confederate soldiers, and of our chief justices, labor without gain? Was Dr. King's portraitist unpaid for his work?
 
-If "financial gain" is to be the watershed of violation *vel non* of this new-found right, it cannot withstand scrutiny. It is rare, indeed, that any expression of sentiment beyond casual conversation is not somehow connected, directly or indirectly, to "financial gain." For example, a school child wins a \$25 prize for the best essay on Dr.  King's life. Is this "financial gain?" Must the child then account for the winnings?
+If "financial gain" is to be the watershed of violation *vel non* of this new-found right, it cannot withstand scrutiny. It is rare, indeed, that any expression of sentiment beyond casual conversation is not somehow connected, directly or indirectly, to "financial gain." For example, a school child wins a $25 prize for the best essay on Dr.  King's life. Is this "financial gain?" Must the child then account for the winnings?
 
 The essay, because of its worth, is reprinted in a commercial publication. Must the publisher account?  
 
@@ -249,8 +256,7 @@ We granted certiorari &hellip; to consider an issue unresolved by this Court: wh
 
 ### I
 
-[In deciding the crucial question of whether the TV station had a privilege to film and televise Zacchini's performance, the Ohio Supreme Court relied on [*Time, Inc.* v. *Hill,* (S.Ct. 1967),](http://scholar.google.com/scholar_case?case=13178370409068522665) a case involving First Amendment limitations on state tort actions. It read both *Hill* and [*New York Times Co.* v. *Sullivan,* (S.Ct. 1964),](http://scholar.google.com/scholar_case?case=10183527771703896207) to stand for the proposition that "the press has a privilege to report matters of legitimate public interest even though such reports might intrude on matters otherwise private," and concluded, therefore, that the press is also "privileged when an individual seeks to publicly exploit his talents while keeping the benefits private." The privilege thus exists in cases "where appropriation of a right of publicity is claimed." The Ohio Supreme Court concluded that "since the gravamen of the issue in this case is not whether the degree of intrusion is reasonable, but whether *First Amendment principles* require that the right of privacy give way to the public right to be informed of matters of public interest and concern, the concept of
-privilege seems the more useful and appropriate one."]
+[In deciding the crucial question of whether the TV station had a privilege to film and televise Zacchini's performance, the Ohio Supreme Court relied on [*Time, Inc.* v. *Hill,* (S.Ct. 1967),](http://scholar.google.com/scholar_case?case=13178370409068522665) a case involving First Amendment limitations on state tort actions, the U.S. Supreme court read both *Hill* and [*New York Times Co.* v. *Sullivan,* (S.Ct. 1964),](http://scholar.google.com/scholar_case?case=10183527771703896207) to stand for the proposition that "the press has a privilege to report matters of legitimate public interest even though such reports might intrude on matters otherwise private," and concluded, therefore, that the press is also "privileged when an individual seeks to publicly exploit his talents while keeping the benefits private." The privilege thus exists in cases "where appropriation of a right of publicity is claimed." The Ohio Supreme Court concluded that "since the gravamen of the issue in this case is not whether the degree of intrusion is reasonable, but whether *First Amendment principles* require that the right of privacy give way to the public right to be informed of matters of public interest and concern, the concept of privilege seems the more useful and appropriate one."]
 
 ###  II
 
@@ -292,6 +298,20 @@ There is no doubt that entertainment, as well as news, enjoys First Amendment pr
 We conclude that although the State of Ohio may as a matter of its own law privilege the press in the circumstances of this case, the First and Fourteenth Amendments do not require it to do so.
 
 *Reversed.*
+
+#### Notes On *Zacchini*
+
+In *Zacchini,* the United States Supreme Court told the Ohio Supreme Court it could rule in favor of the TV station and against Zacchini, but don't rely on the First Amendment to do it.
+
+The Ohio Supreme Court recognized that Zacchini had a state law publicity right, but also found that the TV station had a First Amendment privilege to report on such a "matter of legitimate public interest." After all, Zacchini's act was first and foremost NEWS. Indeed the Ohio Supreme Court cited [*Time, Inc.* v.  *Hill*](http://scholar.google.com/scholar_case?case=13178370409068522665) for the proposition that the press has a privilege to report news, even if the reporting intrudes on privacy. 
+
+The United States Supreme Court observed that the *Hill* case was a false light PRIVACY case, NOT a right of publicity or intrusion case. The Hill family were not celebrities or performers with "publicity rights," or with names that have commercial value. Defamation and false light cases involve damage to reputation or mental distress. Zacchini's interest was proprietary and analagous to the sort of interest protected by the patent or copyright laws, focusing on the right of the individual to reap the reward of his endeavors and having little to do with protecting feelings or reputation
+
+Second, the two torts (privacy v. publicity) "differ in the degree to which they intrude on dissemination of information to the public." 
+
+In "false light" cases, the plaintiff wants to "minimize publication of the damaging matter." In "right of publicity" cases, it's all about who gets to do the publishing. 
+
+> An entertainer such as Zacchini usually has no objection to the widespread publication of his act as long as he gets the commercial benefit of such publication. Indeed, in the present case Zacchini did not seek to enjoin the broadcast of his act; he simply sought compensation for the broadcast in the form of damages.
 
 ### *Carson v. Here's Johnny Portable Toilets, Inc.*
 
@@ -1022,6 +1042,7 @@ The judgment of the Court of Appeal is affirmed.
 
 #### Totally Optional Readings & Viewings
 
+* ['Call of Duty': Can Rudy Giuliani Beat Manuel Noriega, the Three Stooges and Gwen Stefani?](http://www.hollywoodreporter.com/thr-esq/call-duty-can-rudy-giuliani-734737)
 * [Katherine Heigl Sues Duane Reed Drug Stores Over Photo](http://www.washingtonpost.com/entertainment/celebrities/actress-heigl-sues-pharmacy-company-over-photo/2014/04/09/ffa1b0aa-c03a-11e3-9ee7-02c1e10a03f0_story.html)
 * [Katherine Heigl Ends Lawsuit Over Duane Reade Tweet (Exclusive)](http://www.hollywoodreporter.com/thr-esq/katherine-heigl-ends-lawsuit-duane-728552)
 * [Lindsay Lohan is suing the makers of Grand Theft Auto V](http://www.bbc.co.uk/newsbeat/28129505)
