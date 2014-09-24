@@ -809,7 +809,7 @@ work," [*Meeropol v. Nizer* (2d Cir.1977),](http://scholar.google.com/scholar_ca
 the sale of goods or services." [*Rogers v. Grimaldi* (2d Cir. 1989)](http://scholar.google.com/scholar_case?case=1704090655237798849).
 
 The book and its accompanying publicity have converted Matthews into a
-public figure under [*Gertz v. Robert Welch, Inc.* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202)
+public figure under [*Gertz v. Robert Welch, Inc.* (S.Ct. 1974)][gertz] 
 "[T]he same standards of constitutional protection apply to an invasion
 of privacy as to libel actions." [*Meeropol*](http://scholar.google.com/scholar_case?case=15243536244801528103).
 
@@ -1584,7 +1584,53 @@ The judgment for the defendants is
 
 AFFIRMED.
 
-## Public Figures
+### Public Figures <a name="public_figures"></a>
+
+Most defamation and privacy cases deal early on with the issue of whether plaintiff is a public or a private figure. In struggling with these question, courts have discussed at least three varieties of public figures.
+
+1. General-purpose public figures;
+2. Limited-purpose public figures;
+3. Involuntary public figures.
+
+#### General Purpose Public Figures.
+
+These are easy to spot, as the D.C. Circuit put it in [*Waldbaum v. Fairchild Publications*]
+(http://scholar.google.com/scholar_case?case=90016016899445152060):
+
+> A general public figure is a well-known "celebrity," his name a "household word." The public recognies him and follows his words and deeds, either because it regards his ideas, conduct, or judgment as worthy of the attention or because he actively pursues that consideration.
+
+#### Limited-Purpose Public Figure
+
+In its leading opinion on public *figures*, [*Gertz v. Robert Welch, Inc.* (S.Ct. 1974)][gertz], as opposed to public *officials*, [*New York Times v. Sullivan* (S.Ct. 1968)][sullivan], the United States Supreme Court identified at least two kinds of public figures:
+
+> In some instances an individual may achieve such pervasive fame or notoriety that he becomes a public figure for all purposes and in all contexts. More commonly, an *individual voluntarily injects himself or is drawn into a particular public controversy and thereby becomes a public figure for a limited range of issues*. In either case such persons assume special prominence in the resolution of public questions.
+
+> Absent clear evidence of general fame or notoriety in the community, and pervasive involvement in the affairs of society, an individual should not be deemed a public personality for all aspects of his life. It is preferable to reduce the public-figure question to a more meaningful context by looking to the nature and extent of an individual's participation in the particular controversy giving rise to the defamation.
+
+The states and federal circuits have developed different tests for deciding whether and when a person is a limited-purpose public figure. The Fifth Circuit uses a three-part test:
+
+1. The controversy at issue must be public both in the sense that people are discussing it and people other than the immediate participants in the controversy are likely to feel the impact of its resolution;
+2. The plaintiff must have more than a trivial or tangential role in the controversy; and,
+3. The alleged defamation must be germane to the plaintiff's participation in the controversy.
+
+The Second Circuit uses a four-factor inquiry, which focuses on plaintiff's participation in the public controversy. This test requires the defendant to prove that plaintiff:
+
+1. Successfully invited public attention to his views in an effort to influence others prior to the incident that is the subject of litigation;
+2. Voluntarily injected himself into a public controversy related to the subject of the litigation; 
+3. Assumed a position of prominence in the public controversy; and
+4. Maintained regular and continuing access to the media.
+
+[*Lerman v. Flynt Distrib, Co.* (2d Cir. 1984)](http://scholar.google.com/scholar_case?case=18352275970631466991).
+
+The plaintiff in *Street v. NBC* (below) is a textbook example of a public figure for a limited purpose. 
+
+#### Involuntary Public Figures
+
+Some read [*Gertz*][gertz] as identifying yet a third variety of public figure, the involuntary public figure, based upon the Court's observation that:
+
+> Hypothetically, it may be possible for someone to become a public figure through no purposeful action of his own, *but the instances of truly involuntary public figures must be exceedingly rare.* For the most part those who attain this status have assumed roles of especial prominence in the affairs of society. Some occupy positions of such persuasive power and influence that they are deemed public figures for all purposes. More commonly, those classed as public figures have thrust themselves to the forefront of particular public controversies in order to influence the resolution of the issues involved. In either event, they invite attention and comment.
+
+These distinction in the small number of cases discussing involuntary public figures seems to turn on whether the plaintiff voluntary sought to play a public role in the controversy that gave rise to her notoriety. Modern commentators suggest that even vigorous use of social media (Twitter, Facebook, and the like) could be used as evidence of one's public figure status.
 
 ### *Street v. National Broadcasting Co.*
 
