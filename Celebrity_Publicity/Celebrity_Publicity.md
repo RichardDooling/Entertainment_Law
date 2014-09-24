@@ -82,7 +82,7 @@ HILL, Presiding Justice.
 
 The right of publicity may be defined as a celebrity's right to the exclusive use of his or her name and likeness. [*Price v. Hal Roach Studios,* (S.D.N.Y. 1975)](http://scholar.google.com/scholar_case?case=4464715402419059889); [*Estate of Presley v. Russen*, (D.N.J. 1981),](http://scholar.google.com/scholar_case?case=3389829714381222724) and cases cited. The right is most often asserted by or on behalf of professional athletes, comedians, actors and actresses, and other entertainers. This case involves none of those occupations. As is known to all, from 1955 until he was assassinated on April 4, 1968, Dr. King, a Baptist minister by profession, was the foremost leader of the civil rights movement in the United States. He was awarded the Nobel Prize for Peace in 1964. Although not a public official, Dr. King was a public figure, and we deal in this opinion with public figures who are neither public officials nor entertainers. Within this framework, we turn to the questions posed.
 
-#### 1\. Is the "right of publicity" recognized in Georgia as a right distinct from the right of privacy?
+#### 1. Is the "right of publicity" recognized in Georgia as a right distinct from the right of privacy?
 
 Georgia has long recognized the right of privacy. Following denial of
 the existence of the right of privacy in a controversial decision by the
@@ -145,7 +145,7 @@ Thus, the courts in Georgia have recognized the rights of private citizens, [*Pa
 
 In [*Pavesich,* supra, 122 Ga.  190,](http://scholar.google.com/scholar_case?about=14399965817410541021) this right not to have another appropriate one's photograph was denominated the right of privacy; in [*Cabaniss v. Hipsley,* supra, 114 Ga. App.  367,](http://scholar.google.com/scholar_case?case=7744604933524088722) it was the right of publicity. Mr. Pavesich was not a public figure; Ms. Hipsley was. We conclude that while private citizens have the right of privacy, public figures have a similar right of publicity, and that the measure of damages to a public figure for violation of his or her right of publicity is the value of the appropriation to the user.&hellip; 
 
-####2\. Does the "right of publicity" survive the death of its owner (i.e., is the right inheritable and devisable)?
+####2.  Does the "right of publicity" survive the death of its owner (i.e., is the right inheritable and devisable)?
 
 Although the *Pavesich* court expressly did not decide this question, the tenor of that opinion is that the right to privacy at least should be protectable after death. [*Pavesich, supra*](http://scholar.google.com/scholar_case?about=14399965817410541021).
 
