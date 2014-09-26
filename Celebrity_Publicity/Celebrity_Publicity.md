@@ -1030,13 +1030,36 @@ The judgment of the Court of Appeal is affirmed.
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=332f3d915&appflag=67.12)
 * [Art on Trial](http://www.tjcenter.org/ArtOnTrial/trademark.html).
 
+#### Trademark (Lanham Act) Language
+
+Lanham Act § 43(a)
+
+1. Any person who . . . uses in commerce any word, term, name, symbol, or device . . . or any false designation of origin, false or misleading description of fact . . . which---
+    (a) is *likely to cause confusion* . . . mistake . . . or to deceive as to the affiliation, connection or association of such person with another person, or as to the origin, sponsorship or approval of his or her goods, services or commercial activities . . .
+    (b) &hellip; shall be liable in a civil action by any person who believes that he or she is or is likely to be damaged by such act.
+
+#### Volokh Right-Of-Publicity Speech Categories
+
+1. Works that refer to a person but fall within certain favored genres, defined as “news reporting, commentary, entertainment, works of fiction or nonfiction” (Restatement) or “news, public affairs, or sports, or any political campaign” (California Civil Code).
+    - Commercial speech? No.
+    - Infringement? No.
+2. Advertisements for category 1 speech.
+    - Commercial speech? Yes.
+    - Infringement? No.
+3. Advertisements for other products (VCRs, cars, snacks, and whatever else) that refer to a person. 
+    - Commercial speech? Yes.
+    - Infringement? Yes.
+4. Works, other than advertisements, that refer to a person and fall outside the favored genres in item 1, such as sculptures, T-shirts, or prints, or, in California, songs, movies, and other entertainment.
+    - Commercial speech? No.
+    - Infringement? Yes.
+
 #### Reference/Footnote Cases
 
 * [*Matthews v. Wozencraft,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=15f3d432&appflag=67.12) 15 F.3d 432 (5th Cir. 1994). 
 * [Texas Right of Publicity Law, citing *Matthews*](http://www.dmlp.org/legal-guide/texas-right-publicity-law). 
 * [*Comedy III Productions v. Gary Saderup, Inc.,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=21+p3d+797&appflag=67.12) 21 P.3d 797 (CA 2001). 
 * [Juris Notes](http://www.jurisnotes.com/IP/articles/acriticalexam.htm).
-* [*Zacchini v. Scripps-Howard Broadcasting*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=433us562&appflag=67.12), 433 US 562 (1977).  [Wikipedia](http://en.wikipedia.org/wiki/Zacchini_v._Scripps-Howard_Broadcasting_Co.).
+* [*Zacchini v. Scripps-Howard Broadcasting*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=433us562&appflag=67.12), 433 US 562 (1977). [Wikipedia](http://en.wikipedia.org/wiki/Zacchini_v._Scripps-Howard_Broadcasting_Co.).
 * [*Hicks v. Casablanca Records,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=464fsupp426&appflag=67.12) 464 F.Supp. 426 (SDNY 1978).
 * [*Keenan v. Superior Court Los Angeles County,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=27+Cal.4th+413&appflag=67.12) 40 P.3d 718 (2002). [Reporters Committee For Freedom of the Press](http://www.rcfp.org/browse-media-law-resources/news/high-court-strikes-down-state-son-sam-law).
 

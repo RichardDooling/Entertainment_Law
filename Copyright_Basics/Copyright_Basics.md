@@ -3,9 +3,7 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: Copyright Basics
-date: 26 August 2014
-version: 1.0
----
+...
 
 # Lawyers For The Talent
 
@@ -13,11 +11,9 @@ version: 1.0
 
 ## Copyright Basics
 
-<span style="color: red">!!! Page Under Construction !!!</span>
-
 ### History of Copyright
 
-> "Copyright turns the content of protected works into a private good whose authors can grant or withhold consent to others to use and distribute it." --Paul Weiler
+> "Copyright turns the content of protected works into a private good whose authors can grant or withhold consent to others to use and distribute it." ---Paul Weiler, *Entertainment, Media and The Law*
 
 The constitution gives Congress the power, under Article I, Section 8, Clause 8:
 
@@ -25,9 +21,9 @@ The constitution gives Congress the power, under Article I, Section 8, Clause 8:
 
 And Congress has passed laws (copyright, trademark, patent) in an attempt to do achieve these ends. 
 
-We do not have time to explore the particulars of [copyright terms](http://en.wikipedia.org/wiki/Copyright_term) (the length of time copyright protects a work before it passes into the public domain). In most of the world, the default length of copyright is the life of the author plus either 50 or 70 years. [List of countries' copyright lengths](http://en.wikipedia.org/wiki/List_of_countries%27_copyright_length).
+We do not have time to explore the particulars of [copyright terms](http://en.wikipedia.org/wiki/Copyright_term) or (the length of time copyright protects a work before it passes into the public domain). In most of the world, the default length of copyright is the life of the author plus either 50 or 70 years. [List of countries' copyright lengths](http://en.wikipedia.org/wiki/List_of_countries%27_copyright_length).
 
-For our purposes, the shortest and most entertaining introduction to copyright terms in the United States than CGP Grey's YouTube presentation: [Forever Less One Day: Meet Copyright!][4ever-1day]. It bears rewatching.
+For our purposes, the shortest and most entertaining introduction to copyright terms in the United States is CGP Grey's YouTube presentation: [Forever Less One Day: Meet Copyright!][4ever-1day]. It bears rewatching.
 
 #### Rights Protected Include:
 
@@ -37,7 +33,7 @@ For our purposes, the shortest and most entertaining introduction to copyright t
 * Public performance
 * Public display
 
-Running theme: *economic* rights are what make possible the investment of time, talent, and money that ultimately produces a work for entertainment consumers to enjoy.
+Running theme: Artists invest time, talent, and money to produce art for consumers *economic* rights are what make possible the investment of time, talent, and money that ultimately produces a work for entertainment consumers to enjoy.
 
 Copyright strives to strike a delicate balance between intellectual property rights and free speech rights.
 
@@ -47,7 +43,7 @@ What is copyrightable?
 
 Copyright protection extends to “original works of authorship fixed in any tangible medium of expression.” [§ 102(a)](http://www.copyright.gov/title17/92chap1.html#102)
 
-All works? Or only "artistic works"? Justice Oliver Wendell Holmes addressed the question in 1903.
+All works? Or only "artistic works"? What about "bad" art? What an adver few sketches of circus to be used in an advertisement for a circus? Justice Oliver Wendell Holmes addressed the question in 1903.
 
 ##### *Bleistein v Donaldson Lithographing Co.,* (Sct. 1903)
 
