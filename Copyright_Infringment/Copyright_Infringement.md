@@ -3,7 +3,7 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: Copyright Infringement
-...
+---
 
 # Lawyers For The Talent
 
