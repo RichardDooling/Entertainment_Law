@@ -3,26 +3,18 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: Copyright Infringement
-date: 26 August 2014
-version: 1.0
----
+...
 
 # Lawyers For The Talent
 
 ###### by Richard Dooling
 
-## Copyright Infringement
-
-<span style="color: red">!!! Page Under Construction !!!</span>
+**!!! Still Under Construction !!!**
 
 ## Infringement & Fair Use
 
 ###### Copying, Substantial Similarity, Parody
 
-### Readings ###
-
-* [Copyright Basics](http://www.copyright.gov/circs/circ01.pdf) (read first 6 pages of Copyright Basics; stop at page 7, Copyright Registration)
-* [Fair Use](http://www.copyright.gov/fls/fl102.html) (very short "official" explanation of fair use).
 
 ### Infringement
 
@@ -42,7 +34,6 @@ To prove copyright infringement, the copyright holder must establish:
 
 1. Ownership of a valid copyright.
 2. Copying, which may be proved by direct or circumstantial evidence.  
-
 
 ##### *Bright Tunes Music Corp. v. Harrisongs Music*
 
@@ -85,6 +76,8 @@ Copyright in literary works “cannot be limited literally to the text, else a p
 > Upon any work, and especially upon a play, a great number of patterns of increasing generality will fit equally well, as more and more of the incident is left out. The last may perhaps be no more than the most general statement of what the play is about, and at times might consist only of its title; but there is a point in this series of abstractions where they are no longer protected, since otherwise the playwright could prevent the use of his 'ideas,' to which, apart from their expression, his property is never extended . . . .  Nobody has ever been able to fix that boundary, and nobody ever can. In some cases the question has been treated as though it were analogous to lifting a portion out of the copyrighted work; but the analogy is not a good one, because though the skeleton is a part of the body, it pervades and supports the whole. In such cases we are rather concerned with the line between expression and what is expressed.”
 
 ### Fair Use ###
+
+* [Fair Use](http://www.copyright.gov/fls/fl102.html) (very short "official" explanation of fair use).
 
 > Fair use is a DEFENSE to copyright infringement. It allows the taking of some part of a copyrighted work without the need to secure the author's permission. Examples of fair use include: news reporting, criticism, comment, teaching . . . parody, scholarship, or research.
 
@@ -156,8 +149,13 @@ The Court found that "this last factor is undoubtedly the single most important 
 #### Headline cases ####
 
 * [*Harper & Row v. The Nation,*][harper] 471 US 439 (1985). [Wikipedia](http://en.wikipedia.org/wiki/Harper_%26_Row_v._Nation_Enterprises)
-*   [*Campbell AKA Luke Skywalker v. Acuff-Rose Music, Inc.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=510us569&appflag=67.12) 510 US 569 (1994).  [Wikipedia](http://en.wikipedia.org/wiki/Campbell_v._Acuff-Rose_Music,_Inc.). 
- 
+*  [*Campbell AKA Luke Skywalker v. Acuff-Rose Music, Inc.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=510us569&appflag=67.12) 510 US 569 (1994).  [Wikipedia](http://en.wikipedia.org/wiki/Campbell_v._Acuff-Rose_Music,_Inc.). 
+*   [*Bright Tunes Music Corp. v. Harrisongs Music,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=420fsupp177&appflag=67.12) 420 F.Supp. 177 (SDNY 1976) [*My Sweet Lord* at Wikipedia](http://en.wikipedia.org/wiki/My_Sweet_Lord).
+*   [*Selle v.  Gibb,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=741f2d896&appflag=67.12) 741 F.2d 896 (1984).  [Wikipedia](http://en.wikipedia.org/wiki/Selle_v._Gibb).  
+*   [*Denker v.  Uhry,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=820+F.+Supp.+722&appflag=67.12) 820 F. Supp. 722 (SDNY 1992). [*New York Times*](http://www.nytimes.com/1992/12/10/style/chronicle-352892.html).
+*   [*Beal v. Paramount Pictures,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=806fsupp963&appflag=67.12) 806 F. Supp. 963 (ND Ga 1992). [Noncopyrightable subject
+    matter](http://itlaw.wikia.com/wiki/Noncopyrightable_subject_matter).
+
 ##### Reference/Footnote Cases
 
 *   [*Selle v. Gibb,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=741f2d896&appflag=67.12) 741 F.2d 896 (1984). [Wikipedia](http://en.wikipedia.org/wiki/Selle_v._Gibb).  
@@ -182,6 +180,11 @@ http://creativeartsadvocate.com/independent-creation-vs-subconscious-copying/)
 * [Lawrence Lessig Sues Over Takedown of YouTube Video Featuring Phoenix Song](http://www.hollywoodreporter.com/thr-esq/lawrence-lessig-sues-takedown-youtube-613549)
 * [Beastie Boys Fight Online Parody of 'Girls'][beastie]
 * [NYTimes on 5Pointz Graffiti Site](http://www.nytimes.com/2013/11/20/nyregion/5pointz-a-graffiti-mecca-in-queens-is-wiped-clean-overnight.html)
+[Lawrence Lessig Sues Over Takedown of YouTube Video Featuring Phoenix Song](http://www.hollywoodreporter.com/thr-esq/lawrence-lessig-sues-takedown-youtube-613549)
+* [Beastie Boys Fight Online Parody of 'Girls'][beastie]
+* [Marvin Gaye's Children Use Audio Mashup to Prove 'Blurred Lines' Is Infringing](http://www.hollywoodreporter.com/thr-esq/marvin-gayes-children-use-audio-731178)
+* [Documentary Filmmakers' Statement Of Best Practices In Fair Use](http://www.cmsimpact.org/sites/default/files/fair_use_final.pdf) (see *Pocket Lawyer* page 246).
+* [Code Of Best Practices In Fair Use For Online Video](http://www.cmsimpact.org/sites/default/files/online_best_practices_in_fair_use.pdf) (see *Pocket Lawyer* page 246).
 
 [aba-copyright]: http://www.americanbar.org/groups/young_lawyers/publications/the_101_201_practice_series/elements_of_a_copyright.html "Elements of Copyright Claim"
 [harper]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=105+S.Ct.+2218&appflag=67.12 "Harper & Row v. Nation Enterprises"
