@@ -9,8 +9,6 @@ chapter: Copyright Infringement
 
 ###### by Richard Dooling
 
-!!! 27-Sep-2014 still need to add Denker v. Uhry and Campell v. Acuff Rose Music !!!
-
 ## Infringement & Fair Use
 
 ###### Copying, Substantial Similarity, Parody
@@ -34,7 +32,7 @@ To prove copyright infringement, the copyright holder must establish:
 1. Ownership of a valid copyright.
 2. Copying, which may be proved by direct or circumstantial evidence.  
 
-### Bright Tunes Music Corp. v. Harrisongs Music, Ltd.
+### *Bright Tunes Music Corp. v. Harrisongs Music, Ltd.*
 
 ###### US Southern District New York (1976)
 
@@ -186,7 +184,9 @@ conclusions of law.
 
 So Ordered.
 
-### Selle v. Gibb
+## Access
+
+### *Selle v. Gibb*
 
 ###### US Court of Appeals (7th Cir. 1984) 
 
@@ -590,16 +590,569 @@ The jury decided in favor of plaintiff Selle, but the judge granted judgment not
 
 > Two works may be identical in every detail, but, if the alleged infringer created the accused work independently or both works were copied from a common source in the public domain, then there is no infringement. Therefore, if the plaintiff admits to having kept his or her creation under lock and key, it would seem logically impossible to infer access through striking similarity. Thus, although it has frequently been written that striking similarity alone can establish access, the decided cases suggest that this circumstance would be most unusual. The plaintiff must always present sufficient evidence to support a reasonable possibility of access because the jury cannot draw an inference of access based upon speculation and conjecture alone.
 
+## Subsantial Similarity
 
-#### Substantial Similarity: Books, Plays, Movies
+Copyright plaintiffs must prove that alleged infringers had access to plaintiff's copyrighted work AND must prove that the infringing work is "substantially similar" to the copyrighted work. The test for "substantial similarity" is "whether an average lay observer would recognize the alleged copy as having been appropriated from the copyrighted work." [*Warner Bros. Inc. v. ABC* (2d Cir. 1981)](http://scholar.google.com/scholar_case?case=11184341880970931909).
 
-*Nichols v Universal* (2d Cir. 1930). Judge Learned Hand compared a play, *Abie's Irish Rose*, with a movie *The Cohens and the Kellys* in a copyright suit.
+In [*Nichols v Universal* (2d Cir. 1930)](http://scholar.google.com/scholar_case?case=14991934121439658064), Judge Learned Hand compared a play, *Abie's Irish Rose*, with a movie *The Cohens and the Kellys* in a copyright suit.
 
 Copyright in literary works “cannot be limited literally to the text, else a plagiarist would escape by immaterial variations.” Instead, Judge Hand formulated "the abstractions test":
 
 > Upon any work, and especially upon a play, a great number of patterns of increasing generality will fit equally well, as more and more of the incident is left out. The last may perhaps be no more than the most general statement of what the play is about, and at times might consist only of its title; but there is a point in this series of abstractions where they are no longer protected, since otherwise the playwright could prevent the use of his 'ideas,' to which, apart from their expression, his property is never extended . . . .  Nobody has ever been able to fix that boundary, and nobody ever can. In some cases the question has been treated as though it were analogous to lifting a portion out of the copyrighted work; but the analogy is not a good one, because though the skeleton is a part of the body, it pervades and supports the whole. In such cases we are rather concerned with the line between expression and what is expressed.”
 
-### Fair Use ###
+We can see a similar analysis applied in the following case.
+
+### *Denker v. Uhry* 
+
+###### US District Court, SD New York (1992)
+
+* [Case on Google Scholar](http://scholar.google.com/scholar_case?case=10458144340320727499)
+* [Case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=820+F.+Supp.+722&appflag=67.12). 
+
+MUKASEY, District Judge.
+
+In these copyright infringement actions, plaintiff Henry Denker, author
+of the novel *Horowitz and Mrs. Washington* and the play of the same
+title, sues defendant Alfred Uhry, author of the play *Driving Miss
+Daisy* and the screenplay of the same title, and others involved in the
+production and distribution of the play and film versions of *Driving
+Miss Daisy.* Defendants have moved jointly for summary judgment on the
+issue of improper appropriation. For the reasons set forth below,
+defendants' motion is granted.
+
+#### I.
+
+Plaintiff is a respected and prolific author. He has written 24 novels,
+more than 1,000 scripts for radio and television, screenplays for three
+feature films and teleplays for 12 network specials. Seven of his plays
+have been produced on Broadway and two at the  Kennedy Center
+for Performing Arts in Washington D.C. Plaintiff's *Horowitz and Mrs.
+Washington,* the subject of these lawsuits, originally was published as
+a novel in 1979 by G.P. Putnam's Sons and then as a condensed book by
+Reader's Digest in 1980. Later rewritten for the stage, *Horowitz and
+Mrs. Washington* had a run of seven performances at the Joshua Golden
+Theater on Broadway in April 1980.
+
+Alfred Uhry, a defendant in both actions, has been writing lyrics, plays
+and screenplays since 1958. *Driving Miss Daisy,* his Pulitzer Prize
+winning play, first was produced in New York by defendant Playwrights
+Horizons in 1987&hellip; Adapted for the screen
+by Uhry in 1988, *Driving Miss Daisy* won four Academy Awards including
+Best Picture and Best Screenplay&hellip;
+
+#### A. *Horowitz and Mrs. Washington*
+
+Plaintiff's works depict the relationship between Samuel Horowitz, a
+crusty, bigoted, 72-year-old Jewish man and Harriet Washington, his
+black physical therapist. The play is set in New York City during July
+1977. The action in the novel takes place over a few months sometime in
+the late 1970's.
+
+Early in the novel, and at the beginning of the play, Horowitz,
+recovering from a stroke, is brought home from the hospital to his Upper
+West Side apartment by his son Marvin Hammond. Immediately apparent is
+Horowitz's hostility to the non-white, non-Jewish world. We learn at the
+outset that he believes, notwithstanding his doctor's insistence to the
+contrary, that his stroke was precipitated by an earlier mugging at the
+hands of a gang of "black bastards," and that his doorman, Juan, who
+refuses to accept a tip because of Horowitz's illness, is really a
+"[s]hrewd little Puerto Rican ... set[ting him] up for bigger tips."
+
+Upon arriving at his apartment, Horowitz is horrified to learn that
+Marvin and his sister Mona Fields have hired Harriet Washington, a
+"schvartzer," to assist in his rehabilitation. "You
+can't trust them!" he warns his son. "They mug me, slash me, give me a
+stroke...." Marvin, however, is
+adamant, and Horowitz relents when he learns the alternative is a
+nursing home.
+
+The next few sequences in both novel and play depict Mrs. Washington's
+patient but firm attempts to overcome Horowitz's hostility and proceed
+with his physical therapy. Mrs. Washington, to whom Horowitz refers as
+the "Black Hitler," insists that Horowitz perform a variety of tasks
+designed to rehabilitate his hand and leg, including cutting his food,
+crumpling newspapers, shuffling cards, walking, and buttoning his
+clothes. The nature of Denker's work and its characters is illustrated
+by the following exchange from the play&hellip;
+
+> WASHINGTON: Lift your foot like this. Didn't they teach you at the
+> hospital?
+
+> \* \* \*
+
+> HOROWITZ: And if I try I'll be able to dance in the ballet? (He barely
+> raises it.) There! Better?
+
+> WASHINGTON: No!
+
+> HOROWITZ: Tell me, my dear Mrs. Washington, you ever had the ambition
+> to run a concentration camp?
+
+> \* \* \*
+
+> WASHINGTON: Tomorrow will be better. And now for your occupational
+> therapy.
+
+> HOROWITZ: My occupation I already know. I used to be in wholesale
+> paper and twine.
+
+> WASHINGTON: Manual dexterity, Mr. Horowitz. Proprioceptive
+> Neuromuscular Facilitation.
+
+> HOROWITZ: There is nothing worse than an educated negro.
+
+Despite Horowitz's offensive manner, Mrs.
+Washington refuses to quit because the job allows her to help her
+widowed daughter who is raising two children.
+
+As the novel and play progress, Horowitz increasingly is impressed by
+Mrs. Washington's integrity and determination, and his attitude towards
+her gradually softens. During a visit to Central Park the two talk of
+the loss of their respective spouses. Later Horowitz, who is saddened by
+eating alone in the dining room where he used to eat with his wife, asks
+Mrs. Washington if she would join him for dinner. When Mrs. Washington
+agrees to have coffee while Horowitz eats, it is the first time she sees
+him smile. Eventually, as the friendship develops Horowitz's racial
+remarks become more humorous than hostile and he uses them, albeit
+awkwardly and insensitively, in an attempt to express his growing
+admiration for Mrs. Washington.
+
+Later on in the two works, New York City erupts in rioting and looting
+during a city-wide electrical blackout. The following morning, Mrs.
+Washington returns to Horowitz's apartment visibly upset. Mrs.
+Washington's grandson Conrad, after listening to his grandmother's
+recent complaints of being unable to sleep because of the heat, tried to
+steal an air conditioner and was arrested. Moved by the story, Horowitz
+calls his son Marvin, a lawyer, and demands he help Conrad. When Mrs.
+Washington expresses her appreciation, Horowitz replies, it is "[l]ittle
+enough to do for a friend." 
+
+A lawyer from Marvin's firm secures Conrad's release with "just a
+warning." In the novel, Horowitz, Mrs. Washington and her grandchildren
+celebrate by having dinner at a French restaurant and attending a
+Shakespeare play in Central Park. In both the novel and play, Horowitz
+gives Conrad a gold coin that he received from his father on his bar
+mitzvah. He tells Conrad that when he is angered by his inability to be
+helpful to his mother and grandmother the coin will serve as a reminder
+that the answer is hard work. 
+
+A week later, Conrad is stabbed. In the novel, Horowitz rushes to Harlem
+Hospital, assuming that Conrad was injured in the course of a drug deal.
+There he finds Mrs. Washington, sitting on a chair next to Conrad's bed,
+crying. In a rage, Horowitz calls the boy an "animal" who "belongs in a
+cage."&hellip; In both novel and play, the scene ends with Mrs. Washington telling
+Horowitz that Conrad was stabbed when two men attempted to steal the
+gold coin. In the novel, Horowitz apologizes. In the
+play, Mrs. Washington storms out in anger. 
+
+[Later that night, tired, alone and embarrassed, Horowitz deviates from
+his low cholesterol diet and orders a corned beef sandwich, coleslaw,
+pickles and a beer from a delicatessen. He then suffers a mild heart attack. Driven by fear, and helped by Mrs. Washington, Horowitz experiences remarkable recovery.]
+
+At the end of the novel and play, Mrs. Washington informs Horowitz that
+she must leave to care for other patients. Horowitz gives Mrs.
+Washington "her pinochle winnings"—a sizable gift for her
+grandchildren's education—and the two vow to remain friends. The novel's final scene occurs almost one year after Horowitz's
+stroke. Unbeknownst to Horowitz, Mrs. Washington watches as he walks to
+and from synagogue to honor the anniversary of his wife's death.
+
+#### B. *Driving Miss Daisy*
+
+Uhry's *Driving Miss Daisy* tells the story of Daisy Werthan, an
+elderly, Jewish woman, and her 25-year relationship with Hoke Coleburn,
+her black chauffeur. Set in Atlanta between 1948 and 1973, *Driving Miss
+Daisy* is a distinctively southern story. Daisy is a refined southern
+woman, who, like Horowitz, is strong-willed and struggles to maintain
+her independence in the face of advancing age. Hoke, a product of the
+segregated south, is uneducated but possessed of a strong sense of
+dignity and, together with Daisy, adjusts to advancing age and changing
+times.
+
+Uhry's works begin with Daisy, 72 years old, inadvertently putting her
+car in reverse and crashing into her neighbor's yard. In the next scene
+in the film, and the first in the play, Daisy and Boolie, her
+40-year-old son, argue about whether Daisy should continue to drive.
+Despite his mother's protests, Boolie hires Hoke Coleburn as her
+chauffeur.
+
+Initially, Daisy ignores Hoke. She walks and takes public transportation
+rather than being driven. When Hoke attempts to perform household chores
+to relieve his boredom, Daisy demands that he stop. In both the movie
+and the play, Hoke eventually convinces Daisy to allow him to drive her
+to the supermarket. Daisy begins barking out orders from the moment she
+gets into the car. She accuses Hoke of speeding although he is driving
+19 miles an hour in a 35-mile-an-hour zone; she becomes panic stricken
+when Hoke decides to take a more direct route to the supermarket than
+the one Daisy is used to; she demands he park the car in the shade; and
+she takes the keys when entering the supermarket. While Daisy is
+shopping Hoke calls Boolie to tell him he drove Daisy to the market:
+"Yassuh, only took six days. Same time it take the Lawd to make the
+worl'."
+
+In a subsequent scene, Daisy telephones Boolie early in the morning and
+insists that he come to the house immediately. When Boolie arrives,
+Daisy triumphantly displays evidence of a missing can of salmon as proof
+that Hoke is stealing from her. Shortly thereafter, Hoke arrives for
+work, and before either Daisy or Boolie can mention the missing salmon,
+Hoke hands Daisy a new can to replace the salmon he had eaten the
+previous day. An embarrassed Daisy quickly bids Boolie good-bye.
+
+We next see Daisy tending to her husband's grave on what is referred to
+in the screenplay as a "full, fuzzy-green, warm morning." She asks Hoke, who is standing nearby, to put a pot
+of azaleas on Leo Bauer's grave. Hoke cannot locate the Bauer grave and,
+deeply embarrassed, is forced to admit to Daisy that he is unable to
+read. Daisy, formerly an  elementary school teacher, teaches
+Hoke to sound out the name Bauer. Throughout the works Daisy helps Hoke
+learn to read and write&hellip;
+
+A few years later, we see Hoke and Boolie discussing the new car Boolie
+bought for Daisy. Hoke tells Boolie he bought Daisy's old car from a
+dealer. Although he could have saved money by buying it directly from
+Daisy, Hoke tells Boolie "yo' mama in my business enough as it is. I
+ain' studyin' makin' no monthly car payments to her. Dis mine the
+regular way." 
+
+In the film we next see Daisy and Hoke on the way to Mobile, Alabama to
+visit Daisy's relatives. While they are picnicking on the side of the
+road two Alabama state troopers pull over. The troopers inspect Hoke's
+drivers license and the car registration. Walking away, one comments:
+"An old nigger and an old Jew woman takin off down the road together.
+Now that is one sorry sight." The other replies: "I'll tell you one
+sorrier. They're sitting in a Cadillac and I'm sittin' next to you."
+
+Later in the journey, Hoke tells Daisy that he has to stop the car to
+"make water." When Daisy tells him to wait until they arrive. Hoke
+drives on a minute and then abruptly stops the car. He tells Daisy
+quietly but firmly: "I ain' no dog and I ain' no chile and I ain' jes' a
+back of the neck you look at while you goin' wherever you want to go. I
+am a man nearly seventy-two years old and I know when my bladder full
+and I gettin' out dis car and goin' off down the de road like I got to
+do. And I'm takin' de car key dis time. And that's de end of it."
+
+We next see Hoke in Boolie's office at the Werthan Company telling
+Boolie that Boolie's cousin Jeannette Lewis has offered him a job. Hoke
+indicates that it "got him thinking." When Boolie offers a raise to
+sixty-five dollars a week, Hoke counters with seventy-five and Boolie
+agrees. As Hoke leaves Boolie's office he tells him it "feel good" to
+have "people fightin' over you." 
+
+After an unstated passage of time, we join a frightened Daisy alone in
+her home during a winter ice storm. To Daisy's surprise, Hoke shows up
+for work. Because they are unable to drive, Daisy asks Hoke to keep her
+company for the day. He agrees and lights a fire. While Daisy "sits
+contented in her chair" the focus shifts to Boolie who is calling to
+check up on Daisy. He offers to visit her once the
+storm subsides, but Daisy declines because Hoke is with her. When Daisy
+describes Hoke as "very handy," Boolie is startled and remarks that he
+has never heard his mother "say loving things about Hoke before." 
+
+Some years later, Hoke and Daisy are caught in a traffic jam on the way
+to synagogue. Hoke, who has asked a police officer, informs Daisy that
+the synagogue was bombed. Distressed, Daisy vehemently insists that it
+must have been the conservative or orthodox synagogue, rather than the
+reform synagogue she attends, that was the intended target. Hoke
+replies: "It doan' matter to them people. A Jew is a Jew to them folks.
+Jes like light or dark we all the same nigger." Daisy begins to cry.
+
+In the next sequence, Boolie tells Daisy that he cannot accompany her to
+a United Jewish Appeal dinner at which Martin Luther King will be
+speaking. Boolie explains that his business would be threatened if
+associates believed he supported Martin Luther King, and suggests that
+Daisy invite Hoke.  On the way to the dinner Daisy mentions the
+ticket to Hoke. Hoke, offended by the last-minute invitation, refuses:
+"Next time you ask me someplace, ask me regular.... Things changin', but
+they ain't change all that much." 
+
+Several years pass. Hoke arrives at the house to find Daisy, who is 90,
+overwrought. She is searching frantically for her students' homework and
+insists that she is late for school. After calling Boolie, Hoke calms
+Daisy down. Daisy eventually regains her composure and tells Hoke that
+he is her best friend. The scene fades with Daisy and Hoke silently
+holding hands.
+
+The final scenes take place on Thanksgiving two years later. In the
+film, we first see the outside of Daisy's home with a real estate
+agent's "For Sale" sign on the lawn and a "sold" sticker pasted over the
+sign. Boolie, 65 years old, is walking through the house when Hoke, 85,
+enters. The two briefly walk through the house and then leave to visit
+Daisy who has been living at a nursing home. When they arrive the
+patients are finishing their dinner. Daisy is sitting at a table
+vacantly staring into space when Hoke and Boolie join her. When Daisy
+does not respond, Boolie starts to make some forced small talk with
+Hoke. Daisy, who either has been listening or has just become lucid,
+tells Boolie that Hoke has come to see her not him and sends Boolie to
+"charm the nurses."
+
+Daisy, regaining for a moment her feisty manner, ensures that Boolie is
+still paying Hoke. Hoke notices that Daisy has not eaten her pumpkin
+pie. The play and movie close with Hoke carefully cutting the pie and
+feeding it to her.
+
+#### II.
+
+\* \* \*
+
+#### A. *Theme*
+
+The summary judgment standard is easier stated than applied. There is no
+bright line rule to distinguish between idea and expression, and in
+comparing works of fiction the distinction "is especially elusive."
+[*Hoehling v. Universal City Studios,* (2d Cir. 1980)](http://scholar.google.com/scholar_case?case=1452880530764001390)&hellip;
+
+In the case at hand&hellip;, there are indeed similarities
+between the works. Each is about an elderly, white Jewish person, who,
+in the face of advancing age and resulting loss of independence,
+requires the assistance of a black helper, and after initial resistance,
+develops a friendship with the helper. Beyond this level of abstraction,
+however, the works are markedly dissimilar.
+
+*Horowitz and Mrs. Washington,* which spans one month in the play and
+several months in the novel, tells the story of the crass, opinionated
+Horowitz, who with Mrs. Washington's help quickly overcomes his
+prejudice and the physical handicaps and threatened loss of independence
+caused by  age. Evident throughout the work are racial tensions
+as they occur in the cultural and ethnic mix of New York City. In
+addition to Horowitz's overt racism, such tensions manifest themselves
+in the urban problems that form the background of the work such as the
+street crime that is the cause of much of Horowitz's fear and which has
+taken the life of Mrs. Washington's son-in-law.
+
+By contrast, *Driving Miss Daisy* spans 25 years in the deep south and
+although plaintiff relies heavily on the fact that it too depicts the
+development of a friendship between an elderly Jewish character and a
+black helper, *Driving Miss Daisy* is defined by its setting. The
+political and social climate in the post-war South is evident in all
+aspects of the work from the character's personalities— Daisy's
+refinement, Hoke's lack of education and initial subservience—to the
+events that cause that relationship to develop—the bombing of the
+synagogue, the racism of the state troopers, Martin Luther King's
+speech. Similarly, because of the 25-year span of the work, the theme of
+aging is expressed differently. Whereas Horowitz is handicapped by the
+sudden onset of illness and eventually regains his independence, in
+*Driving Miss Daisy* the audience sees Hoke and Daisy age slowly over
+time with the inevitable result that at the works' close Daisy, unlike
+Horowitz, is unable to overcome the physical effects of her advanced
+age.
+
+Plaintiff is correct in his assertion that racism is a major theme in
+both *Horowitz and Mrs. Washington* and *Driving Miss Daisy.* However,
+the expression of this theme differs. Horowitz is knowingly and overtly
+racist, believing that the men who assaulted him and the residents of
+Harlem who took advantage of the blackout to loot and riot are typical
+of all blacks. Eventually, through his interaction with Mrs. Washington,
+he learns "that you c[an] no more make a general rule about blacks than
+you c[an] about Jews." Daisy, by contrast, resists
+all suggestions that she harbors racist attitudes. When Boolie compares
+her resistance to Hoke to the racism of other southern whites, she
+responds: "Why, Boolie! What a thing to say! I'm not prejudiced! Aren't
+you ashamed?" Yet, evident in instances such as Daisy's
+inability to invite Hoke to the Martin Luther King dinner, is that Daisy
+has to some extent been affected by her environment. The overt racism in
+*Driving Miss Daisy* comes from outside the relationship in the attitude
+of the state troopers and the bombing of synagogue and forms the
+background of the work. *Driving Miss Daisy* is concerned primarily with
+Daisy's growing awareness of her own attitudes and eventual ability to
+recognize Hoke as a friend, set against this background. In essence,
+unlike plaintiff's works, Uhry's works address the racism in a society
+in addition to the racism in a particular person.
+
+#### B. *Total Concept and Feel*
+
+The works also differ in total concept and feel; such a difference
+provides a proper basis for determining that a defendant's work does not
+infringe a plaintiff's. [*Reyher v. Children's Television Workshop,* (2d Cir.),](http://scholar.google.com/scholar_case?case=278412908033774123)
+[*cert. denied,* (1976)](http://scholar.google.com/scholar_case?about=8163016428273810663).
+Despite its serious themes, *Horowitz and Mrs. Washington* is
+principally a comedy. Horowitz, although a bigot, is a comedic
+character. His racial and ethnic slurs, interaction with Mona, temper
+tantrums and social commentary on topics ranging from detente to *The
+New York Times* are used by Denker for comedic purposes as well as to
+establish Horowitz's ignorance and insensitivity. By the end of the
+works, as evident in the rehearsal for Mona's arrival, even the normally
+proper Mrs. Washington joins in some of Horowitz's antics. By contrast,
+*Driving Miss Daisy* is more of a poignant and sentimental work.
+Conspicuously absent in defendants' works is the television situation
+comedy tone so prevalent in *Horowitz and Mrs. Washington.*
+
+#### C. *Plot*
+
+Plaintiff attempts to overcome these differences in theme, setting and
+tone by pointing to certain discrete similarities between the works. The
+purported similarities, however, either involve unprotected *scenes a
+faire*— "scenes that necessarily result from the  choice of a
+setting or situation," [*Walker*](http://scholar.google.com/scholar_case?case=16443246039845209842)—or
+are not similarities at all.
+
+Plaintiff points out that each of the works opens with an "accident"
+befalling the main character. Notwithstanding plaintiff's recommendation
+that the Court "take judicial notice of the common use of the term
+\`cerebral accident' to refer to a stroke", to
+claim that the events are similar in that both are "accidents" is less
+an argument than a pun; the events are distinct not only as expression
+but also in the ideas they express. Horowitz is mugged and subsequently
+suffers a stroke while Daisy inadvertently drives her car into her
+neighbor's yard. These are not similar events. Further, the underlying
+ideas are dissimilar. Although in both *Horowitz and Mrs. Washington*
+and *Driving Miss Daisy* these events give rise to the need for a
+helper, Horowitz overcomes the physical effects of the stroke whereas
+Daisy's accident is the first manifestation of the aging process that
+ultimately destroys her independence. Thus, at most plaintiff has
+alleged that Uhry used a somewhat similar plot device to that employed
+in *Horowitz and Mrs. Washington,* which does not constitute
+infringement.
+
+Similarly, plaintiff maintains that the plot device used by Uhry to
+depict Hoke's devotion to Daisy is identical to that used by plaintiff
+to depict Mrs. Washington's loyalty to Horowitz. In plaintiff's work,
+Mrs. Washington travels to Horowitz's apartment despite a citywide power
+outage and climbs 11 flights of stairs to do so. In what plaintiff
+characterizes as a remarkably similar scene, Hoke reports for work
+despite an ice storm and hazardous driving conditions. Although
+plaintiff is correct in the sense that in both works the helper
+demonstrates loyalty by traveling to work at some personal risk, such
+generalized plot devices, like the so-called "accidents" discussed
+above, are not entitled to copyright protection. In [*Smith v.
+Weinstein,* (S.D.N.Y)](http://scholar.google.com/scholar_case?case=12415086356592717983).),
+*aff'd without op.,* [(2d Cir. 1984),](http://scholar.google.com/scholar_case?about=14278387849317213525)
+both plaintiff's screenplay and defendant's allegedly infringing movie
+included scenes wherein convicts escaped during a rodeo. In granting
+summary judgment for defendant, Judge Sofaer reasoned that "the
+development of the rodeo as an escape vehicle is protectible, but only
+at a level that particularizes the general into characters, details, and
+events." [*Id*](http://scholar.google.com/scholar_case?case=12415086356592717983).
+Here defendant Uhry's use of a plot device that differs as to
+"characters, details, and events" does not amount to infringement.
+Plaintiff is not entitled to copyright protection for all instances of
+misfortune that befall the elderly or all demonstrations of dedication
+by a servant or helper.
+
+I fail also to see a similarity in expression between Mrs. Washington
+surreptitiously watching Horowitz walk to synagogue at the end of
+*Horowitz and Mrs. Washington* and Hoke visiting Daisy at the nursing
+home at the end of *Driving Miss Daisy.* Although both are methods of
+expressing the helper's devotion, it is clear that this idea is
+expressed in dissimilar fashion. In fact, the differences underscore the
+authors' divergent treatment of the age theme. Mrs. Washington can watch
+from afar because she has helped Horowitz regain his independence and
+her assistance is no longer needed. Uhry, however, depicts age as
+depriving Daisy of her independence. Hoke, himself unable to drive
+because of failing eyesight, must feed his friend who, because of
+physical infirmities caused by age, is unable to care for herself.
+
+Plaintiff relies on several other similarities between the works that
+amount, if anything, to similarities in general themes or ideas. For
+instance, citing Daisy teaching Hoke to read and write and Horowitz
+giving Mrs. Washington a check to further the education of her
+grandchildren, plaintiff argues that "striking is the fact that they
+[Daisy and Horowitz] assist both Hoke and Mrs. Washington in ways that
+are educational." Plaintiff also points to the fact
+that both Hoke and Mrs. Washington previously had worked for Jewish
+families. In *Driving Miss Daisy* Uhry's only use of this fact is when
+Hoke tells Boolie that he worked for Judge Stone for seven years and
+finds that despite what people say, Jews are quite generous. By
+contrast, it is evident in plaintiff's works that Mrs. Washington has a
+genuine appreciation for Jewish culture. While in the employ of the
+Rosengartens, or in the play the Schenks, Mrs. Washington took the time
+not only to learn to cook traditional  dishes which she serves
+to Horowitz but also to learn about Jewish culture. Plaintiff uses this
+as a foil for Horowitz's racism. For instance, early in the play, Mrs.
+Washington tells Horowitz a story about a *tzaddik,* a righteous
+scholar, which she learned while working for the Schencks. Horowitz,
+angry at what he perceives as Mrs. Washington's flippant reference to
+the *tzaddik,* explains that a *tzaddik* is "[a] scholar, a philosopher,
+with enormous love of all God's creatures, even the smallest." Mrs.
+Washington retorts: "And the blackest?" Again, although plaintiff may
+have established that the works used like themes or ideas, here the
+helper's previous exposure to Jews and Judaism, the expression differs.
+
+The remainder of the similarities alleged by plaintiff involve *scenes a
+faire*—incidents or events that necessarily follow from a common theme
+or setting. It is well-accepted
+that copyright protection, does not extend "to \`stock' themes commonly
+linked to a particular genre." [*Walker*](http://scholar.google.com/scholar_case?case=16443246039845209842)&hellip;
+
+\* \* \*
+
+Because, based on the differences discussed above, no reasonable juror
+could find the works substantially similar and because the few
+similarities between *Horowitz and Mrs. Washington* and *Driving Miss
+Daisy* involve non-copyrightable elements of plaintiff's work, summary
+judgment on the issue of improper appropriation of the work as a whole
+is warranted. 
+
+#### D. *Characters*
+
+Nor has plaintiff established that the characters in *Driving Miss
+Daisy* are substantially similar to the characters in *Horowitz and Mrs.
+Washington.* The protection afforded characters depicted in a creative
+work is limited&hellip; 
+
+Ultimately, then, the inquiry, whether applied to plot or characters, is
+the same: the court must determine whether defendant has so invaded
+plaintiff's work as to appropriate plaintiff's expression. Expression,
+as it must, remains for the most part undefined, except only as it is
+distinguished  from uncopyrightable ideas or *scenes a faire,*
+concepts which themselves resist precise definition or easy application&hellip;
+
+Plaintiff contends that the following characters are substantially
+similar: (1) Daisy Werthan and Samuel Horowitz; (2) Hoke Coleburn and
+Harriet Washington; (3) Boolie Werthan and Marvin Hammond; and (4)
+Florine Werthan and Mona Fields.
+
+Daisy and Horowitz share certain traits. Elderly, Jewish and
+strong-willed, they both mistrust their black helpers and actively
+resist encroachment on their independence. These shared traits, however,
+are expressed in different ways. Horowitz, aggressive, opinionated and
+overbearing, is, at his most presentable, a cantankerous old man. His
+overt racism and emotional outbursts pervade plaintiff's work. Daisy, by
+contrast, is a refined southern woman. Unlike Horowitz, Daisy avoids
+expressing her prejudices—certainly less pronounced in any event than
+Horowitz's—and in fact denies that she is prejudiced at all. Further,
+her reserve hinders her ability to express emotion. For instance,
+although Horowitz is able quickly to refer to Mrs. Washington as a
+friend, it takes Daisy much longer either to develop or perceive such
+feelings for Hoke. It is not until 18 years after the relationship
+begins, when Daisy is threatened with the loss of her relationship with
+Hoke due to her failing health, that she can do more than refer to Hoke
+as "handy" and actually call him her friend. Daisy, reserved and
+unemotional, and Horowitz, combative and comedic, are by no means
+substantially similar.
+
+Nor are Mrs. Washington and Hoke substantially similar. Mrs. Washington,
+educated and self-assured, is able to withstand and counter Horowitz's
+repeated verbal assaults from the outset. On the other hand, Hoke, the
+victim of segregation, is uneducated and lacking self-confidence, and
+*Driving Miss Daisy* is, to some extent, the story of his development as
+well as Daisy's. Hoke slowly develops self-confidence and progresses
+gradually from his initial subservience to being able to stand up to
+Daisy as in the scenes where he insists on stopping the car and taking
+the key on the way to Mobile and later when he declines Daisy's
+invitation to the Martin Luther King speech. The similarities referred
+to by plaintiff—that they both are black, are hired to render assistance
+to an elderly Jewish person, develop a friendship with their employer
+and refer to having some kind of relationship with their children and
+grandchildren—are broad, unprotectible character outlines; they mark
+where the similarities end
+
+\* \* \*
+
+Because plaintiff has not established any similarities between the
+characters in *Horowitz and Mrs. Washington* and the characters in
+*Driving Miss Daisy* beyond unprotectible ideas and broad character
+outlines, summary judgment on the issue of infringement of characters is
+appropriate.
+
+\* \* \*
+
+For the reasons stated above, summary judgment in both actions is
+warranted on the issue of improper appropriation, and the complaints are
+dismissed.
+
+SO ORDERED.
+
+* [*New York Times* on *Denker v. Uhry* case](http://www.nytimes.com/1992/12/10/style/chronicle-352892.html).
+
+## Fair Use ##
 
 * [Fair Use](http://www.copyright.gov/fls/fl102.html) (very short "official" explanation of fair use).
 
@@ -624,7 +1177,11 @@ The fact that a work is unpublished shall not itself bar a finding of fair use i
 
 The court does. AFTER the fact. Meaning that the accused infringer has already been hauled into court by the copyright holder. Attorneys fees (kaching!) This why copyright CLEARANCES and LICENSING are essential BEFORE the movie is made. Clearances are designed to keep the artist from being sued in the first place.
 
-#### Harper & Row v. The Nation (Sct. 1985)
+#### *Harper & Row v. The Nation* (Sct. 1985)
+
+* [case at Google Scholar](http://scholar.google.com/scholar_case?case=12801604581154452950)
+* [case at Westlaw][harper]
+* [case at Wikipedia](http://en.wikipedia.org/wiki/Harper_%26_Row_v._Nation_Enterprises)
 
 The Watergate Scandall forced Richard Nixon to resign as President of the United States in 1974. Vice President Gerald Ford became president, and thirty days later granted Nixon a full pardon for any crimes he may have committed while in office. 
 
@@ -650,7 +1207,7 @@ The Court applied the four prongs of the &#167;107 fair use as follows:
 
 1. The purpose and character of the use:
 
-The Court agreed with the Second Circuit that The Nation's purpose in publishing the excerpts was ostensibly "news reporting," and that §107 lists news reporting as one of the exemplary activities tending toward a finding of fair use. But the court insisted that the issue was not what constitutes "news," but whether a claim of newsreporting is a valid fair use defense to an infringement of *copyrightable expression*.”
+The Court agreed with the Second Circuit that The Nation's purpose in publishing the excerpts was ostensibly "news reporting," and that [§107][107] lists news reporting as one of the exemplary activities tending toward a finding of fair use. But the court insisted that the issue was not what constitutes "news," but whether a claim of newsreporting is a valid fair use defense to an infringement of *copyrightable expression*.”
 
 As for the *character* of The Nation's use, the trial court found that The Nation knowingly exploited a purloined manuscript. The Supreme Court said that: "Fair use presupposes ‘good faith’ and ‘fair dealing,’” which was decidedly lacking in The Nation's conduct.
 
@@ -670,21 +1227,646 @@ As the Court put it:
 
 The Court found that "this last factor is undoubtedly the single most important element of fair use." And The Nation's advanced publication of excerpts destroyed the market for first serial rights, because when Time Magazine learned of The Nation's publication it canceled the deal, and with good reason.
 
-#### Headline cases ####
+## Parody & Fair Use
 
-* [*Harper & Row v. The Nation,*][harper] 471 US 439 (1985). [Wikipedia](http://en.wikipedia.org/wiki/Harper_%26_Row_v._Nation_Enterprises)
-*  [*Campbell AKA Luke Skywalker v. Acuff-Rose Music, Inc.*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=510us569&appflag=67.12) 510 US 569 (1994).  [Wikipedia](http://en.wikipedia.org/wiki/Campbell_v._Acuff-Rose_Music,_Inc.). 
-*   [*Bright Tunes Music Corp. v. Harrisongs Music,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=420fsupp177&appflag=67.12) 420 F.Supp. 177 (SDNY 1976) [*My Sweet Lord* at Wikipedia](http://en.wikipedia.org/wiki/My_Sweet_Lord).
-*   [*Selle v.  Gibb,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=741f2d896&appflag=67.12) 741 F.2d 896 (1984).  [Wikipedia](http://en.wikipedia.org/wiki/Selle_v._Gibb).  
-*   [*Denker v.  Uhry,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=820+F.+Supp.+722&appflag=67.12) 820 F. Supp. 722 (SDNY 1992). [*New York Times*](http://www.nytimes.com/1992/12/10/style/chronicle-352892.html).
-    matter](http://itlaw.wikia.com/wiki/Noncopyrightable_subject_matter).
+### *Campbell v. Acuff-Rose Music, Inc.*
 
-##### Reference/Footnote Cases
+###### United States Supreme Court (1994)
 
-*   [*Selle v. Gibb,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=741f2d896&appflag=67.12) 741 F.2d 896 (1984). [Wikipedia](http://en.wikipedia.org/wiki/Selle_v._Gibb).  
-*   [*Denker v.  Uhry,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=820+F.+Supp.+722&appflag=67.12) 820 F. Supp. 722 (SDNY 1992). [*New York Times*](http://www.nytimes.com/1992/12/10/style/chronicle-352892.html).
-*   [*Beal v. Paramount Pictures,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=806fsupp963&appflag=67.12) 806 F. Supp. 963 (ND Ga 1992). [Noncopyrightable subject
-    matter](http://itlaw.wikia.com/wiki/Noncopyrightable_subject_matter).
+* [case on Google Scholar](http://scholar.google.com/scholar_case?case=16686162998040575773)
+* [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=510us569&appflag=67.12).
+* [case at Wikipedia](http://en.wikipedia.org/wiki/Campbell_v._Acuff-Rose_Music,_Inc.). 
+
+JUSTICE SOUTER delivered the opinion of the Court.
+
+We are called upon to decide whether 2 Live Crew's commercial parody of
+Roy Orbison's song, "Oh, Pretty Woman,"  may be a fair use
+within the meaning of the Copyright Act &hellip; [§ 107][107]. Although the District Court granted summary judgment
+for 2 Live Crew, the Court of Appeals reversed, holding the defense of
+fair use barred by the song's commercial character and excessive
+borrowing. Because we hold that a parody's commercial character is only
+one element to be weighed in a fair use enquiry, and that insufficient
+consideration was given to the nature of parody in weighing the degree
+of copying, we reverse and remand.
+
+## I
+
+In 1964, Roy Orbison and William Dees wrote a rock ballad called "Oh,
+Pretty Woman" and assigned their rights in it to respondent Acuff-Rose
+Music, Inc. &hellip; Acuff-Rose registered the song for copyright protection.
+
+Petitioners Luther R. Campbell, Christopher Wongwon, Mark Ross, and
+David Hobbs are collectively known as 2 Live Crew, a popular rap music
+group. In 1989, Campbell wrote a song entitled "Pretty
+Woman," which he later described in an affidavit as intended, "through
+comical lyrics, to satirize the original work.&hellip;"
+
+On July 5, 1989, 2 Live Crew's manager informed Acuff-Rose
+that 2 Live Crew had written a parody of "Oh, Pretty Woman," that they
+would afford all credit for ownership and authorship of the original
+song to Acuff-Rose, Dees, and Orbison, and that they were willing to pay
+a fee for the use they wished to make of it. Enclosed with the letter
+were a copy of the lyrics and a recording of 2 Live Crew's song. 
+
+Acuff-Rose's agent refused permission,
+stating that "I am aware of the success enjoyed by 'The 2 Live
+Crews', but I must inform you that we cannot permit the use of a parody
+of 'Oh, Pretty Woman.'" 
+
+Nonetheless, in 1989, 2 Live Crew released records, cassette
+tapes, and compact discs of "Pretty Woman" in a collection of songs
+entitled "As Clean As They Wanna Be." The albums and compact discs
+identify the authors of "Pretty Woman" as Orbison and Dees and its
+publisher as Acuff-Rose.
+
+Almost a year later, after nearly a quarter of a million copies of the
+recording had been sold, Acuff-Rose sued 2 Live Crew and its record
+company, Luke Skyywalker Records, for copyright infringement. The
+District Court granted summary judgment for 2 Live Crew, reasoning that the commercial purpose of 2 Live Crew's song was no bar
+to fair use; that 2 Live Crew's version was a parody, which "quickly
+degenerates into a play on words, substituting predictable lyrics with
+shocking ones" to show "how bland and banal the Orbison song" is; that 2
+Live Crew had taken no more than was necessary to "conjure up" the
+original in order to parody it; and that it was "extremely unlikely that
+2 Live Crew's song could adversely affect the market for the original."
+The District
+Court weighed these factors and held that 2 Live Crew's song made fair
+use of Orbison's original. *Id.,* at 1158-1159.
+
+The Court of Appeals for the Sixth Circuit reversed and remanded.
+Although it assumed for the purpose of its opinion
+that 2 Live Crew's song  was a parody of the Orbison original,
+the Court of Appeals thought the District Court had put too little
+emphasis on the fact that "every commercial use &hellip; is presumptively .
+. . unfair," [*Sony Corp. of America* v. *Universal City Studios, Inc.* (1984),](http://scholar.google.com/scholar_case?case=5876335373788447272)
+and it held that "the admittedly commercial nature" of the parody
+"requires the conclusion" that the first of four factors relevant under
+the statute weighs against a finding of fair use. Next, the Court of Appeals determined that, by "taking the heart
+of the original and making it the heart of a new work," 2 Live Crew had,
+qualitatively, taken too much. Finally, after noting
+that the effect on the potential market for the original (and the market
+for derivative works) is "undoubtedly the single most important element
+of fair use," [*Harper & Row, Publishers, Inc.* v. *Nation Enterprises,*
+471 U. S. 539, 566
+(1985),](http://scholar.google.com/scholar_case?case=12801604581154452950)
+the Court of Appeals faulted the District Court for "refus[ing] to
+indulge the presumption" that "harm for purposes of the fair use
+analysis has been established by the presumption attaching to commercial
+uses." In sum, the court concluded that its
+"blatantly commercial purpose . . . prevents this parody from being a
+fair use." 
+
+We granted certiorari &hellip; to determine whether 2
+Live Crew's commercial parody could be a fair use.
+
+## II
+
+It is uncontested here that 2 Live Crew's song would be an infringement
+of Acuff-Rose's rights in "Oh, Pretty Woman," under the Copyright Act &hellip; but for a finding of
+fair use through parody. From the infancy of
+copyright protection, some opportunity for fair use of copyrighted
+materials has been thought necessary to fulfill copyright's very
+purpose, "[t]o promote the Progress of Science and useful Arts. . . ."
+U. S. Const., Art. I, § 8, cl. 8. For as Justice Story
+explained:
+
+> In truth, in literature, in science and in art, there are,
+and can be, few, if any, things, which in an abstract sense, are
+strictly new and original throughout. Every book in literature, science
+and art, borrows, and must necessarily borrow, and use much which was
+well known and used before." 
+
+[*Emerson* v. *Davies* (CCD Mass. 1845)](http://scholar.google.com/scholar_case?about=591557054954121280).
+
+In [*Folsom* v. *Marsh,* 9 F. Cas. 342 (No. 4,901) (CCD Mass.
+1841),](http://scholar.google.com/scholar_case?about=4495747226837550380)
+Justice Story distilled the essence of law and methodology from the
+earlier cases: 
+
+> look to the nature and objects of the selections made,
+the quantity and value of the materials used, and the degree in which
+the use may prejudice the sale, or diminish the profits, or supersede
+the objects, of the original work.
+
+Thus expressed, fair
+use remained exclusively judge-made doctrine until the passage of the
+1976 Copyright Act, in which Justice Story's summary is
+discernible:
+
+**§ 107. Limitations on exclusive rights: Fair use**
+
+> "Notwithstanding the provisions of sections 106 and 106A, the fair use
+> of a copyrighted work, including such use by reproduction in copies or
+> phonorecords or by any other means specified by that section, for
+> purposes such as criticism, comment, news reporting, teaching
+> (including multiple copies for classroom use), scholarship, or
+> research, is not an infringement of copyright. In determining whether
+> the use made of a work in any particular  case is a fair use
+> the factors to be considered shall include—
+
+> 1. the purpose and character of the use, including whether such use
+> is of a commercial nature or is for non-profit educational purposes;
+
+> 2. the nature of the copyrighted work;
+
+> 3. the amount and substantiality of the portion used in relation to
+> the copyrighted work as a whole; and
+
+> 4. the effect of the use upon the potential market for or value of
+> the copyrighted work.
+
+Congress meant § 107 "to restate the present judicial doctrine of fair
+use, not to change, narrow, or enlarge it in any way" and intended that
+courts continue the common-law tradition of fair use adjudication.&hellip; The fair use doctrine
+thus "permits [and requires] courts to avoid rigid application of the
+copyright statute when, on occasion, it would stifle the very creativity
+which that law is designed to foster." [*Stewart* v. *Abend* (1990)](http://scholar.google.com/scholar_case?case=6610856779804662857). 
+
+The task is not to be simplified with bright-line rules, for the
+statute, like the doctrine it recognizes, calls for case-by-case
+analysis. [*Harper & Row*](http://scholar.google.com/scholar_case?case=12801604581154452950);
+and [*Sony*](http://scholar.google.com/scholar_case?case=5876335373788447272).&hellip; The text
+employs the terms "including" and "such as" in the preamble paragraph to
+indicate the "illustrative and not limitative" function of the examples
+given, § 101; see [*Harper & Row, supra,* at 561](http://scholar.google.com/scholar_case?case=12801604581154452950),
+which thus provide only general guidance about the sorts of copying that
+courts and  Congress most commonly had found to be fair
+uses. Nor may the four statutory factors be treated in
+isolation, one from another. All are to be explored, and the results
+weighed together, in light of the purposes of copyright. 
+
+## A
+
+The first factor in a fair use enquiry is "the purpose and character of
+the use, including whether such use is of a commercial nature or is for
+nonprofit educational purposes." [§ 107(1)][107]. This factor draws on Justice
+Story's formulation, "the nature and objects of the selections made." &hellip; The enquiry here may be guided by the examples given in the preamble to
+§ 107, looking to whether the use is for criticism, or comment, or news
+reporting, and the like, [see § 107][107]. The central purpose of this
+investigation is to see, in Justice Story's words, whether the new work
+merely "supersede[s] the objects" of the original creation, ("supplanting" the original), or instead adds something new, with a
+further purpose or different character, altering the first with new
+expression, meaning, or message; it asks, in other words, whether and to
+what extent the new work is "transformative." &hellip; Although such
+transformative use is not absolutely necessary for a finding of fair
+use, [*Sony, supra,*](http://scholar.google.com/scholar_case?case=5876335373788447272), the goal of copyright, to promote science and the arts, is generally
+furthered by the creation of transformative works. Such works thus lie
+at the heart of the fair use doctrine's guarantee of breathing space
+within the confines of copyright, see, *e. g.,* [*Sony, supra,](http://scholar.google.com/scholar_case?case=5876335373788447272), and the more transformative the new work,
+the less will be the significance of other factors, like commercialism,
+that may weigh against a finding of fair use.
+
+This Court has only once before even considered whether parody may be
+fair use, and that time issued no opinion because of the Court's equal
+division.&hellip; 
+Suffice it to say now that parody has an obvious claim to transformative
+value, as Acuff-Rose itself does not deny. Like less ostensibly humorous
+forms of criticism, it can provide social benefit, by shedding light on
+an earlier work, and, in the process, creating a new one. We thus line
+up with the courts that have held that parody, like other comment or
+criticism, may claim fair use under § 107.&hellip;  
+
+The germ of parody lies in the definition of the Greek *parodeia,*
+quoted in Judge Nelson's Court of Appeals dissent, as "a song sung
+alongside another." &hellip; Modern dictionaries accordingly describe
+a parody as a "literary or artistic work that imitates the
+characteristic style of an author or a work for comic effect or
+ridicule," or as a "composition in prose or verse in
+which the characteristic turns of thought and phrase in an author or
+class of authors are imitated in such a way as to make them appear
+ridiculous." For the purposes of copyright law, the nub
+of the definitions, and the heart of any parodist's claim to quote from
+existing material, is the use of some elements of a prior author's
+composition to create a new one that, at least in part, comments on that
+author's works. &hellip; If, on the contrary, the commentary has no critical bearing on the
+substance or style of the original composition, which the alleged
+infringer merely uses to get attention or to avoid the drudgery in
+working up something fresh, the claim to fairness in borrowing from
+another's work diminishes accordingly (if it does not vanish), and other
+factors, like the extent of its commerciality, loom
+larger. Parody needs to mimic  an original to
+make its point, and so has some claim to use the creation of its
+victim's (or collective victims') imagination, whereas satire can stand
+on its own two feet and so requires justification for the very act of
+borrowing.&hellip; 
+
+The fact that parody can claim legitimacy for some appropriation does
+not, of course, tell either parodist or judge much about where to draw
+the line. Like a book review quoting the copyrighted material
+criticized, parody may or may not be fair use, and petitioners'
+suggestion that any parodic use is presumptively fair has no more
+justification in law or fact than the equally hopeful claim that any use
+for news reporting should be presumed fair, see [*Harper & Row,* 471 U.
+S., at
+561](http://scholar.google.com/scholar_case?case=12801604581154452950).
+The Act has no hint of an evidentiary preference for parodists over
+their victims, and no workable presumption for parody could take account
+of the fact that parody often shades into satire when society is
+lampooned through its creative artifacts, or that a work may contain
+both parodic and nonparodic elements. Accordingly, parody, like any
+other use, has to work its way through the relevant factors, and be
+judged case by case, in light of the ends of the copyright law.
+
+Here, the District Court held, and the Court of Appeals assumed, that 2
+Live Crew's "Pretty Woman" contains parody,  commenting on and
+criticizing the original work, whatever it may have to say about society
+at large. As the District Court remarked, the words of 2 Live Crew's
+song copy the original's first line, but then "quickly degenerat[e] into
+a play on words, substituting predictable lyrics with shocking ones . .
+. [that] derisively demonstrat[e] how bland and banal the Orbison song
+seems to them." &hellip; Judge Nelson,
+dissenting below, came to the same conclusion, that the 2 Live Crew song
+"was clearly intended to ridicule the white-bread original" and "reminds
+us that sexual congress with nameless streetwalkers is not necessarily
+the stuff of romance and is not necessarily without its consequences.
+The singers (there are several) have the same thing on their minds as
+did the lonely man with the nasal voice, but here there is no hint of
+wine and roses." &hellip;  Although the majority below had
+difficulty discerning any criticism of the original in 2 Live Crew's
+song, it assumed for purposes of its opinion that there was some.
+
+We have less difficulty in finding that critical element in 2 Live
+Crew's song than the Court of Appeals did, although having found it we
+will not take the further step of evaluating its quality. The threshold
+question when fair use is raised in defense of parody is whether a
+parodic character may reasonably be perceived. Whether,
+going beyond that, parody is in good taste or bad does not and should
+not matter to fair use. As Justice Holmes explained:
+
+> It would be a dangerous undertaking for persons trained only to the law to constitute themselves final judges of the worth of [a work], outside of the narrowest and most obvious limits. At  the one extreme some works of genius would be sure to miss appreciation. Their very novelty would make them repulsive until the public had learned the new language in which their author spoke.
+
+* [*Bleistein* v. *Donaldson Lithographing Co.* (1903)](http://scholar.google.com/scholar_case?case=3277054592305773876) (circus posters have copyright protection).
+
+While we might not assign a high rank to the parodic element here, we
+think it fair to say that 2 Live Crew's song reasonably could be
+perceived as commenting on the original or criticizing it, to some
+degree. 2 Live Crew juxtaposes the romantic musings of a man whose
+fantasy comes true, with degrading taunts, a bawdy demand for sex, and a
+sigh of relief from paternal responsibility. The later words can be
+taken as a comment on the naivete of the original of an earlier day, as
+a rejection of its sentiment that ignores the ugliness of street life
+and the debasement that it signifies. It is this joinder of reference
+and ridicule that marks off the author's choice of parody from the other
+types of comment and criticism that traditionally have had a claim to
+fair use protection as transformative works.
+
+The Court of Appeals, however, immediately cut short the enquiry into 2
+Live Crew's fair use claim by confining its treatment of the first
+factor essentially to one relevant fact, the commercial nature of the
+use. The court then inflated the significance of this fact by applying a
+presumption ostensibly  culled from *Sony,* that "every commercial use of copy-righted material is presumptively . . . unfair. .  . ." [*Sony*](http://scholar.google.com/scholar_case?case=5876335373788447272).  In giving virtually dispositive weight to the commercial nature of the
+parody, the Court of Appeals erred.
+
+The language of the statute makes clear that the commercial or nonprofit
+educational purpose of a work is only one element of the first factor
+enquiry into its purpose and character. Section 107(1) uses the term
+"including" to begin the dependent clause referring to commercial use,
+and the main clause speaks of a broader investigation into "purpose and
+character." As we explained in *Harper & Row,* Congress resisted
+attempts to narrow the ambit of this traditional enquiry by adopting
+categories of presumptively fair use, and it urged courts to preserve
+the breadth of their traditionally ample view of the universe of
+relevant evidence. [471 U. S., at
+561](http://scholar.google.com/scholar_case?case=12801604581154452950);
+House Report, p. 66. Accordingly, the mere fact that a use is
+educational and not for profit does not insulate it from a finding of
+infringement, any more than the commercial character of a use bars a
+finding of fairness. If, indeed, commerciality carried presumptive force
+against a finding of fairness, the presumption would swallow nearly all
+of the illustrative uses listed in the preamble paragraph of § 107,
+including news reporting, comment, criticism, teaching, scholarship, and
+research, since these activities "are generally conducted for profit in
+this country." [*Harper & Row, supra,* at
+592](http://scholar.google.com/scholar_case?case=12801604581154452950)
+(Brennan, J., dissenting). Congress could not have intended such a rule,
+which certainly is not inferable from the common-law cases, arising as
+they did from the world of letters in which Samuel Johnson could
+pronounce that "[n]o man but a blockhead ever wrote, except for money."
+3 Boswell's Life of Johnson 19 (G. Hill ed. 1934).
+
+*Sony* itself called for no hard evidentiary presumption. There, we
+emphasized the need for a "sensitive balancing of interests," [464 U.
+S., at 455, n.
+40,](http://scholar.google.com/scholar_case?case=5876335373788447272)
+noted that Congress had "eschewed a rigid, bright-line approach to fair
+use," &hellip; and stated that the commercial or
+nonprofit educational character of a work is "not conclusive," *id.,* at
+448-449, but rather a fact to be "weighed along with other[s] in fair
+use decisions.&hellip; The
+Court of Appeals's elevation of one sentence from *Sony* to a *per se*
+rule thus runs as much counter to *Sony* itself as to the long
+common-law tradition of fair use adjudication. Rather, as we explained
+in *Harper & Row, Sony* stands for the proposition that the "fact that a
+publication was commercial as opposed to nonprofit is a separate factor
+that tends to weigh against a finding of fair use." [471 U. S., at
+562](http://scholar.google.com/scholar_case?case=12801604581154452950).
+But that is all, and the fact that even the force of that tendency will
+vary with the context is a further reason against elevating
+commerciality to hard presumptive significance. The use, for example, of
+a copyrighted work to advertise a product, even in a parody, will be
+entitled to less indulgence under the first factor of the fair use
+enquiry than the sale of a parody for its own sake, let alone one
+performed a single time by students in school. 
+
+##  B
+
+The second statutory factor, "the nature of the copy-righted work," [§ 107(2)][107], draws on Justice Story's expression, the "value of the materials
+used." &hellip; This factor calls for recognition that some works are closer to the core
+of intended copyright protection than others, with the consequence that
+fair use is more difficult to establish when the former works are
+copied.&hellip; We agree with both the District Court and the Court
+of Appeals that the Orbison original's creative expression for public
+dissemination falls within the core of the copyright's protective
+purposes.&hellip; This fact,
+however, is not much help in this case, or ever likely to help much in
+separating the fair use sheep from the infringing goats in a parody
+case, since parodies almost invariably copy publicly known, expressive
+works.
+
+## C
+
+The third factor asks whether "the amount and substantiality of the
+portion used in relation to the copyrighted work as a whole," [§ 107(3)][107]
+(or, in Justice Story's words, "the quantity and value of the materials
+used," are reasonable in relation to the purpose of the copying. Here,
+attention turns to the persuasiveness of a parodist's justification for
+the particular copying done, and the enquiry will harken back to the
+first of the statutory factors, for, as in prior cases, we recognize
+that the extent of permissible copying varies with the purpose and
+character  of the use. See [*Sony, supra,*](http://scholar.google.com/scholar_case?case=5876335373788447272)
+(reproduction of entire work "does not have its ordinary effect of
+militating against a finding of fair use" as to home videotaping of
+television programs); [*Harper & Row, supra*](http://scholar.google.com/scholar_case?case=12801604581154452950)
+("[E]ven substantial quotations might qualify as fair use in a review of
+a published work or a news account of a speech" but not in a scoop of a
+soon-to-be-published memoir). The facts bearing on this factor will also
+tend to address the fourth, by revealing the degree to which the parody
+may serve as a market substitute for the original or potentially
+licensed derivatives.
+
+The District Court considered the song's parodic purpose in finding that
+2 Live Crew had not helped themselves overmuch.&hellip; The Court of Appeals disagreed, stating that:
+
+> While it may not be inappropriate to find that no more was taken than necessary, the copying was qualitatively substantial.&hellip; We conclude that taking the heart of the original and making it the heart of a new work was to purloin a substantial portion of the essence of the original."
+
+The Court of Appeals is of course correct that this factor calls for
+thought not only about the quantity of the materials used, but about
+their quality and importance, too. In *Harper & Row,* for example, the
+Nation had taken only some 300 words out of President Ford's memoirs,
+but we signaled the significance of the quotations in finding them to
+amount to "the heart of the book," the part most likely to be newsworthy
+and important in licensing serialization. [*Harper*](http://scholar.google.com/scholar_case?case=12801604581154452950). We also agree with the Court of
+Appeals that whether "a substantial portion of the infringing work was
+copied verbatim" from the copyrighted work is a relevant question, &hellip; for it may reveal a dearth of transformative character or
+purpose under the first factor, or a greater likelihood of market harm
+under the fourth; a work composed primarily of an original, particularly
+its heart, with little added or changed, is more likely to be a
+merely superseding use, fulfilling demand for the original.
+
+Where we part company with the court below is in applying these guides
+to parody, and in particular to parody in the song before us. Parody
+presents a difficult case. Parody's humor, or in any event its comment,
+necessarily springs from recognizable allusion to its object through
+distorted imitation. Its art lies in the tension between a known
+original and its parodic twin. When parody takes aim at a particular
+original work, the parody must be able to "conjure up" at least enough
+of that original to make the object of its critical wit recognizable.
+See, *e. g.,* [*Elsmere Music*](http://scholar.google.com/scholar_case?case=17685233474069050250);
+[*Fisher* v. *Dees*](http://scholar.google.com/scholar_case?case=16874877052780018691).
+What makes for this recognition is quotation of the original's most
+distinctive or memorable features, which the parodist can be sure the
+audience will know. Once enough has been taken to assure identification,
+how much more is reasonable will depend, say, on the extent to which the
+song's overriding purpose and character is to parody the original or, in
+contrast, the likelihood that the parody may serve as a market
+substitute for the original. But using some characteristic features
+cannot be avoided.
+
+We think the Court of Appeals was insufficiently appreciative of
+parody's need for the recognizable sight or sound when it ruled 2 Live
+Crew's use unreasonable as a matter of law. It is true, of course, that
+2 Live Crew copied the characteristic opening bass riff (or musical
+phrase) of the original, and true that the words of the first line copy
+the Orbison lyrics. But if quotation of the opening riff and the first
+line may be said to go to the "heart" of the original, the heart is also
+what most readily conjures up the song for parody, and it is the heart
+at which parody takes aim. Copying does not become excessive in relation
+to parodic purpose merely because the portion taken was the original's
+heart. If 2 Live Crew had copied a significantly less memorable part of
+the original, it is difficult to see how its parodic character 
+would have come through.&hellip; 
+
+This is not, of course, to say that anyone who calls himself a parodist
+can skim the cream and get away scot free. In parody, as in news
+reporting, see [*Harper & Row,
+supra*](http://scholar.google.com/scholar_case?case=12801604581154452950)*,*
+context is everything, and the question of fairness asks what else the
+parodist did besides go to the heart of the original. It is significant
+that 2 Live Crew not only copied the first line of the original, but
+thereafter departed markedly from the Orbison lyrics for its own ends. 2
+Live Crew not only copied the bass riff and repeated it, but also produced otherwise distinctive sounds, interposing "scraper"
+noise, over-laying the music with solos in different keys, and altering
+the drum beat. This is not a case, then,
+where "a substantial portion" of the parody itself is composed of a
+"verbatim" copying of the original. It is not, that is, a case where the
+parody is so insubstantial, as compared to the copying, that the third
+factor must be resolved as a matter of law against the parodists.
+
+Suffice it to say here that, as to the lyrics, we think the Court of
+Appeals correctly suggested that "no more was taken than necessary," &hellip; but just for that reason, we fail to see how the copying
+can be excessive in relation to its parodic purpose, even if the portion
+taken is the original's "heart." As to the music, we express no opinion
+whether repetition of the bass riff is excessive copying, and we remand
+to permit evaluation of the amount taken, in light of the song's parodic
+purpose and character, its transformative elements, and considerations
+of the potential for market substitution sketched more fully below.
+
+##  D
+
+The fourth fair use factor is "the effect of the use upon the potential
+market for or value of the copyrighted work." [§ 107(4)][107]. It requires
+courts to consider not only the extent of market harm caused by the
+particular actions of the alleged infringer, but also "whether
+unrestricted and widespread conduct of the sort engaged in by the
+defendant &hellip; would result in a substantially adverse impact on the
+potential market" for the original. [*Harper & Row*](http://scholar.google.com/scholar_case?case=12801604581154452950).&hellip; The enquiry "must take account not only of harm to the original but also of harm to the market for derivative works." [*Harper & Row*](http://scholar.google.com/scholar_case?case=12801604581154452950).
+
+Since fair use is an affirmative defense, its proponent
+would have difficulty carrying the burden of demonstrating fair use
+without favorable evidence about relevant markets. In
+moving for summary judgment, 2 Live Crew left themselves at just such a
+disadvantage when they failed to address the effect on the market for
+rap derivatives, and confined themselves to uncontroverted submissions
+that there was no likely effect on the market for the original. They did
+not, however, thereby subject themselves to the evidentiary presumption
+applied by the Court of Appeals. In assessing the likelihood of
+significant market harm, the Court of Appeals  quoted from
+language in *Sony* that "'[i]f the intended use is for commercial gain,
+that likelihood may be presumed. But if it is for a noncommercial
+purpose, the likelihood must be demonstrated.'" 972 F. 2d, at 1438,
+quoting [*Sony*](http://scholar.google.com/scholar_case?case=5876335373788447272).
+The court reasoned that because "the use of the copyrighted work is
+wholly commercial, &hellip; we presume that a likelihood of future harm to
+Acuff-Rose exists." In so doing, the court resolved
+the fourth factor against 2 Live Crew, just as it had the first, by
+applying a presumption about the effect of commercial use, a presumption
+which as applied here we hold to be error.
+
+No "presumption" or inference of market harm that might find support in
+*Sony* is applicable to a case involving something beyond mere
+duplication for commercial purposes.&hellip; *Sony*'s discussion of a
+presumption contrasts a context of verbatim copying of the original in
+its entirety for commercial purposes, with the noncommercial context of
+*Sony* itself (home copying of television programming). In the former
+circumstances, what *Sony* said simply makes common sense: when a
+commercial use amounts to mere duplication of the entirety of an
+original, it clearly "supersede[s] the objects," &hellip; of the original and serves as a market replacement for it, making it
+likely that cognizable market harm to the original will occur. [*Sony*](http://scholar.google.com/scholar_case?case=5876335373788447272).
+But when, on the contrary, the second use is transformative, market
+substitution is at least less certain, and market harm may not be so
+readily inferred. Indeed, as to parody pure and simple, it is more
+likely that the new work will not affect the market for the original in
+a way cognizable under this factor, that is, by acting as a substitute
+for it.&hellip; This is so because the parody and the original
+usually serve different market functions. 
+
+We do not, of course, suggest that a parody may not harm the market at
+all, but when a lethal parody, like a scathing  theater review,
+kills demand for the original, it does not produce a harm cognizable
+under the Copyright Act. Because "parody may quite legitimately aim at
+garroting the original, destroying it commercially as well as
+artistically," &hellip; the
+role of the courts is to distinguish between "biting criticism [that
+merely] suppresses demand [and] copyright infringement[, which] usurps
+it." [*Fisher* v. *Dees*](http://scholar.google.com/scholar_case?case=16874877052780018691).
+
+This distinction between potentially remediable displacement and
+unremediable disparagement is reflected in the rule that there is no
+protectible derivative market for criticism. The market for potential
+derivative uses includes only those that creators of original works
+would in general develop or license others to develop. Yet the
+unlikelihood that creators of imaginative works will license critical
+reviews or lampoons of their own productions removes such uses from the
+very notion of a potential licensing market. "People ask . . . for
+criticism, but they only want praise." S. Maugham, Of Human Bondage 241
+(Penguin ed. 1992). Thus, to the extent that the opinion below may be
+read to have considered harm to the market for parodies of "Oh, Pretty
+Woman," the court erred.&hellip;
+
+2 Live Crew's song comprises not only
+parody but also rap music, and the derivative market for rap music is a
+proper focus of enquiry, see [*Harper & Row*](http://scholar.google.com/scholar_case?case=12801604581154452950) &hellip; Evidence of substantial harm to it would weigh
+against a finding of fair use, because the licensing of
+derivatives is an important economic incentive to the creation of
+originals. See [§ 106(2)][106] (copyright owner has rights to
+derivative works). Of course, the only harm to derivatives that need
+concern us, as discussed above, is the harm of market substitution. The
+fact that a parody may impair the market for derivative uses by the very
+effectiveness of its critical commentary is no more relevant under
+copyright than the like threat to the original market.
+
+Although 2 Live Crew submitted uncontroverted affidavits on the question
+of market harm to the original, neither they, nor Acuff-Rose, introduced
+evidence or affidavits addressing the likely effect of 2 Live Crew's
+parodic rap song on the market for a nonparody, rap version of "Oh,
+Pretty Woman." And while Acuff-Rose would have us find evidence of a rap
+market in the very facts that 2 Live Crew recorded a rap parody of "Oh,
+Pretty Woman" and another rap group sought a license to record a rap
+derivative, there was no evidence that a potential rap market was harmed
+in any way by 2 Live Crew's parody, rap version. The fact that 2 Live
+Crew's parody sold as part of a collection of rap songs says very little
+about the parody's effect on a market for a rap version of the original,
+either of the music alone or of the music with its lyrics. The District
+Court essentially passed  on this issue, observing that
+Acuff-Rose is free to record "whatever version of the original it
+desires," &hellip; the Court of Appeals went the other way
+by erroneous presumption. Contrary to each treatment, it is impossible
+to deal with the fourth factor except by recognizing that a silentrecord
+on an important factor bearing on fair use disentitled the proponent of
+the defense, 2 Live Crew, to summary judgment. The evidentiary hole will
+doubtless be plugged on remand.
+
+## III
+
+It was error for the Court of Appeals to conclude that the commercial
+nature of 2 Live Crew's parody of "Oh, Pretty Woman" rendered it
+presumptively unfair. No such evidentiary presumption is available to
+address either the first factor, the character and purpose of the use,
+or the fourth, market harm, in determining whether a transformative use,
+such as parody, is a fair one. The court also erred in holding that 2
+Live Crew had necessarily copied excessively from the Orbison original,
+considering the parodic purpose of the use. We therefore reverse the
+judgment of the Court of Appeals and remand the case for further
+proceedings consistent with this opinion.
+
+*It is so ordered.*
+
+**An omitted (but instructive) footnote:**
+
+> Finally, regardless of the weight one might place on the alleged infringer's state of mind, compare [*Harper & Row*](http://scholar.google.com/scholar_case?case=12801604581154452950) (fair use presupposes good faith and fair dealing) with [*Folsom* v. *Marsh*](http://scholar.google.com/scholar_case?about=4495747226837550380) (good faith does not bar a finding of infringement); &hellip; we reject Acuff-Rose's argument that 2 Live Crew's request for permission to use the original should be weighed against a finding of fair use. Even if good faith were central to fair use, 2 Live Crew's actions do not necessarily suggest that they believed their version was not fair use; the offer may simply have been made in a good-faith effort to avoid this litigation. If the use is otherwise fair, then no permission need be sought or granted.  Thus, being denied permission to use a work does not weigh against a finding of fair use. See [*Fisher* v. *Dees* ](http://scholar.google.com/scholar_case?case=16874877052780018691). 
+
+#### APPENDIX A TO OPINION OF THE COURT
+
+**"Oh, Pretty Woman" by Roy Orbison and William Dees**
+
+| Pretty Woman, walking down the street,
+| Pretty Woman, the kind I like to meet,
+| Pretty Woman, I don't believe you, you're not the truth,
+| No one could look as good as you Mercy
+| Pretty Woman, won't you pardon me,
+| Pretty Woman, I couldn't help but see,
+|  Pretty Woman, that you look lovely as can be Are you lonely
+| just like me?
+| Pretty Woman, stop a while,
+| Pretty Woman, talk a while,
+| Pretty Woman give your smile to me
+| Pretty Woman, yeah, yeah, yeah
+| Pretty Woman, look my way,
+| Pretty Woman, say you'll stay with me
+| 'Cause I need you, I'll treat you right
+| Come to me baby, Be mine tonight
+| Pretty Woman, don't walk on by,
+| Pretty Woman, don't make me cry,
+| Pretty Woman, don't walk away,
+| Hey, O. K.
+| If that's the way it must be, O. K.
+| I guess I'll go on home, it's late
+| There'll be tomorrow night, but wait!
+| What do I see
+| Is she walking back to me?
+| Yeah, she's walking back to me!
+| Oh, Pretty Woman.
+
+#### APPENDIX B TO OPINION OF THE COURT
+
+**"Pretty Woman" as Recorded by 2 Live Crew**
+
+| Pretty woman walkin' down the street
+| Pretty woman girl you look so sweet
+| Pretty woman you bring me down to that knee
+| Pretty woman you make me wanna beg please
+| Oh, pretty woman
+| Big hairy woman you need to shave that stuff
+| Big hairy woman you know I bet it's tough
+| Big hairy woman all that hair it ain't legit
+|  'Cause you look like \`Cousin It'
+| Big hairy woman
+| Bald headed woman girl your hair won't grow
+| Bald headed woman you got a teeny weeny afro
+| Bald headed woman you know your hair could look nice
+| Bald headed woman first you got to roll it with rice
+| Bald headed woman here, let me get this hunk of biz for ya
+| Ya know what I'm saying you look better than rice a roni
+| Oh bald headed woman
+| Big hairy woman come on in
+| And don't forget your bald headed friend
+| Hey pretty woman let the boys Jump in
+| Two timin' woman girl you know you ain't right
+| Two timin' woman you's out with my boy last night
+| Two timin' woman that takes a load off my mind
+| Two timin' woman now I know the baby ain't mine
+| Oh, two timin' woman
+| Oh pretty woman
 
 #### Totally Optional Readings and Viewings ####
 
@@ -694,11 +1876,10 @@ The Court found that "this last factor is undoubtedly the single most important 
 * [*Woods v. Universal*](http://www.leagle.com/decision/1996982920FSupp62_1966.xml/WOODS%20v.%20UNIVERSAL%20CITY%20STUDIOS,%20INC.) (SDNY 1996)(*12 Monkeys* scene featuring Bruce Willis being interrogated in a futuristic chair infringes on drawing called *Neomechanical Tower (Upper) Chamber*).
 * [Article about *Woods v. Universal.*](http://www.copyrightwebsite.com/Visual/Monkeys/Monkeys.aspx)
 
-##### More Totally Optional Reading & Viewing ###
+#### More Totally Optional Reading & Viewing ###
 
 * [An Overview of the Elements of a Copyright Infringement Cause of Action - Part I: Introduction and Copying][aba-copyright], by Jason E. Slowan
-* [Robin Thicke (*Blurred Lines*) vs. Marvin Gaye: Independent Creation vs. Subconscious Copying](
-http://creativeartsadvocate.com/independent-creation-vs-subconscious-copying/)
+* [Robin Thicke (*Blurred Lines*) vs. Marvin Gaye: Independent Creation vs. Subconscious Copying]( http://creativeartsadvocate.com/independent-creation-vs-subconscious-copying/)
 * [Larry Lessig TED Talk on User Generated Content](http://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity.html).
 * [Lawrence Lessig Sues Over Takedown of YouTube Video Featuring Phoenix Song](http://www.hollywoodreporter.com/thr-esq/lawrence-lessig-sues-takedown-youtube-613549)
 * [Beastie Boys Fight Online Parody of 'Girls'][beastie]
@@ -712,3 +1893,5 @@ http://creativeartsadvocate.com/independent-creation-vs-subconscious-copying/)
 [aba-copyright]: http://www.americanbar.org/groups/young_lawyers/publications/the_101_201_practice_series/elements_of_a_copyright.html "Elements of Copyright Claim"
 [harper]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=105+S.Ct.+2218&appflag=67.12 "Harper & Row v. Nation Enterprises"
 [beastie]: http://artsbeat.blogs.nytimes.com/2013/11/25/the-beastie-boys-fight-online-video-parody-of-girls/?_r=0 "Beastie Boys Mad About 'Girls' Parody"
+[107]: http://www.copyright.gov/title17/92chap1.html#107 "Section 107: Fair Use"
+[106]: http://www.copyright.gov/title17/92chap1.html#106 "Section 106: Rights"
