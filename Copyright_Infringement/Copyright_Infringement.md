@@ -490,7 +490,7 @@ independent creation, or prior common source.'" [*Testa* (W.D.Pa.1980)](http://s
 > that they are the sort of similarities that cannot satisfactorily be
 > accounted for by a theory of coincidence, independent creation, prior
 > common source, or any theory other than that of copying. Striking
-> similarity is an extremely technical issue — one with which,
+> similarity is an extremely technical issue---one with which,
 > understandably, experts are best equipped to deal.
 
 Sherman, *Musical Copyright Infringement,* at 96.
@@ -526,8 +526,7 @@ the Sixth Circuit which explained that "we do not think the affidavit of
 unlikely that one set [of architectural plans] could have been prepared
 without access to the other set,' can fill the gap which is created by
 the absence of any direct evidence of access." [*Scholz Homes, Inc. v.
-Maddox,* 379 F.2d 84, 86 (6th
-Cir.1967)](http://scholar.google.com/scholar_case?case=13045021094752392802).
+Maddox* (6th Cir. 1967)](http://scholar.google.com/scholar_case?case=13045021094752392802).
 
 To illustrate this deficiency more concretely, we refer to a cassette
 tape &hellip; and the accompanying chart.&hellip; These exhibits were prepared by the defendants but introduced into evidence by the plaintiff. The tape has recorded on it
