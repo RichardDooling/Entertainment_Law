@@ -21,8 +21,6 @@ If I write an original song, then you come along, *copy* it, and publish it unde
 
 If I write an original song, and you just happen to INDEPENDENTLY create an identical song, even though you have never heard my song or read my music, I have no recourse against you under the copyright laws. 
 
-Therefore to prove copyright infringement, the copyright holder must prove that the accused infringers HAD ACCESS TO THE ORIGINAL WORK and COPIED it. 
-
 Judge Learned Hand put it this way:
 
 > If by some magic a man who had never known it were to compose anew Keats's *Ode on a Grecian Urn*, he would be an 'author,' and if he copyright it, others might not copy that poem, though they might of course copy Keats's . . .
@@ -30,8 +28,28 @@ Judge Learned Hand put it this way:
 To prove copyright infringement, the copyright holder must establish:
 
 1. Ownership of a valid copyright.
-2. Copying, which may be proved by direct or circumstantial evidence.  
+2. Copying of constituent elements of the work that are original.
 
+[Feist Publications v. Rural Telephone Service Co.](http://scholar.google.com/scholar_case?case=1195336269698056315) (S.Ct. 1991)
+
+#### Access & Substantial Similarity
+
+Direct evidence of copying is rare, so courts rely instead on circumstantial evidence to prove copying, usually by allowing the plaintiff to prove that the works are substantially similar and that the defendant had **access** to the work.
+
+Access is usually a crucial component of any copyright claim, because similarity alone is usually not enough. Creating a substantially similar work is not a copyright violation unless the defendant COPIED plaintiff's work.
+
+> Plaintiff has the burden of proving that the defendant copied original elements from the plaintiff’s copyrighted work. The plaintiff may show the defendant copied from the work by showing by a preponderance of the evidence that the **defendant had access** to the plaintiff’s copyrighted work and that there are substantial similarities between the defendant’s work and original elements of the plaintiff’s work.
+
+[U.S. Courts for the Ninth Circuit Manual of Model Civil Jury Instructions: 17.15 Copying—Access and Substantial Similarity](http://www3.ce9.uscourts.gov/jury-instructions/node/272).
+
+#### Striking Similarity
+
+If the plaintiff is unable to prove that the defendant had access to plaintiff's work, then sometimes the court may allow plaintiff to prove that the two works are so **strikingly similar** that defendant must have had access. However courts are careful to point out that proof of striking similarity is 
+
+> just one piece of circumstantial evidence tending to show access and must not be considered in isolation; it must be considered together with other types of circumstantial relating to access.
+
+See [*Selle v. Gibb*](http://scholar.google.com/scholar_case?case=15134673856711698951) below.
+ 
 ### *Bright Tunes Music Corp. v. Harrisongs Music, Ltd.*
 
 ###### US Southern District New York (1976)
@@ -1866,6 +1884,33 @@ proceedings consistent with this opinion.
 | Two timin' woman now I know the baby ain't mine
 | Oh, two timin' woman
 | Oh pretty woman
+
+### Summary of Fair Use Factors
+
+1. The Purpose & Character of the Use.
+    - Commercial use is more likely to be UNFAIR. 
+    - Educational or private uses more likely to be considered fair.
+    - Is there evidence of bad faith? (*Harper & Row*).
+    - Is the allegedly infringing work *transformative*? (*Campbell*)
+    - Transformative uses "add something new, with a further purpose or different character, altering the first with new expression, meaning or message" (*Campbell*).
+    - Transformative uses are more likely to be fair use, and the other three factors become less important (*Campbell*).
+
+2. Nature of the Work.
+    - Spectrum of fact to fiction, where taking factual works is more fair 
+taking fiction is less fair.
+    - A greater latitude to disseminate historical or biographical facts than works of fiction.
+
+3. Amount Taken
+    - Some courts say that taking the entire work is presumptively unfair.
+    - Taking the “heart of the work,” even if a small amount, usually isn’t fair.
+    - Taking poems, song lyrics, etc. for a commercial use almost always unfair.
+    - In book publishing, for nonfiction and novels, usually 250 words.
+    - In music, general rule: If you sample, you license. 
+
+4. Market Effect
+    - Often cited as THE most important factor (*Harper & Row*).
+    - Whether unrestricted and widespread conduct like the defendant’s would substantively and adversely impact the market, and the harm to the market for derivative works. 
+    - CAUTION: Increasing demand for the underlying work doesn’t mitigate harm to a derivative market (*Harper & Row*; *Campbell*).
 
 #### Totally Optional Readings and Viewings ####
 
