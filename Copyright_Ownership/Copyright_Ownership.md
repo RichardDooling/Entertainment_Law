@@ -241,7 +241,7 @@ In the next case, the United States Supreme Court applies these straightforward 
 
 > There is nothing more horrible than the murder of a beautiful theory by a gang of brutal facts.
 
-### *Community For Creative Non-Volence v. Reid*
+### *Community For Creative Non-Violence v. Reid*
 
 ###### United States Supreme Court (1989). 
 
