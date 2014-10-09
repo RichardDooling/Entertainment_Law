@@ -1127,6 +1127,57 @@ Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](http://blip.tv/good-
 * [Why Hasn't The Recording Industry Sued Girl Talk?](https://www.techdirt.com/articles/20090707/0237205466.shtml)
 * [Why The Music Industry Isn’t Suing Mashup Star ‘Girl Talk’] (https://gigaom.com/2010/11/16/419-why-the-music-industry-isnt-suing-mashup-star-girl-talk/)
 
+### Film Options
+
+#### Five Stages of Film Production
+
+1. Development: Script gets written and approved. 
+2. Pre-production: Cast and crew are hired, locations are selected, and sets are built.
+3. Production: The raw elements for the finished film are recorded. (First Day of Principal Photography! Payday for many!)
+4. Post-Production: The film is edited; music composed, performed, and recorded. 
+5. Sales and distribution: The film is screened for potential buyers (distributors), who then distribute the film to its cinema and/or home media audience.
+
+#### Why Option?
+
+Licensing songs is one thing. Licensing film rights to a hot story property (novel, graphic novel, magazine article, hot nonfiction book) is a more expensive proposition. 
+
+During development and pre-production (see 5 stages above), 
+producers and studios are reluctant to buy or license film rights outright, 
+because they are EXPENSIVE. 
+The project could fall through at any time. 
+Dozens of people all have to say “yes” on the same day to get a green light.
+Until then, while in the early stages of film production, 
+writers, producers, and studio execs like to OPTION film rights 
+instead of buying them outright. 
+
+#### The Movie Option 3 Essential Terms
+
+1. The option period 
+2. The option payment. 
+3. The purchase price. 
+
+##### 1. The Option Period
+
+How many months or years will the option period last? Shorter is better for the copyright owner. Longer is better for the option owner (more time to attempt to get the project set up).
+
+* Usually 6, 12, 18 months, sometimes two years. 
+* Often includes an option to renew. 
+
+##### 2. The Option Payment
+
+* How Much Does the Option Cost? The price varies greatly.
+* Rule of thumb: 10% of purchase price.
+* AKA: The “small” money.
+
+##### 3. The Purchase Price
+
+What will happen if the buyer EXERCISES the option to buy? 
+Mainly how much? $50k, $100k, usually more.
+
+* Often a percentage of the total movie budget. 
+* 1-3%, with a cap.
+* The “big” money.
+
 #### Totally Optional Reading & Viewing ###
 
 * [*GOOD COPY BAD COPY*](http://blip.tv/good-copy-bad-copy/good-copy-bad-copy-full-feature-364089), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
