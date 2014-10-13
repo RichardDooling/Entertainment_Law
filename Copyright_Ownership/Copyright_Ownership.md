@@ -580,7 +580,7 @@ And the court noted that Cohen had expressly reserved any rights not transferred
  
 <!--Weiler mid p. 485 4th ed -->
 
-### *Effects Associates v. Cohen* (9th Cir. 1990) 
+### *Effects Associates v. Cohen*  
 
 ###### United States Court of Appeals for the Ninth Circuit (1990)
 
@@ -654,19 +654,16 @@ and entitled
 explains the difference, for copyright purposes, 
 between musical compositions and sound recordings.
 
-A musical composition:
-:    consists of music, including any accompanying words, 
+**A musical composition:** consists of music, including any accompanying words, 
 and is normally registered as a work of the performing arts. 
 The author of a musical composition is generally the composer, 
-and the lyricist, if any. 
+and the lyricist, if any.
 A musical composition may be in the form of a notated copy (for example, sheet music) 
 or in the form of a phonorecord (for example, cassette tape, LP, or CD). 
 Sending a musical composition in the form of a phonorecord 
 does not necessarily mean that there is a claim to copyright in the sound recording.
 
-A sound recording:
-:    results from the fixation of a series of musical, spoken or other sounds. The author of a sound recording is the performer(s) whose performance is fixed, or the record producer who processes the sounds and fixes them in the final recording, or both.
-
+**A sound recording:** results from the fixation of a series of musical, spoken or other sounds. The author of a sound recording is the performer(s) whose performance is fixed, or the record producer who processes the sounds and fixes them in the final recording, or both. 
 Copyright in a sound recording is not the same as, or a substitute for, copyright in the underlying musical composition.
 
 ### Newton v. Diamond
@@ -809,21 +806,26 @@ licensed away his interest in the recording of his performance, Newton's
 only claim is for a violation of his rights in the three-note sequence
 transcribed in the composition.
 
-Once we have isolated the basis of Newton's infringement action — the
-"Choir" composition, devoid of the unique performance elements found
-only in the sound recording — we turn to the nub of our inquiry: whether
-Beastie Boys' unauthorized use of the composition, as opposed to their
-authorized use of the sound recording, was substantial enough to sustain
-an infringement action. In answering that question, we must distinguish
-between the degree and the substantiality of the works' similarity. 
-The practice of music sampling will
-often present cases where the degree of similarity is high. Indeed,
-unless the sample has been altered or digitally manipulated, it will be
-identical to the original. Yet as Nimmer explains, "[if] the similarity
-is only as to nonessential matters, then a finding of no substantial
-similarity should result." &hellip; This reflects the principle that the substantiality requirement applies
-throughout the law of copyright, including cases of music sampling, even
-where there is a high degree of similarity.&hellip; 
+Once we have isolated the basis of Newton's infringement action
+---the "Choir" composition, 
+devoid of the unique performance elements found only in the sound recording---
+we turn to the nub of our inquiry: 
+whether Beastie Boys' unauthorized use of the composition, 
+as opposed to their authorized use of the sound recording, 
+was substantial enough to sustain an infringement action. 
+In answering that question, 
+we must distinguish between the degree and the substantiality of the works' similarity. 
+The practice of music sampling will often present cases 
+where the degree of similarity is high. 
+Indeed, unless the sample has been altered or digitally manipulated, 
+it will be identical to the original. 
+Yet as Nimmer explains, 
+"[if] the similarity is only as to nonessential matters, 
+then a finding of no substantial similarity should result." &hellip; 
+This reflects the principle 
+that the substantiality requirement applies throughout the law of copyright, 
+including cases of music sampling, 
+even where there is a high degree of similarity.&hellip; 
 
 When viewed in relation to Newton's composition as a whole, the sampled
 portion is neither quantitatively nor qualitatively significant.
@@ -954,7 +956,7 @@ contrary.
 
 ### Bridgeport Music, Inc. v. Dimension Films
 
-###### United States Court of Appeals, Sixth Circuit.
+###### United States Court of Appeals Sixth Circuit (2005)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=2589269115679339204)
 * [case on Wikipedia](http://en.wikipedia.org/wiki/Bridgeport_Music,_Inc._v._Dimension_Films)
@@ -980,7 +982,8 @@ or that the recording "100 Miles" was included
 on the sound track of *I Got the Hook Up.* 
 
 Defendant No Limit Films, 
-in conjunction with Priority Records, released the movie to theaters on May 27, 1998.
+in conjunction with Priority Records, 
+released the movie to theaters on May 27, 1998.
 The movie was apparently also released on VHS, DVD, and cable
 television.&hellip;  
 
@@ -1054,9 +1057,9 @@ digital sampling of copyrighted sound recordings.
 Get a license or do not sample. 
 We do not see this as stifling creativity in any significant way. 
 It must be remembered 
-that if an artist wants to incorporate a "riff" from another work in his or her recording, he is free to
-duplicate the sound of that "riff" in the studio. Second, the market
-will control the license price and keep it within bounds.
+that if an artist wants to incorporate a "riff" from another work in his or her recording, 
+he is free to duplicate the sound of that "riff" in the studio. 
+Second, the market will control the license price and keep it within bounds.
 The sound recording copyright holder cannot exact a license fee greater
 than what it would cost the person seeking the license to just duplicate
 the sample in the course of making the new recording. Third, sampling is
@@ -1126,6 +1129,25 @@ Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](http://blip.tv/good-
 
 * [Why Hasn't The Recording Industry Sued Girl Talk?](https://www.techdirt.com/articles/20090707/0237205466.shtml)
 * [Why The Music Industry Isn’t Suing Mashup Star ‘Girl Talk’] (https://gigaom.com/2010/11/16/419-why-the-music-industry-isnt-suing-mashup-star-girl-talk/)
+
+
+### How To Acquire Music For Films
+
+[From ASCAP.com](http://www.ascap.com/music-career/articles-advice/film-tv/how-to-acquire-music-for-films.aspx):
+
+Frequently Asked Questions For Student and Independent Filmmakers
+
+**Q:** What Licenses Must I Get To Use A Song In My Film?
+
+**A:** If you are using a pre-recorded song or another pre-recorded piece of music in your film, there are two rights you need to clear; that is to say, you need to get two different licenses to use the music.
+
+- **Synchronization License:** This is the right to synchronize a song or a piece of music with your visual image. It must be obtained from the copyright owner of the music, which is usually the publisher. You can find out who the publisher is by using ASCAP's Clearance Express (ACE) at www.ascap.com/ace. Songs that are not represented by ASCAP might be found at the National Music Publishers' Association "Songfile" website (www.nmpa.org).You will be provided with a contact at the publisher's Business Affairs or Licensing Department.
+
+- **Master Use License:** This is the right to reproduce a specific recording of a song in your film. You clear this right with the record label who owns the specific recording you would like to use; see the liner notes of the recording to find out which company this is. Alternatively, you can get contact information for record labels by calling ASCAP's Film/TV Department. You will be provided with a contact at the record label's Business Affairs Department.
+
+**Q:** Can I Use These Songs On My Soundtrack Album?
+
+**A:** If you intend to use these songs on a soundtrack album, you will need to negotiate additional soundtrack rights with the publisher and record label as you negotiate the synch and master use rights for your film.
 
 ### Film Options
 
