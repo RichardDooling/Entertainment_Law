@@ -77,7 +77,7 @@ for their roles in the writing of these songs.
 #### ANALYSIS
 
 The principal issue on appeal is whether Lamothe and Jones have stated a
-claim under section 43(a) of the Lanham Act, 15 U.S.C. § 1125(a), which
+claim under section 43(a) of the Lanham Act &hellip; which
 provides in pertinent part:
 
 > Any person who shall affix, apply, or annex, or use in connection with
@@ -99,11 +99,8 @@ defendants cite no case holding that it does not similarly reach musical
 compositions. We also note that "[t]o recover for a violation of
 [section 43(a)] it is not necessary that a mark or trade-mark be
 registered. The dispositive question is whether the party has a
-reasonable interest to be protected against false advertising." *Id.*
-(quoting [*New West Corp. v. NYM Co. of Cal.,* (9th Cir. 1979)](http://scholar.google.com/scholar_case?case=15553950466899322956));
- *see also*
-[*Smith,* 648 F.2d at 605 n. 3](http://scholar.google.com/scholar_case?case=9210493150407072428)
-(collecting cases describing reach of section 43(a)). Finally, we
+reasonable interest to be protected against false advertising." &hellip;  
+Finally, we
 recently have made clear that in cases involving false designation, the
 actionable "conduct must not only be unfair but must in some discernable
 way be competitive." [*Halicki v. United Artists Communications, Inc.,* (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=12779534946996407153).
@@ -140,12 +137,12 @@ film. Smith's contract provided that he would receive star billing in
 the screen credits and any advertising associated with the distribution
 of the film. A licensee of the production company subsequently removed
 Smith's name from the screen credits and advertising materials and
-substituted the name of another actor, "Bob Spencer." *Id.* at 603.
+substituted the name of another actor, "Bob Spencer." 
 Smith sued the production company and its licensee, alleging a violation
 of the Lanham Act. The district court dismissed the complaint because it
 did not allege a practice "in the nature of, or economically equivalent
-to, palming off ... and/or misuse of trademarks and trade names." *Id.*
-at 604. We disagreed and reversed the case and remanded it to the
+to, palming off ... and/or misuse of trademarks and trade names." 
+We disagreed and reversed the case and remanded it to the
 district court to reinstate Smith's complaint.
 
 We began our analysis in *Smith* by defining "passing off" as the
@@ -161,7 +158,7 @@ competitor. *Id.*
 
 In *Smith,* we further explained that section 43(a) also encompasses
 merchandising "practices or conduct 'economically equivalent' to
-palming off." *Id.* at 605. Among those practices is "reverse passing
+palming off."  Among those practices is "reverse passing
 off," which may be either "express" or "implied." Express reverse
 passing off is "accomplished ... when the wrongdoer removes the name or
 trademark on another party's product and sells that product under a name
