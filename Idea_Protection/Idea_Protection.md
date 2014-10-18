@@ -10,26 +10,24 @@ If the screenwriter has not yet written the screenplay she has in mind, she is u
 
 ## *Desny v. Wilder,* (CA. 1956).
 
-* [*Desny v. Wilder,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=46+Cal.2d+715&appflag=67.12) 46 Cal.2d 715 (CA. 1956).
+* [Case at Google Scholar](http://scholar.google.com/scholar_case?case=3141417353271271191&hl=en&as_sdt=6&as_vis=1&oi=scholarr)
+* [Case in Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=46+Cal.2d+715&appflag=67.12)
+* [A Good Summary](http://thesterlingfirm.tumblr.com/post/89193789930/theft-in-the-idea-submission-context-a-case-brief)
 
-* Writer Victor Desny called director-producer Billy Wilder to set up an appointment to meet Wilder and pitch his story idea for a movie.
-* Wilder's secretary told Desny to write a synopsis describing the idea.
-* Two days later, Desny called back and dictated the synopsis to the secretary.
-* Desny told the secretary that he expected compensation if the idea was used, and she assured him that he would be paid if his idea were used. 
-
+Writer Victor Desny called director-producer Billy Wilder 
+to set up an appointment to meet Wilder and pitch his story idea for a movie. 
+Wilder's secretary told Desny to write a synopsis describing the idea. 
+Two days later, Desny called back and dictated the synopsis to the secretary. 
+Desny told the secretary that he expected compensation if the idea was used, 
+and she assured him that he would be paid if his idea were used. 
 Wilder stole Desny's idea and made a movie called *Ace In The Hole*.
 
-Desny sued and won because he made a deal that he would be paid if his idea were used. Otherwise, as the court observes, "ideas are as free as the air."
-
-> * [*Desny v.  Wilder,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=46+Cal.2d+715&appflag=67.12) 46 Cal.2d 715 (CA. 1956).
+Desny sued and won because he made a deal that he would be paid 
+if his idea were used. Otherwise, as the court observes, "ideas are as free as the air."
 
 ### Excerpts From *Desny v. Wilder*
 
 ###### California Supreme Court (1956)
-
-* [Case at Google Scholar](http://scholar.google.com/scholar_case?case=3141417353271271191&hl=en&as_sdt=6&as_vis=1&oi=scholarr)
-* [Case in Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=46+Cal.2d+715&appflag=67.12)
-* [A Good Summary](http://thesterlingfirm.tumblr.com/post/89193789930/theft-in-the-idea-submission-context-a-case-brief)
 
 SCHAUER, J.
 
@@ -336,7 +334,7 @@ was supposed to be kept confidential. But the complaint clearly contains these a
 The judgment of the district court is REVERSED and the matter REMANDED
 for further proceedings on plaintiffs' remaining claims.
 
-### *Montz* Dissent
+### *Montz* Dissents
 
 O'SCANNLAIN, Circuit Judge, Joined by GOULD, TALLMAN and BEA, Circuit
 Judges, dissenting:
@@ -487,7 +485,7 @@ complaint that "qualitatively distinguish[es]" the
 breach-of-implied-contract claim from a copyright claim.
 *Id.*
 
-####  C
+#### C
 
 The majority insists that by limiting implied contract protection to
 those who authorize the use of their work in exchange for consideration,
