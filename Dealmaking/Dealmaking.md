@@ -424,3 +424,10 @@ When deals fall through, a judge or jury comes along and asks almost metaphysica
 
 The book passages help give us a glimpse into deals in the various industries, but another way to appreciate the boundaries of the often hurry-scurry world of dealmaking is to read the cases memorializing some famous Hollywood and publishing feuds. 
 
+[goldseal]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=286+P.2d+954&appflag=67.12	"Gold Seal v. RKO"
+[pinnacle]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=519+F.supp+118&appflag=67.12	"Pinnacle Books v. Harlequin"
+[bonner]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=394+NE.2d+1303&appflag=67.12	"Bonner v. Westbound Records"
+[kavovit]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=563nys2d1001&appflag=67.12	"Scott Eden v. Kavovit"
+[goudal]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=5+p2d+432&appflag=67.12	"Goudal v. Cecil B. Demille"
+[loews]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=185+F.2d+641&appflag=67.12	"Loew's Inc v. Cole"
+[aretha]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=735+F.Supp.+1177&appflag=67.12	"Elvin Associates v. Aretha Franklin"
