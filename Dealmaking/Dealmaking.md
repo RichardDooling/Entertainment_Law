@@ -52,7 +52,7 @@ publishing feuds.
 
 ###### Where Publishing Meets Hollywood
 
-What does it mean to “option” movie rights? Movie options are common in Hollywood, but they are also common in many industries, anytime a buyer wants an option to buy something valuable for an agreed period of time. It may be an option to buy fine art, rights to music, a building, a [Stradivarius][], stocks, whole corporations. It doesn't matter. The basics of the option are the same.
+What does it mean to “option” movie rights? Movie options are common in Hollywood, but they are also common in many industries, anytime a buyer wants an option to buy something valuable for an agreed period of time. It may be an option to buy fine art, rights to music, a building, a [Stradivarius](http://en.wikipedia.org/wiki/Stradivarius), stocks, whole corporations. It doesn't matter. The basics of the option are the same.
 
 In the movie biz, it works this way. A producer or a studio thinks that your novel (magazine article, graphic novel, treatment, screenplay) might make for a nice feature film. They call your novel "source material" or "story material," and total story costs (including the screenplay) usually account for about 2-5% of a movie's budget.
 
@@ -92,7 +92,7 @@ The price may vary greatly, but it must be negotiated up front at the time the o
 
 #### Oral Agreements
 
-* [*Mainline v. Basinger,*][basinger] 1994 WL 814244 (Cal.Ct.App.2d 1994)(9 pages).
+* [*Mainline v. Basinger,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1994+WL+814244&appflag=67.12) 1994 WL 814244 (Cal.Ct.App.2d 1994)(9 pages).
 * [*Los Angeles Times* on *Basinger* case.][basinger_latimes]. 
 
 #### Did We Make A Deal?
@@ -300,7 +300,7 @@ A typical option clause looks like this:
 
 > The Author grants Publisher the exclusive option to acquire the rights to the next full-length work of [fiction or non-fiction] to be written by the Author. Publisher shall be entitled to a period of sixty (60) days after submission of the next work in which to make an offer for that work, during which time the Author agrees not to solicit any third party offers, directly or indirectly.
 
-*See *[Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at paragraph 19.
+*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at paragraph 19.
 
 As the Authors Guild puts it: These clauses favor PUBLISHERS ONLY, not authors. An option clause gives your publisher the PRIVILEGE to publish your next book (but only if they want to).
 
@@ -314,7 +314,7 @@ Also limit the clause to a summary or proposal for the next book (not entire man
 
 Limit the time. And don’t let the publisher require publication of the first work. Limit option only to similar books (fiction, non-fiction, poetry).  
 
-*See *[Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at &para; 19.
+*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at &para; 19.
 
 #### How Book Advances Work
 
@@ -350,7 +350,7 @@ Consideration fulfills at least two functions in entertainment law contracts:
 
 Must both sides assume some detriment or obligation?
 
-##### *Wood v. Lucy, Lady Duff-Gordon* (NY.App. 1917)
+##### *Wood v. Lucy, Lady Duff-Gordon*  (NY.App. 1917)
 
 We all recall from first-year contracts, the famous case.
 
@@ -391,7 +391,7 @@ Court looks beyond the four corners of the contract for an implied promise, prom
 
 #### Oral Agreements
 
-* [*Mainline v. Basinger,*][basinger] 1994 WL 814244 (Cal.Ct.App.2d 1994)(9 pages).
+* [*Mainline v. Basinger,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1994+WL+814244&appflag=67.12) 1994 WL 814244 (Cal.Ct.App.2d 1994)(9 pages).
 * [*Los Angeles Times* on *Basinger* case.][basinger_latimes]. 
 
 #### Statute of Frauds
@@ -431,3 +431,4 @@ The book passages help give us a glimpse into deals in the various industries, b
 [goudal]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=5+p2d+432&appflag=67.12	"Goudal v. Cecil B. Demille"
 [loews]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=185+F.2d+641&appflag=67.12	"Loew's Inc v. Cole"
 [aretha]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=735+F.Supp.+1177&appflag=67.12	"Elvin Associates v. Aretha Franklin"
+[basinger_latimes]: http://articles.latimes.com/1993-03-01/entertainment/ca-150_1_boxing-helena-lawsuit
