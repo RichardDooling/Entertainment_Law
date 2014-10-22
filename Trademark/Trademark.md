@@ -93,7 +93,7 @@ provides in pertinent part:
 
 *Id.* The Lanham Act's prohibition of false designations or
 representations reaches either goods or services sold in interstate
-commerce. [*Smith v. Montoro,* (9th Cir. 1981)](http://scholar.google.com/scholar_case?case=9210493150407072428).
+commerce. [*Smith v. Montoro,*](http://scholar.google.com/scholar_case?case=9210493150407072428)(9th Cir. 1981).
 It has been applied to motion picture representations, *id.,* and the
 defendants cite no case holding that it does not similarly reach musical
 compositions. We also note that "[t]o recover for a violation of
@@ -1579,6 +1579,11 @@ For the reasons discussed above, defendant's motion to dismiss the
 complaint is granted.
 
 SO ORDERED.
+
+#### Totally Optional Readings & Viewings
+
+* [Disney Denies Bid To Keep Characters 3 Hallandale Day-care Centers Are Given One Month To Remove Murals](http://articles.sun-sentinel.com/1989-05-18/news/8901250789_1_day-care-centers-day-care-centers-disney-officials)
+* [Nastiness Is Not a Fantasy In Movie Theme Park War](http://www.nytimes.com/1989/08/13/us/nastiness-is-not-a-fantasy-in-movie-theme-park-war.html)
 
 
 <!-- BEGIN COMMENT -->
