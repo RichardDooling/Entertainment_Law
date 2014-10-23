@@ -93,7 +93,9 @@ The price may vary greatly, but it must be negotiated up front at the time the o
 #### Oral Agreements
 
 * [*Mainline v. Basinger,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1994+WL+814244&appflag=67.12) 1994 WL 814244 (Cal.Ct.App.2d 1994)(9 pages).
-* [*Los Angeles Times* on *Basinger* case.][basinger_latimes]. 
+* [*Los Angeles Times* on *Basinger* case.][basinger_latimes]
+
+> Because timing is critical, film industry contracts are frequently oral agreements based on unsigned “deal memos.” Often, artists authorize their agents or lawyers to bind them. Sometimes, however, the parties also desire to memorialize the agreement in an executed written contract, commonly referred to as a “long form agreement.” This written contract is usually negotiated by attorneys and contains many standard terms. Although the parties may intend their oral agreement to be binding, many subsidiary or ancillary terms may subsequently be agreed upon and incorporated into the written contract. The written agreement also enables parties to formalize their understanding in legal language. The absence of an executed written agreement does not mean there is no legally binding agreement. Basinger, for example, had entered into executed written agreements for only two of her prior films.
 
 #### Did We Make A Deal?
 
@@ -175,7 +177,9 @@ Springer's problem? The letter his lawyer wrote plainly said that it would be ou
 
 Now what? Aretha Franklin did not make a contract, but she did make repeated promises, and her promises caused Springer to spend a lot of money getting the show ready. In the magic words of contract law, Springer "detrimentally relied" on Aretha's promises. 
 
-Unjust? Yes. Meaning we need some magic words to make Aretha Franklin pay Springer for breaking her promise to perform, even though she never made a final, formal contract. 
+Unjust? Yes. Meaning we need some magic words to make Aretha Franklin pay Springer for breaking her promise to perform, even though she never made a final, formal contract. As stated by the court:
+
+>The elements of a claim for promissory estoppel are: “[A] clear and unambiguous promise; a reasonable and foreseeable reliance by the party to whom the promise is made; and an injury sustained by the party asserting the estoppel by reason of his reliance.” The “ ‘circumstances [must be] such as to render it unconscionable to deny’ the promise upon which plaintiff has relied.” 
 
 Voila. Promissory estoppel. It requires: 
 
@@ -231,6 +235,11 @@ RKO argued that the words "we have a deal" were ambiguous:
 
 > [the words] meant that the parties had agreed upon the basic points (story, star and money) and that other points were details as to which, it was anticipated, the parties could agree without difficulty; but that a formal agreement would be prepared.
 
+From the opinion of the court:
+
+>In Mancuso v. Krackov, 110 Cal.App.2d 113, 115, it was said: ‘[I]t is not necessary that each term [of an oral contract] be spelled out in minute detail.’ In Thompson v. Schurman, 65 Cal.App.2d 432, at page 440, it was said: ‘The rule is well established and uniformly followed that when the respective parties orally agree upon all the terms and conditions of a contract with the mutual intention that it shall thereupon become binding, the mere fact that a formal written agreement to the same effect is to be thereafter prepared and signed does not alter the binding validity of the original contract. * * * The question as to whether an oral agreement, including all the essential terms and conditions thereof, which according to the mutual understanding of the parties is to be subsequently reduced to writing, shall take effect forthwith as a completed contract depends on the intention of the parties, to be determined by the surrounding facts and circumstances of a particular case.’
+>* * * The significance of shaking hands, under such circumstances and following the conversation hereinbefore mentioned, and at the same time saying ‘We have a deal,’ was material. The intention of the persons who shook hands and used those words, under such circumstances, was material. The testimony of both persons, with respect to intention, was to the same effect—that they intended to close the deal.
+
 The court ultimately decided that on May 16th the parties entered into an oral contract and that they intended it to be legally binding.
 
 Two drafts incorporated those terms and the parties orally agreed to them. Skirball conceded that there were other points to be decided, but the parties had stated they would be handled according to the terms of the deal he for the other movie he had going at RKO.
@@ -282,13 +291,15 @@ Pinnacle sued Harlequin and sought an injunction and damages against Harlequin f
 
 Now, for Pinnacle to succeed for unlawful interference with a contract, Pinnacle had to prove up a VALID contract. Pinnacle argued that it had an agreement with Pendleton that he would use **best efforts** to agree on new contract terms.
 
-Indeed if Pendleton had not negotiated at all, perhaps Pinnacle would have a good argument, but how is the court supposed to enforce a contract provision that says the parties must use their **best efforst?**
+Indeed if Pendleton had not negotiated at all, perhaps Pinnacle would have a good argument, but how is the court supposed to enforce a contract provision that says the parties must use their **best efforts?**
 
 The court said:
 
-> where the parties agreed only to negotiate and failed to state the standards by which their negotiation efforts were to be measured, it is impossible to determine whether Pinnaccle used their "best efforts" to negotiate a new agreement.
+> where the parties agreed only to negotiate and failed to state the standards by which their negotiation efforts were to be measured, it is impossible to determine whether Pinnacle used their "best efforts" to negotiate a new agreement.
 
-> There simply is no objective standard by which the court can determine whether Pinnacle's offer constituted its best efforst; nor can it decide whether Pendleton's participation in negotiations with Pinnacle for over a year were his best efforts. In short, the option clause is unenforceable due to the indefiniteness of its terms . . . 
+> There simply is no objective standard by which the court can determine whether Pinnacle's offer constituted its best efforts; nor can it decide whether Pendleton's participation in negotiations with Pinnacle for over a year were his best efforts. In short, the option clause is unenforceable due to the indefiniteness of its terms . . . 
+
+> “Best efforts” or similar clauses, like any other contractual agreement, must set forth in definite and certain terms every material element of the contemplated bargain. It is hornbook law that courts cannot and will not supply the material terms of a contract. Essential to the enforcement of a “best efforts” clause is a clear set of guidelines against which the parties' “best efforts” may be measured. 
 
 What Pinnacle really needed (and apparently was unable to bargain for) was an "option clause."
 
@@ -366,7 +377,7 @@ Judge Cardozo famously found that the agreement contained an implied promise:
 
 ##### Bonner v. Westbound Records (Ill.Ct.App. 1979)
 
-* [*Bonner v. Westbound Records,*][bonner] 394 NE.2d 1303 (Ill.Ct.App. 1979)(9 pages).
+[394 NE.2d 1303][bonner] (9 pages). 
 
 * Ohio Players enter into a recording agreement with Westbound Records in 1972.
 * Contract requires OP to make records ONLY for Westbound for a 5-year period.
@@ -380,11 +391,23 @@ Lower Court entered summary judgment for the Ohio Players, recording agreement i
 
 On appeal, the court holds that the existence of consideration may be established through parol evidence) Contracts valid because of the money passing from Westbound to OP. 
 
+>By making the $4,000 advance, Westbound suffered a legal detriment and The Ohio Players received a legal advantage&hellip;It is not the function of either the circuit court or this court to review the amount of the consideration which passed to decide whether either party made a bad bargain&hellip;unless the amount is so grossly inadequate as to shock the conscience of the court. The advance The Ohio Players received, taken together with their expectation of what Westbound would accomplish in their behalf, does not shock our conscience. On the contrary, to a performing group which had never been successful in making records, Westbound offered an attractive proposal. The adequacy of consideration must be determined as of the time a contract is agreed upon, not from the hindsight of how the parties fare under it. 
+
 Court looks beyond the four corners of the contract for an implied promise, promissory estoppel, detrimental reliance, parol evidence
 
 #### Minority
 
-* [*Scott Eden Managment v. Kavovit,*][kavovit] 563 NYS2d 1001 (NY 1990).
+* [*Scott Eden Management v. Kavovit,*][kavovit] 563 NYS2d 1001 (NY 1990).
+
+**Facts:** Defendant was 12-year-old actor who entered into deal with Eden to act as his manager. Eden was to receive 15% commission of Kavovit's earnings. After two years, Eden had Kavovit sign with Andreadis Agency, who would receive an additional 10% commission. Soon after, Kavovit signed a contract to be on "As the World Turns." Kavovit's attorney contacted Eden, informing him that Kavovit was disaffirming the contract on the grounds of infancy.
+
+From the opinion of the court:
+
+>An infant's contract is voidable and the infant has an absolute right to disaffirm&hellip;After disaffirmance, the infant is not entitled to be put in a position superior to such a one as he would have occupied if he had never entered into his voidable agreement. He is not entitled to retain an advantage from a transaction which he repudiates. ‘The privilege of infancy is to be used as a shield and not as a sword.’&hellip; 
+>
+>The restoration of consideration principle, as interpreted by the courts, has resulted in the infant being responsible for wear and tear on the goods returned by him (*Myers v. Hurley Motor Co.*, 273 U.S. 18 [automobile]; *Rice v. Butler*, 160 N.Y. 578 [bicycle]; *Scalone v. Talley Motors*, 3 A.D.2d 674 [automobile] ). In the event that the minor cannot return the benefits obtained, he is effectively precluded from disaffirming the contract in order to get back the consideration he has given. In *Vichnes v. Transcontinental & Western Air*, 173 Misc. 631) the infant paid the air fare from New York to Los Angeles. On returning to New York she demanded the return of her money. Appellate Term granted summary judgment to defendant because “there is no basis for rescission here in view of the concession that the reasonable value of the transportation was the sum paid by plaintiff” (at 631).
+
+While Kavovit was allowed to disaffirm the contract, he was required to pay Eden all commissions Eden would have been due over the course of the contract.
 
 
 ### Headline Cases ###
