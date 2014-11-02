@@ -172,8 +172,8 @@ Factors used to test for materiality:
 
 ###### California Court of Appeals (1931)
 
-[Case on Westlaw][goudal].
-[Jetta Goudal's career at Wikipedia](http://en.wikipedia.org/wiki/Jetta_Goudal#Career)).
+* [Case on Westlaw][goudal]. 
+* [Jetta Goudal's career at Wikipedia](http://en.wikipedia.org/wiki/Jetta_Goudal#Career).
 
 Another oldie but goodie, this one about a famous lawsuit 
 between a famous actress and the famous director who wanted to control her. 
@@ -407,7 +407,7 @@ DeMille's argument on appeal was that Goudal violated her obligations under the 
 She had agreed to render the services “conscientiously” and “artistically” 
 and the parties “agreed that the services of the artist herein provided for are of a special, unique, unusual, extraordinary and intellectual character.” 
 
-DeMille took a my way or the highway approach 
+DeMille took a "my way or the highway" approach 
 because he felt that Goudal was not obeying his wishes. 
 Was Goudal a mere puppet responding to the director’s pull of the strings, 
 regardless of whether he pulled the right or the wrong string?
@@ -560,7 +560,7 @@ the author turns in a manuscript which the publisher does not care for?
 
 * [Case on Google Scholar](http://scholar.google.com/scholar_case?case=18295704577854627744)
 * [Case on Westlaw][goldwater] 
-* [Read about it at NYTimes](http://www.nytimes.com/1982/02/04/books/goldwater-in-book-suit.html))
+* [Read about it at NYTimes](http://www.nytimes.com/1982/02/04/books/goldwater-in-book-suit.html)
 
 #### OPINION
 
@@ -1010,8 +1010,7 @@ They paid a lot of money to a high-profile politician
 and a professional writer. 
 They are hoping for a thing of beauty, 
 a work of well-wrought prose, 
-to arrive one day in the mail. 
-So they can congratulate themselves and the publisher and squeal with delight: 
+to arrive one day in the mail so they can congratulate themselves and the publisher and squeal with delight: 
 “Let’s publish this thing!”
 
 Instead they receive a tentative draft 
@@ -1509,7 +1508,7 @@ Doubleday's complaint and remand the cause with instructions to enter
 judgment in favor of Doubleday for recovery of its \$50,000 advance,
 plus interest.
 
-### Notes on  *Doubleday v. Tony Curtis,* 
+### Notes on  *Doubleday v. Tony Curtis* 
 
 Famous actor and part time novelist Tony Curtis ("Curtis" signed a book contract to provide two novels to the publisher Doubleday & Co., Inc. ("Doubleday"). The parties used a standard industry form that required Doubleday to pay royalties on hardcover sales and a share of the proceeds of the sale of paperback rights if Curtis delivered manuscripts "satisfactory" to Doubleday in content and form.  
 
