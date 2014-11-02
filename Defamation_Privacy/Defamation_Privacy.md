@@ -2149,6 +2149,21 @@ accordingly
 
 #### Totally Optional Readings & Viewings
 
+
+##### 'American Hustle' Sparks $1 Million Libel Lawsuit 
+
+by Former New Yorker Writer
+6:33 PM PDT 10/30/2014 by Austin Siegemund-Broka
+0 103 4 1 0 Email Print Comments (5)
+Journalist Paul Brodeur says his reputation was damaged by claims about microwaves that the film falsely attributes to him
+
+http://www.hollywoodreporter.com/thr-esq/american-hustle-sparks-1-million-745296
+
+It's a very brief exchange in American Hustle: Jennifer Lawrence's character Roslyn tells her husband, Irving, played by Christian Bale, that microwaves take the nutrition out of food. "That's bullshit," Irving replies, and his wife shows him a magazine and says, "It's not bullshit. I read it in an article. Look, by Paul Brodeur."
+
+The real Brodeur is a science journalist who was a staff writer at The New Yorker for nearly 40 years. He's even written books (such as The Zapping of America) about the dangers of microwave radiation. But he's never said that they take the nutrition out of food, he claims in a new lawsuit.
+
+
 * [*The People Versus Larry Flynt*][flynt] (stars Woody Harrelson and Courtney Love). This is a love song to the First Amendment directed by Czech director Milos Forman telling the tale of preacher Jerry Falwell's [landmark Supreme Court case][falwell] against Larry Flynt, the publisher of *Hustler Magazine* (on reserve in Schmid Library).
 * Amy J. Field, [A Curtain Call for Docudrama-Defamation Actions: A Clear Standard Takes a Bow](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr). Casenote discussing *Davis v.  Costa-Gavaras* (SDNY 1987).
 - *Deangelo Bailey v. Marshall Bruce Mathers, III, aka Eminem Slim Shady,* Macomb County Court (Michigan 2003):

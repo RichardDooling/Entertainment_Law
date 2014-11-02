@@ -707,7 +707,7 @@ We all recall from first-year contracts, the famous case.
 * Wood agrees to pay Lady DG half the profits from selling Lady DG products.
 * Lady DG breaches the K by endorsing the products of someone else.
 * Wood sues for breach of K.
-* Lady Duff-Gordon says she hasn't breached because her 
+* Lady Duff-Gordon says she hasn't breached because no valid contract existed between her and Wood, because the deal they made could not be enforced for lack of consideration. 
 
 Judge Cardozo famously found that the agreement contained an implied promise:
 
