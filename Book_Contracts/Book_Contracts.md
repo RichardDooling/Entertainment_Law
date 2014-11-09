@@ -329,6 +329,17 @@ Subsidiary rights are usually licensed to third parties and then the publisher w
 
 [Authors Guild: Improving Your Book Contract](http://www.authorsguild.org/member-benefits/legal-services/improving-your-book-contract/)
 
+### E-Book Rights ###
+
+Obviously e-book rights are becoming as important if not more important than traditional print rights. Also, the definition of an "e-book" is subject to change as publishers experiment with so-called "enhanced books," books featuring audio, animation, artwork, and the like.
+
+The author and her reps need to be certain that the definition of e-book rights includes a "text verbatim only" clause and explicity does NOT include interactive or multimedia rights. Such rights conflict with the dramatic and motion picture rights.
+
+As noted under the termination provisions above, the contract should include a clause calling for a minimum number of sales or a dollar amount of royalties that must be generated for the book to still be considered "in print" under the contract. 
+
+If possible obtain a "renegotiation clause," which gives the author and the publisher to renegotiate if the industry standard royalty amounts change in the future or the media used to transmit books changes. 
+
+
 [model]:  https://www.authorsguild.org/member-benefits/legal-services/model-book-contract/
 [improving]: http://www.authorsguild.org/services/legal-services/improving-your-book-contract/ "Authors Guild: Improving Your Book Contract"
 [balkin]: http://www.amazon.com/Negotiations-Negotiating-Profitable-Contracts-Agreements-/dp/0898793602/inscape-20 "Richard Balkin, Contract Negotiations"
