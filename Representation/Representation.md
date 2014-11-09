@@ -3,132 +3,37 @@ author: Richard Dooling
 title: Entertainment Law
 subtitle: Lawyers For The Talent
 chapter: Representation
-date: 24 August 2014
-version: 1.0
 ---
 
-# Lawyers For The Talent
+#  Lawyers For The Talent
 
 ###### by Richard Dooling
 
-# Reps & Regs: Mon 7/21 - Thur 7/24
+## Representation
 
-###### Talent Representation & Regulation ######
+###### Talent Representation & Regulation 
 
-## Reps & Regs Mon 7/21 - Tue 7/22
-
-### Required Reading
-
-* [Slate: *The Difference Between an "Agent" and a "Manager"*](http://www.slate.com/articles/news_and_politics/explainer/1998/12/the_difference_between_an_agent_and_a_manager.html)
-* Poke around [johnaugust.com](http://johnaugust.com). Podcasts, primarily for screenwriters, but John (*Go, Big Fish, Charlie & The Chocolate Factory*) and Craig Mazin (*Scary Movie* and *Hangover* sequels) often discuss topics such as:
-	- [whether to get a manager, an agent, or both,](http://johnaugust.com/2011/get-a-manager);
-	- The eternal question: [How do I get an agent?](http://johnaugust.com/2011/scriptnotes-ep-2-how-to-get-an-agent-andor-manager-transcript).
-	- [What is coverage?](http://johnaugust.com/2013/lets-talk-about-coverage).
-* [How To Query A Literary Agent,](http://www.richarddooling.com/index.php/2007/02/07/how-to-query-a-literary-agent/) by Richard Dooling
-* [Agents Who Ask For Fees](http://www.sfwa.org/fees/)
-
-### Headline Cases ###
-
-* [*Marathon v. Blasi,*][blasi] 174 P.3d 741 (Cal. Sct. 2008)
-    - Also available at [Google Scholar](http://scholar.google.co.uk/scholar_case?case=10057569541268667408). Please read this case. It will allow us to go quickly come Monday!
-* [Trial Court Opinion: Peter Lampack Agency v. Martha Grimes,](http://scholar.google.co.uk/scholar_case?case=2622311633908231934) (2010 NY Slip Op 51749).
-* [Court of Appeals: Peter Lampack Agency v. Martha Grimes,](http://scholar.google.co.uk/scholar_case?case=5116981929088179346) 93 A.D.3d 430 (NY.Ct. App. 2012).
-
-### Talent Representatives
-
-#### Entertainment/Publishing Lawyers
+### Entertainment/Publishing Lawyers
 
 What do entertainment lawyers do?
 
 > Just like Frances Gumm became Judy Garland, and Thomas Mapother III became Tom Cruise, "entertainment law" is actually a more glamorized, fabricated name for contract law, copyright law, intellectual property law, licensing law, litigation, and working really hard just like every other lawyer out there . . . . Entertainment lawyers are merely copyright, contract, or IP lawyers who have clients in the entertainment business, just like sports lawyers have clients in the sports business.
 
-> Erica Winter, [Entertainment Law - Glamor By Association?](http://www.lawcrossing.com/article/379/Entertainment-Law-Glamor-By-Association/#)
-
+* Erica Winter, [Entertainment Law - Glamor By Association?](http://www.lawcrossing.com/article/379/Entertainment-Law-Glamor-By-Association/#)
 * Diane Dannenfeldt, [How Entertainment Lawyers Work](http://entertainment.howstuffworks.com/entertainment-lawyer.htm)
 
-#### Literary Agents
+### Literary Agents
 
 Unlike talent agents, literary agents are not governed by special sections of the New York or California Labor Codes, but as agents they are governed by the common law of agency. In short, the relationship between an author and her agent are whatever is contained in the contract, usually signed at the commencement of their relationship. 
 
-* [Wikipedia: Literary Agent](http://en.wikipedia.org/wiki/Literary_agent)
-* [Legal definition of a "literary agent"](http://www.duhaime.org/LegalDictionary/L/LiteraryAgent.aspx).
+As discussed, an author presented with a written agency agreement needs legal help, if only because it is the one time in the relationship that the parties are adverse. The agent may overreach and attempt to include an interminable agency clause (see *Peter lampack Agency* case) or some other one-sided clause. As discussed in our materials on book contracts, the Authors Guild will help authors and their representatives negotiate and edit these contracts.
 
+##### The Interminable Agency Clause
 
-##### *Peter Lampack Agency, Inc. v. Grimes*
+* [Description of clause](http://accrispin.blogspot.com/2011/04/interminable-agency-clause.html)
+* [Authors Guild Warning](http://www.ninc.com/writers_resources/interminable.asp)
 
-###### 2010 NY Slip Op 51749 - NY: Supreme Court 2010
-
-The Peter Lampack Agency (PLA, a literary agency) sued Martha Grimes, an author of literary and commercial fiction, for unpaid commissions allegedly due and owing under contracts negotiated by PLA on behalf of Grimes.
-
-PLA had acted as literary agent for Grimes for twelve years and had procured publishing agreements for works authored by Grimes. Those works were published, and Grimes received
-over $12 million dollars from the publication and domestic and
-international sale of her novels. 
-
-Among the contracts PLA procured for Grimes was a four-book publishing agreement entered into by Grimes, Penguin, and Viking-Penguin in 2005. 
-
-That 2005 agreement contained an option clause, similar to option clauses found in many publishing agreements, in effect giving the publisher the right of "first look" at the author's next work:
-
-> [T]he Author hereby grants to the Publisher the exclusive right and option to publish . . . her next book-length work of fiction . . . . The Publisher shall have a period of thirty (30) days after receipt by the Publisher of the notification from the Author or her agent of the Author's desire to commence negotiation concerning such next book-length work of fiction within which to notify the Author whether it desires to publish such work and to negotiate the terms and conditions of such publication.
-
-The 2005 Penguin agreement also contained an agency commission clause, providing that:
-
-> The Author hereby appoints [PLA] irrevocably as the Agent in all matters pertaining to or arising from this Agreement . . . . Such Agent is hereby fully empowered to act on behalf of the Author in all matters in any way arising out of this Agreement . . . . All sums of money due the Author under this Agreement shall be paid to and in the name of said Agent . . . . The Author does also irrevocably assign and transfer to [PLA], as an agency coupled with an interest, and [PLA] shall retain a sum equal to fifteen percent (15%) of all gross monies due and payable to the account of the Author under this Agreement.
-
-In or about May 2007, Grimes notified PLA that she would no longer be using PLA as her
-literary agent and retained a new representative.
-
-On February 4, 2009, in accordance with the terms of the Option on Next Work clause, Grimes' counsel sent a letter to Penguin enclosing a manuscript of "The Black Cat." 
-
-On February 27, 2009, Penguin made an oral proposal to Grimes' counsel and the agreement for "The Black Cat" was finalized on August 20, 2009. 
-
-On November 18, 2009, PLA filed a complaint against Grimes and her publishers alleging breach of contract among other claims. PLA alleged that the publishing agreement for "The Black Cat" arose out of the Option on Next Work clause and that Grimes violated the terms of the 2005 Penguin/Viking-Penguin Agreement by refusing to account to PLA and refusing to pay PLA the sums due for "The Black Cat."
-
-PLA also alleged that the defendants acted in bad faith and breached the covenant of good faith and fair dealing implied in the 2005 Penguin/Viking-Penguin Agreement.
-
-PLA also contended that Grimes owed it commissions on various extensions of publishing agreements that PLA had procured for Grimes over the years. 
-
-Defendant Martha Grimes moved to dismiss arguing that under the 2005
-Penguin/Viking-Penguin Agreement, PLA was not entitled to commission for
-"The Black Cat" because: 
-
-1. PLA's agency is not coupled with an interest and PLA's agency was revoked in May 2007; 
-2. the Option on Next Work clause is an unenforceable "agreement to agree"; and 
-3. the publishing agreement for "The Black Cat" does not arise out of the
-Option on Next Work clause.
-
-The trial court ruled in favor of author Martha Grimes on all counts holding:
-
-> The only part of the 2005 Penguin/Viking-Penguin Agreement that entitles
-PLA to commission is the commission provision. The Option on Next Work
-clause does not provide for PLA to receive commission for publishing
-agreements arising out of the clause. 
-
-Instead, the court looked at the commission provision and found that PLA was not entitled to commissions on "The Black Cat" or any other publishing agreements or extensions of prior publishing agreements entered into after Grimes had notified PLA that it was no longer her literary agent. 
-
-On the question of whether the commission clause found in the Penguin 2005 publishing agreements constituted an "agency with an interest," the court had this to say:
-
-> It is the general rule that an agency for no definite term is revocable
-at will. [] However, when an agency authority is coupled with an interest,
-the agency is irrevocable. [] An agency is coupled with an interest where, as a part of the
-arrangement with the principal, the agent receives title to all or part
-of the subject matter of the agency.
-
-Citing the Restatement 2nd of Agency 2d Agency § 63 and New York law, the court said:
-
-> To make the power irrevocable, there must be an interest
-in the subject of the agency itself, and not a mere interest in the
-result of the execution of the authority . . . . . Words alone are not
-enough to establish an agency coupled with an interest.
-
-The court found that 2005 Penguin commission provision granted PLA a 15% commission in
-the proceeds from its sale of rights in Grimes' literary works and not
-an interest in those literary works themselves. The mere fact that the
-commission provision "appoints PLA irrevocably" as an agent was not
-enough to create an agency coupled with an interest.
-
-Because PLA did not have a property interest in Grimes' literary works, its agency was revocable, and it was revoked in May 2007. 
-
-#### Hollywood Representation
+### Hollywood Representation
 
 Usually involves one or more of the following:
 
@@ -137,28 +42,215 @@ Usually involves one or more of the following:
 -   Business Manager
 -   Entertainment Lawyer
 
-At what point in the careers of various artists do they need each of
-these representatives? When does it make sense for an author of crime
-novels to consult an attorney? What can an aspiring screenwriter do
-while waiting to attract the attention of a talent agent?
-
-Talent agent versus talent manager: What are the differences? Are agents
-and managers both regulated? Do they have different legal obligations to
-talent.
-
-Commissions: How do reps charge for their services?
-
-Agents and managers also engage the services of foreign sub-agents with whom they sometimes split commissions.
-
-#### New York’s Employment Agent Regulation
+### New York’s Employment Agent Regulation
 
 New York regulates "theatrical employment" agencies under its general business laws where section 171 defines a "theatrical employment agency" as: 
 
-> any person . . . who procures or attempts to procure employment or engagements for circus, vaudeville, the variety field, the legitimate theater, motion pictures, radio, television, phonograph recordings, transcriptions, opera, concert, ballet, modeling or other entertainments or exhibitions or performances, *but such terms does not include the business of managing such entertainments, exhibitions or performances, or the artists or attractions constituting the same, where such business only incidentally involves the seeking of employment therefore.*
+> any person &hellip; who procures or attempts to procure employment or engagements for circus, vaudeville, the variety field, the legitimate theater, motion pictures, radio, television, phonograph recordings, transcriptions, opera, concert, ballet, modeling or other entertainments or exhibitions or performances, *but such terms does not include the business of managing such entertainments, exhibitions or performances, or the artists or attractions constituting the same, where such business only incidentally involves the seeking of employment therefore.*
 
 [New York General Business - Article 11 - § 171 Definitions](http://law.onecle.com/new-york/general-business/GBS0171_171.html)
 
-#### California Talent Agencies Act
+The following case discusses not only New York's Employment Agent Regulation, but also looks at the intricacies of being both a lawyer AND a manager.
+
+## Mandel v. Liebman 
+
+###### New York Supreme Court (1951)
+
+Louis Mandel brought an action against Max Liebman to collect commission
+allegedly due under contract whereby plaintiff agreed to act as
+defendant's personal representative and manager. The Supreme Court, New
+York County, Gavagan, J., dismissed the complaint at close of
+plaintiff's evidence and entered judgment for defendant, which judgment
+was affirmed by the Appellate Division of the Supreme Court, First
+Judicial Department, with reargument denied and change in opinion granted, and plaintiff
+appealed. The Court of Appeals, Conway, J., held, inter alia, that the
+contract was not unconscionable and void.
+
+Reversed and new trial granted.
+
+**Opinion**
+
+CONWAY, Judge.
+
+[The defendant Max Liebman is an author, writer and director in the entertainment
+world. The plaintiff Louis Mandel  is an attorney who devotes himself to the business
+of acting as personal representative, advisor and manager for persons
+engaged in the entertainment world. On May 8, 1946, they entered into a
+written contract whereby Liebman (the talent) agreed to employ attorney Mandel ‘as his
+personal representative and manager’ for a term of five years. Liebman agreed to pay to Mandel, as compensation, 10% of all his earnings
+during the term of the contract, and thereafter on earnings from
+employments commenced during the term of the contract 
+and continued or renewed or resumed beyond the term of
+the contract.&hellip; 
+
+Soon after several disputes arose about business records 
+which Mandel refused to return to Liebman because Liebman had failed 
+to pay the percentage of earnings agreed
+upon in the contract of May 8, 1946. Defendant then obtained an order of
+Special Term, dated February 17, 1947, in a summary turnover proceeding,
+directing plaintiff to turn over the papers to defendant. 
+
+Mandel commenced this action to recover the compensation allegedly due him for
+the period from May 8, 1948, to May 8, 1949, under the contract of May
+8, 1946. 
+
+The action was dismissed on the merits at the close of plaintiff's case
+upon the grounds of the relationship of attorney
+and client between plaintiff and defendant. The Trial Justice presumably
+was relying upon the rule that a client who has signed a retainer
+agreement with respect to some matter in controversy may discharge the
+attorney at any time, with or without cause, and relegate the attorney
+to a quantum meruit action for his services to the time of the
+discharge.&hellip; The court also found that the specific business records
+at issue had into Mandel's possession in the course of an
+attorney-client relationship. 
+
+The majority in the Appellate Division
+affirmed the judgment dismissing the complaint, but on a ground
+different from that advanced by the trial court. The majority in the
+Appellate Division held that the original contract of May 8, 1946 &hellip; ‘was void and unconscionable and against
+public policy’. In reaching that conclusion, the court pointed out that,
+under the original contract of May 8, 1946, the plaintiff was not
+required to render any services to defendant; that plaintiff had
+introduced no proof of the rendition of any services to defendant; and
+yet defendant was required to pay to plaintiff ‘what might be called a
+tribute in perpetuity.’&hellip;]  
+
+It is apparent that the majority, in
+holding the contracts to be ‘unconscionable’, thought that the
+obligations assumed thereunder by the parties were so shockingly
+disproportionate that they could not be enforced. It is commonplace, of
+course, that adult persons, suffering from no disabilities, have
+complete freedom of contract and that the courts will not inquire into
+the adequacy of the consideration. “If a person chooses to make an
+extravagent promise for an inadequate consideration, it is his own
+affair." 8 Holdworth, History of English Law.&hellip; 
+
+Despite the general rule, courts
+sometimes look to the adequacy of the consideration in order to
+determine whether the bargain provided for is so grossly
+unreasonable or unconscionable in the light of the mores and business
+practices of the time and place as to be unenforcible according to its
+literal terms.&hellip; It has been
+suggested that an unconscionable contract is one such as no man in his
+senses and not under a delusion would make on the one hand, and as no
+honest or fair man would accept, on the other.&hellip; 
+The inequality &hellip; must be so strong and
+manifest as to shock the conscience and confound the judgment of any man
+of common sense.
+
+There might be some force to the
+claim of unconscionability in the case at bar if the contract could
+properly be construed as was done by the majority in the Appellate
+Division. That court held that under the express terms of the contract
+of May 8, 1946, plaintiff was not required to render any services to
+defendant. We do not think that that is a permissible construction under
+our decisions. See *Wood v. Lucy, Lady Duff-Gordon*. 
+
+Here, the contract provides that it is mutually agreed by the parties &hellip; 
+that the defendant 'hereby employs' the plaintiff 
+'as his personal representative and manager 
+to use his ability and experience as such manager and personal representative 
+in the guidance and furtherance' of defendant's career 
+and 'to advise him in connection with all offers of employment 
+and contracts for services, and conclude for him such contracts.' 
+Thus, there is a clear implication that plaintiff 
+was required to do that for which he was employed. 
+Even if the contract had merely provided that plaintiff was employed 'as
+personal representative and manager,' 
+with no further description of his duties, 
+that would have been sufficient, for it could be shown that to
+these parties, in a specialized field with it own peculiar customs and
+usages, that phrase was enough to measure the entire extent of
+plaintiff's required services. 
+
+The further provision in the
+contract that plaintiff ‘shall only devote as much time and attention to
+the activities and affairs' of defendant ‘as the opinion and judgment’
+of plaintiff ‘deems necessary’ must be given a reasonable interpretation
+consonant with the purpose of the contract. It would be an unnatural and
+bizarre construction of the document to hold that that provision was
+intended to excuse plaintiff from any obligation to render service under
+the contract, while continuing to reap benefits thereunder. The
+provision seems merely to constitute an attempt on the part of plaintiff
+to protect himself from excessive and unreasonable demands upon his
+time. See Meyers v. Nolan, supra, 18 Cal.App.2d at page
+323, where it was said: 
+
+> The fact that the contract provided that the managers could devote as much time to defendant's affairs as they deemed necessary does not destroy its mutuality. The very nature of the business of the parties was such that representation of other actors was to be expected. The clause was evidently inserted to avoid any misunderstanding on the subject and to more clearly define the rights and obligations of the managers.  
+
+Of course, as defendant urges, 
+it is theoretically possible that plaintiff, under this provision, 
+could deem it necessary to devote no time to the activities 
+and affairs of defendant, but in that event, it is clear that
+plaintiff would not be performing the contract but would be breaching it and
+foregoing his right to compensation.
+
+Since plaintiff, as we hold, was required to render some service to
+defendant under the contract, 
+it cannot be said that the contract was unconscionable. 
+Defendant was the best judge of the necessity and worth of plaintiff's services, 
+and of the price he wished to pay to obtain them. 
+In return for plaintiff's contractual obligation to render such services, 
+defendant agreed to pay as compensation an amount based upon a
+percentage of his earnings. It is not for the court to decide whether
+defendant made a good or bad bargain. We fail to see how the contract
+can be described as one “such as no man in his senses &hellip; would
+make” and “no honest or fair man would accept” &hellip; or one which would
+‘shock the conscience and confound the judgment of any man of common
+sense’ &hellip; or even one which is ‘so extreme as to appear
+unconscionable according to the mores and business practices of the time
+and place’ &hellip; particularly since,
+as we are told, without denial the contract of May 8, 1946, is similar
+in most respects to contracts in current and general use in the
+entertainment industry. 
+
+There is thus no need at this time to
+discuss the measure of compensation provided in the contract
+which the Appellate Division characterized as ‘a tribute in perpetuity.’
+
+Finally, we do not think that the
+contract of May 8, 1946, at least upon its face, may be held to be a
+retainer agreement between attorney and client with respect to some
+matter in controversy under which the client may discharge the attorney
+at any time, with or without cause, and relegate the attorney to an
+action for his services to the time of discharge.&hellip; 
+
+Here, plaintiff was employed as defendant's personal representative and manager, 
+a position which might well have been filled by a nonlawyer. 
+As a lawyer, plaintiff might be called upon 
+to use his legal training in handling defendant's affairs, 
+but that is not sufficient, as a matter of law, 
+to transform an otherwise binding contract of employment 
+into a contract at will on the part of the employer. 
+An attorney, like any other man, 
+may enter into a contract of employment 
+which can be enforced against the employer, 
+and that is so even though the employment may envisage the exercise of his
+legal skills and ability.&hellip;  
+
+Likewise, it cannot be said
+as matter of law that the contract was illegal and void for the reason
+that plaintiff &hellip; was conducting a
+theatrical employment agency without a license therefor. By
+express exemption &hellip; a person engaged in the business of
+managing ‘entertainments, exhibitions or performances, or the artists or
+attractions constituting the same, where such business only incidentally
+involves the seeking of employment therefor’ is not required to be
+licensed. As noted, plaintiff was employed as defendant's ‘personal
+representative and manager’. It was specifically provided that ‘this
+contract does not in any way contemplate that the second party
+(plaintiff) shall act as agent for the purpose of procuring further
+contracts or work’ for defendant, the plaintiff was ‘not required in any
+way to procure’ such contracts or work, and that in the event defendant
+‘needs additional employment or work then an agent shall be employed by
+the second party (plaintiff) to procure such employment, and the
+services of said agent shall be separately paid for’ by defendant.
+
+The judgments below should be reversed and a new trial granted, with
+costs to abide the event.
+
+### California Talent Agencies Act
 
 ###### &sect;&sect; 1700.23-1700.47 of the California Labor Code
 
@@ -172,15 +264,700 @@ So, under the TAA, a talent agent is:
 
 > A person or corporation who engages in the occupation of procuring, offering, promising, or attempting to procure employment for artist or artists.
 
-Put simply agents find artists work. By contrast, managers are supposed to simply "manage" their clients careers. If managers start "procuring, offering, promising or attempting to procure employment" for their clients, then they are engaging in activities regulated by the statute, and they are acting like unlicensed agents. If their clients complain to the Labor Commissioner, the managers may forgeit any commissions earned from unlawfully acting like agents.
+Put simply agents find artists work. By contrast, managers are supposed to simply "manage" their clients careers. If managers start "procuring, offering, promising or attempting to procure employment" for their clients, then they are engaging in activities regulated by the statute, and they are acting like unlicensed agents. If their clients complain to the Labor Commissioner, the managers may forfeit any commissions earned from unlawfully acting like agents.
 
-No better illustration of this than *Wachs v. Curry*.
+No better illustration than the following case. The case is a long one, because it attempts to definitively deal with a contentious recurring problem: What happens when managers cross the line and act like agents insofar as they "solicit or procure employment" for their clients? In the course of addressing this issue, the opinion becomes almost an essay about how Hollywood works.
 
-##### *Wachs v. Curry,* (Cal.Ct.App.2d 1993).
+## Marathon Entertainment, Inc. v. Blasi,
+
+###### California Supreme Court (2008)
+
+* [Case on Google scholar](http://scholar.google.com/scholar_case?case=10057569541268667408)
+* [Case on Westlaw][blasi] 
+
+WERDEGAR, J.
+
+In Hollywood, talent--the actors, directors, and writers, the Jimmy
+Stewarts, Frank Capras, and Billy Wilders who enrich our daily cultural
+lives--is represented by two groups of people: agents and managers.
+Agents procure roles; they put artists on the screen, on the stage,
+behind the camera; indeed, by law, only they may do so. Managers
+coordinate everything else; they counsel and advise, take care of
+business arrangements, and chart the course of an artist's career.
+
+This division largely exists only in theory. 
+The reality is not nearly so neat. 
+The line dividing the functions of agents, 
+who must be licensed, 
+and of managers, who need not be, 
+is often blurred and sometimes crossed. 
+Agents sometimes counsel and advise; 
+managers sometimes procure work. 
+Indeed, the occasional procurement of employment opportunities 
+may be standard operating procedure for many managers 
+and an understood goal when not-yet-established talents, 
+lacking access to the few licensed agents in Hollywood, 
+hire managers to promote their careers.
+
+We must decide what legal consequences befall a manager 
+who steps across the line and solicits or procures employment 
+without a talent agency license. We hold that:
+
+1. contrary to the arguments of personal manager
+Marathon Entertainment, Inc. (Marathon), 
+the strictures of the Talent Agencies Act (Act) 
+apply to managers as well as agents; 
+2. contrary to the arguments of actress Rosa Blasi (Blasi),
+while the Labor Commissioner has the authority 
+to void manager-talent contracts *ab initio* for unlawful procurement, 
+she also has discretion to apply the doctrine of severability 
+to partially enforce these contracts; and 
+3. in this case, a genuine dispute of material fact exists 
+over whether severability might apply to allow partial enforcement of the parties' contract. 
+
+Accordingly, we affirm the Court of Appeal.
+
+### FACTUAL AND PROCEDURAL BACKGROUND
+
+In 1998, Marathon and Blasi entered into an oral contract 
+for Marathon to serve as Blasi's personal manager. 
+Marathon was to counsel Blasi and promote her career; 
+in exchange, Blasi was to pay Marathon 15 percent of her earnings 
+from entertainment employment obtained during the course of the contract. 
+During the ensuing three years, 
+Blasi's professional appearances included a role in a film, 
+*Noriega: God's Favorite* (Industry Entertainment 2000), 
+and a lead role as Dr. Luisa Delgado on the television series *Strong Medicine.*
+
+According to Marathon, 
+Blasi reneged on her agreement to pay Marathon its 15 percent commission 
+from her *Strong Medicine* employment contract. 
+In the summer of 2001, 
+she unilaterally reduced payments to 10 percent. 
+Later that year, 
+she ceased payment altogether and terminated her Marathon contract, 
+stating that her licensed talent agent, John Kelly, 
+who had served as her agent 
+throughout the term of the management contract with Marathon, 
+was going to become her new personal manager.
+
+Marathon sued Blasi for breach of oral contract, 
+quantum meruit, false promise, and unfair business practices, 
+seeking to recover unpaid *Strong Medicine* commissions. 
+Marathon alleged that it had provided Blasi with lawful personal manager services by providing the downpayment
+on her home, paying the salary of her business manager, providing her
+with professional and personal advice, and paying her travel expenses.
+
+After obtaining a stay of the action, 
+Blasi filed a petition with the Labor Commissioner 
+alleging that Marathon had violated the Act 
+by soliciting and procuring employment for Blasi 
+without a talent agency license. 
+The Labor Commissioner agreed, 
+finding that Marathon had violated the Act 
+by providing talent agency services without a license, 
+including "procuring] work for [Blasi] as an actress
+on the &hellip; television series, *Strong Medicine."* 
+It voided the parties'contract *ab initio* and barred Marathon from recovery.
+
+Marathon appealed the Labor Commissioner's ruling 
+to the superior court for a trial de novo.&hellip; 
+It also amended its complaint 
+to include declaratory relief claims 
+challenging the constitutionality of the Act. 
+Marathon alleged that the Act's enforcement mechanisms, 
+including the sanction of invalidating the contracts of personal managers 
+that solicit or procure employment for artists without a talent agency license, 
+violated the managers' rights 
+under the due process, equal protection, and free speech guarantees 
+of the state and federal Constitutions.
+
+Blasi moved for summary judgment 
+on the theory that Marathon's licensing violation 
+had invalidated the entire personal management contract. 
+Blasi submitted excerpts from the Labor Commissioner hearing transcript 
+as evidence that Marathon had violated the Act 
+by soliciting or procuring employment for her without a talent agency license. 
+Blasi did not specifically argue or produce evidence 
+that Marathon had illegally procured the *Strong Medicine* employment contract.
+
+The trial court granted Blasi's motion for summary judgment 
+and invalidated Marathon's personal management contract 
+as an illegal contract for unlicensed talent agency services 
+in violation of the Act,
+denied Marathon's motion for summary adjudication of the Act's constitutionality, 
+and entered judgment for Blasi.
+
+The Court of Appeal reversed in part. 
+It agreed with the trial court that the Act applied to personal managers. 
+However, it concluded that under the law of severability of contracts &hellip; 
+because the parties' agreement had the lawful purpose 
+of providing personal management services that are unregulated by the Act, 
+and because Blasi had not established 
+that her *Strong Medicine* employment contract was procured illegally, 
+the possibility existed that Blasi's obligation 
+to pay Marathon a commission on that contract 
+could be severed from any unlawful parts of the parties' management agreement. 
+In reaching this conclusion, the Court of Appeal distinguished prior cases 
+that had voided management contracts in their entirety. 
+
+We granted review to address 
+the applicability of the Act to personal managers 
+and the availability of severance under the Act.
+
+### DISCUSSION
+
+### I. Background
+
+#### A. Agents and Managers
+
+In Hollywood, talent agents act as intermediaries 
+between the buyers and sellers of talent. 
+While formally artists are agents' clients, 
+in practice a talent agent's livelihood 
+depends on cultivating valuable connections 
+on both sides of the artistic labor market. 
+Generally speaking, an agent's focus is on the deal: 
+on negotiating numerous shortterm,
+project-specific engagements between buyers and sellers.
+
+Agents are effectively subject to regulation by the various guilds 
+that cover most of the talent available in the industry: 
+most notably, the Screen Actors Guild, 
+American Federation of Television and Radio Artists, 
+Directors Guild of America, Writers Guild of America, and
+American Federation of Musicians. 
+Artists may informally agree to use only agents
+who have been "franchised" by their respective guilds; 
+in turn, as a condition of franchising, 
+the guilds may require agents 
+to agree to a code of conduct and restrictions on terms included, 
+in agent-talent contracts. 
+Most significantly, those restrictions typically include 
+a cap on the commission charged (generally 10 percent), 
+a cap on contract duration, 
+and a bar on producing one's client's work 
+and obtaining a producer's fee.
+These restrictions create incentives to establish a high volume clientele, 
+offer more limited services, 
+and focus on those lower risk artists with established track records 
+who can more readily be marketed to talent buyers.
+
+Personal managers, in contrast, 
+are not franchised by the guilds. 
+They typically accept a higher risk clientele 
+and offer a much broader range of services, 
+focusing on advising and counseling each artist 
+with an eye to making the artist as marketable and attractive 
+to talent buyers as possible, 
+as well as managing the artist's personal and professional life 
+in a way that allows the artist to focus on creative productivity. 
+"Personal managers primarily advise, counsel, direct, 
+and coordinate the development of the artist's career. 
+They advise in both business and personal matters, 
+frequently lend money to young artists, 
+and serve as spokespersons for the artists." 
+Given this greater degree of involvement and risk, 
+managers typically have a smaller client base 
+and charge higher commissions than agents 
+(as they may, in the absence of guild price caps); 
+managers may also produce their clients' work 
+and thus receive compensation in that fashion.
+
+#### B. The Talent Agencies Act
+
+Aside from guild regulation, 
+the representation of artists is principally governed by the Act. (§§ 1700-1700.47.) 
+The Act's roots extend back to 1913, 
+when the Legislature passed the Private Employment Agencies Law 
+and imposed the first licensing requirements for employment agents. 
+From an early time, 
+the Legislature was concerned 
+that those representing aspiring artists might take advantage of them, 
+whether by concealing conflicts of interest 
+when agents split fees with the venues where they booked their clients, 
+or by sending clients to houses of ill-repute 
+under the guise of providing "employment opportunities." 
+(See Stats. 1913, ch. 282, § 14, pp. 519-520 [prohibiting agents from
+fee-splitting, sending artists to "house[s] of ill fame" or saloons, or
+allowing "persons of bad character" to frequent their establishments];
+*Talent Agencies Act,* at pp. 386-387) &hellip; 
+Exploitation of artists by representatives 
+has remained the Act's central concern 
+through subsequent incarnations to the present day. 
+
+In 1978, 
+the Legislature considered establishing 
+a separate licensing scheme for personal managers. &hellip; 
+Unable to reach agreement, the Legislature
+eventually abandoned separate licensing of personal managers and settled
+for minor changes in the statutory regime, shifting regulation of
+musician booking agents to the Labor Commissioner and renaming the
+Artists' Managers Act the Talent Agencies Act.&hellip; 
+
+In 1982, 
+the Legislature provisionally amended the Act 
+to impose a one-year statute of limitations, 
+eliminate criminal sanctions for violations of the Act, 
+and establish a "safe harbor" for managers to procure employment 
+if they did so in conjunction with a licensed agent.&hellip; 
+It subjected these
+changes to a sunset provision and established the 10-person California
+Entertainment Commission (Entertainment Commission), consisting of
+agents, managers, artists, and the Labor Commissioner, to evaluate the
+Act and "recommend to the Legislature a model bill." &hellip; 
+
+In 1986, after receiving the
+Entertainment Commission Report, 
+the Legislature adopted its recommendations, 
+which included making the 1982 changes permanent and
+enacting a modest series of other changes.&hellip; 
+So the Act has stood, with minor modifications, for the last 20 years.
+
+In its present incarnation, the Act requires anyone who solicits or
+procures artistic employment or engagements for **artists** to
+obtain a talent agency license. (§§ 1700.4, 1700.5.)
+
+> 'Artists' means actors and actresses rendering services on the legitimate stage and in the production of motion pictures, radio artists, musical artists, musical organizations, directors of legitimate stage, motion picture and radio productions, musical directors, writers, cinematographers, composers, lyricists, arrangers, models, and other artists and persons rendering professional services in motion picture, theatrical, radio, television and other entertainment enterprises. (§ 1700.4, subd. (b).) 
+
+In turn, the Act establishes detailed requirements 
+for how licensed talent agencies conduct their business, 
+including a code of conduct, 
+submission of contracts and fee schedules to the state, 
+maintenance of a client trust account, 
+posting of a bond, and prohibitions against discrimination,
+kickbacks, and certain conflicts of interest.&hellip; No
+separate analogous licensing or regulatory scheme extends to personal
+managers. [*Waisbren v. Peppercorn Productions, Inc.,*](http://scholar.google.com/scholar_case?case=823549855453847638). 
+
+With this background in mind, 
+we turn to two questions not previously addressed by this court: 
+whether the Act in fact applies to personal managers, 
+as the Courts of Appeal and Labor Commissioner have long assumed, and if so, how.
+
+### II. *The Scope of the Talent Agencies Act: Application to Managers*
+
+Marathon contends that personal managers 
+are categorically exempt from regulation under the Act. 
+We disagree; as we shall explain, 
+the text of the Act and persuasive interpretations of it by the Courts of Appeal and
+the Labor Commissioner demonstrate otherwise.
+
+We begin with the language of the Act.&hellip; 
+Section 1700.5 provides in relevant part: "No *person* shall engage in
+or carry on the occupation of a *talent agency* without first procuring
+a license therefor from the Labor Commissioner." (Italics added.) In
+turn, "person" is expressly defined to include "any individual, company,
+society, firm, partnership, association, corporation, limited liability
+company, *manager,* or their agents or employees" (§ 1700, italics
+added), and "'talent agency' means a person or corporation who
+engages in the occupation of procuring, offering, promising, or
+attempting to procure employment or engagements for an artist or
+artists" other than recording contracts (§ 1700.4, subd. (a)).
+
+The Act establishes its scope through a functional, not a titular,
+definition. It regulates *conduct,* not labels; it is the act of
+procuring (or soliciting), not the title of one's business, that
+qualifies one as a talent agency and subjects one to the Act's licensure
+and related requirements. (§ 1700.4, subd. (a).) Any person who procures
+employment—any individual, any corporation, any manager—is a talent
+agency subject to regulation.&hellip; 
+Consequently, as the Courts of Appeal have unanimously held, a personal
+manager who solicits or procures employment for his artist-client is
+subject to and must abide by the Act. [*Park v. Deftones,*](http://scholar.google.com/scholar_case?case=14383445149997334293); [*Waisbren v. Peppercorn Productions, Inc.](http://scholar.google.com/scholar_case?case=823549855453847638)&hellip;  
+The Labor Commissioner, whose interpretations of the
+Act we may look to for guidance &hellip; 
+has similarly uniformly applied the Act to personal managers. 
+
+As to the further question whether even a single act of procurement
+suffices to bring a manager under the Act, we note that the Act
+references the "occupation" of procuring employment and serving as a
+talent agency. (§§ 1700.4, subd. (a), 1700.5.) Considering this in
+isolation, one might interpret the statute as applying only to those who
+regularly, and not merely occasionally, procure employment. (See [*Wachs
+v. Curry*](http://scholar.google.com/scholar_case?case=5228204368502171794)
+(Act applies only when "the agent's employment procurement function
+constitutes a significant part of the agent's business as a whole").
+However, as we have previously acknowledged in dicta, "[t]he weight of
+authority is that even the incidental or occasional provision of such
+services requires licensure."&hellip; 
+
+In agreement with these decisions, the Labor Commissioner has
+uniformly interpreted the Act as extending to incidental procurement.&hellip; 
+accordingly, we likewise conclude the Act extends to individual
+incidents of procurement.
+
+Marathon offers two main arguments against the conclusion that it is
+subject to the Act whenever it solicits or procures employment. First,
+it objects that the Act's title and contents reference only talent
+agencies and thus only talent agencies may be regulated under the Act.&hellip; 
+Marathon reasons that (1) the Act's title omits reference to
+regulation of personal managers, and (2) to the extent it purports to
+regulate personal managers, it is thus void.
+
+This is a misreading of the constitutional provision and the 1978
+legislation. The single-subject rule is intended to prevent "log-rolling
+by the Legislature, i.e., combining several proposals in a single bill
+so that legislators, by combining their votes, obtain a majority for a
+measure which would not have been approved if divided into separate
+bills." &hellip; 
+
+Here, the 1978 legislation and its title satisfy the California
+Constitution. The legislation's provisions pertain to a single subject,
+the comprehensive regulation of persons and entities that provide talent
+agency services. The title, quoted in full in the margin, identifies
+that subject and specifically references the existing comprehensive
+regulations that are to be modified. The legislation
+defines talent agencies the see that engage in particular conduct; thus,
+to the extent personal managers engage in that conduct, they fit within
+the legislation's title and subject matter and may be regulated by its
+provisions.
+
+Second, Marathon correctly notes that in 1978, after much deliberation,
+the Legislature decided not to add separate licensing and regulation of
+personal managers to the legislation.&hellip; The consequence of this conscious omission is
+not, as Marathon contends, that personal managers are therefore exempt
+from regulation. Rather, they remain exempt from regulation insofar as
+they do those things that personal managers do, but they are regulated
+under the Act to the extent they stray into doing the things that make one a talent agency under the Act.
+
+> The Entertainment Commission articulated precisely this rationale in concluding there was no need to separately license personal managers: "It is not a person who is being licensed [under] the [Act;] rather, it is the activity of procuring employment. Whoever performs that activity is legally defined as a talent agent and [must be] licensed, as such. Therefore, the licensing of a personal manager—or anyone else who undertakes to procure employment for an artist—with the [Act] already in place would be a needless duplication of licensure activity."&hellip;  
+
+### III. *Sanctions for Solicitation and Procurement Under the Act*
+
+#### A. *Marathon's Procurement*
+
+We note we are not called on to decide, and do not decide, what
+precisely constitutes "procurement" under the Act. The Act contains no
+definition, and the Labor Commissioner has struggled over time
+to better delineate which actions involve mere general assistance to an
+artist's career and which stray across the line to illicit procurement.
+Here, however, the Labor Commissioner concluded Marathon had engaged in
+various instances of procurement, the trial court concluded there was no
+material dispute that Marathon had done so, and Marathon has not further
+challenged that conclusion. We thus take it as a given that Marathon has
+engaged in one or more acts of procurement and that (as the parties also
+agree) Marathon has no talent agency license to do so.
+
+We also take as a given, at least at this stage, that Marathon's
+unlicensed procurement did not include the procurement specifically of
+Blasi's *Strong Medicine* role. Blasi takes issue with this point,
+correctly pointing out that the Labor Commissioner found to the
+contrary, but (1) under the Act's statutorily guaranteed trial de novo
+procedure, the Labor Commissioner's findings carry no weight &hellip; 
+and (2) neither Blasi's separate statement of undisputed material facts
+nor the evidence supporting it establish that Marathon procured the
+*Strong Medicine* role. Thus, for present purposes we presume Marathon
+did not procure that role for Blasi.
+
+Finally, although Marathon argued below that it fell within section
+1700.44, subdivision (d)'s "safe harbor" for procurement done in
+conjunction with a licensed talent agency, it has not preserved that
+argument here. Accordingly, we assume for present purposes that the safe
+harbor provision does not apply.
+
+#### B. *The Applicability of the Doctrine of Severability to Manager-talent Contracts*
+
+We turn to the key question in Blasi's appeal: What is the artist's
+remedy for a violation of the Act? In particular, when a manager has
+engaged in unlawful procurement, is the manager always barred from any
+recovery of outstanding fees from the artist or may the court or Labor
+Commissioner apply the doctrine of severability (Civ-Code, § 1599) to
+allow partial recovery of fees owed for legally provided services?
+
+Again, we begin with the language of the Act. On this question, it
+offers no assistance. The Act is silent—completely silent—on the subject
+of the proper remedy for illegal procurement.
+
+On the other hand, the text of Civil Code section 1599 is clear. Adopted
+in 1872, it codifies the common law doctrine of severability of
+contracts: "Where a contract has several distinct objects, of which one
+at least is lawful, and one at least is unlawful, in whole or in part,
+the contract is void as to the latter and valid as to the rest."
+*(Ibid.)* By its terms, it applies even—indeed, only—when the parties
+have contracted, in part, for something illegal. Notwithstanding any
+such illegality, it preserves and enforces any lawful portion of a
+parties' contract that feasibly may be severed.
+
+Under ordinary rules of interpretation, we must read Civil Code section
+1599 and the Act so as to, to the extent possible, give effect to both.&hellip; 
+The two are not in conflict. The Act defines conduct, and hence
+contractual arrangements, that are illegal: An unlicensed talent agency
+may not contract with talent to provide procurement services.&hellip; The Act provides no remedy for its
+violation, but neither does it repudiate the generally applicable and
+long-standing rule of severability. Hence, that rule applies absent
+other persuasive evidence that the Legislature intended to reject the
+rule in disputes under the Act.
+
+The conclusion that the rule applies is consistent with those of the
+Labor Commissioner's decisions that recognize severability principles
+may apply to disputes under the Act. In *Almendarez v. Unico Talent
+Management, Inc.* (Cal.Lab.Com., Aug. 26, 1999) TAC No. 55-97, a radio
+personality sought a determination that his personal manager had acted
+as an unlicensed talent agency. The Labor Commissioner concluded the
+manager had engaged in unlawful procurement—indeed, that procuring
+employment was the manager's primary role *(id.* at pp. 2, 14)—but
+stopped short of voiding all agreements between the parties in their
+entirety. Citing and applying Civil Code section 1599, the Labor
+Commissioner concluded that a 1997 agreement between the parties had
+both a lawful purpose (repayment of personal expenses the manager had
+fronted for Almendarez) and an unlawful purpose (payment of commissions
+for unlawful procurement services) and should be partially enforced.
+*(Almendarez,* at pp. 18-21.) On numerous other occasions, the Labor
+Commissioner has severed contracts and allowed managers to retain or
+seek commissions based on severability principles without expressly
+citing Civil Code section 1599.
+
+Until two years ago, Court of Appeal decisions under the Act had neither
+accepted nor repudiated the general applicability of the severability
+doctrine. In 2005, in [*Yoo v. Robi*](http://scholar.google.com/scholar_case?case=11022283380362174735) however, the Court of Appeal considered whether to apply Civil
+Code section 1599 to allow a personal manager to seek commissions for
+lawfully provided services. It noted, correctly, that severance is not
+mandatory and its application in an individual case must be informed by
+equitable considerations.&hellip; 
+Civil Code section 1599 grants courts the power, not the duty, to sever
+contracts in order to avoid an inequitable windfall or preserve a
+contractual relationship where doing so would not condone illegality.&hellip; 
+The *Yoo* Court of Appeal concluded the windfall for the artist, Robi,
+was not so great as to warrant severance.
+
+In [*Chiba v. Greenwald*](http://scholar.google.com/scholar_case?case=15640680622862336180)
+the Court of Appeal also considered whether severance was available for
+an unlicensed manager/agent who in that case alleged she had had a
+*Marvin* agreement with her deceased musician
+client/partner. Acknowledging she had acted without a license, the
+manager relinquished any claim to commissions, and the Court of Appeal
+thus was not presented with the question whether severance might apply
+to any management services that required no license. In light of the
+facts as' pleaded, the Court of Appeal concluded equity did not require
+severance of any lawful portions of the *Marvin* agreement from the
+unlawful agreement to provide unlicensed talent agency services.&hellip; 
+
+Neither *Chiba* nor *Yoo v. Robi* 
+stands for the proposition that severance is never available under the
+Act. In contrast, the Court of Appeal here expressly concluded, as we
+do, that it is available.
+
+More generally, the conclusion that severance is available is consistent
+with a wide range of cases that have applied the doctrine to partially
+enforce contracts involving unlicensed services.&hellip;  
+
+Blasi contends that even if severability may generally apply to disputes
+under the Act, we should announce a rule categorically precluding its
+use to recover for artist advice and counseling services. She relies on
+three sources in support of this rule: the legislative history, case law
+interpreting the Act, and decisions of the Labor Commissioner. None
+persuades us that the Legislature intended to foreclose the application
+of severability, as codified in Civil Code sections 1598 and 1599, to
+manager-talent contracts that involve illegal procurement, either
+generally or with regard to recovery specifically for personal manager
+services.
+
+For legislative history, Blasi relies on a portion of the Entertainment
+Commission's 1985 report to the Legislature. Addressing whether criminal
+sanctions for violations of the Act, temporarily suspended in 1982,
+should be reinstated, the Entertainment Commission said: "The majority
+of the Commission believes that existing civil remedies, which are
+available by legal action in the civil courts, to anyone who has been
+injured by breach of the Act, are sufficient to serve the purposes of
+deterring violations of the Act and punishing breaches. These remedies
+include actions for breach of contract, fraud and misrepresentation,
+breach of fiduciary duty, interference with business opportunity,
+defamation, infliction of emotional distress, and the like. *Perhaps the
+most effective weapon for assuring compliance with the Act is the power
+of the Labor Commissioner, at a hearing on a Petition to Determine
+Controversy, to find that a personal manager or anyone has acted as an
+unlicensed talent agent and, having so found, declare any contract
+entered into between the parties void from the inception and order the
+restitution to the artist, for the period of the statute of limitations,
+of all fees paid by the artist and the forfeiture of all expenses
+advanced to the artist. If no fees have been paid, the Labor
+Commissioner is empowered to declare that no fees are due and owing,
+regardless of the services which the unlicensed talent agent may have
+performed on behalf of the artist.* [¶] These civil and administrative
+remedies for violation of the Act continue to be available and should
+serve adequately to assure compliance with the Act." (Entertainment Com.
+Rep., *supra,* at pp. 17-18.) According to Blasi, this passage
+demonstrates the Entertainment Commission endorsed voiding of contracts
+in all instances, and the Legislature necessarily embraced this view
+because it adopted all of the commission's proposals when it amended the
+Act in 1986.
+
+We are not persuaded. The passage acknowledges what all parties
+recognize— that the Labor Commissioner has the "power" to void
+contracts, that she is "empowered" to deny all recovery for services
+where the Act has been violated, and that these remedies are
+"available." But the *power* to so rule does not suggest a *duty* to do
+so in all instances. The Labor Commissioner is empowered to
+void contracts in their entirety, but nothing in the Entertainment
+Commission's description of the available remedies suggests she is
+obligated to do so, or that the Labor Commissioner's power is untempered
+by the ability to apply equitable doctrines such as severance to achieve
+a more measured and appropriate remedy where the facts so warrant. Thus,
+we need not consider at length Blasi's further contention that these two
+paragraphs in the Entertainment Commission Report accurately reflect the
+views of the Legislature as a whole. Even if so, they do not connote an
+intent that managers in proceedings under the Act be deprived of the
+opportunity even to raise severability.
+
+Second, Blasi relies on those Court of Appeal decisions that have voided
+manager-talent contracts in their entirety. (e.g., [*Chiba v. Greenwald supra*](http://scholar.google.com/scholar_case?case=15640680622862336180)
+[*Yoo v. Robi supra*](http://scholar.google.com/scholar_case?case=11022283380362174735)
+[*Park v. Deftones, supra,*](http://scholar.google.com/scholar_case?case=14383445149997334293)
+[*Waisbren v. Peppercorn Productions, Inc., supra,*](http://scholar.google.com/scholar_case?case=823549855453847638) 
+With the exception of *Chiba* and *Yoo,* discussed above, however, the
+decisions do not touch on when or whether the doctrine of severability
+should apply under the Act; as such, they offer no persuasive arguments
+in favor of reading the Act as precluding application of Civil Code
+section 1599.
+
+Finally, Blasi relies on a long line of Labor Commissioner decisions
+that have denied personal managers any right to recover commissions
+where they engaged in unlicensed solicitation or procurement.&hellip; 
+But the fact this remedy is often,
+or even *almost* always, appropriate, does not support the position that
+it is *always* proper. The Labor Commissioner decisions cited above &hellip; suggest the Labor Commissioner historically has
+recognized she has the authority to allow partial recovery in
+appropriate circumstances.
+
+We recognize, however, that in more recent decisions, the Labor
+Commissioner has expressly adopted the position Blasi advocates:
+severance is never available to permit partial recovery of commissions
+for managerial services that required no talent agency license.&hellip; 
+The weight accorded agency adjudicatory
+rulings such as these varies according to the validity of their
+reasoning and their overall persuasive force.&hellip; 
+
+Here, the Labor Commissioner's views rest in part on a reading of the
+legislative history as suggesting such a rule, in part on a reading of
+past Court of Appeal decisions as announcing such a rule, and perhaps in
+part on a policy judgment that voiding contracts in their entirety is
+necessary to enforce the Act effectively. With due respect, the Labor
+Commissioner's assessment of the legislative history and case law is
+mistaken; as we have explained, neither requires the rule she proposes.'
+And any view that it would be better policy if the Act stripped the
+Labor Commissioner (and the superior courts in subsequent
+trials de novo) of the power to apply equitable doctrines such as
+severance would be squarely at odds with the Act's text, which contains
+no such limitation. Neither we nor the Labor Commissioner are authorized
+to engraft onto the Act such a limitation neither express nor implicit
+in its terms. We are thus unpersuaded and decline to follow the Labor
+Commissioner's interpretation.
+
+In sum, the Legislature has not seen fit to specify the remedy for
+violations of the Act. Ordinary rules of interpretation suggest Civil
+Code section 1599 applies fully to disputes under the Act; nothing in
+the Act's text, its history, or the decisions interpreting it justifies
+the opposite conclusion. We conclude the full voiding of the parties'
+contract is available, but not mandatory; likewise, severance is
+available, but not mandatory.
+
+## C. *Application of the Severability Doctrine*
+
+Finally, we turn to application of the severability doctrine to the
+facts of this case, insofar as those facts are established by the
+summary judgment record. Given the procedural posture, our inquiry is
+narrow: On this record, has Blasi established as a matter of law that
+there is no basis for severance?
+
+In deciding whether severance is available, we have explained "[t]he
+overarching inquiry is whether \`"the interests of justice ... would be
+furthered"' by severance." &hellip; "Courts are to look to the various purposes of the contract. If the
+central purpose of the contract is tainted with illegality, then the
+contract as a whole cannot be enforced. If the illegality is collateral
+to the main purpose of the contract, and the illegal provision can be
+extirpated from the contract by means of severance or restriction, then
+such severance and restriction are appropriate."&hellip; 
+
+Blasi does not contend that particular evidence in the record unique to
+this contract establishes severance cannot apply. Instead, she offers
+two arguments applicable to this contract and to manager-talent
+contracts in general.
+
+First, Blasi points to the nature of the compensation. In the
+Marathon-Blasi contract, as with most such contracts, there is no match
+between services and compensation. That is, a personal manager provides
+an undifferentiated range of services; in exchange, he receives an
+undifferentiated right to a certain percentage of the client's income
+stream.
+
+This compensation scheme is essentially analogous to a contingency fee
+arrangement, in which an attorney provides an undifferentiated set of
+services and is compensated not for each service but as a percentage of
+the ultimate recovery her efforts yield for her client.&hellip;  
+
+While an undifferentiated compensation scheme may in some instances
+preclude severance &hellip; it does not represent a categorical
+obstacle to application of the doctrine.
+Accordingly, we may not affirm summary judgment on this basis.
+
+Second, Blasi argues that once a personal manager solicits or procures
+employment, all his services—advice, counseling, and the like—become
+those of an unlicensed talent agency and are thus uncompensable. We are
+not persuaded. In this regard, the conduct-driven definitions of the Act
+cut both ways. A personal manager who spends 99 percent of his time
+engaged in counseling a client and organizing the client's affairs is
+not insulated from the Act's strictures if he spends 1 percent of his
+time procuring or soliciting; conversely, however, the 1 percent of the
+time he spends soliciting and procuring does not thereby render illegal
+the 99 percent of the time spent in conduct that requires no license and
+that may involve a level of personal service and attention far beyond
+what a talent agency might have time to provide. Courts are empowered
+under the severability doctrine to consider the central purposes of a
+contract; if they determine in a given instance that the parties
+intended for the representative to function as an unlicensed talent
+agency or that the representative engaged in substantial procurement
+activities that are inseparable from managerial services, they may void
+the entire contract. For the personal manager who truly acts as a
+personal manager, however, an isolated instance of procurement does not
+automatically bar recovery for services that could lawfully be provided
+without a license.&hellip; 
+
+Inevitably, no verbal formulation can precisely capture the full
+contours of the range of cases in which severability properly should be
+applied, or rejected. The doctrine is equitable and fact specific, and
+its application is appropriately directed to the sound discretion of the
+Labor Commissioner and trial courts in the first instance. As the
+Legislature has not seen fit to preclude categorically this case-by-case
+consideration of the doctrine in disputes under the Act, we may not do
+so either.
+
+In closing, we note one final point apparent from the briefing and oral
+argument. Letters and briefs submitted by personal managers indicate a
+uniform dissatisfaction with the Act's application. At oral argument,
+counsel for Blasi likewise agreed that the Legislature might profitably
+consider revisiting the Act. The Legislature has in the past expressed
+dissatisfaction with the Act's enforcement scheme.&hellip; Adopted with the best of intentions, the Act
+and guild regulations aimed at protecting artists evidently have
+resulted in a limited pool of licensed talent agencies and, in
+combination with high demand for talent agency services, created the
+right conditions for a black market for unlicensed talent agency
+services.&hellip; (The Labor Commissioner believes unlicensed talent agencies outstrip
+licensed talent agencies two to one.) In the event of any abuses by
+unlicensed talent agencies, the principal recourse for talent is to
+raise unlawful procurement as a defense against collection of
+commissions, but this is a blunt and unwieldy instrument. It is of
+little use to unestablished artists, who it appears may legitimately
+fear blacklisting &hellip; and may well punish most severely those managers who work hardest
+and advocate most successfully for their clients, allowing the clients
+to establish themselves, make themselves marketable to licensed talent
+agencies, and be in a position to turn and renege on commissions &hellip; 
+
+We, of course, have no authority to rewrite the regulatory scheme. In
+the end, whether the present state of affairs is satisfactory is for the
+Legislature to decide, and we leave that question to the Legislature's
+considered judgment.
+
+## Disposition
+
+For the foregoing reasons, we affirm the Court of Appeal's judgment and
+remand this case for further proceedings consistent with this opinion.
+
+### *Wachs v. Curry,* (Cal.Ct.App.2d 1993).
 
 * [*Wachs v. Curry,*][wachs] 16 Cal.Rptr.2d 496 (Cal.Ct.App.2d 1993).
 
-Actor and talk-show host [Arsenio Hall](http://en.wikipedia.org/wiki/Arsenio_Hall) sued his former manager, Robert Wachs (a lawyer) of X Corporation, accusing Wachs of trying to "procure empoyment" for Arsenio even though manager Wachs was not licensed as an agent under the California Talent Agency Act. 
+*Marathon v. Blasi* essentially abrogated the ruling in what was until that time the leading case, *Wachs v. Curry.* In *Wachs* actor and talk-show host [Arsenio Hall](http://en.wikipedia.org/wiki/Arsenio_Hall) sued his former manager, Robert Wachs (a lawyer) of X Corporation, accusing Wachs of trying to "procure empoyment" for Arsenio even though manager Wachs was not licensed as an agent under the California Talent Agency Act. 
 
 The California Labor Commissioner ruled that Wachs had been involved in the
 occupation of procuring employment for Hall. Commissioner ordered that X Management reimburse Hall for $2.2 million in fees they had been paid for Hall's role in *The Arsenio Hall
@@ -191,8 +968,11 @@ Manager Robert Wachs sued the Labor Commissioner and made the following argument
 * The California legislature has "no rational basis" for exempting the recording industry from the provisions of the TAA. 
 * The TAA is unconstitutionally VAGUE. How does a manager know when he or she is *procuring* employment?
 
-The court ruled in favor of Arsenio. The court said that the provision exempting the procurement of recording contracts from the Act was rational and should be retained because entertainers
-in the recording industry tend to have *personal managers* conduct
+The court ruled in favor of Arsenio. 
+The court said that the provision 
+exempting the procurement of recording contracts from the Act was rational 
+and should be retained because entertainers in the recording industry 
+tend to have *personal managers* conduct
 many of the negotiations for recording contracts – *they conduct a
 wide array of activities.* And in the recording industry, the ambiguities and
 intangibles of the acitivites performed by a personal manager create
@@ -213,11 +993,12 @@ Effect of *Wachs v. Curry*:
 1. Upheld constitutionality of the Talent Agencies Act;
 2. Limited the scope of the Act by confining the licensing requirement to those for whom the employment procurement function constitutes a significant part of the agent's business as a whole. 
 
+But as *Marathon* indicates prong two is no longer the law in California. Managers can get in trouble by soliciting or procuring employment for the clients, even if those activities constitute but a small portion of their overall business. All *Marathon* allows is the possibility of severance, i.e., that the court will allow the manager to charge for "legal" portions of the representation provided and sever the illegal ones.
+
 - [California's Talent Agencies Act: Don't Procure Employment Without A License](http://www.agentassociation.com/frontdoor/news_detail.cfm?id=306) 
+* For more information, see: [How to obtain a California Talent Agency License](http://www.dir.ca.gov/dlse/talent_agency_license.html).
 
-For more information, see: [How to obtain a California Talent Agency License](http://www.dir.ca.gov/dlse/talent_agency_license.html).
-
-##### Music Industry Exception
+### Music Industry Exception
 
 Notice that California's regulation of agents contains an exception under the TAA for managers working in the music business: 
 
@@ -229,1450 +1010,428 @@ But the *Wachs* court explained the music-manager exception this way:
 
 > A recording contract is an employment contract of a different nature from those in common usage in the industry involving personal services. The purpose of the contract is to produce a permanent and repayable showcase of the talents of the artist. In the recording industry, many successful artists retain personal managers to act as their intermediaries, and negotiations for a recording contract are commonly conducted by a personal manager, not a talent agent. Personal managers frequently contribute financial support for the living and business expenses of entertainers. They may act as a conduit between the artist and the recording company, offering suggestions about the use of the artist or the level of effort which the recording company is expending on behalf of the artist . . . . However, the problems of attempting to license or otherwise regulate this activity arise from the ambiguities, intangibles and imprecisions of the activity . . . . The majority of the Commission concluded that the industry would be best served by resolving these ambiguities on the side of preserving the exemption of this activity from the requirements of licensure." . . . . On the commission's recommendation, the exemption for those who procure recording contracts became permanent. 
 
-> [*Wachs v. Curry,*](http://scholar.google.co.uk/scholar_case?case=5228204368502171794) )Cal.Ct.App. 1993).
+> [*Wachs v. Curry,*](http://scholar.google.co.uk/scholar_case?case=5228204368502171794) (Cal.Ct.App. 1993).
 
 Many Hollywood talent managers don't buy this distinction and the regulations remain extremely controversial. *See, e.g.:*
 
 * [Actors Union Introduces Voluntary Regulation of Talent Managers](http://www.hollywoodreporter.com/thr-esq/sag-aftra-introduces-voluntary-regulation-685773)
 * [Did the California Labor Commissioner Just Shake Up the Music Industry?](http://www.hollywoodreporter.com/thr-esq/did-california-labor-commissioner-just-724960)
 
-### Entertainment Unions & Talent Guilds
+## Conflicts of Interest:
 
-How do they work? Advantages and disadvantages of membership. How to use their Minimum Basic Agreements for protection even if you aren’t a member.
+## Croce v. Kurnit
 
-### Footnote/Reference Cases 
-
-#### New York's Employment Agent Regulation
-
-* [*Mandel v. Liebman,*][mandel] 100 NE.2d 149 (NY.Ct.App. 1951).
-
-#### California's Talent Agencies Act
-
-* [*Raden v. Laurie,*][raden] 262 P.2d 61 (Cal.Ct.App.2d 1953).
-
-#### Conflicts of Interest:
+###### United States District Court (S.D.N.Y. 1982)
 
 * [*Croce v. Kurnit,*][croce] 565 F.Supp. 884 (SDNY 1982).
+* [case on Google Scholar](http://scholar.google.com/scholar_case?case=5414204845858812282)
 
-#### Gary Shandling v. Brad Grey
+### OPINION
+
+SWEET, District Judge.
+
+This diversity action, a portion of which was tried to the court,
+presented facts which evoked memories of "A Star Is Born," except that
+the star in this case, James Croce, died all too soon after his
+ascendancy. The complaint filed by Ingrid Croce, his widow and heir
+("Mrs. Croce"), a California resident, sought to obtain certain damages
+from the defendants, citizens of states other than California, arising
+out of an alleged breach of certain contracts as well as rescission of
+the contracts on the ground of fraud, and breach of fiduciary duty. On
+the findings and conclusions set forth below, judgment will be granted
+to the defendants dismissing the claims of unconscionability and breach
+of fiduciary duty against Cashman and West and granting Croce's breach
+of fiduciary claim against Kurnit. The defendants' motion for judgment
+notwithstanding the verdict is denied.&hellip; 
+
+#### *Findings of Fact*
+
+James Joseph Croce ("Jim Croce") was born in 1943 and in the course of
+his schooling attended Villanova University. There he met Ingrid, who
+subsequently became his wife, and also Tommy West, who became both his
+friend and, as it developed, a business associate. During the college
+years Jim Croce sang, played guitar and wrote songs, as did West.
+
+After graduation from college, Jim Croce sought to shape a career out of
+his interest in music, played and sang in coffee houses, and developed
+both his own style and his own music. He managed to produce a record
+album entitled *Facets* containing certain of his songs which he
+performed. He sent the album to Tommy and sought to interest the latter
+in his work.
+
+West in the meantime also developed a career in music, producing,
+singing and playing for commercials. He had met Cashman with whom he
+collaborated as well as Kurnit, an attorney who had been working at ABC
+Records, Inc. By 1968 all three, West, Cashman and Kurnit were at CBS,
+Cashman, West in the music department and Kurnit serving in the legal
+department. The two musicians together with Eugene Pistilli ("Pistilli")
+decided to enter the record business on their own and set up CP & W for
+that purpose. Kurnit was also a participant in the enterprise.
+
+In the summer of 1968, while Kurnit was still at CBS, Jim and Ingrid
+Croce arrived in New York, stayed with West, and met Kurnit, who was
+introduced to them as "the lawyer." West and the Croces discussed the
+possibility of CP & W producing a record by Jim Croce. The outlines of
+the contractual arrangements were discussed, the Croces returned to
+Pennsylvania and according to West, proposed contracts were taken to
+them after their trip to New York and before their return to New York on
+September 17, 1968. Whether or not that occurred (Mrs. Croce maintains
+it did not), the Croces did not conduct any meaningful review of the
+contract until September 17, 1968.
+
+On that date the Croces were in New York again, staying with the Wests.
+They met Kurnit for the second time. He outlined the contract terms to
+them in a two to three hour meeting. According to Kurnit, there was no
+negotiation although a minor change in the proposed contract was made.
+The Croces signed three agreements, a recording contract with CP & W, a
+publishing contract with Blendingwell and a personal management contract
+also with Blendingwell ("the contracts"). The Croces were unrepresented,
+and they were not advised to obtain counsel by Kurnit who signed the
+contracts on behalf of the corporate entities. Kurnit was known to the
+Croces to be a participant with Cashman, Pistilli and West in their
+enterprises. The Croces did not enter into any retainer agreement with
+Kurnit, were never billed by him in connection with the contracts, and
+aside from the meeting of September 17, received no advice from him
+concerning the contracts.
+
+The contracts that were executed on September 17, 1968 provided that
+Croce would perform and record exclusively for CP & W, as well as the
+terms under which all the Croce's songs would be published and
+managerial services would be provided for the Croces. The contracts
+placed no affirmative requirements on the defendants other than to pay
+each of the Croces approximately $600 a year and to make certain
+royalty payments in the event that music or records were sold. The
+duration of the contracts was seven years if options to extend were
+exercised by the defendants. All rights to the Croces' musical
+performances and writings were granted to the defendants. The management
+contract was assignable.
+
+The expert testimony offered by Mrs. Croce focused on the effect of the
+assignability of the management contract, the lack of any objective
+threshold to be achieved before the exercise of options, and the
+interrelationship  of
+the three contracts. In addition other significant provisions were cited
+as being unfavorable to the Croces which would have been the subject of
+negotiation had the Croces in September, 1968 been represented by the
+expert retained in 1982. These included the term of the contracts, the
+royalty rate and its escalation, a revision of the copyrights, a minimum
+recording sides obligation, and the time for making objections to
+royalty statements.
+
+However, certain of the provisions which were under attack were also
+contained in the forms published by various organizations involved in
+the entertainment industry, and there was no evidence presented in this
+action, meticulously prepared by able counsel on both sides, which
+established that the terms of these contracts differed significantly
+from others prepared by Kurnit on behalf of the defendants. These
+contracts include many terms of art and are customarily the subject of
+hard bargaining in the event that the artist and the producer both have
+established economic power. Here, however, no significant changes were
+made in the contracts as initially proposed by Kurnit on behalf of the
+other defendants.
+
+After the contracts were executed, the parties undertook their
+performance. In the summer of 1969 the recording contract was assigned
+to Interrobang Productions, Inc. ("Interrobang"), as was the management
+contract a year later. Cashwest is the successor in interest to
+Interrobang. The management contract was assigned to Showcase
+Management, a company in which CP & W had an interest, a demonstration
+record was prepared (a "demo") and thereafter Capital Records undertook
+to produce a Croce recording under the direction of Nick Vanet. This
+recording was published in the spring of 1969 and after its publication,
+Jim Croce worked hard to promote it. By the winter of 1969-70 it was
+apparent the album was a failure, and Jim turned to other pursuits.
+
+In the fall of 1968 Kurnit represented the Croces in connection with a
+lease. In April, 1969 Kurnit listed his firm as the party to whom all
+ASCAP correspondence for Croce should be sent. In January, 1970 Kurnit
+executed a document as attorney in fact for the Croces and also was
+involved in the dispute between the Croces and their then manager.
+
+Notwithstanding, on March 19, 1970 Jim and Ingrid, unhappy with the
+management with which they had been provided, sought legal advice with
+respect to breaking the contracts. They retained Robert Cushman
+("Cushman") of Pepper, Hamilton & Schatz in Philadelphia. On June 9,
+1970 Croce wrote to Kurnit seeking to terminate the contracts and
+advising him that "Ingrid and I are getting out of music." In the summer
+of 1970, Cushman met with Kurnit and discussed the grievances which the
+Croces had expressed to him, supported at one point by a statement of
+Pistilli which, according to Cushman, established that the Croces had
+been defrauded. Some revisions and amendments to the contracts were
+discussed.
+
+In December 1970 Ingrid became pregnant, and Jim returned to songwriting
+and performing. Thereafter, he sent material to West who expressed
+interest and delight. Cushman requested a further retainer to pursue the
+revision or cancellation of the contracts and never heard again from
+either of the Croces.
+
+In the early part of 1971 West and Cashman worked with Croce and
+prepared a demo. With Kurnit's help, they sold the idea of its
+production to ABC, interested an established management agency in Croce
+with the result that Interrobang delegated its management contract for
+Croce to BNB Associates, Ltd. ("BNB") in September 1971. Once the
+relationship with the defendants resumed in 1971, Kurnit represented the
+Croces on various matters. After the summer of 1971 and the birth of his
+son in September, Jim's career began to move. His work was well received
+and in April 1972, ABC records contracted to manufacture, distribute and
+sell Croce records. Jim was on the road late in 1971 and 1972 promoting
+and performing. His career sky-rocketed and until September 20, 1973 the
+future appeared halcyon for all concerned. During 1972 Kurnit
+represented Croce on matters other than the contracts.
+
+On September 20, 1973,
+after a concert in Louisiana, Croce took off in a private plane. The
+plane crashed in a thunderstorm, and Croce was killed.
+
+Very shortly thereafter Kurnit visited Mrs. Croce and offered to
+represent the estate and to take care of the wrongful death action
+arising from the crash. On September 26, 1973, Kurnit became the
+attorney for the Estate and Mrs. Croce. In connection with the wrongful
+death action, Kurnit later stated on the form filed with the Appellate
+Division on October 4, 1973:
+
+> "Ingrid Croce, and her deceased husband, James J. Croce, have been my
+> clients since 1968. I have been their personal attorney in a majority
+> of their legal matters."
+
+Kurnit served as counsel to the estate from September 26, 1973 until
+June 24, 1976. During the spring of 1976 Kurnit, on behalf of the
+defendants, had consulted Donnenfeld and Brent, a Los Angeles law firm,
+with respect to a movie proposal. Thereafter, at his request on June 24,
+1976 that firm was substituted for him as counsel for the estate.
+
+In 1975, Mrs. Croce remarried and in the company of her husband
+discussed with Kurnit the use of certain material which had not been the
+subject of the contracts. These discussions, involving what the parties
+have termed "the estate sides," were the subject of the contract issues
+concerning the publication of "The Faces I Have Been" album resolved by
+the jury's Special Verdict. During these discussions Kurnit represented
+CP & W and after the initial discussion, Mrs. Croce retained Ivan
+Hoffman, an attorney, to represent her. Hoffman and Kurnit exchanged
+correspondence, drafts and telephone calls. There is no evidence that
+Hoffman was consulted about the contracts or Mrs. Croce's rights which
+resulted from the contracts.
+
+However, in November 1975 Mrs. Croce retained Howard Thaler to represent
+her on a number of matters unrelated to the contracts. At his
+deposition, Thaler invoked the attorney/client privilege when questioned
+about his discussions with Mrs. Croce about the contracts. Thaler's
+invocation of the privilege may imply that Thaler has information
+against Mrs. Croce's interests in this action. However, even assuming
+that this inference is permitted, Kurnit has failed to establish the
+date on which Mrs. Croce conferred with Thaler concerning the contracts
+prior to June 10, 1976.
+
+On that day Thaler met with Donnenfeld and some discussion was had
+concerning Mrs. Croce's rights under the contracts. Mrs. Croce was
+advised that since the Estate had been referred to them by Kurnit, a
+conflict of interest existed which precluded their initiating any claim
+against Kurnit. It was pointed out, however, that since the Estate was
+shortly to be terminated, Mrs. Croce would thereafter initiate any
+action she felt appropriate. Obviously these issues had been discussed
+between Mrs. Croce and Thaler prior to June 10, 1976 but Kurnit has not
+sustained his burden of proof to establish an earlier date to end the
+toll of the statute of limitations as discussed below.
+
+The Estate was closed on September 27, 1977 and this action was
+initiated on July 21, 1978.
+
+During the period from 1968 to date the defendants received
+approximately \$6.9 million as a consequence of the performance of the
+contracts. The recording and entertainment career of Croce is not
+atypical, representing as it does, initially a famine, and ultimately a
+feast. No expert who testified claimed the prescience to determine in
+advance what records the public will buy or in what amount. Though the
+returns on a successful record are unbelievably high, the risk of
+initial failure is also high. Judgment, taste, skill and luck far
+outweigh the time spent or the capital expended on any particular
+recording.
+
+It is on these facts that Mrs. Croce's claims of unconscionability and
+breach of  fiduciary
+duty, must be resolved, as well as the defendants' affirmative defenses
+of the statute of limitations and election of remedies. The claim of
+fraud has not been pressed by Mrs. Croce, and indeed there is no proof
+of misrepresentation, falsity or reliance except in connection with the
+fiduciary duty claims.
+
+#### 1. *Representation by Kurnit*
+
+The claims of breach of fiduciary duty and procedural unconscionability
+are based on the role and actions of Kurnit at the signing and during
+the performance of the contracts. Indeed, the nature of Kurnit's
+relationship with the Croces determines whether this action is barred by
+the statute of limitations. Therefore, this court will assess the
+September 17, 1968 transaction before proceeding to the merits of each
+claim.
+
+Mrs. Croce asserts that after Kurnit had been introduced to the Croces
+on a prior occasion as "the lawyer," Kurnit acted as the Croces'
+attorney at the signing of the contracts or in such a manner as to lead
+the Croces to reasonably believe that they could rely on his advice. The
+Croces were aware of the fact that Kurnit was an officer, director and
+shareholder of Blendingwell and Cashwest on whose behalf Kurnit signed
+the contracts.
+
+In light of the facts set forth above, Kurnit did not act as the Croces'
+attorney at the signing of the contracts. Even in the absence of an
+express attorney-client relationship, however, a lawyer may owe a
+fiduciary obligation to persons with whom he deals.&hellip; 
+In particular, a fiduciary duty arises when a lawyer deals with persons
+who, although not strictly his clients, he has or should have reason to
+believe rely on him.&hellip;  Kurnit's introduction as "the
+lawyer," his explanation to the Croces of the "legal ramifications" of
+the contracts which contained a number of legal terms and concepts, his
+interest as a principal in the transactions, his failure to advise the
+Croces to obtain outside counsel, and the Croces lack of independent
+representation taken together establish both a fiduciary duty on the
+part of Kurnit and a breach of that duty.&hellip; 
+
+Although I conclude that Kurnit did
+not act as counsel to the Croces before September, 1968, the events
+surrounding the execution of the contracts, in particular his failure to
+advise the Croces to obtain counsel, establish the applicability of
+[*Howard v.Murray*](http://scholar.google.com/scholar_case?case=17722836153500270409)
+in determining the obligations of Kurnit.
+
+ Moreover, the limits
+of the fiduciary relationship as defined in [*Penato v. George,*](http://scholar.google.com/scholar_case?case=6419292213404249553)
+apply. The court there realized that the
+
+> exact limits of such a relationship are impossible of statement.&hellip; Broadly stated, a
+> fiduciary relationship is one founded upon trust or confidence reposed
+> by one person in the integrity and fidelity of another. It is said
+> that the relationship exists in all cases in which influence has been
+> acquired and abused, in which confidence has been reposed and
+> betrayed. The rule embraces both technical fiduciary relations and
+> those informal relations which exist whenever one man trusts in, and
+> relies upon, another.
+
+[383 N.Y.S.2d at
+904-95](http://scholar.google.com/scholar_case?case=6419292213404249553).
+(citations omitted).
+
+This definition of a fiduciary duty applies not only to Kurnit's
+relationship but also on the facts of this case to West and Cashman, in
+whom the Croces placed their trust. 
+
+Before further addressing Mrs.
+Croce's breach of fiduciary duty allegations, however, the defendants'
+statute of limitations defense warrants examination. For these purposes,
+Kurnit's relationship with the Croces controls.&hellip; 
+
+#### 3. *Unconscionability and Breach of Fiduciary Duty*
+
+Mrs. Croce contends that the contracts were unconscionable. An
+unconscionable contract "affronts the sense of decency," &hellip; 
+and usually involves gross onesidedness, lack of meaningful choice and
+susceptible clientele.&hellip;  A claim of unconscionability "requires some showing of 'an
+absence of meaningful choice on the part of one of the parties together
+with contract terms which are unreasonably favorable to the other
+party.'"&hellip; 
+
+Additionally, Mrs. Croce alleges that defendants breached their
+fiduciary duty to the Croces. A fiduciary relationship is bound by a
+standard of fairness, good faith and loyalty.&hellip; 
+
+Substantial testimony was adduced on the subject of the inherent
+conflict presented by the control of the management contract by the
+publisher. The management contract, of course, served only the interest
+of the artist, although obviously the interest of the artist and his
+career were inextricably interwoven with the publication and promotion
+of his product. For example, BWB, when undertaking the assignment to
+manage Croce, immediately obtained a royalty rate increase, of course,
+thus affecting its own compensation.
+
+The significance of management contracts depends on the needs of
+artists, some of whom are entirely capable of performing all the
+business and promotion duties while others seek to concentrate solely on
+their artistic efforts. As the relationship developed, Croce depended on
+his manager significantly, but the conflict between the artist and the
+producer does not so completely overbalance the mutuality of their
+interest as to make management and recording contracts held or
+controlled by the same interests, as occurred here, in and of itself,
+determinative of the issues of unfairness and unconscionability. Indeed,
+it was Kurnit who ultimately arranged for a separate management
+contract, albeit that the contract with BWB barred the manager from
+urging the artist to terminate the contracts.
+
+As the facts stated above indicate, the contracts were hard bargains,
+signed by an artist without bargaining power, and favored the
+publishers, but as a matter of fact did not contain terms which shock
+the conscience or differed so grossly from industry norms as to be
+unconscionable by their terms. The contracts were free from fraud and
+although complex in nature, the provisions were not formulated so as to
+obfuscate or confuse the terms. Although Jim Croce might have thought
+that he retained the right to choose whether to exercise renewal
+options, this misconception does not establish that the contracts were
+unfair. Because of the uncertainty involved in the music
+business and the high risk of failure of new performers, the contracts,
+though favoring the defendants, were not unfair.&hellip; Therefore, I
+conclude that the terms of the contracts were neither unconscionable nor
+unfair and that Cashman and West did not breach a fiduciary duty.
+
+In considering procedural unconscionability this court notes that the
+instant situation lacks the elements of haste and high pressure tactics &hellip; ,
+and that the contracts did not provide for the sole benefit of the
+defendants, &hellip; 
+Indeed, they benefitted the Croces by millions of dollars. Thus Kurnit's
+actions do not rise to the level of procedural unconscionability.
+Kurnit, however, as a lawyer and principal, failed to advise the Croces
+to retain independent counsel and proceeded to give legal advice to the
+Croces in explaining the contracts to them. These actions, as discussed
+above, constitute a breach of the fiduciary duty Kurnit owed the Croces.
+
+#### 4. *Remedy*
+
+Mrs. Croce seeks rescission of the contracts or more specifically
+termination of the contracts on the date of judgment.&hellip;  
+
+The breach of fiduciary duty by Kurnit is not so fundamental as to
+defeat the intent or purpose of the contract.
+
+Moreover, the contracts have been performed. In attempting to return to
+the status quo Mrs. Croce would have the defendants retain the money
+they received under the contracts as compensation for their services and
+return the master tapes and copyrights to her. Defendants oppose this
+remedy as unjust enrichment. Although this court has difficulty
+perceiving how the status quo ante could ever be determined, achieving
+this possibility does not make rescission appropriate when, as in the
+instant case, the breach of fiduciary duty is not a breach going to the
+root of the contract.
+
+Mrs. Croce is, however, entitled to damages resulting from Kurnit's
+breach of fiduciary duty in failing to advise the Croces to seek
+independent counsel. Given the bifurcated
+nature of this lawsuit, and the fact that, but for Kurnit's breach, the
+second branch of Mrs. Croce's complaint, claiming fraud,
+unconscionability, and breach of fiduciary duty, would in all likelihood
+not have arisen, this court assesses Mrs. Croce's damages to be the
+costs and attorneys' fees expended in prosecuting those claims, and
+determines that Kurnit is liable for this amount.&hellip; 
+
+IT IS SO ORDERED.
+
+### Totally Optional Reading & Viewing
+
+**Gary Shandling v. Brad Grey**
 
 * [LA Times on the lawsuit itself][latimes_shandling]
 * [Deadline on Shandling testimony at trial][deadline_shandling]
 * [NYTimes on Shandling v. Brad Grey][nytimes_shandling]
 
-
-### Headline Cases ###
-
-#### New York's Employment Agent Regulation
-* [*Mandel v. Liebman,*][mandel] 100 NE.2d 149 (NY.Ct.App. 1951).
-
-#### California's Talent Agencies Act
-
-* [*Raden v. Laurie,*][raden] 262 P.2d 61 (Cal.Ct.App.2d 1953).
-* [*Marathon v. Blasi,*][blasi] 174 P.3d 741 (Cal. Sct. 2008)
-
-#### Conflicts of Interest:
-* [*Croce v. Kurnit,*][croce] 565 F.Supp. 884 (SDNY 1982).
-
-#### Gary Shandling v. Brad Grey
-
-* [LA Times on the lawsuit itself][latimes_shandling]
-* [Deadline on Shandling testimony at trial][deadline_shandling]
-* [NYTimes on Shandling v. Brad Grey][nytimes_shandling]
-
-### Recommended
-
-* [*Wachs v. Curry,*][wachs] 16 Cal.Rptr.2d 496 (Cal.Ct.App.2d 1993).
-
-# Keynote Presentation: 10Chap_Weiler.key
-
-## Slide 1
-
-### Title: Weiler Chapter 10
-
-#### Body 
-
-Entertainer Representation &  Regulation
-
-#### Presenter Notes: 
-
-Drive from Omaha
-
-Who am I
-
-It’s an INDUSTRY not a BODY OF LAW
-
-## Slide 2
-
-### Title: Entertainment Industry
-
-#### Body 
-
-Film (Hollywood)
-Publishing (New York City)
-Music, Recording Industry
-New Media (Internet)
-Video Games
-Theater, Broadway
-
-#### Presenter Notes: 
-
-Contingent employment
-
-COLLABORATION
-
-Contract Negotiation and dispute resolution
-
-## Slide 3
-
-### Title: Economics of Book Publishing
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-Traditionally, publishers have sold books to stores, with the wholesale price for hardcovers set at fifty per cent of the cover price. 
-
-Authors are paid royalties at a rate of about fifteen per cent of the cover price. 
-
-On a twenty-six-dollar book, the publisher receives thirteen dollars, out of which it pays all the costs of making the book. 
-
-The author gets $3.90 in royalties. Bookstores return about forty per cent of the hardcovers they buy; this accounts for $5.20 per book. 
-
-Another $3 goes to overhead costs and the price of producing and shipping the book—leaving, in the best case, about a dollar of profit per book. 
- Read more: http://www.newyorker.com/reporting/2010/04/26/100426fa_fact_auletta?currentPage=all#ixzz0ldjHcyMI
-
-## Slide 4
-
-### Title: Literary Agents: Publishing		
-
-#### Body 
-
-Most charge 15% commission on North American sales, including movie rights, audio rights, book club rights, paperback rights.
-In the case of movie rights, this commission is typically split with a Hollywood agent.
-Most charge 20% commission on international sales, because usually a sub-agent is involved who takes 10% and your agent takes 10%.
-
-#### Presenter Notes: 
-
-How to get an agent?
-
-What do they do?
-
-## Slide 5
-
-### Title: Hollywood Representation
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-The Players (pgs 774-776) (4th)   This is your opportunity
-
-THE TALENT
-
-Ask Ben: Mgr or Agent first?
-
-PERSONAL MANAGER helps develop, guide, and enhance the career path of the entertainer, usually only 5-6 clients? 5% – 25%
-
-TALENT AGENT markets the entertainer’s services and procures employment offers and contracts for the client.  Also as deal packagers. 10%;
-
-BUSINESS MANAGER (financial) - collects money, pay bills, manages loan-out, 5%. Talent calls and asks, “Can I afford this?” Good business mgrs teach the client fiscal restraint to weather the inevitable back slope of the career;
-
-ENTERTAINMENT LAWYER handles contracts, copyright, publicity and other topics; but also possibly tax, family, corporate, real estate, and other legal problems, 
-
-Weiler says that lawyers are paid standard hourly rates, but most take 5%;
-
-## Slide 6
-
-### Title: 
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-Entourage revolves around Vincent Chase (Adrian Grenier) TALENT
-
-His best friend and MANAGER is Eric Murphy (Kevin Connolly). "E", as his friends call him, is based on Mark Wahlberg's friend and executive producer Eric Weinstein.[7] He's also been reported to be inspired by Stephen Levinson, Mark Wahlberg's manager.[5]
-
-Ari Gold (Jeremy Piven) is Vince's abrasive but lovable AGENT. The role has led to several nominations and Emmy Awards for Piven. Ari is based on Wahlberg's real-life agent Ari Emanuel.
-
-## Slide 7
-
-### Title: Commissions
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-
-
-## Slide 8
-
-### Title: Hollywood History
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-History of Hollywood agencies. How they came to be. Pages 775-777. 
-
-Recurring troubles with antitrust and double-charging. “Rather than 10% of their own client’s salaries, the agencies took 10% of the program’s entire budget. 
-
-Attempted ownership of TV programs etc.In later 1950s and early 60s, 
-
-Music Corporation of America (MCA) was the CAA of yesteryear. Eventually Robert Kennedy investigated them for antitrust violations. Why? Scandals (see e.g. Quiz Show. MCA also owned movie studios.
-
-NOTE: So MCA is producing movies and television shows and representing the performers who starred in them. (Will become important later at end of chapter, because Michael Ovitz comes close to doing the same thing in the mid-1990s.)
-
-Michael Ovitz and CAA. HUGE. (pg. 776)(4th) Eventually, Ovitz left CAA and went to Disney for a short stay, then started AMG (Artists Management Group). 
-
-Ovitz had non-compete with CAA. So what does he do? Goes into Management.“Another fundamental reason for the AMG management decision is to circumvent the onerous regulations that have been imposed on talent agents over the last century.” (pg 849 mid)
-
-## Slide 9
-
-### Title: 
-
-#### Body 
-
-Even when you are acting as an agent or a manager, the Model Rules of Professional Conduct MAY still apply!
-
-#### Presenter Notes: 
-
-777
-
-## Slide 10
-
-### Title: Lawyers Are Super Fiduciaries!
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-LAWYERS ARE SUPER FIDUCIARIES CLICK 
-
-The cheap tricks a professor will use to wake people up at the end of a long day.
-
-Real estate agents, stock brokers, trustees, executors . . . those are fiduciaries. Lawyers are SUPER fiduciaries. 
-
-Our clients come to us for advice and protection and trust and discretion.
-
-We have to be scrupulously loyal. Your instincts, no matter how good, are not enough. 
-The only way I know of to protect yourself and to protect your client is to OBEY the Model Rules. 
-
-## Slide 11
-
-### Title: Model Rule 8.4: Misconduct
-
-#### Body 
-
-It is professional misconduct for a lawyer to:
- violate or attempt to violate the Rules . . . 
- commit a criminal act that reflects adversely on the lawyer's honesty, trustworthiness or fitness as a lawyer;
- engage in conduct involving dishonesty, fraud, deceit or misrepresentation;
- engage in conduct that is prejudicial to the administration of justice; 
- state or imply an ability to influence improperly a government agency or official  or 
- knowingly assist a judge or judicial officer in conduct that is a violation of applicable rules of judicial conduct or other law.
-
-#### Presenter Notes: 
-
-
-Even if you aren’t technically practicing law while you are acting as a personal manager in the entertainment business, you may still be subject to the Model Rules of Professional responsibility if you are licensed to practice law in that jurisdiction.
-
-## Slide 12
-
-### Title: Lawyers!
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-PAGE 885 BOUND TO SOME STANDARDS OF LAWYER ETHICS EVEN WHEN NOT ACTING AS A LAWYER
-
-Certain Rules of Professional Conduct are applicable to the inquirer’s conduct notwithstanding the fact that the inquirer is not acting as the incapacitated individual’s counsel. 
-
-Although some Rules apply only if a client-lawyer relationship has been formed, see, e.g., Rules 1.2 (scope, allocation of authority); 1.6 (confidentiality); 1.16, 
-
-others apply to members of the bar regardless of whether they are engaged in professional activities. 
-
-Specifically, D.C. Rules 3.3(a)(1), Candor to the Tribunal 3.3(d), and 8.4(c) “engage in conduct involving dishonesty, fraud, deceit or misrepresentation.”
-
-govern the inquirer’s conduct, even though he is not functioning as counsel to the incapacitated individual.
-
-Rule 3.3(a)(1), which mandates candor to a tribunal, provides that “a lawyer shall not knowingly . . . make a false statement of material fact or law to a tribunal.”  Comment [2] to Rule 3.3 provides that, “[t]here may be circumstances where failure to make a disclosure is the equivalent of an affirmative misrepresentation.” Rule 3.3(d) provides in pertinent part that “[a] lawyer who receives information clearly establishing that a fraud has been perpetrated upon the tribunal shall promptly reveal the fraud to the tribunal unless compliance with this duty would require disclosure of information otherwise protected by Rule 1.6, in which case the lawyer shall promptly call upon the client to rectify the fraud.” [4] 
-
-## Slide 13
-
-### Title: 
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-
-
-## Slide 14
-
-### Title: Model Rule 1.8(d)
-
-#### Body 
-
-Prior to the conclusion of representation of a client, a lawyer shall not make or negotiate an agreement giving the lawyer literary or media rights to a portrayal or account based in substantial part on information relating to the representation.
-
-#### Presenter Notes: 
-
-Most famous example being Alan Dershowitz, Reversal of Fortune.
-
-Other possible rules, confidentiality, CONFLICTS OF INTEREST
-
-## Slide 15
-
-### Title: Conflict of Interest in Entertainer Representation (p. 875)
-
-#### Body 
-
-Conflicts? Just another word for contacts?
-
-#### Presenter Notes: 
-
-p 776
-
-In the litigation Billy Joel vs. Alan Grubman on pg 801 SETTLED
-
-Ziffren Law Firm bot 801-top 802 SETTLED
-
-Especially a problem for lawyers who represent studios and talent BOTH.
-
-CAA and Ovitz. So CAA represents all of the talent in Hollywood, while Ovitz is playing a big role in Sony purchasing Columbia Pictures for $3.4 billion and others. Dicey!
-
-Flip side: Conflicts means contacts!
-
-See Ziffren examples on 801-802.
-
-Agents must have no conflicts! California amended TAA to bar agents from referring their artists to firms in which the talent agency has a financial interest (or from which the agent receives a referral fee). THIS IS THE REASON AGENTS ARE SO IMPORTANT
-
-Illegal for agents to have tangible conflicts.
-
-The tougher question is posed by cases where the same agent (or manager or lawyer) has two clients who themselves have conflicting interests. 
-
-Here the law basically controls only those entertainment representatives who are lawyers and thus governed by standards of legal ethics.
-
-## Slide 16
-
-### Title: Private Movie Co. vs. Pam
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-Pamela Anderson Lee pg. 777 Lawyers. Who is Michael Blaha? Who is he the lawyer for?
-
-Michael Blaha (entertainment lawyer) formerly represented Pamela Anderson. But Blaha is attorney for Private Movie Company. So Blaha gets to play producer, packager whatever by recommending his client Anderson be put in Hello, She Lied
-
-Anderson has both managers and agents. And it seems underlings were at these meetings.
-
-FIRST MEETING - Anderson is there. Offered $90,000 and shown script. But she objects to gratuitous sex and excessive nudity. Efraim (Private Movie’s Prez) says he will fix the script.
-
-## Slide 17
-
-### Title: Private Movie Co. vs. Pam
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-Second meeting- Anderson knows its happening but does not attend. 
-Money now at $200,000. They think they reach a deal, even though Pamela is not there.
-Note Nudity provisions: (pg 778 bot).
-
-Blaha wrote to Brody (Anderson’s mgr) “I am pleased we were able to reach an agreement on the main deal points.” pg 779 top) 
-Clearly the reps THINK they have a deal.
-
-Whoops, a week later, Anderson says “I’m not appearing in your movie.” Still too much nudity. Oh, and by the way, I’ve been offered $500,000 for Barbed Wire.
-
-Note that two months after rejecting Hello, She Lied, Anderson made Naked Souls, which had vivid and graphic sex scenes: 
-
-Anderson said that while the sex in Naked Souls was integral to its story, Hello, She Lied’s sex scenes were “gratuitous.”
-
-Private Movie sues for $5 million, but can’t convince judge or appeals division that a binding contract had ever been reached.
-
-Material disagreement about nudity? Maybe. Not so important for us.
-
-## Slide 18
-
-### Title: Actual v.  Apparent Authority
-
-#### Body 
-
-
-Actual authority: Client is bound.
-Apparent authority: jurisdictions split on whether client is bound.
-
-#### Presenter Notes: 
-
-FACTS/CONTENTIONS
-According to Defendant: Plaintiff movie company claimed that an oral contract to make a movie had been reached through an agent and personal manager who were authorized to negotiate and bind Pamela Anderson Lee. Plaintiff further claimed that Lee breached the contract by refusing to do the project. The plaintiff was The Private Movie Company Inc., a California corporation. Ben Efraim is the owner of the company. The defendants were Pamela Anderson Lee, an individual, and Pamela Anderson Productions Inc., a California corporation.
-
-In October 1994 a script was presented to Pamela Anderson Lee's personal manager, Dennis Brody, by an attorney named Michael Blaha, who at the time was representing Pamela Lee in litigation matters. At that time, unbeknownst to her, Blaha was representing Ben Efraim and The Private Movie Company Inc. in other litigation matters. Pamela Lee expressed interest in the character and a ‘creative meeting‘ was set up, at which time she made it known that she liked the character but did not want to have any simulated sex or extensive nudity in the script or in the movie. It was agreed that the script would be rewritten and she would be provided with the rewritten script.
-
-Thereafter, Dennis Brody and an agent for United Talent Agency named Brandt Joel began negotiating with Michael Blaha and Ben Efraim and allegedly made a deal for Pamela Anderson Lee's services on November 18, 1994. It was not until after this date that Blaha allegedly orally informed Pamela Anderson Lee of his conflict of interest. 
-
-There was never a written conflict waiver from any party. Blaha eventually prepared a long form contract, which contract provided for simulated sex. Blaha never prepared a nudity side letter which had been required by Pamela Anderson Lee's representatives. The Private Movie Company began preproduction. The final script, however, was not furnished to Pamela Anderson Lee until after December 27, 1994. Upon review of the script, she quickly determined that the simulated sex scenes had not changed and she notified her manager that she would not do the project. This lawsuit followed.
-
-Plaintiff alleged that an oral contract had been reached on November 18, 1994 through the agent, Brandt Joel, and the personal manager, Dennis Brody, whom plaintiff claimed were authorized to negotiate and bind Pamela Anderson Lee. Defendants contended that there was no oral contract and that there were always two issues outstanding on the deal, i.e., a nudity side letter and approval of the subsequent script. Defendants also contended that neither Brandt Joel nor Dennis Brody had authority to negotiate or bind defendant Lee. Defendants contended further that Blaha's representation of both parties created a presumption of undue influence which was not overcome and that there were no damages.
-
-
-
-## Slide 19
-
-### Title: May the lawyer accept what she thinks is a good settlement?
-
-#### Body 
-
-Model Rule 1.2(a) Who has the authority to settle?
-What happens when lawyer is not authorized to make the settlement offer?
-
-#### Presenter Notes: 
-
-
-
-## Slide 20
-
-### Title: A. State Regulations
-
-#### Body 
-
-New York’s Employment Agent Regulation.
-Separate definition for “theatrical employment agency.”
-“. . . but such term does not include the business of managing such entertainments . . . where such business only INCIDENTALLY INVOLVES THE SEEKING OF EMPLOYMENT THEREFOR.” 
-
-#### Presenter Notes: 
-
-Top 781: A person who acts as an agent and fails to apply for a license or violates the fee limits is guilty of a misdemeanor and can be subject to a fine . . . and imprisonment . . .
-
-## Slide 21
-
-### Title: Mandel v. Liebman (Ct App NY 1951)
-
-#### Body 
-
-Liebman (author, writer, director) signs contract with Mandel (attorney and manager).
-Terms “personal representative and manager”
- 10% of Liebman’s gross earnings for 5 years, but NOTE: also 10% on all engagements commenced, continued, renewed, or resumed (this is common in literary agency agreements).
-After disagreements, Attorney Mandel sues for compensation due him.
-
-#### Presenter Notes: 
-
-Page 781 4th
-
-Historic case: What happens when a lawyer acts as a personal manager.
-
-## Slide 22
-
-### Title: Lawyers Can Be Fired Anytime!
-
-#### Body 
-
-Trial court says, it’s a “legal retainer agreement” and Liebman could fire his lawyer at any time.
-Interim Appellate Court affirms on other grounds saying that the contract was “void, unconscionable and against public policy . . .”
-
-#### Presenter Notes: 
-
-and limit recovery to quantum meruit (as much as is deserved).
-
-Why against public policy?
-
-[because] the plaintiff was not required to render any services to defendant artist . . . yet artist required to pay what might be called “a tribute in perpetuity.”
-
-## Slide 23
-
-### Title: Rule 1.16 Declining or Terminating Representation
-
-#### Body 
-
-a lawyer shall . . . withdraw from the representation of a client if:
-the representation will result in violation of the rules of professional conduct . . . ;
-the lawyer's physical or mental condition materially impairs the lawyer's ability . . .
-the lawyer is discharged.
-
-#### Presenter Notes: 
-
-Model Rules of Professional Conduct
-
-## Slide 24
-
-### Title: A Great Day For  Entertainment Lawyers!
-
-#### Body 
-
-“Here, plaintiff was employed as defendant’s personal representative and manager, a position which might well have been filled by a non-lawyer.”
-
-#### Presenter Notes: 
-
-(pg 783 bot) (4th)
-
-Questions For Discussion, pg 784
-
-When we do entertainment law contracts, we’ll see other cases “to enforce a contractual promise expressly made by one party by implying a reciprocal obligation on the other party to perform services as consideration for the promise.” See, e.g., Bonner. Should the same principle be applied here where manager is a lawyer who drafted the agreement?
-
-Note that manager’s professional status as an attorney did not override his other duties as manager and representative. Lots of ethical issues for entertainment lawyers.
-
-What about what the interim appellate court called the “tribute in perpetuity”? Any future earnings of the artist would be “due to the opportunities now procured for him” Do you think such a provision should be interpreted that way and enforced? Compare literary agents.
-
-## Slide 25
-
-### Title: A Great Day For  Entertainment Lawyers!
-
-#### Body 
-
-As a lawyer, plaintiff might be called upon to use his legal training in handling defendant’s affairs, but that is not sufficient, as a matter of law, to transform an otherwise binding contract of employment into a contract at will on the part of the employer. 
-
-#### Presenter Notes: 
-
-(pg 856 bot)
-
-Questions For Discussion, pg 857
-
-When we do entertainment law contracts, we’ll see other cases “to enforce a contractual promise expressly made by one party by implying a reciprocal obligation on the other party to perform services as consideration for the promise.” 
-
-See, e.g., Bonner. Should the same principle be applied here where manager is a lawyer who drafted the agreement?
-
-Note that manager’s professional status as an attorney did not override his other duties as manager and representative. Lots of ethical issues for entertainment lawyers.
-
-What about what the interim appellate court called the “tribute in perpetuity”? Any future earnings of the artist would be “due to the opportunities now procured for him” Do you think such a provision should be interpreted that way and enforced? Compare literary agents.
-
-## Slide 26
-
-### Title: Watts vs. Columbia Artists Management (1992)
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-LOAN-OUT (top pg 785)
-
-The question of DURATION of these contracts when the talent wants out.
-
-A 1983 contract says Columbia will act as exclusive agent for Watts. 
-
-In 1985, Watts dissolves his loan-out corporation and term of contract set to end in 1986. WHAT HAPPENS?
-
-Even after contract ends, Columbia continues to book, and Watts continues to pay. Then in 1988, Watts notifies Columbia that he wants to terminate the agreement, but Columbia has already booked 82 more engagements and wants its 15% for those.
-
-Court holds: “An implied-in-fact contract between Watts and Columbia because of their dealings after the end of contract term.”
-
-Common occurrence in the Entertainment world, Court will look at BEHAVIOR of the parties, not letter of contract or even whether a contract is signed.
-
-Questions For Discussion, pg 859
-
-1. Agree with Watts? What could the artist have done to protect himself? Get an agent or manager separate from the lawyer? Redo terms of K so that manager not entitled to monies outside the contract term? Compare literary agents. Probably not doable.
-
-2. Watts highlights the common practice in the entertainment industry of proceeding with performances and payments even though no formal contract has been signed. If the performers waited for formal contracts, the entire industry would grind to a halt.
-
-## Slide 27
-
-### Title: 2. California Talent Agencies Act
-
-#### Body 
-
-Similar to New York’s 
-but it does NOT grant an exception to personal managers who undertake only incidental agent responsibilities.
-
-#### Presenter Notes: 
-
-Page 794
-
-Definition of talent agency: found at top of pg. mid 795; 
-
-Exemption for recording contracts.  Talent agencies may counsel or direct artists in the development of their professional careers.
-
-Act also provides that “an unlicensed agent” (e.g. a manager) may “act in conjunction with and at the request of a licensed talent agency in the negotiation of an employment contract.” (pg 797)
-
-Fees? Limited to 10%? Not? Note middle of page 787.
-
-Fee schedule must be filed and posted. Labor Commissioner will approve up to 20% but the Guild franchise agreements limit commissions to 10%.
-
-## Slide 28
-
-### Title: Talent Agencies Act
-
-#### Body 
-
-No person shall engage in or carry on the occupation of a talent agency without first procuring a license therefore from the Labor Commissioner. . .
-
-#### Presenter Notes: 
-
-Labor Code section 1700.4 et. seq. provides for the licensing and regulation of talent agents. 
-
-The statute defines a “talent agency” as
-
-a person or corporation who engages in the occupation of procuring, offering, promising, or attempting to procure employment or engagements for an artist or artists, 
-
-except that the activities of procuring, offering, or promising to procure recording contracts for an artist or artists shall not of itself subject a person or corporation to regulation and licensing under this chapter. 
-
-Talent agencies may, in addition, counsel or direct artists in the development of their professional careers.
-
-
-## Slide 29
-
-### Title: Talent Agencies Act
-
-#### Body 
-
-The statute defines a “talent agency” as
-a person or corporation who engages in the occupation of procuring, offering, promising, or attempting to procure employment or engagements for an artist or artists, 
-except that the activities of procuring, offering, or promising to procure recording contracts for an artist or artists shall not of itself subject a person or corporation to regulation and licensing under this chapter. 
-Talent agencies may, in addition, counsel or direct artists in the development of their professional careers.
-
-#### Presenter Notes: 
-
-
-
-## Slide 30
-
-### Title: Raden v. Laurie (1953)
-
-#### Body 
-
-Ted Raden (manager) enters into agreement in January 1948 to act as manager for Piper Laurie to “secure engagements for Laurie in the motion picture etc. biz.”
-10% Commission.
-
-#### Presenter Notes: 
-
-787
-Raden was to receive 10% commission. No duration.
-
-Laurie and her Mom terminated the agreement in October of 1949. Raden filed suit for unpaid commissions. 
-
-Raden not licensed agent. He stated that he counseled and advised her and took her to several locations to educate her, not to find work.
-
-Funny catch 22. Laurie and her Mom are complaining that he didn’t find them work. And Raden can’t say that he DID find them work, because then he’d have to be licensed. 
-
-Note, the term “artist’s manager” at of 789 (4th) confusing because this is under the Artist Managers Act (AMA) in 1943, so manager is synonymous with agent, here. 
-
-See page 795 (4th), at bottom, for history of two acts and different emphasis. 
-
-## Slide 31
-
-### Title: Raden v. Laurie
-
-#### Body 
-
-In July 1948, parties made second agreement. Raden agreed to continue acting as Laurie’s “advisor and counsel and business counsel” on all business and financial matters including dealing with her agents.
-
-#### Presenter Notes: 
-
-
-Raden was to receive 10% commission. No duration.
-
-Laurie and her Mom terminated the agreement in October of 1949. Raden filed suit for unpaid commissions. 
-
-Raden not licensed agent. He stated that he counseled and advised her and took her to several locations to educate her, not to find work.
-
-Funny catch 22. Laurie and her Mom are complaining that he didn’t find them work. And Raden can’t say that he DID find them work, because then he’d have to be licensed. 
-
-Note, the term “artist’s manager” at of 861-62 confusing because this is under the Artist Managers Act (AMA) in 1943, so manager is synonymous with agent, here. 
-
-See page 868, at bottom, for history of two acts and different emphasis. 
-
-## Slide 32
-
-### Title: Raden v. Laurie
-
-#### Body 
-
-Summary Judgment in Laurie’s favor.
-On appeal, court goes for Raden.
-“Since Raden was employed only to counsel and advise . . . in matters not related to obtaining engagements for her, he was not acting as a [talent agency] as defined by the Act.”
-
-#### Presenter Notes: 
-
-Page 787
-Note: It’s a summary judgment motion. 
-
-Entered in favor of Laurie. Raden appealed.
-
-Appellate court rejected Laurie’s argument that the act of seeking employment, rather than the contract provision, triggered the licensing requirement of the AMA. The court reasoned that an unlicensed individual’s procurement activities in seeking employment will trigger the licensing provisions only if the contract is found to be a sham, designed to conceal the true nature of the agreement between the parties and to “evade the law.”
-
-Weiler: “It would seem clear that his duties were intentionally limited to the rendition of services which would not require his being licensed as an artist’s manager.” (pg 862 mid)
-
-Appellate court found for manager Raden:
-
-APPEARS TO SAY THAT THE CONTRACT LANGUAGE PROTECTS
-
-## Slide 33
-
-### Title: Katz v. Jefferson Airplane
-
-#### Body 
-
-Katz is Jefferson Airplane’s “exclusive personal representative, advisor and manager.” 
-Separate contracts with band members: “It is clearly understood that you [Katz] are not an employment agent . . . that you have not offered or attempted to promise to obtain employment. . . ” 
-
-#### Presenter Notes: 
-
-Court will not let you say one thing in the contract and stipulate that you are NOT an agent, and then run off and procure employment. 
-
-The Act applies to unlicensed as well as licensed agents.
-
-790
-
-## Slide 34
-
-### Title: Wachs v. Curry (1993)
-
-#### Body 
-
-Sues his former manager, 
-Robert Wachs (a lawyer!) 
-of X Management,
-alleging that the company 
-had acted as an unlicensed agent.
-
-#### Presenter Notes: 
-
-Page 792
-
-Following the decision, X Management (Wachs) sued James Curry (Labor Commissioner) saying Talent Agency Act is unconstitutional. 
-
-Contract recited that Hall had not retained X Management as a talent agent and that the firm had not promised to obtain employment. 
-
-But from 1987-1990, the firm gets all kinds of employment for Arsenio Hall (mid page 792).
-
-STOP HERE. Don’t read next paragraph. Look at the list. You’ve got representatives who are finding you that kind of work. Do you care if there managers or agents? No, just keep doing whatever you are doing! 
-
-Note, just their 15% commission translates to $2.6 million!
-
-BEFORE TURNING PAGE: Why not just get a talent agent’s license? What’s the big deal? (Question is on page 800 bot)
-
-Okay, now turn the page and find out why Arsenio gets mad. The relationship broke down in 1990, when Hall discovered that Wachs and Lipsky were not only getting screen credit as Production Executives on The Arsenio Hall Show, but they were personally being paid $5,000 a week for this role.
-
-Remedy is a return of all commissions earned during the limitations period. (You have to file suit within a year!) $2.1 million! So, now Wachs sues and says: There’s no rational basis for saying I can’t procure employment but managers of musicians can procure recording contracts!
-
-## Slide 35
-
-### Title: Wachs v. Curry (1993)
-
-#### Body 
-
-  Robert Wachs sues and says Talent Agencies Act is unconstitutional:
- No rational basis for exempting recording industry;
-  Vagueness.
-
-#### Presenter Notes: 
-
-So, now Wachs sues and says: There’s no rational basis for saying I can’t procure employment but managers of musicians can procure recording contracts! 
-
-Bot 793(4th). Recording contracts are different. The purpose is to “produce a permanent and repayable showcase of the talents of the artist.” What’s so different about that?
-
-Wachs also tries to argue that the meaning of “procure” is VAGUE. It’s not defined in the Act. 
-
-Managers don’t know what kind of conduct requires you to get a license (pg 794 mid)
-
-Court says the HISTORY of the Act also illuminates the legislative intent (mid pg 795)
-
-The Artists Management Act of 1943 dealt with “a person who engages in the occupation of advising, counseling, or directing artists in the development or advancement of their professional careers and who procures, offers, promises or attempts to procure employment or engagements for an artist.
-
-The Talent Agencies Act made a big change: A talent agency is hereby defined to be a person or corporation who engages in the occupation of procuring, of-fering, promising, or attempting to procure employment for an artist. (pg 795 mid)
-
-Big change of emphasis! 
-
-
-
-## Slide 36
-
-### Title: Wachs
-
-#### Body 
-
-“If the agent’s employment procurement function constitutes a significant part of the agent’s business as a whole then he or she is subject to the licensing requirement of the Act even if, with respect to a particular client, procurement of the employment was only an incidental part of the agent’s overall duties.”
-
-#### Presenter Notes: 
-
-796
-
-## Slide 37
-
-### Title: The Expanding Talent Agency Act
-
-#### Body 
-
-
-Waisbren v. Peppercorn (1995) “personal managers MUST be licensed under the Act even if they devote just a ‘minimal’ or ‘incidental’ proportion of their overall representation to procuring employment.” 
-
-#### Presenter Notes: 
-
-“What constitutes a significant part of an agent’s business is an element of degree we need not decide in this case? (pg 796)
-
-
-
-## Slide 38
-
-### Title: The Expanding Talent Agencies Act 
-
-#### Body 
-
-1993 - 1999
-
-#### Presenter Notes: 
-
-
-
-## Slide 39
-
-### Title: The Expanding Talent Agencies Act 
-
-#### Body 
-
-Church v. Brown (1994)
-Procurement of employment constitutes a “significant” portion of the activities of an agent if the procurement is not due to inadvertence or mistake and the activities . . . are not simply a de minimis aspect of the overall relationship.
-
-#### Presenter Notes: 
-
-Church v. Brown, CA Labor Commissioner, 1994, pg 797
-
-The California Courts formulations starts out small. After Wachs it sounds like the TAA only applies to those for whom “the procurement function constitutes a significant part of their business.” (pg 796 bot)(4th)
-
-But then in Church the court says, “if the procurement is not due to inadvertence or mistake and ...are not “de minimis” then the Act applies.
-
-797
-
-
-Page 870 NOW IT IS A TOTAL BAN
-
-Great Questions for discussion!!!
-
-## Slide 40
-
-### Title: The Expanding Talent Agency Act
-
-#### Body 
-
-Waisbren v. Peppercorn (1995) 
-“personal managers MUST be licensed under the Act even if they devote just a ‘minimal’ or ‘incidental’ proportion of their overall representation to procuring employment.” 
-
-#### Presenter Notes: 
-
-Page 797(4th) NOW IT IS A TOTAL BAN
-
-Great Questions for discussion!!!
-
-797
-
-## Slide 41
-
-### Title: The Expanding Talent Agencies Act
-
-#### Body 
-
-Baker v. BNB (1997) (“negotiations that exploit employment offers emanating from outside the agency constitute solicitation”)
-Park v. Deftones (1999) (“even incidental procurement is regulated”)
-
-#### Presenter Notes: 
-
-
-
-## Slide 42
-
-### Title: Questions For Discussion
-
-#### Body 
-
-$2.1 million for Arsenio? Fair?
-Suppose Wachs had just negotiated contracts instead of seeking them out?
-Stars hire managers and never mind agents?
-CA refuses NY’s incidental procuring of employment? Make sense?
-Does the goofy music exception make sense? 
-
-#### Presenter Notes: 
-
-799
-Waisbren v. Peppercorn Productions, Cal. App. (1995) (pg 797 mid) (4th). The Court goes even further: “personal managers must be licensed under the Act even if they devote just a ‘minimal’ or ‘incidental’ proportion of their overall representation to procuring employment.” (pg 797) Now it’s a total ban:
-
-Under the statute, an unlicensed manager can only “participate in negotiating an employment contract for an artist . . . ‘in conjunction with, and at the request of, a licensed talent agency.” Baker v. BNB Assoc., CA Labor Commissioner, 1997, pg 797 bot
-
-Singing star Anita Baker sues her manager, Sherwin Bush, who is a BNB Associate.Manager Bush argues, “Hey, I’m just a conduit. I don’t solicit.” Court said, “Negotiations that ‘exploit’ employment offers emanating from the outside constitute solicitation within the meaning of the Talent Agencies Act.” (pg 797 bot)
-
-Park v. Deftones, CA App. 1999, pg 798
-
-Park calls himself a “personal manager” but he secures over 80 concert gigs for the Deftones. Labor commissioner finds Park’s entire contract with Deftones “null, void, and unenforceable.” “even incidental is regulated.” Query: Why doesn’t recording contract exception apply? (pg 798 mid ). 
-
-See also Yoo v. Robi on same page. TAA did not require an agent license to market the client’s music album . . . Wolf had violated the Act by also securing for Robi several concerts in fairs.”
-
-## Slide 43
-
-### Title: Wesley Snipes
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-Snipes represented by CAA. After he became a big star, he added Dolores Robinson, his manager, who had been recommended by CAA.  799
-
-5 years later he tried to get rid of Dolores by claiming that she was acting as his agent. 
-
-What did Robinson show at the Commission hearing?
-
-“That any such roles were performed by her “at the request of and in conjunction with” the people at CAA.
-
-The basic message, then, is that if a Snipes, unlike a Baker, a Deftones, or an Arsenio Hall, chooses to have both an agent and a manager who each collaborate in their client’s representation, almost certainly the performer can and will have to pay for both. (pg 873 top)
-
-## Slide 44
-
-### Title: § 1700.44(d)
-
-#### Body 
-
-It is not unlawful for a person or corporation which is not licensed pursuant to this chapter to act in conjunction with, and at the request of, a licensed talent agency in the negotiation of an employment contract.
-
-#### Presenter Notes: 
-
-§ 1700.44. Dispute; hearing; determination; bond; certification of no controversy; failure to obtain license; limitations of actions
-
-(d) It is not unlawful for a person or corporation which is not licensed pursuant to this chapter to act in conjunction with, and at the request of, a licensed talent agency in the negotiation of an employment contract.
-
-## Slide 45
-
-### Title: 
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-
-
-## Slide 46
-
-### Title: Marathon Entertainment v. Blasi(Cal 2008)
-
-#### Body 
-
-In December 1998, Marathon made oral k with Blasi for 15% of her earnings.
-Blasi has an agent throughout.
-Terminates mgt K with Marathon in fall of 2001.
-Asserts violation of Act’s licensing requirements as defense to pay.
-
-#### Presenter Notes: 
-
-In December 1998, Marathon and Blasi entered into an oral contract for Marathon to serve as Blasi's personal manager in exchange for a percentage of her entertainment employment income. Blasi, who was represented by a licensed talent agent throughout the term of her personal management contract with Marathon, terminated the management contract in the fall of 2001. 
-
-Thereafter, Blasi successfully invoked Marathon's alleged violation of the Act's licensing requirements as a defense to her obligation to pay Marathon a commission on her 2000-2001 earnings from the television series Strong Medicine, an engagement that Blasi does not contend was procured by Marathon in violation of the Act. After being sued by Marathon for the unpaid Strong Medicine commission, Blasi moved for summary judgment of the complaint, contending that Marathon's unlicensed {Slip Opn. Page 3} solicitations of other, unrelated employment opportunities on her behalf had so tainted with illegality the parties' oral management contract that the entire contract must be invalidated as an illegal contract for unlicensed talent agency services. Blasi produced no evidence in the trial court, however, linking the procurement of her Strong Medicine employment contract with any illegal activity or violation of the Act by Marathon. The trial court, without considering the applicability of the general rule of severability of contracts, granted the motion and entered summary judgment for Blasi.
-        In other words, Blasi did not produce evidence that Marathon had violated the statute by seeking employment for Blasi on the series “Strong Medicine,” although there was evidence produced that Marathon had sought employment for Blasi in other instances.  Blasi contended that such seeking employment, even if not related to “Strong Medicine,” “tainted” the overall contractual relationship so that it was not possible to separate the elements of that relationship and thus the entire contractual relationship should be voided.
-
-
-## Slide 47
-
-### Title: Blasi
-
-#### Body 
-
-For the personal manager who truly acts as a personal manager, however, an isolated instance of procurement does not automatically bar recovery for services that could lawfully be provided without a license. 
-(p. 12 of 13)
-
-#### Presenter Notes: 
-
-
-
-## Slide 48
-
-### Title: Conflict of Interest in Entertainer Representation 
-
-#### Body 
-
-Conflicts mean contacts.
-
-#### Presenter Notes: 
-
-In the litigation Billy Joel vs. Alan Grubman on pg 801 SETTLED
-
-Ziffren Law Firm bot 801(4th) SETTLED   800
-
-Especially a problem for lawyers who represent studios and talent BOTH.
-
-CAA and Ovitz. So CAA represents all of the talent in Hollywood, while Ovitz is playing a big role in Sony purchasing Columbia Pictures for $3.4 billion and others. Dicey!
-
-Flip side: Conflicts means contacts!
-
-See Ziffren examples on 801(bot)(4th)
-
-Agents must have no conflicts! California amended TAA to bar agents from referring their artists to firms in which the talent agency has a financial interest (or from which the agent receives a referral fee). THIS IS THE REASON AGENTS ARE SO IMPORTANT
-
-Illegal for agents to have tangible conflicts.
-
-The tougher question is posed by cases where the same agent (or manager or lawyer) has two clients who themselves have conflicting interests. 
-
-Here the law basically controls only those entertainment representatives who are lawyers and thus governed by standards of legal ethics.
-
-## Slide 49
-
-### Title: Croce v. Kurnit (USDC NY 1982)
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-Who is Kurnit??  804
-
-These damn lawyers ARE IN EVERY CASE!!!
-
-Croce’s college buddy Tommy West has record company CP&W and introduces Croce and his wife to “the lawyer, Philip Kurnit” and discussed possibility of making records.
-
-Two months later another meeting with Kurnit, who Croce’s knew was a partner in CP&W. 
-
-Kurnit not retained or paid by Croces. Kurnit did not advise them to get their own lawyer. Page 806-807. 
-
-Kurnit isn’t Croce’s lawyer and did not act as their lawyer, but: Kurnit’s introduction as “the lawyer,” his explanation to the Croces of the “legal ramifications” of the contracts which contained a number of legal terms and concepts, his interest as a principal in the transactions, his failure to advise the Croce’s to obtain outside counsel, and the Croce’s lack of representation taken together establish both a fiduciary duty on the part of Kurnit and a breach of that duty. (pg 807 top)(4th)
-
-Court says however that the contract does not shock the conscience or affront decency or other magic words. So it is not going to let Croce’s wife out of the deal. Terms of contract not unconscionable (pg 808 mid) 
-
-Rule 8.4(c) provides that “it is professional misconduct for a lawyer to . . engage in conduct involving dishonesty, fraud, deceit, or misrepresentation.”
-
-## Slide 50
-
-### Title: Model Rule 8.4: Misconduct
-
-#### Body 
-
-It is professional misconduct for a lawyer to:
- violate or attempt to violate the Rules . . . 
- commit a criminal act that reflects adversely on the lawyer's honesty, trustworthiness or fitness as a lawyer;
- engage in conduct involving dishonesty, fraud, deceit or misrepresentation;
- engage in conduct that is prejudicial to the administration of justice; 
- state or imply an ability to influence improperly a government agency or official  or 
- knowingly assist a judge or judicial officer in conduct that is a violation of applicable rules of judicial conduct or other law.
-
-#### Presenter Notes: 
-
-
-
-## Slide 51
-
-### Title: “No man can serve two masters . . .”
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-The original conflict of interest rule
-
-BUT THAT WAS BEFORE WE HAD LAWYERS 
-
-Now we have lawyers who naturally want as many clients as possible, 
-and so we have some really thorny rules governing conflicts of interest.
-
-Whiskey is for drinking but water is for fighting about. And with all the fighting comes conflicts.
-
-## Slide 52
-
-### Title: Rule 1.7(a)
-
-#### Body 
-
-Except
- A lawyer shall not represent a client if the representation involves a concurrent conflict of interest. 
-
-#### Presenter Notes: 
-
-Before we do “direct adversity” and “materially limited”, let’s tamper with A itself:
-
-CLICK  There’s our not so favorite introductory clause
-
-Let’s replace it CLICK and pretend that it says: Except with informed consent (which is what it USUALLY does mean) CLICK
-
-And that gives us: 
-Except with informed consent: A lawyer shall not represent a client if the representation involves a concurrent conflict of interest.
-
-So NO CONFLICTS we get informed consent. 
-
-And we know from the overview that there are two flavors of concurrent conflicts.
-
-## Slide 53
-
-### Title: Direct Adversity: Easy!
-
-#### Body 
-
-A . . . concurrent conflict . . . exists if: 
-one client will be directly adverse to another client; 
-
-#### Presenter Notes: 
-
-The first DIRECT ADVERSITY is usually easy. 
-
-Lawyers are good at spotting direct adversity.
-
-Directly adverse conflicts constitute only about 10% of disciplinary actions arising out of conflicts of interest.
-
-These are usually litigation-type conflicts. You can’t represent joint defendants in a murder trial where there’s only one shooter. 
-
-You probably shouldn’t represent both the driver and a passenger in an automobile accident if there’s any question about the driver’s negligence. 
-
-The trial lawyers and the litigators have it pretty easy when it comes to conflicts. 
-They are used to representing people who are fighting. 
-
-It can trickier when lawyers are helping people form businesses or do estate planning or trying to sort out water rights. THERE you are often dealing with small groups of people who are NOT DIRECTLY ADVERSE . . . YET.
-
-## Slide 54
-
-### Title: Materially Limited: Hard!
-
-#### Body 
-
-A . . . conflict . . . exists if:
-(a)(1) . . . direct adversity
-(a)(2) there is a RISK that the representation . . . will be materially limited by the lawyer's responsibilities to:
-
-#### Presenter Notes: 
-
-Let’s look at the hard ones, the Materially limited conflicts.
-
-These are the tricky ones, which cause roughly 85-90% of CONFLICT disciplinary actions. 
-
-These deal with the CONCEPT of a RISK. 
-
-
-
-## Slide 55
-
-### Title: Informed Consent
-
-#### Body 
-
-Notwithstanding . . . a . . . conflict , 
-a lawyer may represent a client if:
-
-#### Presenter Notes: 
-
-So, did 1.7 (a) and found you have a conflict. B helps you decide if it can be cured. 
-
-And now let’s look at each of those FOUR CONDITIONS separately
-
- 
-
-## Slide 56
-
-### Title: 
-
-#### Body 
-
-The lawyer reasonably believes that the lawyer can provide competent and diligent representation.
-
-#### Presenter Notes: 
-
-(1)
-
-Can the lawyer manage it, 
-
-Don’t gloss over this. Lawyers have a bad tendency to think they can ALWAYS provide competent and diligent representation.
-
-Also note the use of REASONABLY. So we have a REASONABLE lawyer standard.
-
-Is a REASONABLE lawyer going to believe that you were capable of representing Larry King and all 7 of his ex wives?
-
-## Slide 57
-
-### Title: 
-
-#### Body 
-
-The representation is not prohibited by law.
-
-#### Presenter Notes: 
-
- (2)
-
-Is it against the law, (some states won’t let you represent both the husband and wife) even in an amicable divorce;
-
-other states won’t let you represent both the buyer and a seller in a real estate transaction. Others say no joint defendants in capital murder cases.
-
-You just have to check.
-
-
-## Slide 58
-
-### Title: 
-
-#### Body 
-
-The representation does not involve the assertion of a claim by one client against another client represented by the lawyer in the same litigation or other proceeding before a tribunal. 
-
-#### Presenter Notes: 
-
-(3) does it involve representing adverse parties in the same litigation.
-
-Rule 1.0 Terminology
-
-(m) "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding or a legislative body, administrative agency or other body acting in an adjudicative capacity. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, will render a binding legal judgment directly affecting a party's interests in a particular matter.
-
-Those three are pretty easy. Then we come to another hard one, 
-
-
-
-
-
-## Slide 59
-
-### Title: 
-
-#### Body 
-
- AND
-each affected client gives INFORMED CONSENT, 
-confirmed in writing.
-
-#### Presenter Notes: 
-
-“Each affected client gives informed consent confirmed in writing.”
-
-Why “confirmed in writing,” why not just a “signed writing,” as we see in some of the other rules? 
-
-Why not just consent as we see in still others?
-
-## Slide 60
-
-### Title: Informed ConsentConfirmed In Writing
-
-#### Body 
-
-Rule 1.7, Comment 20:  “The requirement of a writing does not supplant the need in most cases for the lawyer to TALK WITH THE CLIENT . . . ”
- “Rather, the writing is required to impress upon the client the seriousness of the decision . . .”
-
-#### Presenter Notes: 
-
-Well, the ABA has something specific in mind. They want you to TALK TO THE CLIENT and EXPLAIN all of the benefits and the risks of consenting to a conflict of interest. 
-
-Then they want you to send a writing—an e-mail, a letter, an engagement agreement– a writing that impresses the importance of the decision on the client. 
-
-“and avoid disputes or ambiguities that might later occur.”
-
-Don’t pass up the chance to spell out the particulars. 
-
-IT DOES NOT HAVE TO BE SIGNED BY THE CLIENT
-
-## Slide 61
-
-### Title: Informed Consent
-
-#### Body 
-
-Must include specific descriptions about conflicts and risks of conflicts. 
-Blanket general waivers are not INFORMED consent. 
-If the risks were foreseeable risks, you have to spell them out.
-
-#### Presenter Notes: 
-
-Blanket general waivers are NOT informed consent. 
-
-You have to identify and describe all of the conflicts and the risks of conflicts that you wisely foresaw when you assessed the representation under 1.7(a).
-
-AND you have to do that for EACH AFFECTED CLIENT.
-
-“You three chums all want to form a partnership. If you start fighting with each other, do I represent the partnership?” 
-
-## Slide 62
-
-### Title: ABKCO Music v. Harrisongs Music(2nd Cir 1983)
-
-#### Body 
-
-Former Beatles manager discloses confidential information about George Harrison’s MSL sales and injects self into settlement negotiations with Bright Tunes.
-
-#### Presenter Notes: 
-
-pg 812 (4th) ABKCO and Klein were agents to principal, George Harrison.
-
-But the management contract ended in 1973. So what is the problem? 
-
-Klein still owes duties to Harrison, even though mgt K has ended.
-
-An agent has a duty “not to use confidential knowledge acquired in his employment in competition with his principal.”
-
-This duty “exists as well after the employment is terminated.”
-
-## Slide 63
-
-### Title: Gershunoff v. Panov (NY 1980)
-
-#### Body 
-
-The Panovs are Russian dancers and Gershunoff is their “impresario manager'”
-Gershunoff takes 20% commission. 
-During trial, we find out Gershunoff took $25K for a performance for a promotion fee, while the dancers were paid only $10K. 
-
-#### Presenter Notes: 
-
-Gershunoff argues that he's like a producer. The New York Appellate Division
-disagrees, finding a clear-cut breach of Gershunoff's fiduciary duties to his
-clients. Court awards \$255K to Panovs.
-
-Similar to Garry Shandling/Brad Grey case. 
-
-I ASKED YOU TO READ THE QUESTIONS PRESENTED ON p. 816(4th)
-
-Can you represent both sides in a lawsuit? 
-
-E.g. Kim Basinger’s trial attorney (in contract dispute) also represents her agents, who told her she could get out of the deal? (p. 816)
-
-What if Jim Croce had given written consent for Kurnit to represent?
-
-## Slide 64
-
-### Title: Garry Shandling v. Brad Grey
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-Gary Shandling and Brillstein-Grey, pgs 818-820(4th)
-
-Bernie Brillstein & Brad Grey (currently CEO of Paramount). Anthony Pellicano case.
-
-In 1996, Brillstein sold his shares of the Brillstein-Grey company to Grey, giving Grey full rein over operations; 
-
-the company’s television unit was subsequently rechristened ”Brad Grey Television”.
-
- In 2002, Grey formed Plan B with Brad Pitt and Jennifer Aniston, with a first-look deal at Warner Bros. 
-
-After Pitt and Aniston separated, Grey and Pitt moved the company to Paramount Pictures, where Grey had become CEO after Sherry Lansing left.
-
- Gary Shandling was a funny guy in the 1970s. Met up with Brad Grey in 1979, becoming Grey’s second client. 1985, Brillstein-Grey formed. 
-
-Shandling formed a partnership with BGE to sell Garry Shandling Show to Showtime. Shandling was the star, writer, and co-producer. Grey served and was paid as executive producer.
-
-Next show, the Larry Sanders Show on HBO. Again Shandling, the star, writer and producer was getting paid $500K for each of the 16 episodes and owned half of the rights. 
-
-BGE owned the other half, and Grey was paid $50,000 per episode as executive producer. While BGE also charged a 15% commission for negotiating Shandler’s compensation, charged nothing for Grey’s fees.
-
-## Slide 65
-
-### Title: Garry Shandling v. Brad Grey
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-Things end badly.   Pellicano
-
-Shandling eventually sues Grey and his firm for $100 million in damages. 
-
-Essence of Shandling’s claim is that Grey had violated his fiduciary obligation to his client by using Shandling’s personal talent, story ideas, and reputation as the major asset through which to secure partnerships with Columbia Pictures, ABC/Capital Cities, and MCA/Universal. 
-
-Shandling argued that Grey’s primary duty was to enhance Shandling’s return on those assets. 
-
-Shandling now wants half. Scary suit for managers. It raises the question: 
-
-Do managers always owe a fiduciary duty to their clients to pursue just their interests in any such projects. 
-
-If Brad Grey or Ovitz wants to pursue their own interests in such a project must they disavow any representation of the performer and force the latter to hire another manager to get the best deal possible for the client?
-
-What’s one easy solution here? Use an agent to negotiate salaries and payments?
-
-SETTLED - HAPPENS ALL THE TIME AND IS USUALLY CONFIDENTIAL.
-
-Note, these problems don’t exist in the music biz (pg 820-21)(4th). See Geffen and Irving Azoff in middle paragraph.
-
-Gary Shandling and Brillstein-Grey, pgs 818-820(4th)
-
-Bernie Brillstein & Brad Grey (currently CEO of Paramount). Anthony Pellicano case.
-
-In 1996, Brillstein sold his shares of the Brillstein-Grey company to Grey, giving Grey full rein over operations; 
-
-the company’s television unit was subsequently rechristened ”Brad Grey Television”.
-
- In 2002, Grey formed Plan B with Brad Pitt and Jennifer Aniston, with a first-look deal at Warner Bros. 
-
-After Pitt and Aniston separated, Grey and Pitt moved the company to Paramount Pictures, where Grey had become CEO after Sherry Lansing left.
-
- Gary Shandling was a funny guy in the 1970s. Met up with Brad Grey in 1979, becoming Grey’s second client. 1985, Brillstein-Grey formed. 
-
-Shandling formed a partnership with BGE to sell Garry Shandling Show to Showtime. Shandling was the star, writer, and co-producer. Grey served and was paid as executive producer.
-
-Next show, the Larry Sanders Show on HBO. Again Shandling, the star, writer and producer was getting paid $500K for each of the 16 episodes and owned half of the rights. 
-
-BGE owned the other half, and Grey was paid $50,000 per episode as executive producer. While BGE also charged a 15% commission for negotiating Shandler’s compensation, charged nothing for Grey’s fees.
-
-## Slide 66
-
-### Title: Music
-
-#### Body 
-
-
-
-#### Presenter Notes: 
-
-The music industry (or music business) sells compositions, recordings and performances of music. 
-
-Musicians who compose and perform the music; the companies and professionals who create and sell recorded music (e.g., music publishers, producers, studios, engineers, record labels, retail and online music stores, performance rights organisations); those that present live music performances (booking agents, promoters, music venues, road crew); professionals who assist musicians with their careers (talent managers, business managers, entertainment lawyers); those who broadcast music (satellite and broadcast radio); journalists; educators; musical instrument manufacturers; as well as many others.
-
-## Slide 67
-
-### Title: Risk that lawyer’s responsibilities will be materially limited by: 
-
-#### Body 
-
-another client, 
-a former client 
-or a third person 
-or by a personal interest of the lawyer.
-
-#### Presenter Notes: 
-
-The RISK that the lawyer’s responsibilities will be compromised by: 
-
-ANOTHER CLIENT, A FORMER CLIENT, A THIRD PERSON, THE PERSONAL INTEREST OF THE LAWYER
-
-This is the HEART OF THE MATTER: Non-litigation Conflicts. Comments 26-28 of 1.7.
-
-You are dealing with multiple clients who like each other, even LOVE each other. They WANT to use one lawyer. 
-
-It often makes sense for a family to use one estate planning lawyer. I’m sure there are situations where it makes sense for groups of farmers or ranchers to use ONE WATER RIGHTS lawyer ASSUMING THERE IS NO RISK THAT YOUR REPRESENTATION OF ANY ONE OF THEM WILL BE MATERIALLY LIMITED by your representation of any one of them.
-
-Many times it’s helpful just to constantly ask WHO IS THE CLIENT and WHO IS NOT THE CLIENT. 
-
-You best friend and two other neighbors want to hire to set up a closely held corporation and represent them on a regular basis. 
-
-Don’t be what commentators call a LAWYER TO THE SITUATION. Here’s a big mess. I can sort it out because I’m a lawyer and I can do what’s right by everybody. Start small. Asks
-
-WHO IS THE CLIENT? Your best friend? The two neighbors? All of them? The corporation? Even if it means your best friend comes in second behind the two neighbors.
-
-Is there a RISK of a conflict?
-
-That’s 1.7 (a): It asks the question: IS THERE A CONFLICT or a RISK of a CONFLICT, if the answer is YES, we go to 1.7(b)
-
+**Others**
+
+* [Slate: *The Difference Between an "Agent" and a "Manager"*](http://www.slate.com/articles/news_and_politics/explainer/1998/12/the_difference_between_an_agent_and_a_manager.html)
+* Poke around [johnaugust.com](http://johnaugust.com). Podcasts, primarily for screenwriters, but John (*Go, Big Fish, Charlie & The Chocolate Factory*) and Craig Mazin (*Scary Movie* and *Hangover* sequels) often discuss topics such as:
+	- [whether to get a manager, an agent, or both,](http://johnaugust.com/2011/get-a-manager);
+	- The eternal question: [How do I get an agent?](http://johnaugust.com/2011/scriptnotes-ep-2-how-to-get-an-agent-andor-manager-transcript).
+	- [What is coverage?](http://johnaugust.com/2013/lets-talk-about-coverage).
+* [How To Query A Literary Agent,](http://www.richarddooling.com/index.php/2007/02/07/how-to-query-a-literary-agent/) by Richard Dooling
+* [Agents Who Ask For Fees](http://www.sfwa.org/fees/)
+* [Wikipedia: Literary Agent](http://en.wikipedia.org/wiki/Literary_agent)
+* [Legal definition of a "literary agent"](http://www.duhaime.org/LegalDictionary/L/LiteraryAgent.aspx).
 
 [buchwald]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1990+WL+357611&appflag=67.12 "Buchwald v. Paramount Pictures"
 [mandel]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=303+N.Y.+88&appflag=67.12 "Mandel v. Liebman"

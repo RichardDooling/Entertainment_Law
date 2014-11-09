@@ -2363,8 +2363,82 @@ Accordingly, it is hereby ORDERED
 that the motion to dismiss the first, second through seventh &hellip; 
 causes of action is granted; and it is further 
 
-### Totally Optional Readings & Viewings ###
+### Notes on *Peter Lampack Agency, Inc. v. Grimes*
 
+The Peter Lampack Agency (PLA, a literary agency) sued Martha Grimes, an author of literary and commercial fiction, for unpaid commissions allegedly due and owing under contracts negotiated by PLA on behalf of Grimes.
+
+PLA had acted as literary agent for Grimes for twelve years and had procured publishing agreements for works authored by Grimes. Those works were published, and Grimes received
+over $12 million dollars from the publication and domestic and
+international sale of her novels. 
+
+Among the contracts PLA procured for Grimes was a four-book publishing agreement entered into by Grimes, Penguin, and Viking-Penguin in 2005. 
+
+That 2005 agreement contained an option clause, similar to option clauses found in many publishing agreements, in effect giving the publisher the right of "first look" at the author's next work:
+
+> [T]he Author hereby grants to the Publisher the exclusive right and option to publish . . . her next book-length work of fiction . . . . The Publisher shall have a period of thirty (30) days after receipt by the Publisher of the notification from the Author or her agent of the Author's desire to commence negotiation concerning such next book-length work of fiction within which to notify the Author whether it desires to publish such work and to negotiate the terms and conditions of such publication.
+
+The 2005 Penguin agreement also contained an agency commission clause, providing that:
+
+> The Author hereby appoints [PLA] irrevocably as the Agent in all matters pertaining to or arising from this Agreement . . . . Such Agent is hereby fully empowered to act on behalf of the Author in all matters in any way arising out of this Agreement . . . . All sums of money due the Author under this Agreement shall be paid to and in the name of said Agent . . . . The Author does also irrevocably assign and transfer to [PLA], as an agency coupled with an interest, and [PLA] shall retain a sum equal to fifteen percent (15%) of all gross monies due and payable to the account of the Author under this Agreement.
+
+In or about May 2007, Grimes notified PLA that she would no longer be using PLA as her
+literary agent and retained a new representative.
+
+On February 4, 2009, in accordance with the terms of the Option on Next Work clause, Grimes' counsel sent a letter to Penguin enclosing a manuscript of "The Black Cat." 
+
+On February 27, 2009, Penguin made an oral proposal to Grimes' counsel and the agreement for "The Black Cat" was finalized on August 20, 2009. 
+
+On November 18, 2009, PLA filed a complaint against Grimes and her publishers alleging breach of contract among other claims. PLA alleged that the publishing agreement for "The Black Cat" arose out of the Option on Next Work clause and that Grimes violated the terms of the 2005 Penguin/Viking-Penguin Agreement by refusing to account to PLA and refusing to pay PLA the sums due for "The Black Cat."
+
+PLA also alleged that the defendants acted in bad faith and breached the covenant of good faith and fair dealing implied in the 2005 Penguin/Viking-Penguin Agreement.
+
+PLA also contended that Grimes owed it commissions on various extensions of publishing agreements that PLA had procured for Grimes over the years. 
+
+Defendant Martha Grimes moved to dismiss arguing that under the 2005
+Penguin/Viking-Penguin Agreement, PLA was not entitled to commission for
+"The Black Cat" because: 
+
+1. PLA's agency is not coupled with an interest and PLA's agency was revoked in May 2007; 
+2. the Option on Next Work clause is an unenforceable "agreement to agree"; and 
+3. the publishing agreement for "The Black Cat" does not arise out of the
+Option on Next Work clause.
+
+The trial court ruled in favor of author Martha Grimes on all counts holding:
+
+> The only part of the 2005 Penguin/Viking-Penguin Agreement that entitles
+PLA to commission is the commission provision. The Option on Next Work
+clause does not provide for PLA to receive commission for publishing
+agreements arising out of the clause. 
+
+Instead, the court looked at the commission provision and found that PLA was not entitled to commissions on "The Black Cat" or any other publishing agreements or extensions of prior publishing agreements entered into after Grimes had notified PLA that it was no longer her literary agent. 
+
+On the question of whether the commission clause found in the Penguin 2005 publishing agreements constituted an "agency with an interest," the court had this to say:
+
+> It is the general rule that an agency for no definite term is revocable
+at will. [] However, when an agency authority is coupled with an interest,
+the agency is irrevocable. [] An agency is coupled with an interest where, as a part of the
+arrangement with the principal, the agent receives title to all or part
+of the subject matter of the agency.
+
+Citing the Restatement 2nd of Agency 2d Agency § 63 and New York law, the court said:
+
+> To make the power irrevocable, there must be an interest
+in the subject of the agency itself, and not a mere interest in the
+result of the execution of the authority . . . . . Words alone are not
+enough to establish an agency coupled with an interest.
+
+The court found that 2005 Penguin commission provision granted PLA a 15% commission in
+the proceeds from its sale of rights in Grimes' literary works and not
+an interest in those literary works themselves. The mere fact that the
+commission provision "appoints PLA irrevocably" as an agent was not
+enough to create an agency coupled with an interest.
+
+Because PLA did not have a property interest in Grimes' literary works, its agency was revocable, and it was revoked in May 2007. 
+
+* [Trial Court Opinion: Peter Lampack Agency v. Martha Grimes,](http://scholar.google.co.uk/scholar_case?case=2622311633908231934) (2010 NY Slip Op 51749).
+* [Court of Appeals: Peter Lampack Agency v. Martha Grimes,](http://scholar.google.co.uk/scholar_case?case=5116981929088179346) 93 A.D.3d 430 (NY.Ct. App. 2012).
+
+### Totally Optional Readings & Viewings ###
 * [Ben Stein Sues Firm For Backing Out Of Contract][stein]. Stein, the prolific actor, author, spokesperson, pundit and one-time star of Comedy Central's game show Win Ben Stein's Money, has sued a Japanese company and its New York ad agency for $300,000 for allegedly backing out of a deal to hire him to act in commercials when they found out about his beliefs on global warming.
 * [Penguin Group files lawsuits against prominent writers who fail to deliver books][penguin]. A New York publisher this week filed lawsuits against several prominent writers who failed to deliver books for which they received hefty contractual advances, records show. The Penguin Group's New York State Supreme Court breach of contract/unjust enrichment complaints include copies of book contracts signed by the respective defendants.
 
