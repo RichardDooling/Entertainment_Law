@@ -46,7 +46,7 @@ a proposed contract containing outrageously unfair contract provisions.
 
 Paradoxically, small publishers are more likely to have boilerplate contracts
 with dangerous or unfair contract language,
-not because small publishers overreach  
+not because small publishers overreach 
 or are out to screw authors, 
 but because smaller publishers 
 often can't afford legal representation 
@@ -76,7 +76,7 @@ in the same way that real estate agents
 Literary agents swear that they do not provide legal advice 
 about book contract provisions 
 (to avoid violating the admittedly vague rules in all fifty states 
-against the unauthorized practice of law (UPL)), 
+against the unauthorized practice of law (UPL), 
 but they do provide advice, 
 often much better advice 
 than an author could get from a lawyer with no publishing experience.
@@ -84,7 +84,7 @@ than an author could get from a lawyer with no publishing experience.
 ### Lawyers & Book Contracts
 
 Most agents will insist 
-that the authors they represent do NOT need lawyers to review book contracts.  
+that the authors they represent do NOT need lawyers to review book contracts. 
 They are probably right. 
 And every agent can tell the tale of a lawyer 
 who got in the way of making a great book deal 
@@ -160,7 +160,7 @@ If you are a author or novelist (or someone trying to provide legal advice to on
 
 > The Author grants to the Publisher the exclusive right to publish, reproduce and distribute the Work in the English language and to exercise and grant to third parties the rights to the Work described in Paragaph 6 (the sub rights provisions) throughout the United States and its territories, Canada and the Philippines.
 
-### An Unfair Example
+#### An Unfair Example
 
 > The Author hereby grants and assigns to the Publisher for the legal term of copyright (including any renewals, extensions, reversions and continuations thereof) all rights and interests in the Work and any new or revised, adapted or abridged editions thereof, including without limitation the exclusive rights, by itself and/or with others, to print, publish, republish, transmit, display, sell and distribute the Work and to prepare, publish and distribute derivative works based thereon, in all languages throughout the world, in any form or media of expression whatsoever now known or hereafter developed or invented (including without limitation any form of electronic publication distribution or transmission that the Publisher may wish); and to license such rights to others as set forth in Schedule II on such terms as the Publisher may determine.
 
@@ -178,7 +178,7 @@ In keeping with our analogy of a bundle of rights being much like a bundle of st
 
 * The territory (country or countries) or the geographical area where the Publisher may exercise the rights granted;
 * The time period; how long may the Publisher exercise these rights?
-* The language (English, Spanish, German, Japanese &hellip; 
+* The language (English, Spanish, German, Japanese &hellip;)  
 * Is the right exclusive or nonexclusive? In other words may the author also sell the right to publish English language editions in the United Kingdom to more than one publisher?
 
 Territories, language, and exclusivity are usually expressed in the grant itself. The time period usually says "for the full term of the copyright available to the Work," but in fact this period of time is usually limited by the "Out of Print" provisions described below.
@@ -192,7 +192,7 @@ Of course, it's necessary to grant some exclusive rights (that's what you are se
 Here the author promises to deliver a manuscript 
 containing a specified number of words, for example: 80,000 words, or a range: 90,000 to 110,000 word. Not pages. These clauses may also include a general description of the manuscript (fiction or nonfiction) and general tone or genre. 
 
-If there are maps, photos, illustrations and the like, a description of these should also be included here, as well as who pays to obtain and prepare them (usually the author pays). Also, in the case of a nonfiction book, the publisher may require that the author prepare and index, or pay the publisher to have one prepared. These can be expensive, often a few hundred dollars or more. 
+If there are maps, photos, illustrations and the like, a description of these should also be included here, as well as who pays to obtain and prepare them (usually the author pays). Also, in the case of a nonfiction book, the publisher may require that the author prepare an index, or pay the publisher to have one prepared. These can be expensive, often a few hundred dollars or more. 
 
 #### Satisfactory Manuscript
 
@@ -215,7 +215,7 @@ after the publisher made its deal with the author.
 The simple solution is to include provisions that deal with the following:
 
 1. A time certain for the publisher to accept or reject the manuscript after it is submitted. Thirty (30) days seems fair.
-2. If the publisher wants changes, how will those be communicated to the author? And how long does the author have to address any shortcomings. 
+2. If the publisher wants changes, how will those be communicated to the author? (Written notes are best.) And how long does the author have to address any shortcomings? (Two months or 60 days is fair.) 
 3. Spell out the publisher's obligation to assist the author in editing a second corrected draft before ultimately rejecting the manuscript.
 4. If the publisher is still not satisfied after the author has attempted to address shortcomings in the manuscript and the publisher no longer wishes to publish, then what about the monies already advanced? 
 5. If the author goes elsewhere and obtains a publishing deal, must the author pay back the monies advanced by the first unsatisfied publisher?
@@ -228,8 +228,9 @@ a fair disposition of monies paid out by a publisher who no longer wishes to pub
 > If the Work is rejected for any of the reasons set forth above, the Author may retain fifty percent (50%) of any amounts advanced to the Author pursuant to this contract and shall repay the publisher fifty percent (50%) of any amounts advanced within twelve (12) months. 
 
 Typically after such rejection, 
-the author will be entitled to sell the manuscript to another publisher 
-and may be required to repay 
+the author will be entitled to sell the manuscript to another publisher. 
+If she's lucky in getting another publisher to buy the manuscript, 
+then she may be required to repay 
 the other fifty percent (50%) of the monies advanced by publisher one.
 
 ### Publication ###
@@ -313,7 +314,7 @@ An out-of-print clause allows you to terminate the contract and regain all right
 
 > Subsidiary rights are rights an author grants to the publisher in addition to the right to initially publish the book. In general &hellip; the publisher does not exercise these rights itself. Instead it licenses them to others and shares the money it gets with the author.
 
-> [*Negotiating A Book Contract,*][levin], by Mark L. Levine
+> [*Negotiating A Book Contract,*][levine], by Mark L. Levine
 
 An author represented by an agent or a good lawyer won't have to worry because they'll have good advice about what sub rights to grant and which to reserve. Otherwise it is a tricky issue because the question is: Who is best able to sell and exploint these rights? A tiny publisher in Anchorage, Alaska is probably not set up to sell film rights in Hollywood, nor is it likely capable of licensing rights to a Japanese publisher. 
 
@@ -342,7 +343,7 @@ If possible obtain a "renegotiation clause," which gives the author and the publ
 
 [model]:  https://www.authorsguild.org/member-benefits/legal-services/model-book-contract/
 [improving]: http://www.authorsguild.org/services/legal-services/improving-your-book-contract/ "Authors Guild: Improving Your Book Contract"
-[balkin]: http://www.amazon.com/Negotiations-Negotiating-Profitable-Contracts-Agreements-/dp/0898793602/inscape-20 "Richard Balkin, Contract Negotiations"
+[balkin]: http://www.amazon.com/Negotiations-Negotiating-Profitable-Contracts-Agreements-/dp/0898793602/inscape-20 "Richard Balkin, Contract Negotiations" 
 [levine]: http://www.amazon.com/Negotiating-Book-Contract-Authors-Lawyers/dp/1559213833/inscape-20 "Mark L. Levine, Negotiating A Book Contract"
 [guild]: https://www.authorsguild.org/member-benefits/legal-services/contract-reviews/ "Legal Services & Contract Review" 
 [reviews]: http://www.authorsguild.org/member-benefits/legal-services/contract-reviews/ "The Authors Guild 3-Step Approach To Negotiating Contracts" 
