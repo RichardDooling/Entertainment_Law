@@ -71,15 +71,15 @@ who then help authors place their manuscripts with publishers
 and negotiate the terms of book contracts.
 
 Literary agents "handle" book contracts for their author clients 
-in the same way that real estate agents 
+the way real estate agents 
 "handle" real estate purchase agreements for homeowners and home buyers. 
 Literary agents swear that they do not provide legal advice 
 about book contract provisions 
 (to avoid violating the admittedly vague rules in all fifty states 
 against the unauthorized practice of law (UPL), 
-but they do provide advice, 
-often much better advice 
-than an author could get from a lawyer with no publishing experience.
+but agents do provide advice, 
+often better real-world advice 
+than an author could get from a lawyer with or without publishing experience.
 
 ### Lawyers & Book Contracts
 
@@ -130,7 +130,7 @@ There are three categories of membership in the Guild.
 The particulars of these requirements are spelled out at the [Authors Guild Membership Eligibility Page](http://www.authorsguild.org/members/guild-membership-eligibility/); 
 a short summary follows.
 
-1. **Regular Membership:** For authors published by "an established U.S. book publisher," for writers published by "periodicals of general circulation in the U.S.," or authors and writers who have earned "writing income" (including from self-published works) of at least $5,000 in an 18-month period. The particulars of these requirements are spelled out on the 
+1. **Regular Membership:** For authors published by "an established U.S. book publisher," for writers published by "periodicals of general circulation in the U.S.," or authors and writers who have earned "writing income" (including from self-published works) of at least $5,000 in an 18-month period. 
 
 2. **Associate Membership:** For authors have who have been "offered a contract with an established American book publisher, if an established literary agency has offered to represent you, or if you have earned at least $500 in writing income (including self-published writing income) as a book author or freelance writer in the 18 months prior to applying for membership." 
 
