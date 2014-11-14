@@ -62,7 +62,9 @@ All files contain the same content, just in different formats. For example, the 
 
 If you click on the Markdown file (Introduction.md) you can view it as you would a webpage. 
 
-If you click on the Introduction.docx or Introduction. pdf, you can't view the files, but you can download them if you click on the link that says "view raw."
+If you click on the Introduction.docx or Introduction. pdf, you can't view the files, but you can download them if you click on the button that says "Raw." (Clicking on "View Raw" gives an error.)
+
+![Click On The Raw Button](Download_Single_File.png "Click Raw")
 
 ### Download Zip
 

@@ -102,7 +102,7 @@ Agent Richard Balkin described it this way:
 
 > There is no need to be daunted or intimidated by the printed word in contracts, for most authors and all agents make many changes on the boilerplate. Still, the problem for the initiate is not only which changes to make, but which changes *can be made*. That is, you want to know which clauses and provisions editors are willing to haggle over and which terms reflect fixed house policy or are so taken for granted by those in the industry that a writer's request to change them will be met with great resistance or complete inflexibility.  
 
-> *A Writer's Guide To Contract Negotiations*, by Richard Balkin, Writers Digest Books, 1985.
+> [*A Writer's Guide To Contract Negotiations*,][balkin] by Richard Balkin, Writers Digest Books, 1985.
 
 However, once Hollywood or foreign publishers get involved, 
 many agents welcome the assistance of a good entertainment lawyer or publishing lawyer. 
