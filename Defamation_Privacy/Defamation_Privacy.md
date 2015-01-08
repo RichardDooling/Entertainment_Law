@@ -800,7 +800,7 @@ misappropriation, his attempt fails.
 
 Even if Matthews has created a genuine issue of material fact on his misappropriation claim, Wozencraft is entitled to summary judgment as a matter of law because of free speech and public domain defenses. 
 
-#####  1.
+##### 1.
 
 While there is no binding authority directly on point, we conclude that
 Wozencraft's novel falls within the protection of the First Amendment.
@@ -863,7 +863,7 @@ fictionalized form. [*Douglass*](http://scholar.google.com/scholar_case?case=178
 
 [The court's discussion of contract matters and division of marital property omitted.]
 
-####  VI.
+###  VI.
 
 Matthews has created no genuine issue of material fact under Texas law.
 Thus, we AFFIRM the district court's grant of summary judgment on all
@@ -1594,16 +1594,28 @@ Most defamation and privacy cases deal early on with the issue of whether plaint
 
 #### General Purpose Public Figures.
 
-These are easy to spot, as the D.C. Circuit put it in [*Waldbaum v. Fairchild Publications*]
-(http://scholar.google.com/scholar_case?case=90016016899445152060):
+These are easy to spot, as the D.C. Circuit put it in 
+[*Waldbaum v. Fairchild Publications*](http://scholar.google.com/scholar_case?case=90016016899445152060):
 
-> A general public figure is a well-known "celebrity," his name a "household word." The public recognies him and follows his words and deeds, either because it regards his ideas, conduct, or judgment as worthy of the attention or because he actively pursues that consideration.
+> A general public figure is a well-known "celebrity," 
+> his name a "household word." 
+> The public recognizes him and follows his words and deeds, 
+> either because it regards his ideas, conduct, or judgment 
+> as worthy of the attention 
+> or because he actively pursues that consideration.
 
 #### Limited-Purpose Public Figure
 
 In its leading opinion on public *figures*, [*Gertz v. Robert Welch, Inc.* (S.Ct. 1974)][gertz], as opposed to public *officials*, [*New York Times v. Sullivan* (S.Ct. 1968)][sullivan], the United States Supreme Court identified at least two kinds of public figures:
 
-> In some instances an individual may achieve such pervasive fame or notoriety that he becomes a public figure for all purposes and in all contexts. More commonly, an *individual voluntarily injects himself or is drawn into a particular public controversy and thereby becomes a public figure for a limited range of issues*. In either case such persons assume special prominence in the resolution of public questions.
+> In some instances 
+> an individual may achieve such pervasive fame or notoriety 
+> that he becomes a public figure for all purposes and in all contexts. 
+> More commonly, an *individual voluntarily injects himself 
+> or is drawn into a particular public controversy 
+> and thereby becomes a public figure for a limited range of issues*. 
+> In either case 
+> such persons assume special prominence in the resolution of public questions.
 
 > Absent clear evidence of general fame or notoriety in the community, and pervasive involvement in the affairs of society, an individual should not be deemed a public personality for all aspects of his life. It is preferable to reduce the public-figure question to a more meaningful context by looking to the nature and extent of an individual's participation in the particular controversy giving rise to the defamation.
 
@@ -1634,7 +1646,7 @@ These distinction in the small number of cases discussing involuntary public fig
 
 ### *Street v. National Broadcasting Co.*
 
-#####(6th Circuit 1981)
+###### (6th Circuit 1981)
 
 * [Case in Google Scholar](http://scholar.google.com/scholar_case?about=4559741824903610057&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
 * [Case in Wikipedia](http://en.wikipedia.org/wiki/National_Broadcasting_Co._v._United_States)

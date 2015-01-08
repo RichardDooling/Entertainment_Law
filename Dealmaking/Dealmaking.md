@@ -1091,7 +1091,7 @@ If the movie gets made, the producer or studio will pay the total amount of mone
 The option agreement MUST CONTAIN A PURCHASE PRICE to be an enforceable promise (PL 101-105). Otherwise the producer has promised only to BUY the movie rights, not how much she will pay. 
 
 The price may vary greatly, but it must be negotiated up front at the time the option agreement is made. If the movie gets made, the author is paid in full. If the deal falls through for any reason and the movie does NOT get made in the option period, then the novelist keeps the option payment and the movie rights remain with the novelist, too.  
-Dealmaking in the publishing industry has always been a civilized sport with just a few usually friendly players: author, agent and publisher. Even deals worth millions are relatively simple and sound, never mind that it was made over the phone weeks ago. The same is true in Hollywood, despite the occasional high-profile lawsuits, some of which we read. 
+
 
 [goldseal]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=286+P.2d+954&appflag=67.12 "Gold Seal v. RKO"
 [pinnacle]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=519+F.supp+118&appflag=67.12 "Pinnacle Books v. Harlequin"

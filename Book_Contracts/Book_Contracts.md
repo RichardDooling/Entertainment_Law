@@ -33,8 +33,7 @@ like:
 
 - the "Out of Print" provision,
 - lawsuits for infringement, and 
-- the agency clause 
-(which provides that all contract payments are made to literary agents,  
+- the agency clause (which provides that all contract payments are made to literary agents,  
 who take their 15% commissions, and send the rest to their authors). 
 
 ## Standard Publishing Agreements

@@ -34,7 +34,6 @@ Using some of language, California passed a law banning the sale of violent vide
 * [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=131sct2729&appflag=67.12)
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Brown_v._Entertainment_Merchants_Association).
 
-Justice SCALIA delivered the opinion of the Court.
 
 We consider whether a California law imposing restrictions on violent
 video games comports with the First Amendment.
@@ -130,7 +129,7 @@ Justice ALITO has done considerable independent research to identify &hellip; vi
 
 ### III
 
-Because the Act imposes a restriction on the content of protected speech, it is invalid unless California can demonstrate that it passes strict scrutiny--that is, unless it is justified by a compelling government interest and is narrowly drawn to serve that interest.  [*R.A.V.,*](/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0). The State must specifically identify an "actual problem" in need of solving, [*Playboy,*](http://scholar.google.com/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) and the curtailment of free speech must be actually necessary to the solution, see [*R.A.V., supra,*](http://scholar.google.com/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  That is a demanding standard. "It is rare that a regulation restricting speech because of its content will ever be permissible." [*Playboy, supra,* at 818](http://scholar.google.com/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
+Because the Act imposes a restriction on the content of protected speech, it is invalid unless California can demonstrate that it passes strict scrutiny--that is, unless it is justified by a compelling government interest and is narrowly drawn to serve that interest.  [*R.A.V.,*](http://scholar.google.com/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0). The State must specifically identify an "actual problem" in need of solving, [*Playboy,*](http://scholar.google.com/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0) and the curtailment of free speech must be actually necessary to the solution, see [*R.A.V., supra,*](http://scholar.google.com/scholar_case?case=14621372290934958371&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).  That is a demanding standard. "It is rare that a regulation restricting speech because of its content will ever be permissible." [*Playboy, supra,* at 818](http://scholar.google.com/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0).
 
 California cannot meet that standard. At the outset, it acknowledges
 that it cannot show a direct causal link between violent video games and
@@ -140,8 +139,7 @@ the State claims that it need not produce such proof because the
 legislature can make a predictive judgment that such a link exists,
 based on competing psychological studies. But reliance on *Turner
 Broadcasting* is misplaced. That decision applied *intermediate
-scrutiny* to a content-neutral regulation &hellip; California's burden is much higher, and because it bears
-the risk of uncertainty, see [*Playboy, supra,*](http://scholar.google.com/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)
+scrutiny* to a content-neutral regulation &hellip; California's burden is much higher, and because it bears the risk of uncertainty, see [*Playboy, supra,*](http://scholar.google.com/scholar_case?case=11989907166283121695&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)
 ambiguous proof will not suffice.
 
 The State's evidence is not compelling. California relies primarily on
@@ -282,6 +280,25 @@ We affirm the judgment below.
 *It is so ordered.*
 
 [Justice ALITO and Chief Justice ROBERTS concurred; Justice THOMAS dissented.]
+
+Justice SCALIA delivered the opinion of the Court.
+
+#### *Brown* Could Have Gone The Other Way?
+
+[The Supreme Court Came Alarmingly Close to Allowing Video Game Censorship][http://www.slate.com/blogs/future_tense/2015/01/07/elena_kagan_reveals_the_supreme_court_came_close_to_allowing_video_game.html?wpsrc=fol_tw]
+
+By Mark Joseph Stern
+
+> It could have been very, very different. 
+> On Monday, Ars Technica unearthed remarks 
+> by Justice Elena Kagan at a Princeton forum in November. 
+> When asked about the toughest case she’d yet decided, 
+> Kagan cited EMA, noting that 
+> “I kept on going back and forth and back and forth.” 
+> Her intuition, Kagan said, told her that California’s law “was OK,” 
+> but free-speech principles required her to invalidate the law. 
+> “That is the one case,” Kagan added, 
+> “where I kind of think I just don’t know. I just don’t know if that’s right.”
 
 ## Civil Liability For Inciting Violence?
 
