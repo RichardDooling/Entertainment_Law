@@ -15,7 +15,7 @@ The First Amendment says:
 
 > Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
 
-But as lawyers, agents and representatives working for artists, or as people who collaborate with and represent artists, we are usually not concerned about establishing religions or assembling to petition the government; we are concerned about SPEECH. So an edited version of the First Amendment for those in the entertainment industry might go like this:
+But as lawyers, agents and representatives working for artists, or as people who collaborate with and represent artists, we are usually not concerned about establishing religions or assembling to petition the government; we are concerned about SPEECH. So an edited version of the First Amendment for those in the entertainment and publishing industries might go like this:
 
 > Congress shall make no law . . . abridging the freedom of speech. 
 
@@ -41,7 +41,7 @@ If the First Amendment doesn't mean what it says, then what does it mean? Some F
 
 Sounds like a question the professor might pose to kill twenty minutes of class time when he's unprepared to teach the next case, but the question lurks in the background of many a Supreme Court opinion. If not all speech is protected, courts often consider what the Founders meant by the simple statement: Congress shall make no law abridging the freedom of speech.
 
-Why was the First Amendment added to the Constitution in 1791? And if Congress meant what it said about passing no laws abridging the freedom of speech, why seven years later (in 1798) did Congress pass the [Alien and Sedition Acts](http://en.wikipedia.org/wiki/Alien_and_Sedition_Acts) which made it a crime for anyone to publish "false, scandalous, and malicious writing against the government or its officials?"
+Why was the First Amendment added to the Constitution in 1791? And if Congress meant what it said about passing no laws abridging the freedom of speech, then why seven years later (in 1798) did Congress pass the [Alien and Sedition Acts](http://en.wikipedia.org/wiki/Alien_and_Sedition_Acts) which made it a crime for anyone to publish "false, scandalous, and malicious writing against the government or its officials?"
 
 [Eugene Volokh](http://en.wikipedia.org/wiki/Eugene_Volokh) argues that the problematic words are not "make no law," but rather "the freedom of speech." In speculating on what the Founders had in mind, Volokh has this to say.
 
@@ -67,13 +67,15 @@ To Justice Holmes, there's no such thing as good or bad speech, only speech that
 
 #### Civic Republicanism
 
-Justice Louis Brandeis offered a parallel and sometimes competing principle of First Amendment theory eight years later, when he articulated what might be called the purpose of the First Amendment:
+Justice Louis Brandeis offered a parallel and sometimes competing principle of First Amendment theory eight years later, when he described the purpose of the First Amendment:
 
 > Those who won our independence . . . believed that freedom to think as you will and to speak as you think are means indispensable to the discovery and spread of political truth; that without free speech and assembly discussion would be futile . . .  --Whitney v. California (1927)
 
-See how Justice Brandeis suggests that the First Amendment does not exist to protect *all* speech; it exists to protect speech that leads to the discovery and spread of "political truth." Brandeis wants to protect speech, not because it's an absolute value or good for the soul, but because it's essential for democracy and civic republicanism. Quite a different concern than Justice Holmes' marketplace where it's every idea for itself and survival of the fittest. In fact, Holmes would probably say that there is no such thing as "political truth." Truth is whatever the marketplace says it is. If cat videos beat out President Obama's State of the Union address, so be it.
+See how Justice Brandeis suggests that the First Amendment does not exist to protect *all* speech; it exists to protect speech that leads to the discovery and spread of "political truth." Brandeis wants to protect speech, not because it's an absolute value or good for the soul, but because it's essential for democracy and [civic republicanism](http://www.britannica.com/EBchecked/topic/1916872/civic-republicanism). Quite a different concern than Justice Holmes' marketplace where ideas fight it out for survival of the fittest. In fact, Holmes would probably say that there is no such thing as "political truth." Truth is whatever the marketplace says it is. If cat videos beat out President Obama's State of the Union address, so be it.
 
-But a film producer or a director or an author needs an entertainment lawyer, not a con law scholar. The First Amendment is an absorbing system of case law and legal theories, but we have to get on with the business of ENTERTAINMENT.
+First Amendment cases in the United States Supreme Court are dramatic battles, usually between speakers with unpopular or dangerous views and governments that want to ban or censor their speech. What will happen when the family of a fallen veteran sues the Westboro Baptist Church for picketing their son's funeral? Or what about virtual child pornography? Or pornography made without using real children, and all of the "actors" are computer generated? Is virtual child pornography subject to the same extremely serious penalties that the government imposes on creating, possessing, or distributing child pornography created by using real child actors?  
+
+But a film producer or a director or a screenwriter or author needs an entertainment lawyer, not a con law scholar. 
 
 ## Are Movies Speech?
 
@@ -87,25 +89,35 @@ Oh, what might have been! In 1915, when the motion picture business was still in
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=35+S.Ct.+387&appflag=67.12)
 * [case at Wikipedia.](http://en.wikipedia.org/wiki/Mutual_Film_Corporation_v._Industrial_Commission_of_Ohio) 
 
-The state government of Ohio had passed a statute in 1913 forming a board of censors which had the duty of reviewing and approving all films intended to be exhibited in the state. The board charged a fee for the approval service. The board could order the arrest of anyone showing an unapproved film in the state.
+The state government of Ohio had passed a statute in 1913 forming a board of censors which had the duty of reviewing and approving all films intended to be exhibited in the state. 
 
-Mutual Film Corporation, a movie distributor, argued that this licensing scheme and Ohio's censorship of movies violated its freedom of speech. 
+Under the Ohio law: 
 
-The Supreme Court in a unanimous opinion noted the insidious power of movies to affect the sensibilities of women and children and dismissed Mutual Film's "freedom of speech" arguments without a second thought.  
+"Only such films as are in the judgment and discretion of the board of censors of a moral, educational or amusing and harmless character shall be passed and approved by such board." 
 
-> [T]he exhibition of moving pictures is a business pure and simple, originated and conducted for profit, like other spectacles, not to be regarded . . . as part of the press of the country or as organs of public opinion. They are mere representations of events, of ideas and sentiments published and known, vivid, useful and entertaining no doubt, but, as we have said, capable of evil, having power for it, the greater because of their attractiveness and manner of exhibition.
+The Ohio Board charged a fee for the approval service, and the Board could order the arrest of anyone showing an unapproved film in the state. 
 
-#### The Hays Code
+When Mutual Film Corporation, a movie distributor, sued the Board arguing that this licensing scheme and Ohio's censorship of movies violated its freedom of speech, the company lost in the lower court and then appealed to the United States Supreme Court. 
 
-From 1915 (the date of the *Mutual Film* decision) to 1952, the film industry embarked on zealous self regulation to ward off the welter of state censorship laws that were passed to regulate morals and movies. The infamous [Motion Picture Production Code aka the "Hays Code](http://en.wikipedia.org/wiki/Motion_Picture_Production_Code) 
+In a unanimous opinion, the Supreme Court noted the insidious power of movies to affect the sensibilities of women and children and dismissed Mutual Film's "freedom of speech" arguments without a second thought:  
 
-The code had three general principles:
+"[T]he exhibition of moving pictures is a business pure and simple, originated and conducted for profit, like other spectacles, not to be regarded . . . as part of the press of the country or as organs of public opinion. They are mere representations of events, of ideas and sentiments published and known, vivid, useful and entertaining no doubt, but, as we have said, capable of evil, having power for it, the greater because of their attractiveness and manner of exhibition."
+
+### The Hays Code
+
+Hollywood panicked at the propect of trying to distribute movies in fifty different states with fifty different boards of censorship and fifty different ideas about what makes a film "moral, educational or amusing and harmless." 
+
+From 1915 (the date of the *Mutual Film* decision) to 1952, the film industry zealously regulated itself to show the states they need not worry about censoring Hollywood movies. The industry created the infamous Motion Picture Production Code aka the "Hays Code" and aggressively enforced it. 
+
+Named after Will H. Hays, president of the Motion Picture Producers and Distributors of America from 1922 to 1945, the Code had three general principles:
 
 1. No picture shall be produced which will lower the moral standards of those who see it. Hence the sympathy of the audience shall never be thrown to the side of crime, wrong-doing, evil or sin.
-2. Correct standards of life, subject only to the requirements of drama and entertainment, shall be presented.
-3. Law, natural or human, shall not be ridiculed, nor shall sympathy be created for its violation. (From the Production Code, 1934)
 
-The Production Code became more stringent and obnoxious to filmmakers until 1952 when a "miracle" happened.
+2. Correct standards of life, subject only to the requirements of drama and entertainment, shall be presented.
+
+3. Law, natural or human, shall not be ridiculed, nor shall sympathy be created for its violation. 
+
+(From the Production Code, 1934)
 
 ### *Joseph Burstyn, Inc. v. Wilson*
 
@@ -116,23 +128,18 @@ The Production Code became more stringent and obnoxious to filmmakers until 1952
 * [case at Westlaw][burstyn]
 * [case at Wikipedia][burstyn-w]
 
-The "miracle" took the form of the Supreme Court's next take on the question: Are movies speech? The movie in question, Roberto Rosselini's *The Miracle* starring the director Federico Fellini. 
+The Production Code became more stringent and obnoxious to filmmakers until 1952 when a "miracle" happened, namely, Roberto Rosselini's *The Miracle* starring Anna Magnani as a dim-witted peasant girl who mistakes a bearded stranger (played by Federico Felini) for St. Joseph, her favorite saint. The bearded stranger plies the girl with wine and apparently ravishes her. When the poor girl discovers later that she is pregnant, she cries "It is the grace of God" and decides that she is the Virgin Mary and that this must be an Immaculate Conception.  
 
-After its American release, the New York State Board of Regents reportedly received "hundreds of letters, telegrams, postcards, affidavits and other communications" protesting or defending the film's exhibition. Three members of the Board examined the movie and concluded that *The Miracle* was "sacrilegious" and ordered the film producers to prove otherwise at a hearing. The hearing determined that the film indeed constituted religious bigotry, and the Commissioner of Education rescinded the producer's license to exhibit the picture.
+Needless to say, the film offended and enraged Catholics all over the world, including the mighty Cardinal Spellman, Archbishop of New York, who issued a statement to be read aloud at mass in 400 New York parishes. Even though Spellman had not seen the movie, he called it "a despicable affront to every Christian" and "a blot upon the escutcheon of the Empire State" whose Board of Regents had issued a license to allow *The Miracle* to be shown in the first place. 
 
-Here is a summary of *The Miracle's* story, written by a reporter for the *Atlantic Monthly* and quoted in a concurring opinion in the case itself:
+Parades and picketing followed. The Paris Theatre on two different evenings was emptied on threat of bombings. Three members of New York's Board of Regents viewed the film and concluded that *The Miracle* was "sacrilegious" and ordered the film producers to prove otherwise at a hearing. The hearing determined that the film indeed constituted religious bigotry, and the Commissioner of Education rescinded the producer's license to exhibit the picture.
 
-> A poor, simple-minded girl is tending a herd of goats on a mountainside one day, when a bearded stranger passes. Suddenly it strikes her fancy that he is St. Joseph, her favorite saint, and that he has come to take her to heaven, where she will be happy and free. While she pleads with him to transport her, the stranger gently plies the girl with wine, and when she is in a state of tumult, he apparently ravishes her. (This incident in the story is only briefly and discreetly implied.)
+Joseph Burstyn, Inc., distributor of *The Miracle,* sued, first in New York courts, which upheld the Board of Regents' determination that the film was sacrilegious. New York's highest court held that there was "nothing mysterious" about the law that gave New York the right to censor films, saying: "It is simply this: that no religion, as that word is understood by the ordinary, reasonable person, shall be treated with contempt, mockery, scorn and ridicule."
 
-> The girl awakens later, finds the stranger gone, and climbs down from the mountain not knowing whether he was real or a dream. She meets an old priest who tells her that it is quite possible that she did see a saint, but a younger priest scoffs at the notion. "Materialist!" the old priest says.
+*The Miracle* then went to the United States Supreme Court, where, in 1952,  
+thirty-two years after the Court had declared movies to be "a business pure and simple" and not speech protected by the First Amendment, the Court finally decided not only that movies were speech protected by the First Amendment, but that any Board of censors trying to define "sacrilegious" would be "set adrift upon a boundless sea amid a myriad of conflicting currents of religious views, with no charts but those provided by the most vocal and powerful orthodoxies, New York cannot vest such unlimited restraining control over motion pictures in a censor."
 
-> There follows now a brief sequence—intended to be symbolic, obviously—in which the girl is reverently sitting with other villagers in church. Moved by a whim of appetite, she snitches an apple from the basket of a woman next to her. When she leaves the church, a cackling beggar tries to make her share the apple with him, but she chases him away as by habit and munches the fruit contentedly.
-
-> Then, one day, while tending the village youngsters as their mothers work at the vines, the girl faints and the women discover that she is going to have a child. Frightened and bewildered, she suddenly murmurs, "It is the grace of God!" and she runs to the church in great excitement, looks for the statue of St. Joseph, and then prostrates herself on the floor.
-
-> Thereafter she meekly refuses to do any menial work and the housewives humor her gently but the young people are not so kind. In a scene of brutal torment, they first flatter and laughingly mock her, then they cruelly shove and hit her and clamp a basin as a halo on her head. Even abused by the beggars, the poor girl gathers together her pitiful rags and sadly departs from the village to live alone in a cave.
-
-> When she feels her time coming upon her, she starts back towards the village. But then she sees the crowds in the streets; dark memories haunt her; so she turns towards a church on a high hill and instinctively struggles towards it, crying desperately to God. A goat is her sole companion. She drinks water dripping from a rock. And when she comes to the church and finds the door locked, the goat attracts her to a small side door. Inside the church, the poor girl braces herself for her labor pains. There is a dissolve, and when we next see her sad face, in close-up, it is full of a tender light. There is the cry of an unseen baby. The girl reaches towards it and murmurs, "My son! My love! My flesh!"
+The First Amendment sometimes "feels" powerful and protective enough to take for granted, but as Justice Oliver Wendell Holmes observered "We should be eternally vigilant against attempts to check the expression of opinions that we loathe." --Oliver Wendell Holmes
 
 MR. JUSTICE CLARK delivered the opinion of the court.
 
@@ -243,7 +250,7 @@ a film on the basis of a censor's conclusion that it is "sacrilegious."
 
 ### Categories of Unprotected Speech 
 
-In declaring that movies are indeed protected speech under the First Amendment, the *Burstyn* Court took pains to point out that the film was not obscene within the meaning of another famous First Amendment case.
+In declaring that movies are indeed protected speech under the First Amendment, the United States Supreme Court in *Burstyn* took pains to point out that the film was not obscene within the meaning of another famous First Amendment case.
 
 ### *Chaplinsky v. New Hampshire*
 
@@ -1007,7 +1014,7 @@ the statute in its entirety.
 
 ## Indecency
 
-Just as we get comfortable with the notion of categories, and the notion that speech is either protected or unprotected, along comes a category of speech the FCC wishes to REGULATE. 
+Just as we get comfortable with the notion of categories, and the notion that speech is either protected or unprotected, along comes a category of speech the Federal Commmunications Commission wishes to REGULATE. 
 
 Please read these two cases in their entirety. Keep your eye on the ball: Is George Carlin's speech protected speech? When Bono says, "This is really really fucking brilliant" during a prime time TV broadcast at the 2003 Golden Globe awards, is that obscene?
 
