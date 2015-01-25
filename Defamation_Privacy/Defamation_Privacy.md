@@ -2161,7 +2161,6 @@ accordingly
 
 #### Totally Optional Readings & Viewings
 
-
 ##### 'American Hustle' Sparks $1 Million Libel Lawsuit 
 
 by Former New Yorker Writer
@@ -2177,7 +2176,7 @@ The real Brodeur is a science journalist who was a staff writer at The New Yorke
 
 
 * [*The People Versus Larry Flynt*][flynt] (stars Woody Harrelson and Courtney Love). This is a love song to the First Amendment directed by Czech director Milos Forman telling the tale of preacher Jerry Falwell's [landmark Supreme Court case][falwell] against Larry Flynt, the publisher of *Hustler Magazine* (on reserve in Schmid Library).
-* Amy J. Field, [A Curtain Call for Docudrama-Defamation Actions: A Clear Standard Takes a Bow](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr). Casenote discussing *Davis v.  Costa-Gavaras* (SDNY 1987).
+* Amy J. Field, [A Curtain Call for Docudrama-Defamation Actions: A Clear Standard Takes a Bow](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr). Casenote discussing *Davis v. Costa-Gavaras* (SDNY 1987).
 - *Deangelo Bailey v. Marshall Bruce Mathers, III, aka Eminem Slim Shady,* Macomb County Court (Michigan 2003):
     - [summary of case](http://www.thesmokinggun.com/documents/crime/judge-raps-eminem-accuser)
     - [fyi the full opinion](http://www.thesmokinggun.com/file/judge-raps-eminem-accuser)(optional reading)
