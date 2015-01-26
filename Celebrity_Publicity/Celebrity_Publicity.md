@@ -13,11 +13,25 @@ chapter: Right of Publicity
 
 ###### Appropriation/Celebrity/Publicity Rights
 
-> One who appropriates to his own use or benefit the name or likeness of another is subject to liability to the other for invasion of his privacy.
+> One who appropriates to his own use or benefit 
+> the name or likeness of another 
+> is subject to liability to the other for invasion of his privacy.
 
 > [Restatement 2nd of Torts &sect; 652C: Appropriation of Name or Likeness](http://tinyurl.com/mwxvn5y)
 
-The right of publicity, also known by far too many other names (personality rights, celebrity rights, publicity rights, appropriation of name or likeness), is the right of an individual to control the commercial use of his or her name, image, likeness, or other unequivocal aspects of one's identity. It is generally considered a property right as opposed to a personal right, and as such, the validity of the right of publicity can survive the death of the individual (to varying degrees depending on the jurisdiction).
+The right of publicity, 
+also known by far too many other names 
+(personality rights, celebrity rights, publicity rights, appropriation of name or likeness) 
+is the right of an individual 
+to control the commercial use of 
+his or her name, image, likeness, or other unequivocal aspects of one's identity. 
+Unlike a personal right 
+(the right to privacy or the right to protect your reputation) 
+the right of publicity is more property right than personality right. 
+And since it can be sold and licensed to others, 
+some states provide that the right of publicity survives death. 
+Heirs of dead celebrities then inherit the right to control 
+the licensing of the deceased name, image, and likeness.
 
 > Personality rights are generally considered to consist of two types of rights: 
 
@@ -76,7 +90,7 @@ The *Haelan* case and a famous law review article by [Melville B. Nimmer, *The R
 
 HILL, Presiding Justice.
 
-[American Heritage Products and its sole proprietor James Bolen developed the concept of marketing a plastic bust of Dr. Martin Luther King, Jr.  Although Bolen sought the endorsement and participation of the Martin Luther King, Jr. Center for Social Change, Inc., in the marketing of the bust, the Center refused Bolen's offer. Bolen pursued the idea, nevertheless, hiring an artist to prepare a mold and an agent to handle the promotion of the product. Defendant took out two half-page advertisements in the November and December 1980 issues of Ebony magazine, which purported to offer the bust as "an exclusive memorial" and "an opportunity to support the Martin Luther King, Jr., Center for Social Change." The advertisement stated that "a contribution from your order goes to the King Center for Social Change." Out of the $29.95 purchase price, defendant Bolen testified he set aside 3% or $.90, as a contribution to the Center. The advertisement also offered "free" with the purchase of the bust a booklet about the life of Dr. King entitled "A Tribute to Dr. Martin Luther King, Jr."]
+[American Heritage Products and its sole proprietor James Bolen developed the concept of marketing a plastic bust of Dr. Martin Luther King, Jr. Although Bolen sought the endorsement and participation of the Martin Luther King, Jr. Center for Social Change, Inc., in the marketing of the bust, the Center refused Bolen's offer. Bolen pursued the idea, nevertheless, hiring an artist to prepare a mold and an agent to handle the promotion of the product. Defendant took out two half-page advertisements in the November and December 1980 issues of Ebony magazine, which purported to offer the bust as "an exclusive memorial" and "an opportunity to support the Martin Luther King, Jr., Center for Social Change." The advertisement stated that "a contribution from your order goes to the King Center for Social Change." Out of the $29.95 purchase price, defendant Bolen testified he set aside 3% or $.90, as a contribution to the Center. The advertisement also offered "free" with the purchase of the bust a booklet about the life of Dr. King entitled "A Tribute to Dr. Martin Luther King, Jr."]
 
 [Instead of accepting the monies offered by Bolen, the Martin Luther King, Jr. Center for Social Change (the Center), Coretta Scott King, as administratrix of Dr. King's estate, and Motown Record Corporation, the assignee of the rights to several of Dr. King's copyrighted speeches filed suit against Bolen and American Heritage Products.]
 
@@ -499,39 +513,137 @@ The first amendment protects the freedom of speech, including commercial speech.
 
 GOODWIN, Circuit Judge
 
-This case involves a promotional "fame and fortune" dispute. In running a particular advertisement without Vanna White's permission, defendants Samsung Electronics America, Inc. (Samsung) and David Deutsch Associates, Inc. (Deutsch) attempted to capitalize on White's fame to enhance their fortune. White sued, alleging infringement of various intellectual property rights, but the district court granted summary judgment in favor of the defendants. We affirm in part, reverse in part, and remand.
+This case involves a promotional "fame and fortune" dispute. 
+In running a particular advertisement 
+without Vanna White's permission, 
+defendants Samsung Electronics America, Inc. (Samsung) and David Deutsch Associates, Inc. (Deutsch) attempted to capitalize on White's fame to enhance their fortune. 
+White sued, alleging infringement of various intellectual property rights, 
+but the district court granted summary judgment in favor of the defendants. 
+We affirm in part, reverse in part, and remand.
 
-Plaintiff Vanna White is the hostess of "Wheel of Fortune," one of the most popular game shows in television history. An estimated forty million people watch the program daily. Capitalizing on the fame which her participation in the show has bestowed on her, White markets her identity to various advertisers.
+Plaintiff Vanna White is the hostess of "Wheel of Fortune," 
+one of the most popular game shows in television history. 
+An estimated forty million people watch the program daily. 
+Capitalizing on the fame which her participation in the show has bestowed on her, 
+White markets her identity to various advertisers.
 
-The dispute in this case arose out of a series of advertisements prepared for Samsung by Deutsch. The series ran in at least half a dozen publications with widespread, and in some cases national, circulation.  Each of the advertisements in the series followed the same theme. Each depicted a current item from popular culture and a Samsung electronic product. Each was set in the twenty-first century and conveyed the message that the Samsung product would still be in use by that time. By hypothesizing outrageous future outcomes for the cultural items, the ads created humorous effects. For example, one lampooned current popular notions of an unhealthy diet by depicting a raw steak with the caption: "Revealed to be health food. 2010 A.D." Another depicted irreverent "news"-show host Morton Downey Jr. in front of an American flag with the
-caption: "Presidential candidate. 2008 A.D."
+The dispute in this case arose out of a series of advertisements 
+prepared for Samsung by Deutsch. 
+The series ran in at least half a dozen publications 
+with widespread, and in some cases national, circulation. 
+Each of the advertisements in the series followed the same theme. 
+Each depicted a current item from popular culture 
+and a Samsung electronic product. 
+Each was set in the twenty-first century 
+and conveyed the message that the Samsung product 
+would still be in use by that time. 
+By hypothesizing outrageous future outcomes for the cultural items, 
+the ads created humorous effects. 
+For example, one lampooned current popular notions of an unhealthy diet 
+by depicting a raw steak with the caption: 
+"Revealed to be health food. 2010 A.D." 
+Another depicted irreverent "news"-show host Morton Downey Jr. 
+in front of an American flag with the caption: 
+"Presidential candidate. 2008 A.D."
 
-The advertisement which prompted the current dispute was for Samsung videocassette recorders (VCRs). The ad depicted a robot, dressed in a wig, gown, and jewelry which Deutsch consciously selected to resemble White's hair and dress. The robot was posed next to a game board which is instantly recognizable as the Wheel of Fortune game show set, in a stance for which White is famous. The caption of the ad read: "Longest-running game show. 2012 A.D." Defendants referred to the ad as the "Vanna White" ad. Unlike the other celebrities used in the campaign, White neither consented to the ads nor was she paid.
+The advertisement which prompted the current dispute 
+was for Samsung videocassette recorders (VCRs). 
+The ad depicted a robot, dressed in a wig, gown, and jewelry 
+which Deutsch consciously selected to resemble White's hair and dress. 
+The robot was posed next to a game board 
+which is instantly recognizable as the Wheel of Fortune game show set, 
+in a stance for which White is famous. 
+The caption of the ad read: 
+"Longest-running game show. 2012 A.D." 
+Defendants referred to the ad as the "Vanna White" ad. 
+Unlike the other celebrities used in the campaign, 
+White neither consented to the ads nor was she paid.
 
-Following the circulation of the robot ad, White sued Samsung and Deutsch in federal district court under: (1) California Civil Code § 3344; (2) the California common law right of publicity; and (3) § 43(a) of the Lanham Act, 15 U.S.C. § 1125(a). The district court granted summary judgment  against White on each of her claims. White now appeals.
+Following the circulation of the robot ad, 
+White sued Samsung and Deutsch in federal district court under: 
+(1) California Civil Code § 3344; 
+(2) the California common law right of publicity; and 
+(3) § 43(a) of the Lanham Act, 15 U.S.C. § 1125(a). 
+The district court granted summary judgment  against White on each of her claims. White now appeals.
 
 #### I. *Section 3344*
 
-White first argues that the district court erred in rejecting her claim under section 3344. Section 3344(a) provides, in pertinent part, that "[a]ny person who knowingly uses another's name, voice, signature, photograph, or likeness, in any manner, ... for purposes of advertising or selling, ... without such person's prior consent ... shall be liable for any damages sustained by the person or persons injured as a result thereof."
+White first argues 
+that the district court erred in rejecting her claim under section 3344. 
+Section 3344(a) provides, in pertinent part, 
+that "[a]ny person 
+who knowingly uses another's name, voice, signature, photograph, or likeness, 
+in any manner &hellip; for purposes of advertising or selling &hellip; 
+without such person's prior consent &hellip; 
+shall be liable for any damages 
+sustained by the person or persons injured as a result thereof."
 
-White argues that the Samsung advertisement used her "likeness" in contravention of section 3344. In [*Midler v. Ford Motor Co.* (9th Cir.1988),](http://scholar.google.com/scholar_case?case=6021003493814451958) this court rejected Bette Midler's section 3344 claim concerning a Ford television commercial in which a Midler "sound-alike" sang a song which Midler had made famous. In rejecting Midler's claim, this court noted that "[t]he defendants did not use Midler's name or anything else whose use is prohibited by the statute. The voice they used was [another person's], not hers. The term 'likeness' refers to a visual image not a vocal imitation." *Id.* at 463.
+White argues that the Samsung advertisement used her 
+"likeness" in contravention of section 3344. 
+In [*Midler v. Ford Motor Co.* (9th Cir.1988),](http://scholar.google.com/scholar_case?case=6021003493814451958) this court rejected Bette Midler's section 3344 claim 
+concerning a Ford television commercial 
+in which a Midler "sound-alike" sang a song which Midler had made famous. 
+In rejecting Midler's claim, 
+this court noted that 
+"[t]he defendants did not use Midler's name 
+or anything else whose use is prohibited by the statute. 
+The voice they used was [another person's], not hers. 
+The term 'likeness' refers to a visual image 
+not a vocal imitation." *Id.* at 463.
 
-In this case, Samsung and Deutsch used a robot with mechanical features, and not, for example, a manikin molded to White's precise features.  Without deciding for all purposes when a caricature or impressionistic resemblance might become a "likeness," we agree with the district court that the robot at issue here was not White's "likeness" within the meaning of section 3344. Accordingly, we affirm the court's dismissal of White's section 3344 claim.  
+In this case, 
+Samsung and Deutsch used a robot with mechanical features, 
+and not, for example, a manikin molded to White's precise features. 
+Without deciding for all purposes 
+when a caricature or impressionistic resemblance might become a "likeness," 
+we agree with the district court 
+that the robot at issue here was not White's "likeness" 
+within the meaning of section 3344. 
+Accordingly, we affirm the court's dismissal of White's section 3344 claim.  
 
 #### II. *Right of Publicity*
 
-White next argues that the district court erred in granting summary judgment to defendants on White's common law right of publicity claim.  In [*Eastwood v. Superior Court,* (1983),](http://scholar.google.com/scholar_case?case=9454760463773890610) the California court of appeal stated that the common law right of publicity cause of action "may be pleaded by alleging:
+White next argues 
+that the district court erred 
+in granting summary judgment to defendants on White's common law right of publicity claim. 
+In [*Eastwood v. Superior Court,* (1983),](http://scholar.google.com/scholar_case?case=9454760463773890610) the California court of appeal stated 
+that the common law right of publicity cause of action may be pleaded by alleging:
 
 1. the defendant's use of the plaintiff's identity; 
 2. the appropriation of plaintiff's name or likeness to defendant's advantage, commercially or otherwise;
 3. lack of consent; and 
-4. resulting injury." 
+4. resulting injury. 
 
-*Id.* at 417.&&hellip;; The district court dismissed White's claim for failure to satisfy *Eastwood's* second prong, reasoning that defendants had not appropriated White's "name or likeness" with their robot ad. We agree that the robot ad did not make use of White's name or likeness. However, the common law right of publicity is not so confined.
+The district court dismissed White's claim 
+for failure to satisfy *Eastwood's* second prong, 
+reasoning that defendants had not appropriated White's "name or likeness" 
+with their robot ad. 
+We agree that the robot ad did not make use of White's name or likeness. 
+However, the common law right of publicity is not so confined.
 
-The *Eastwood* court did not hold that the right of publicity cause of action could be pleaded only by alleging an appropriation of name or likeness. *Eastwood* involved an unauthorized use of photographs of Clint Eastwood and of his name. Accordingly, the *Eastwood* court had no occasion to consider the extent beyond the use of name or likeness to which the right of publicity reaches. That court held only that the right of publicity cause of action "may be" pleaded by alleging, *inter alia,* appropriation of name or likeness, not that the action may be pleaded *only* in those terms.  
+The *Eastwood* court did not hold 
+that the right of publicity cause of action could be pleaded 
+only by alleging an appropriation of name or likeness. 
+*Eastwood* involved an unauthorized use of photographs of Clint Eastwood and of his name. Accordingly, the *Eastwood* court had no occasion 
+to consider the extent beyond the use of name or likeness 
+to which the right of publicity reaches. 
+That court held only that the right of publicity cause of action 
+"may be" pleaded by alleging, *inter alia,* 
+appropriation of name or likeness, 
+not that the action may be pleaded *only* in those terms.  
 
-The "name or likeness" formulation referred to in *Eastwood* originated not as an element of the right of publicity cause of action, but as a description of the types of cases in which the cause of action had been recognized. The source of this formulation is Prosser, *Privacy,* 48 Cal.L.Rev. 383, 401-07 (1960), one of the earliest and most enduring articulations of the common law right of publicity cause of action. In looking at the case law to that point, Prosser recognized that right of publicity cases involved one of two basic factual scenarios: name appropriation, and picture or other likeness appropriation. *Id.* at 401-02, nn. 156-57.
+The "name or likeness" formulation referred to in *Eastwood* 
+originated not as an element of the right of publicity cause of action, 
+but as a description of the types of cases 
+in which the cause of action had been recognized. 
+The source of this formulation is Prosser, 
+*Privacy,* 48 Cal.L.Rev. 383, 401-07 (1960), 
+one of the earliest and most enduring articulations 
+of the common law right of publicity cause of action. 
+In looking at the case law to that point, 
+Prosser recognized that right of publicity cases 
+involved one of two basic factual scenarios: 
+name appropriation, and picture or other likeness appropriation. *Id.* at 401-02, nn. 156-57.
 
 Even though Prosser focused on appropriations of name or likeness in discussing the right of publicity, he noted that "[i]t is not impossible that there might be appropriation of the plaintiff's identity, as by impersonation, without the use of either his name or his likeness, and that this would  be an invasion of his right of privacy." *Id.* At the time Prosser wrote, he noted however, that "[n]o such case appears to have arisen." *Id.*
 
@@ -568,7 +680,20 @@ Television and other media create marketable celebrity identity value.  Consider
 
 #### IV. *The Parody Defense*
 
-In defense, defendants cite a number of cases for the proposition that their robot ad constituted protected speech. The only cases they cite which are even remotely relevant to this case are [*Hustler Magazine v.  Falwell,* (S.Ct. 1988)](http://scholar.google.com/scholar_case?case=5069891851949874011) and [*L.L. Bean, Inc. v. Drake Publishers, Inc.,* (1st Cir.1987)](http://scholar.google.com/scholar_case?case=17261252493400805973).  Those cases involved parodies of advertisements run for the purpose of poking fun at Jerry Falwell and L.L. Bean, respectively. This case involves a true advertisement run for the purpose of selling Samsung VCRs. The ad's spoof of Vanna White and Wheel of Fortune is subservient and only tangentially related to the ad's primary message: "buy Samsung VCRs." Defendants' parody arguments are better addressed to non-commercial parodies. The difference between a "parody" and a "knock-off" is the difference between fun and profit.
+In defense, defendants cite a number of cases for the proposition 
+that their robot ad constituted protected speech. 
+The only cases they cite 
+which are even remotely relevant to this case are 
+[*Hustler Magazine v.  Falwell,* (S.Ct. 1988)](http://scholar.google.com/scholar_case?case=5069891851949874011) and [*L.L. Bean, Inc. v. Drake Publishers, Inc.,* (1st Cir.1987)](http://scholar.google.com/scholar_case?case=17261252493400805973). 
+Those cases involved parodies of advertisements 
+run for the purpose of poking fun at Jerry Falwell and L.L. Bean, respectively. 
+This case involves a true advertisement run for the purpose of selling Samsung VCRs. 
+The ad's spoof of Vanna White and Wheel of Fortune 
+is subservient and only tangentially related to the ad's primary message: 
+"buy Samsung VCRs." 
+Defendants' parody arguments are better addressed to non-commercial parodies. 
+The difference between a "parody" and a "knock-off" 
+is the difference between fun and profit.
 
 ####  V. *Conclusion*
 
