@@ -1,13 +1,15 @@
 ---
 author: Richard Dooling
 title: Entertainment Law
-subtitle: Lawyers For The Talent
+subtitle: Law & Business For Artists 
 chapter: Right of Publicity
 ---
 
-# Lawyers For The Talent
+# Law & Business For Artists
 
-###### by Richard Dooling
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE).
 
 ## Right of Publicity
 
@@ -25,9 +27,9 @@ also known by far too many other names
 is the right of an individual 
 to control the commercial use of 
 his or her name, image, likeness, or other unequivocal aspects of one's identity. 
-Unlike a personal right 
-(the right to privacy or the right to protect your reputation) 
-the right of publicity is more property right than personality right. 
+Unlike other personal rights 
+(the right to privacy or the right to protect your reputation), 
+the right of publicity is more about property rights than personality rights. 
 And since it can be sold and licensed to others, 
 some states provide that the right of publicity survives death. 
 Heirs of dead celebrities then inherit the right to control 
@@ -42,39 +44,143 @@ the licensing of the deceased name, image, and likeness.
 
 ### Early "right of publicity" cases 
 
-Early right of publicity cases followed the lead of the [Brandeis "Right Of Privacy" article](http://www.jstor.org/stable/1321160), which spoke of compensating "injury to the feelings." For instance, in [*Roberson v. Rochester Folding Box Company,*](http://scholar.google.com/scholar_case?case=8949201185857474767) a 1902 New York case, Abigail Roberson’s picture was reproduced on 25,000 copies of a poster advertising flour without her knowledge. She sued the flour company claiming, not that she should have been paid for the use of her image, but that use of the image without her permission had injured her:
+Early right of publicity cases 
+followed the lead of the [Brandeis "Right Of Privacy" article](http://www.jstor.org/stable/1321160), 
+which spoke of compensating "injury to the feelings." 
+For instance, in [*Roberson v. Rochester Folding Box Company,*](http://scholar.google.com/scholar_case?case=8949201185857474767) 
+a 1902 New York case, 
+Abigail Roberson’s picture 
+was reproduced on 25,000 copies of a poster advertising flour 
+without her knowledge or permission. 
+She sued the flour company claiming, 
+not that she should have been paid for the use of her image, 
+but that use of the image without her permission had injured her:
 
-> That those 25,000 likenesses of the plaintiff &hellip; have been conspicuously posted and displayed in stores, warehouses, saloons and other public places; that they have been recognized by friends of the plaintiff and other people with the result that plaintiff has been greatly humiliated by the scoffs and jeers of persons who have recognized her face and picture on this advertisement and her good name has been attacked, causing her great distress and suffering both in body and mind; that she was made sick and suffered a severe nervous shock, was confined to her bed and compelled to employ a physician.
+> That those 25,000 likenesses of the plaintiff &hellip; 
+> have been conspicuously posted and displayed 
+> in stores, warehouses, saloons and other public places; 
+> that they have been recognized by friends of the plaintiff 
+> and other people with the result that plaintiff 
+> has been greatly humiliated by the scoffs and jeers of persons 
+> who have recognized her face and picture on this advertisement 
+> and her good name has been attacked, 
+> causing her great distress and suffering both in body and mind; 
+> that she was made sick and suffered a severe nervous shock, 
+> was confined to her bed and compelled to employ a physician.
 
-The court went on to observe that this was a brand new cause of action, and that it was different than other torts:
+The court went on to observe 
+that this was a brand new cause of action, 
+and that it was different than other torts:
 
-> It will be observed that there is no complaint made that plaintiff was libeled by this publication of her portrait. The likeness is said to be a very good one, and one that her friends and acquaintances were able to recognize; indeed, her grievance is that a good portrait of her, and, therefore, one easily recognized, has been used to attract attention toward the paper upon which defendant mill company's advertisements appear. Such publicity, which some find agreeable, is to plaintiff very distasteful, and thus, because of defendants' impertinence in using her picture without her consent for their own business purposes, she has been caused to suffer mental distress where others would have appreciated the compliment to their beauty implied in the selection of the picture for such purposes; but as it is distasteful to her, she seeks the aid of the courts to enjoin a further circulation of the lithographic prints containing her portrait made as alleged in the complaint, and as an incident thereto, to reimburse her for the damages to her feelings, which the complaint fixes at the sum of $ 15,000.
+> It will be observed that there is no complaint made 
+> that plaintiff was libeled by this publication of her portrait. 
+> The likeness is said to be a very good one, 
+> and one that her friends and acquaintances were able to recognize; 
+> indeed, her grievance is that a good portrait of her, 
+> and, therefore, one easily recognized, 
+> has been used to attract attention toward the paper 
+> upon which defendant mill company's advertisements appear. 
+> Such publicity, which some find agreeable, is to plaintiff very distasteful, 
+> and thus, because of defendants' impertinence 
+> in using her picture without her consent for their own business purposes, 
+> she has been caused to suffer mental distress 
+> where others would have appreciated the compliment to their beauty 
+> implied in the selection of the picture for such purposes; 
+> but as it is distasteful to her, 
+> she seeks the aid of the courts to enjoin a further circulation 
+> of the lithographic prints containing her portrait 
+> made as alleged in the complaint, 
+> and as an incident thereto, 
+> to reimburse her for the damages to her feelings, 
+> which the complaint fixes at the sum of $ 15,000.
 
-When Roberson lost her case because the New York Court of Appeals held that the facts of her case stated no known cause of action, the ensuing public outrage led the New York state legislature to create the state's first right of privacy statute. 
+When Roberson lost her case 
+because the New York Court of Appeals held 
+that the facts of her case stated no known cause of action, 
+the ensuing public outrage led the New York state legislature 
+to create the state's first right of privacy statute. 
 
-Likewise, three years later, in [*Pavesich v. New England Mutual Life Insurance,*](http://scholar.google.com/scholar_case?about=1439996581741054102) (GA 1905), Atlanta artist Paolo Pavesich sued when his photo was used (without his permission) in a newspaper ad for life insurance. The ad featured a photo of Pavesich, a prosperous, happy, contented person who wisely purchased life insurance, opposite a photo of a thin, haggard looking man who had not bought insurance. Georgia became the first state to recognize the right of privacy in common law when they awarded Pavesich $25,000 in personal damages due to the invasion. 
+Likewise, three years later, in [*Pavesich v. New England Mutual Life Insurance,*](http://scholar.google.com/scholar_case?about=1439996581741054102) (GA 1905), 
+Atlanta artist Paolo Pavesich sued when his photo was used 
+(without his permission) in a newspaper ad for life insurance. 
+The ad featured a photo of Pavesich, 
+a prosperous, happy, contented person 
+who wisely purchased life insurance, 
+opposite a photo of a thin, haggard looking man 
+who had not bought insurance. 
 
 Pavesich, an artist by profession, sued claiming that he "never has had a policy of life insurance with the defendant company," and that the publication "tends to bring plaintiff into ridicule before the world, and especially with his friends and acquaintances, who know that he has no policy in the defendant company."
 
+Georgia became the first state 
+to recognize the right of privacy in common law 
+when they awarded Pavesich $25,000 in personal damages due to the invasion. 
+
 The Georgia Supreme Court held:
 
-> The publication of a picture of a person, without his consent, as a part of an advertisement, for the purpose of exploiting the publisher's business, is a violation of the right of privacy of the person whose picture is reproduced, and entitles him to recover, without proof of special damage.
+> The publication of a picture of a person, without his consent, 
+> as a part of an advertisement, 
+> for the purpose of exploiting the publisher's business, 
+> is a violation of the right of privacy of the person 
+> whose picture is reproduced, 
+> and entitles him to recover, 
+> without proof of special damage.
 
-Eventually, this "likeness" branch of the "right of privacy" was refined. The notion of "hurt feelings" caused by gossip or intrusive technology persisted in other branches of the privacy tort (intrusion, false light, publication of private facts), but the right of publicity took a different turn. An individual's name, image, and likeness became a species of property to be licensed. 
+Eventually, this "likeness" branch of the "right of privacy" was refined. 
+The notion of "hurt feelings" 
+caused by gossip or intrusive technology 
+persisted in other branches of the privacy tort 
+(intrusion, false light, publication of private facts), 
+but the right of publicity took a different turn. 
+An individual's name, image, and likeness 
+became a species of property to be licensed. 
 
 In [*Haelan Labs v. Topps Chewing Gum* (2d Cir. 1953](http://scholar.google.com/scholar_case?case=1821155283282557167), the Second Circuit officially named the new right:
 
-> This right might be called a "right of publicity." For it is common knowledge that many prominent persons (especially actors and ballplayers), far from having their feelings bruised through public exposure of their likenesses, would feel sorely deprived if they no longer received money for authorizing advertisements, popularizing their countenances, displayed in mewspapers, magazines, busses, trains and subways. This right of publicity would usually yield them no money unless it could be made the subject of an exclusive grant which barred any other advertizer from using their pictures.
+> This right might be called a "right of publicity." 
+> For it is common knowledge that many prominent persons 
+> (especially actors and ballplayers), 
+> far from having their feelings bruised through public exposure of their likenesses, 
+> would feel sorely deprived if they no longer received money 
+> for authorizing advertisements, 
+> popularizing their countenances, 
+> displayed in newspapers, magazines, busses, trains and subways. 
+> This right of publicity would usually yield them no money 
+> unless it could be made the subject of an exclusive grant 
+> which barred any other advertizer from using their pictures.
 
-The *Haelan* case and a famous law review article by [Melville B. Nimmer, *The Right of Publicity*](http://scholarship.law.duke.edu/lcp/vol19/iss2/6/) (1954), both took viewed "right of publicity" as akin to a property interest, rather than a privacy tort.
+The *Haelan* case and a famous law review article by [Melville B. Nimmer, *The Right of Publicity*](http://scholarship.law.duke.edu/lcp/vol19/iss2/6/) (1954), 
+both viewed "right of publicity" as akin to a property interest, 
+rather than a privacy tort.
 
 ### Eugene Volokh
 
 ###### FREEDOM OF SPEECH AND THE RIGHT OF PUBLICITY
 
-> The right of publicity, in the words of the Restatement (Third) of Unfair Competition section 46, bars people from "appropriat[ing] the commercial value of a person's identity by using without consent the person's name, likeness, or other indicia of identity for purposes of trade." Similarly, statutes such as California Civil Code section 3344 bar "us[ing] another's name, voice, signature, photograph, or likeness, in any manner, on or in products, merchandise, or goods, or for purposes of advertising or selling, or soliciting purchases of, products, merchandise, goods or services."
+> The right of publicity &hellip; bars people 
+> from "appropriating the commercial value of a person's identity 
+> by using without consent the person's name, likeness, 
+> or other indicia of identity for purposes of trade." 
+> Similarly, statutes such as California Civil Code section 3344 bar 
+> "using another's name, voice, signature, photograph, or likeness, 
+> in any manner, on or in products, merchandise, or goods, 
+> or for purposes of advertising or selling, 
+> or soliciting purchases of, products, merchandise, goods or services."
 
-> Under standard First Amendment doctrine, this definition can't be accepted at face value—and in fact many lower courts have held that the First Amendment precludes right of publicity liability in many cases. For instance, an unauthorized biography is certainly a "product" and an item in "trade" that benefits from the "commercial value of [its subject's] identity"; it uses the subject’s name and often his photograph in goods (the biography itself); and yet unauthorized biographies are constitutionally protected from liability. Likewise for magazine or newspaper articles that focus on or mention unconsenting subjects, and that may often even include the subject's name and likeness on the front page as a means of capitalizing on the "commercial value" of the subject's identity.
+> Under standard First Amendment doctrine, 
+> this definition can't be accepted at face value
+> ---and in fact many lower courts have held 
+> that the First Amendment precludes right of publicity liability in many cases. 
+> For instance, an unauthorized biography is certainly a "product" 
+> and an item in "trade" 
+> that benefits from the "commercial value of [its subject's] identity"; 
+> it uses the subject’s name and often his photograph in goods 
+> (the biography itself); 
+> and yet unauthorized biographies are constitutionally protected from liability. 
+> Likewise for magazine or newspaper articles 
+> that focus on or mention unconsenting subjects, 
+> and that may often even include the subject's name and likeness 
+> on the front page 
+> as a means of capitalizing on the "commercial value" of the subject's identity.
 
 > Eugene Volokh, *Freedom of Speech and the Right of Publicity*, Houston Law Review 40 (2003)
 
@@ -85,16 +191,57 @@ The *Haelan* case and a famous law review article by [Melville B. Nimmer, *The R
 ###### Georgia Supreme Court (1982)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?about=1102676940012657150)
-* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=296se2d697&appflag=67.12)
 * [Casebrief](http://www.casebriefs.com/blog/law/property/property-law-keyed-to-singer/intellectual-property/martin-luther-king-jr-center-for-social-change-inc-v-american-heritage-products-inc/).
 
-HILL, Presiding Justice.
+James Bolen was the sole proprietor of American Heritage Products
+a company that wanted to market and sell 
+plastic busts of Dr. Martin Luther King, Jr. 
+Bolen approached the Martin Luther King, Jr. Center for Social Change, Inc. ("King Center") 
+and asked them to endorse the busts and help market them. 
 
-[American Heritage Products and its sole proprietor James Bolen developed the concept of marketing a plastic bust of Dr. Martin Luther King, Jr. Although Bolen sought the endorsement and participation of the Martin Luther King, Jr. Center for Social Change, Inc., in the marketing of the bust, the Center refused Bolen's offer. Bolen pursued the idea, nevertheless, hiring an artist to prepare a mold and an agent to handle the promotion of the product. Defendant took out two half-page advertisements in the November and December 1980 issues of Ebony magazine, which purported to offer the bust as "an exclusive memorial" and "an opportunity to support the Martin Luther King, Jr., Center for Social Change." The advertisement stated that "a contribution from your order goes to the King Center for Social Change." Out of the $29.95 purchase price, defendant Bolen testified he set aside 3% or $.90, as a contribution to the Center. The advertisement also offered "free" with the purchase of the bust a booklet about the life of Dr. King entitled "A Tribute to Dr. Martin Luther King, Jr."]
+The King Center refused Bolen's offer. 
+Bolen went ahead with the project anyway 
+and hired an artist to prepare a mold 
+and an agent to promote the product.
+ 
+Bolen took out two half-page advertisements 
+in the November and December 1980 issues of Ebony magazine, 
+and offered the bust for sale as "an exclusive memorial" 
+and "an opportunity to support the Martin Luther King, Jr., Center for Social Change." 
+The advertisement stated that 
+"a contribution from your order goes to the King Center for Social Change." 
+Out of the $29.95 purchase price, 
+defendant Bolen testified he set aside 3% or $.90, as a contribution to the King Center. 
+The advertisement also offered "free" 
+with the purchase of the bust 
+a booklet about the life of Dr. King 
+entitled "A Tribute to Dr. Martin Luther King, Jr."
 
-[Instead of accepting the monies offered by Bolen, the Martin Luther King, Jr. Center for Social Change (the Center), Coretta Scott King, as administratrix of Dr. King's estate, and Motown Record Corporation, the assignee of the rights to several of Dr. King's copyrighted speeches filed suit against Bolen and American Heritage Products.]
+The King Center refused to accept the money offered by Bolen, 
+and instead the Center, 
+Coretta Scott King, as administratrix of Dr. King's estate, 
+and Motown Record Corporation, 
+the assignee of the rights to several of Dr. King's copyrighted speeches 
+filed suit against Bolen and his company. 
 
-The right of publicity may be defined as a celebrity's right to the exclusive use of his or her name and likeness. [*Price v. Hal Roach Studios,* (S.D.N.Y. 1975)](http://scholar.google.com/scholar_case?case=4464715402419059889); [*Estate of Presley v. Russen*, (D.N.J. 1981),](http://scholar.google.com/scholar_case?case=3389829714381222724) and cases cited. The right is most often asserted by or on behalf of professional athletes, comedians, actors and actresses, and other entertainers. This case involves none of those occupations. As is known to all, from 1955 until he was assassinated on April 4, 1968, Dr. King, a Baptist minister by profession, was the foremost leader of the civil rights movement in the United States. He was awarded the Nobel Prize for Peace in 1964. Although not a public official, Dr. King was a public figure, and we deal in this opinion with public figures who are neither public officials nor entertainers. Within this framework, we turn to the questions posed.
+#### Excerpts From The Case
+
+The right of publicity may be defined 
+as a celebrity's right 
+to the exclusive use of his or her name and likeness.&hellip; 
+The right is most often asserted by or on behalf of 
+professional athletes, comedians, actors and actresses, and other entertainers. 
+This case involves none of those occupations. 
+As is known to all, 
+from 1955 until he was assassinated on April 4, 1968, 
+Dr. King, a Baptist minister by profession, 
+was the foremost leader of the civil rights movement in the United States. 
+He was awarded the Nobel Prize for Peace in 1964. 
+Although not a public official, 
+Dr. King was a public figure, 
+and we deal in this opinion with public figures 
+who are neither public officials nor entertainers. 
+Within this framework, we turn to the questions posed.
 
 #### 1. Is the "right of publicity" recognized in Georgia as a right distinct from the right of privacy?
 
@@ -111,7 +258,7 @@ If personal liberty embraces the *right of publicity,* it no less embraces the c
 
 Recognizing the possibility of a conflict between the right of privacy and the freedoms of speech and press, this court said: "There is in the publication of one's picture for advertising purposes not the slightest semblance of an expression of an idea, a thought, or an opinion, within the meaning of the constitutional provision which guarantees to a person the right to publish his sentiments on any subject." [*Id.*](http://scholar.google.com/scholar_case?about=14399965817410541021). The defendants in the case now before us make no claim under these freedoms and we find no violation thereof.
 
-Observing in dicta that the right of privacy in general does not survive the death of the person whose privacy is invaded, the *Pavesich* court said: "While the right of privacy is personal, and may die with the person, we do not desire to be understood as assenting to the proposition that the relatives of the deceased can not, in a proper case, protect the memory of their kinsman, not only from defamation, but also from an invasion into the affairs of his private life after his death. This question is not now involved, but we do not wish anything
+Observing in dicta that the right of privacy in general does not survive the death of the person whose privacy is invaded, the *Pavesich* court said: "While the right of privacy is personal, and may die with the person, we do not desire to be understood as assenting to the proposition that the relatives of the deceased cannot, in a proper case, protect the memory of their kinsman, not only from defamation, but also from an invasion into the affairs of his private life after his death. This question is not now involved, but we do not wish anything
 said to be understood as committing us in any way to the doctrine that
 against the consent of relatives the private affairs of a deceased
 person may be published and his picture or statue exhibited." [*Id.*](http://scholar.google.com/scholar_case?about=14399965817410541021).
@@ -144,7 +291,7 @@ The right of publicity was first recognized in Georgia by the Court of Appeals i
 require the invasion of something secret, secluded or private pertaining
 to plaintiff, nor does it involve falsity. It consists of the
 appropriation, for the defendant's benefit, use or advantage, of the
-plaintiff's name or likeness. . . . "The interest protected (in the
+plaintiff's name or likeness.&hellip; "The interest protected (in the
 'appropriation' cases) is not so much a mental as a proprietary one, in
 the exclusive use of the plaintiff's name and likeness as an aspect of
 his identity."
@@ -241,9 +388,8 @@ A careful analysis of the right of free speech yields conclusions not inconsiste
 
 ###### United States Supreme Court (1977)
 
-* [Case on Google Scholar](http://scholar.google.com/scholar_case?about=16238771870259020023)
-* [Case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=433us562&appflag=67.12)
-* [Case on Wikipedia](http://en.wikipedia.org/wiki/Zacchini_v._Scripps-Howard_Broadcasting_Co.)
+* [Zacchini on Google Scholar][zacchini]
+* [Zacchini on Wikipedia](http://en.wikipedia.org/wiki/Zacchini_v._Scripps-Howard_Broadcasting_Co.)
 
 [In the following excerpts, "Petitioner" has been changed to "Zacchini," and "Respondent" has been changed to "the TV station." - RD]
 
@@ -347,14 +493,44 @@ BAILEY BROWN, Senior Circuit Judge.
 
 #### Right of Publicity
 
-[Carson claims that the toilet company's use of the phrase "Here's Johnny" violates the common law right of privacy and right of publicity. The confusion in this area of the law requires a brief analysis of the relationship between these two rights. Michigan law, which governs these claims, has not yet clearly addressed the right of publicity. But the general recognition of the right &hellip; suggests to us that the Michigan courts would adopt the right. Michigan has recognized a right of privacy. [*Beaumont v. Brown,* (MI 1977)](http://scholar.google.com/scholar_case?case=14920951584418126067).] 
+[Carson claims that the toilet company's use of the phrase "Here's Johnny" violates the common law right of privacy and right of publicity. The confusion in this area of the law requires a brief analysis of the relationship between these two rights. Michigan law, which governs these claims, has not yet clearly addressed the right of publicity. But the general recognition of the right &hellip; suggests to us that the Michigan courts would adopt the right. Michigan has recognized a right of privacy.] [*Beaumont v. Brown,* (MI 1977)](http://scholar.google.com/scholar_case?case=14920951584418126067). 
 
-[In an influential article][prosser], Dean Prosser delineated four distinct types of the right of privacy: (1) intrusion upon one's seclusion or solitude, (2) public disclosure of embarrassing private facts, (3) publicity which places one in a false light, and (4) appropriation of one's name or likeness for the defendant's advantage.&hellip; This fourth type has become known as the "right of publicity." [*Zacchini v. Scripps-Howard Broadcasting Co.* (S.Ct. 1977)](http://scholar.google.com/scholar_case?case=16238771870259020023). Henceforth we will refer to Prosser's last, or fourth, category as the "right of publicity."
+[In an influential article][prosser], 
+Dean Prosser delineated four distinct types of the right of privacy: 
 
-Dean Prosser's analysis has been a source of some confusion in the law.  His first three types of the right of privacy generally protect the right "to be let alone," while the right of publicity protects the celebrity's pecuniary interest in the commercial exploitation of his identity. [*Zacchini, supra,*](http://scholar.google.com/scholar_case?case=16238771870259020023).&hellip; Thus, the right of privacy and the right of publicity protect fundamentally different
-interests and must be analyzed separately.
+1. intrusion upon one's seclusion or solitude, 
+2. public disclosure of embarrassing private facts, 
+3. publicity which places one in a false light, and 
+4. appropriation of one's name or likeness for the defendant's advantage.&hellip; 
 
-We do not believe that Carson's claim that his right of privacy has been invaded is supported by the law or the facts. Apparently, the gist of this claim is that Carson is embarrassed by and considers it odious to be associated with the appellee's product. Clearly, the association does not appeal to Carson's sense of humor. But the facts here presented do not, it appears to us, amount to an invasion of any of the interests protected by the right of privacy. In any event, our disposition of the claim of an invasion of the right of publicity makes it unnecessary for us to accept or reject the claim of an invasion of the right of privacy.
+This fourth type has become known as the "right of publicity." [*Zacchini v. Scripps-Howard Broadcasting Co.* (S.Ct. 1977)][zacchini]. 
+Henceforth we will refer to Prosser's last, or fourth, 
+category as the "right of publicity."
+
+Dean Prosser's analysis has been a source of some confusion in the law. 
+His first three types of the right of privacy 
+generally protect the right "to be let alone," 
+while the right of publicity 
+protects the celebrity's pecuniary interest 
+in the commercial exploitation of his identity. 
+[*Zacchini, supra,*][zacchini].&hellip; 
+Thus, the right of privacy and the right of publicity 
+protect fundamentally different interests 
+and must be analyzed separately.
+
+We do not believe that Carson's claim 
+that his right of privacy has been invaded 
+is supported by the law or the facts. 
+Apparently, the gist of this claim is 
+that Carson is embarrassed by 
+and considers it odious to be associated with the appellee's product. 
+Clearly, the association does not appeal to Carson's sense of humor. 
+But the facts here presented do not, it appears to us, 
+amount to an invasion of any of the interests protected by the right of privacy. 
+In any event, our disposition of the claim 
+of an invasion of the right of publicity 
+makes it unnecessary for us 
+to accept or reject the claim of an invasion of the right of privacy.
 
 The right of publicity has developed to protect the commercial interest of celebrities in their identities. The theory of the right is that a celebrity's identity can be valuable in the promotion of products, and the celebrity has an interest that may be protected from the unauthorized commercial exploitation of that identity. In [*Memphis Development Foundation v. Factors Etc., Inc.,* (6th Cir. 1980),](http://scholar.google.com/scholar_case?case=10950732871251474707) we stated: "The famous have an exclusive legal right during life to control and profit from the commercial use of their name and personality."
 
@@ -606,7 +782,8 @@ Accordingly, we affirm the court's dismissal of White's section 3344 claim.
 White next argues 
 that the district court erred 
 in granting summary judgment to defendants on White's common law right of publicity claim. 
-In [*Eastwood v. Superior Court,* (1983),](http://scholar.google.com/scholar_case?case=9454760463773890610) the California court of appeal stated 
+In [*Eastwood v. Superior Court,* (1983),](http://scholar.google.com/scholar_case?case=9454760463773890610) 
+the California court of appeal stated 
 that the common law right of publicity cause of action may be pleaded by alleging:
 
 1. the defendant's use of the plaintiff's identity; 
@@ -624,7 +801,9 @@ However, the common law right of publicity is not so confined.
 The *Eastwood* court did not hold 
 that the right of publicity cause of action could be pleaded 
 only by alleging an appropriation of name or likeness. 
-*Eastwood* involved an unauthorized use of photographs of Clint Eastwood and of his name. Accordingly, the *Eastwood* court had no occasion 
+*Eastwood* involved an unauthorized use of photographs 
+of Clint Eastwood and of his name. 
+Accordingly, the *Eastwood* court had no occasion 
 to consider the extent beyond the use of name or likeness 
 to which the right of publicity reaches. 
 That court held only that the right of publicity cause of action 
@@ -963,7 +1142,13 @@ those that have in concluding that depictions of celebrities amounting
 to little more than the appropriation of the celebrity's economic value
 are not protected expression under the First Amendment. 
 
-[The Court reviewed [*Zacchini*](http://scholar.google.com/scholar_case?case=16238771870259020023), and found two principles applicable to this case: (1) state law may validly safeguard forms of intellectual property not covered under federal copyright and patent law as a means of protecting the fruits of a performing artist's labor; and (2) the state's interest in preventing the outright misappropriation of such intellectual property by others is not automatically trumped by the interest in free expression or dissemination of information; rather, as in the case of defamation, the state law interest and the interest in free expression must be balanced, according to the relative importance of the interests at stake.] 
+[The Court reviewed [*Zacchini*][zacchini], 
+and found two principles applicable to this case: 
+
+1. state law may validly safeguard forms of intellectual property 
+not covered under federal copyright and patent law 
+as a means of protecting the fruits of a performing artist's labor; and 
+2. the state's interest in preventing the outright misappropriation of such intellectual property by others is not automatically trumped by the interest in free expression or dissemination of information; rather, as in the case of defamation, the state law interest and the interest in free expression must be balanced, according to the relative importance of the interests at stake.] 
 
 *Guglielmi* adopted a similar balancing approach. The purported heir of Rudolph Valentino filed suit against the makers of a fictional film based on the latter's life. *Guglielmi* concluded that the First Amendment protection of entertainment superseded any right of publicity.  This was in contrast to the companion *Lugosi* case, in which Chief Justice Bird concluded in her dissenting opinion that there may be an enforceable right of publicity that would prevent the merchandising of Count Dracula using the likeness of Bela Lugosi, with whom that role was identified. [*Lugosi*](http://scholar.google.com/scholar_case?case=11171194144106283057).  *Guglielmi* proposed a balancing test to distinguish protected from unprotected appropriation of celebrity likenesses: "an action for infringement of the right of publicity can be maintained only if the proprietary interests at issue clearly outweigh the value of free expression in this context." ([*Guglielmi supra*](http://scholar.google.com/scholar_case?case=3956106467746132778).)
 
@@ -1197,3 +1382,4 @@ Lanham Act § 43(a)
 * Bing Crosby's First Wife Denied Value of His [Publicity Rights](http://www.hollywoodreporter.com/thr-esq/bing-crosbys-first-wife-denied-675755): Are likeness rights community property in a marriage?  
 
 [brandeis_article]: http://en.wikipedia.org/wiki/The_Right_to_Privacy_(article) "The Right of Privacy"
+[zacchini]: http://scholar.google.com/scholar_case?case=16238771870259020023 "Zacchini v. Scripps Broadcasting"

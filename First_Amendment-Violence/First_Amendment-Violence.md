@@ -21,9 +21,18 @@ What if somebody hires you to make a documentary about the production and sale o
 
 Do we need a [*Miller* test][miller_test] for violence?  If regulation is required, who should regulate? The government? Industry groups, like the [Motion Picture Association of America (MPAA)][mpaa] or the [Entertainment Software Ratings Board (ESRB)][esrb]? Or shall we allow civil liability in the form of tort suits against content providers who publish material that arguably amounts to incitement to violence? 
 
-In *Ginsberg v. New York* (discussed below), the Supreme Court upheld a New York statute that regulated obscenity-for-minors, prohibiting the sale of *sexual* material that, while not obscene to adults, would be obscene from the perspective of a child. 
+In *Ginsberg v. New York* (discussed below), 
+the Supreme Court upheld a New York statute 
+that regulated obscenity-for-minors, 
+prohibiting the sale of *sexual* material that, 
+while not obscene to adults, 
+would be obscene from the perspective of a child. 
 
-Using some of language, California passed a law banning the sale of violent video games to minors. It was immediately challenged in court by a consortium of video game and software companies, who eventually took their case all the way to the United States Supreme Court.
+Using some of the same language, 
+California passed a law banning the sale of violent video games to minors. 
+It was immediately challenged in court 
+by a consortium of video game and software companies, 
+who eventually took their case all the way to the United States Supreme Court.
 
 ## *Brown v. Entertainment Merchants*
 
@@ -33,7 +42,6 @@ Using some of language, California passed a law banning the sale of violent vide
 * [how cited at Google Scholar](http://scholar_case?about=12960598670321445636)
 * [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=131sct2729&appflag=67.12)
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Brown_v._Entertainment_Merchants_Association).
-
 
 We consider whether a California law imposing restrictions on violent
 video games comports with the First Amendment.
