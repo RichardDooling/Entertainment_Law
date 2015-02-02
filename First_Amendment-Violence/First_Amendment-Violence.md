@@ -11,19 +11,57 @@ chapter: First Amendment - Violence
 
 ## First Amendment - Violence
 
-If speech is just too "sexy," it can be banned. If it's indecent, it can be regulated. But what if speech is just too violent?  What if your client's rap song arguably "inspires" or ["causes" somebody to shoot a cop?](http://thediscography.org/discoDbDetail.php?req=942)  Or your client's lurid magazine article about erotic asphyxiation arguably “causes” somebody to try it out for themselves, [accidentally hanging themselves](http://en.wikipedia.org/wiki/Erotic_asphyxiation)? At trial, the victim's family argues that your client's lurid article about erotic asphyxiation was really just a how-to for teenage thrill-seekers. 
+If speech is just too "sexy," it can be banned. 
+If it's indecent, it can be regulated. 
+But what if speech is just too violent? 
+What if a rapstar's lyrics "inspire" 
+or ["cause" somebody to shoot a cop?](http://thediscography.org/discoDbDetail.php?req=942) 
 
-What if subliminal lyrics in your heavy metal song arguably "cause" somebody to commit suicide?  Or your violent video game arguably "causes" or "inspires" a school shooting? 
+What if a journalist writes a lurid men's magazine article 
+about autoerotic asphyxiation 
+and arguably “causes” teenagers to try such deviant behavior for themselves, 
+[accidentally hanging themselves](http://en.wikipedia.org/wiki/Erotic_asphyxiation)? 
+What if at trial, the victim's family argues 
+that the journalist's lurid article 
+was really just a how-to for teenage thrill-seekers? 
+We sympathize with the parents 
+when they sue the magazine for publishing a glossy magazine article 
+that arguably tempted their adolescent son to experiment, 
+with fatal consequences. 
 
-Shall we allow the family members of these victims to sue you in tort for indirectly "causing" the death of their loved ones? Fourteen different murderers have said that Oliver Stone’s *Natural Born Killers* [inspired them to go on crime sprees of their own][nbk]. 
+What if the recording of a heavy metal hit contains subliminal lyrics 
+that arguably encourage somebody to commit suicide or kill police officers?
+What if a programmer creates a violent video game 
+that arguably "causes" or "inspires" a school shooting? 
 
-What if somebody hires you to make a documentary about the production and sale of so-called ["crush videos"][stevens] wherein animals are brutally tortured and killed? Do these cruel and sometimes deadly side effects of violent "speech" suggest that extreme violence should be banned or regulated the way obscenity is banned and regulated?
+Should the family members of these victims 
+be allowed to sue magazine publishers, record companies, rock starts 
+for indirectly "causing" the death of their loved ones? 
 
-Do we need a [*Miller* test][miller_test] for violence?  If regulation is required, who should regulate? The government? Industry groups, like the [Motion Picture Association of America (MPAA)][mpaa] or the [Entertainment Software Ratings Board (ESRB)][esrb]? Or shall we allow civil liability in the form of tort suits against content providers who publish material that arguably amounts to incitement to violence? 
+Fourteen different murderers have said that Oliver Stone’s *Natural Born Killers* [inspired them to go on crime sprees of their own][nbk]. 
+
+What if somebody hires a videographer to make a documentary 
+about the production and sale of so-called ["crush videos"][stevens] 
+wherein animals are brutally tortured and killed? 
+Do these cruel and sometimes deadly side effects of violent "speech" suggest 
+that extreme violence should be banned or regulated, 
+the way obscenity is banned and indecency is regulated?
+
+### A *Miller* Test For Violence?
+
+Do we need a [*Miller* test][miller_test] for violence? 
+If regulation is required, who should regulate? 
+The government? Industry groups, 
+like the [Motion Picture Association of America (MPAA)][mpaa] 
+or the [Entertainment Software Ratings Board (ESRB)][esrb]? 
+Or shall we allow civil liability in the form of lawsuits 
+against content providers who publish material 
+that arguably amounts to incitement to violence? 
 
 In *Ginsberg v. New York* (discussed below), 
 the Supreme Court upheld a New York statute 
 that regulated obscenity-for-minors, 
+
 prohibiting the sale of *sexual* material that, 
 while not obscene to adults, 
 would be obscene from the perspective of a child. 
