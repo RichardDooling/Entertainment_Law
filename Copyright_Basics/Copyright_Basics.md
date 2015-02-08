@@ -19,7 +19,11 @@ to help educate people about the copyright laws.
 
 ### History of Copyright
 
-> "Copyright turns the content of protected works into a private good whose authors can grant or withhold consent to others to use and distribute it." ---Paul Weiler, *Entertainment, Media and The Law*
+> Copyright turns the content of protected works into a private good 
+> whose authors can grant or withhold consent to others 
+> to use and distribute it." 
+
+> Paul Weiler, *Entertainment, Media and The Law*
 
 The constitution gives Congress the power, 
 under Article I, Section 8, Clause 8:
@@ -39,7 +43,8 @@ We do not have time to explore the particulars of
 or (the length of time copyright protects a work 
 before it passes into the public domain). 
 In most of the world, 
-the default length of copyright is the life of the author plus either 50 or 70 years. 
+the default length of copyright 
+is the life of the author plus either 50 or 70 years. 
 [List of countries' copyright lengths](http://en.wikipedia.org/wiki/List_of_countries%27_copyright_length).
 
 For our purposes, 
@@ -56,7 +61,7 @@ We saw it in class. It bears rewatching.
 * Public performance
 * Public display
 
-##### Who Owns The Rights?
+#### Who Owns The Rights?
 
 Artists invest time, talent, and money to produce intellectual property, 
 which consumers then presumably purchase the right to enjoy. 
@@ -70,7 +75,8 @@ But artists may also wish to share under various alternative licensing schemes:
 What is copyrightable?
 
 Copyright protection extends to 
-“original works of authorship fixed in any tangible medium of expression.” 
+“original works of authorship 
+fixed in any tangible medium of expression.” 
 [§ 102(a)][102]
 
 All works? Or only "artistic works"? 
@@ -95,7 +101,8 @@ holding that the prints were just sketches
 and had "no other use than as a pure advertisement" 
 and had no "connection with the fine arts to give (them) intrinsic value."
 
-[The Supreme Court reversed,][bleistein] and Justice Oliver Wendell Holmes wrote the opinion:
+[The Supreme Court reversed,][bleistein] 
+and Justice Oliver Wendell Holmes wrote the opinion:
 
 > It would be a dangerous undertaking 
 > for persons trained only to the law 
@@ -116,7 +123,8 @@ from research and discovery of already-existing facts.
 [*Feist Publications v Rural Telephone Service*][feist].
 
 Copyright protection extends only 
-to an author's expression of facts and not to the facts themselves. 
+to an author's expression of facts 
+and not to the facts themselves. 
 
 > The discoverer merely finds and records. 
 > He may not claim that the facts are 'original' with him 
@@ -147,14 +155,15 @@ refused to register the work
 because it "did not contain at least a minimum amount 
 of original pictorial or graphic authorship, 
 or authorship in sounds". 
-[Atari challenged Oman's refusal to award the game copyright protection.](http://en.wikipedia.org/wiki/Atari_Games_Corp._v._Oman) and won. The appellate court said:
+[Atari challenged Oman's refusal to award the game copyright protection.](http://en.wikipedia.org/wiki/Atari_Games_Corp._v._Oman) and won. 
+The appellate court said:
 
 > For a work to be Copyrightable, 
 > it must be fixed. 
 > It also must possess a certain low level of creativity 
 > which courts have described as "very slight," "minimal," "modest." 
 
-In [*Feist v. Rural*][feist] the Supreme Court said 
+In [*Feist v. Rural*][feist] the United States Supreme Court said 
 that "the requisite level of creativity is extremely low; 
 even a slight amount will suffice." 
 
@@ -184,7 +193,7 @@ but does require that the work be
 
 #### *Horgan v Macmillan,* (2d Cir. 1986)
 
-[case at Google Scholar](http://scholar.google.com/scholar_case?case=14083197885283774149)
+* [Case at Google Scholar](http://scholar.google.com/scholar_case?case=14083197885283774149).
 
 The choreographer of *The Nutcracker* 
 sued to enjoin publication of a book 
@@ -219,11 +228,11 @@ not the IDEA expressed.
 
 The copyright laws do not protect research. 
 
-### Miller v. Universal City Studios, Inc.
+### *Miller v. Universal City Studios, Inc.*
 
 ###### Court of Appeals, 5th Circuit 1981 
 
-* [case on Google Scholar](http://scholar.google.com/scholar_case?case=14231031381424615048)
+* [Case on Google Scholar](http://scholar.google.com/scholar_case?case=14231031381424615048).
 * [Wikipedia](http://en.wikipedia.org/wiki/Miller_v._Universal_City_Studios,_Inc.).
 
 #### *Facts*
@@ -262,9 +271,7 @@ that “research is copyrightable.”
 
 It is well settled that copyright protection extends 
 only to an author's expression of facts 
-and not to the facts themselves. 
-*See, e. g.,* 
-[*Rosemont Enterprises, Inc. v. Random House, Inc.,* (2d Cir. 1966)][rosemont] &hellip;
+and not to the facts themselves.&hellip;  
 This dichotomy between facts and their expression 
 derives from the concept of originality 
 which is the premise of copyright law. 
@@ -273,8 +280,8 @@ copyright protection may secure for a limited time to "Authors &hellip;
 the exclusive Right to their respective Writings." 
 An "author" is one 
 "to whom anything owes its origin; originator; maker; 
-one who completes a work of science or literature." 
-[*Burrow-Giles Lithographic Co. v. Sarony* (S.Ct. 1884)](http://scholar.google.com/scholar_case?case=17794409671595926696).
+one who completes a work of science or literature." &hellip;  
+
 Obviously, a fact does not originate 
 with the author of a book describing the fact. 
 Neither does it originate with one who "discovers" the fact. 
@@ -290,12 +297,14 @@ and are part of the public domain available to every person.
 The district court's charge to the jury 
 correctly stated that facts cannot be copyrighted. 
 Nevertheless, in its order denying defendants' motion for a new trial 
-the court said it viewed 
-"the labor and expense of the research involved 
-in the obtaining of those uncopyrightable facts
-to be intellectually distinct from those facts 
-and more similar to the expression of the facts than to the facts themselves." 
-[*Miller v. Universal City Studios, Inc.*](http://scholar.google.com/scholar_case?case=1019261478646106618).
+the court said it viewed:
+
+> the labor and expense of the research involved 
+> in the obtaining of those uncopyrightable facts
+> to be intellectually distinct from those facts 
+> and more similar to the expression of the facts 
+> than to the facts themselves.
+
 The court interpreted the copyright law to reward 
 not only the effort and ingenuity involved in giving expression to facts, 
 but also the efforts involved in discovering and exposing facts. 
@@ -305,12 +314,13 @@ and the profits to be derived therefrom,
 could be pirated by one who could then avoid the expense 
 of obtaining the facts himself. 
 Applying this reasoning to the case at bar, 
-the court concluded 
-"[i]n the age of television 'docudrama' 
-to hold other than research is copyrightable 
-is to violate the spirit of the copyright law
-and to provide to those persons and corporations 
-lacking in requisite diligence and ingenuity a license to steal." 
+the court concluded:
+
+> In the age of television 'docudrama' 
+> to hold other than research is copyrightable 
+> is to violate the spirit of the copyright law
+> and to provide to those persons and corporations 
+> lacking in requisite diligence and ingenuity a license to steal. 
 
 Thus the trial court's explanation of its understanding of its charge
 undercuts the argument to this Court that the word "research" was
@@ -333,8 +343,6 @@ that while a newspaper story, as a literary production, can by copyrighted,
 > Constitution &hellip; intended to confer upon one who might happen to be
 > the first to report a historic event the exclusive right for any
 > period to spread the knowledge of it.
-
-*Id.*
 
 Apart from the directory cases, 
 the only decision cited to this Court
@@ -360,7 +368,8 @@ but whether she in fact had done her own independent research. *Id.* at 667.
 Although most circuits apparently have not addressed the question, 
 the idea that historical research is copyrightable 
 was expressly rejected by the Second Circuit 
-in the more soundly reasoned case of [*Rosemont Enterprises, Inc. v. Random House, Inc.,* (2d Cir. 1966)](http://scholar.google.com/scholar_case?case=5738679872075150588).
+in the more soundly reasoned case of [*Rosemont Enterprises, Inc. v. Random House, Inc.,* (2d Cir. 1966)][rosemont].
+
 In *Rosemont,* it was alleged that defendant's biography of Howard
 Hughes infringed the copyright 
 on a series of *Look* articles about Hughes. 
@@ -380,11 +389,11 @@ it rejected the language regarding independent research:
 > proscription against the copyright of ideas and facts, and to a lesser
 > extent the privilege of fair use, are designed to prevent.
 
-[*Rosemont*](http://scholar.google.com/scholar_case?case=5738679872075150588).
+[*Rosemont*][rosement].
 
 The Second Circuit has adhered to its position 
 in the most recent appellate case to address the question, 
-[*Hoehling v. Universal City Studios, Inc.,* (2d Cir.)](http://scholar.google.com/scholar_case?case=1452880530764001390). 
+[*Hoehling v. Universal City Studios, Inc.,* (2d Cir. 1980)][hoehling]
 *Hoehling* involved various literary accounts 
 of the last voyage and mysterious destruction 
 of the German dirigible Hindenberg. 
@@ -415,7 +424,7 @@ all the similarities pertained to categories of noncopyrightable material.
 The court noted the sabotage hypothesis 
 espoused in Hoehling's book 
 was based entirely on interpretation of historical fact 
-and was not copyrightable. [*Hoehling v. Universal City Studios, Inc.*](http://scholar.google.com/scholar_case?case=1452880530764001390). 
+and was not copyrightable. [*Hoehling*][hoehling]. 
 The same reasoning applied to Hoehling's claim 
 that a number of specific facts, 
 ascertained through his personal research, 
@@ -443,7 +452,7 @@ It allows a subsequent author to build upon
 and add to prior accomplishments 
 without unnecessary duplication of effort. 
 As expressed by the Second Circuit in 
-[*Hoehling*](http://scholar.google.com/scholar_case?case=1452880530764001390):
+[*Hoehling*][hoehling]:
 
 > The copyright provides a financial incentive 
 > to those who would add to the corpus of existing knowledge 
@@ -516,7 +525,9 @@ the Second Circuit observed:
 
 Definition: [Sc&#232;nes-&#192;-Faire at Wikipedia](http://en.wikipedia.org/wiki/Sc%C3%A8nes_%C3%A0_faire) 
 
-> Incidents, characters, or settings which are as a practical matter indispensable, or at least standard, in the treatment of a given topic.
+> Incidents, characters, or settings 
+> which are as a practical matter indispensable, 
+> or at least standard, in the treatment of a given topic.
 
 Copyright protects "original works of art." 
 A story about greedy miser is or a cruel slave master, 
@@ -529,7 +540,7 @@ and a young attractive girl.
 When they meet, they hate each other, 
 but then they fall in love and live happily ever after.
 
-Yes, the story's "take" on the romantic comedy formula is protected.
+Yes, the story's particular "take" on the romantic comedy formula may be protected.
 But nobody owns a copyright in star-crossed lovers or greedy misers, 
 or in awkward adolescents finding their way in life, 
 or tortured geniuses who perservere against all odds. 
@@ -612,9 +623,29 @@ the possibility of obtaining statutory damages and attorneys fees
 instead of having to prove actual damages:
 
 > Normally, when someone infringes your copyright, 
-> you’re entitled only to "actual damages" and "profits of the infringer that are attributable to the infringement" [17 USC §504(b)][504]. This can be a burden that makes pursuing a legal remedy not worthwhile: How do you prove the profits that some random web site made from publishing your story without permission? And how do you prove what sales you might have lost because of the web site’s unauthorized publication of your story? Since the US operates under the “American Rule” where each party pays their own lawyers, you might not even be able to afford to pay a lawyer to stop the infringing activity.
+> you’re entitled only to "actual damages" 
+> and "profits of the infringer 
+> that are attributable to the infringement" [17 USC §504(b)][504]. 
+> This can be a burden that makes pursuing a legal remedy not worthwhile: 
+> How do you prove the profits 
+> that some random web site made 
+> from publishing your story without permission? 
+> And how do you prove what sales you might have lost 
+> because of the web site’s unauthorized publication of your story? 
+> Since the US operates under the “American Rule” 
+> where each party pays their own lawyers, 
+> you might not even be able to afford to pay a lawyer 
+> to stop the infringing activity.
 
-> But with timely registration, you get the option of electing statutory damages instead. [17 USC §504(c)][504]. This can be between $750 to $30,000 per work (and up to $150,000 per work if the infringement was willful). Plus, you may get attorney’s fees and costs at the court’s discretion, making it more likely that you can retain a lawyer on a contingency fee basis. [17 USC §505](http://www.copyright.gov/title17/92chap5.html#505). With these benefits, it may well make sense to pursue cases that otherwise you would not.
+> But with timely registration, 
+> you get the option of electing statutory damages instead. [17 USC §504(c)][504]. 
+> This can be between $750 to $30,000 per work 
+> (and up to $150,000 per work if the infringement was willful). 
+> Plus, you may get attorney’s fees and costs at the court’s discretion, 
+> making it more likely 
+> that you can retain a lawyer on a contingency fee basis. [17 USC §505](http://www.copyright.gov/title17/92chap5.html#505). 
+> With these benefits, 
+> it may well make sense to pursue cases that otherwise you would not.
 
 * Ken Liu, [The Benefits Of Copyright Registration](http://www.sfwa.org/2013/02/the-benefits-of-copyright-registration/).
 
@@ -633,8 +664,10 @@ instead of having to prove actual damages:
 [beastie]: http://artsbeat.blogs.nytimes.com/2013/11/25/the-beastie-boys-fight-online-video-parody-of-girls/?_r=0 "Beastie Boys Mad About 'Girls' Parody"
 [bleistein]: http://en.wikipedia.org/wiki/Bleistein_v._Donaldson_Lithographing_Company "Bleistein v. Donaldson Lithography"
 [feist]: http://en.wikipedia.org/wiki/Feist_v._Rural "Wikipedia on Feist v. Rural"
-[rosemon]: http://scholar.google.com/scholar_case?case=5738679872075150588 "Rosemont"
+[rosemont]: http://scholar.google.com/scholar_case?case=5738679872075150588 "Rosemont"
+[hoehling]: http://scholar.google.com/scholar_case?case=1452880530764001390 "Hoehling v. Universal Studios"  
 
 ## Changelog
 
 * 25-Jan-2015 Edited and rewrote before merging with ArtBizLaw Copyright Basics.
+* 08-Feb-2015 More edits before merging with ABL
