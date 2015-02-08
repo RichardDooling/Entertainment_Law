@@ -13,13 +13,18 @@ chapter: Defamation, Privacy
 
 ### "Life Story Rights" 
 
-Artists have First Amendment rights to tell stories, or write songs, or make movies, but what happens when those speech rights collide with the rights of others? What if the artist's free speech defames someone else? Invades their privacy? "Steals" their "life story"? Publicly discloses embarrassing private facts about their lives?
+Artists have First Amendment rights to tell stories, 
+or write songs, or make movies, 
+but what happens when those speech rights 
+collide with the rights of others? 
+What if an author's brilliant  brilliant memoir free speech defames someone else? 
+Invades their privacy? "Steals" their "life story"? Publicly discloses embarrassing private facts about their lives?
 
 Every major film attracts lawsuits, and some plaintiffs sue even though they are not mentioned by name. Docu-dramas invite litigation. Imagine documentary filmmakers wearing hidden microphones and cameras making a documentary about a quack doctor who is selling banned substances, or unsafe herbal remedies? Invasion of privacy? 
 
 Telling "based upon," nonfiction stories about others often treads on what the industry calls "life story rights," not a legal term, just a handy grab bag term for the rights involved. The artist (filmmaker, storyteller, photographer, fine artist, even songwriters) wants to tell a person's "life story" or use their name, image or likeness without getting sued for it.
 
-If possible artist and living subject execute a simple agreement, wherein the subject promises not to sue for defamation, invasion of privacy, use of name, image, or likeness, and a number of other claims. A nice description can be found in a passage called ["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. (2009), by Gunnar Erickson, Mark Halloran & Harris Tulchin. 
+If possible artist and living subject execute a simple agreement, wherein the subject promises not to sue for defamation, invasion of privacy, use of name, image, or likeness, and a number of other claims. A nice description can be found in a passage called ["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. (2009), by Gunnar Erickson, Mark Halloran & Harris Tulchin. See also, [Purchasing Life Story Rights By: Mark Litwak](http://www.marklitwak.com/purchasing-life-story-rights.html)
 
 If an agreement can't be had, storytellers and filmmakers may proceed, but often the script or the nonfiction book will be annotated with sources for any factual statements made about real people, and permissions will be obtained to use anyone's name image or likeness. 
 
@@ -2182,6 +2187,12 @@ The real Brodeur is a science journalist who was a staff writer at The New Yorke
     - [fyi the full opinion](http://www.thesmokinggun.com/file/judge-raps-eminem-accuser)(optional reading)
 - [Reverse defamation, the Newsweek Bitcoin story, and Satoshi Nakamoto](http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/03/18/reverse-defamation-the-newsweek-bitcoin-story-and-satoshi-nakamoto/)
 * [What is More Defamatory? A False Accusation of Homophobia or of Homosexuality?](http://www.trademarkandcopyrightlawblog.com/2014/09/whatismore/)
+
+##### Scarlett Johannsen Sues French Novelist
+
+[Seeing read: Scarlett Johansson sues French novelist](http://www.theguardian.com/film/2014/may/14/scarlett-johansson-sues-french-author).
+
+[Scarlett Johansson wins defamation case against French novelist](http://www.theguardian.com/film/2014/jul/04/scarlett-johansson-wins-french-defamation-case).
 
 ##### Courtney Love & Defamation via Twitter
 
