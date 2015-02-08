@@ -17,24 +17,59 @@ Artists have First Amendment rights to tell stories,
 or write songs, or make movies, 
 but what happens when those speech rights 
 collide with the rights of others? 
-What if an author's brilliant  brilliant memoir free speech defames someone else? 
-Invades their privacy? "Steals" their "life story"? Publicly discloses embarrassing private facts about their lives?
+What if an author's bestselling memoir 
+names names, and defames others in telling of his tale?
+What if by telling her own story, 
+she invades the privacy of others? 
+"Steals" their "life story"? 
+Publicly discloses embarrassing private facts about their lives?
 
-Every major film attracts lawsuits, and some plaintiffs sue even though they are not mentioned by name. Docu-dramas invite litigation. Imagine documentary filmmakers wearing hidden microphones and cameras making a documentary about a quack doctor who is selling banned substances, or unsafe herbal remedies? Invasion of privacy? 
+Every major film attracts lawsuits, 
+and some plaintiffs sue 
+even though they are not mentioned by name. 
+Docu-dramas invite litigation. 
+Imagine documentary filmmakers wearing hidden microphones 
+and cameras making a documentary about a quack doctor 
+who is selling banned substances, 
+or unsafe herbal remedies? 
+Invasion of privacy? 
+Or investigative journalism?
 
-Telling "based upon," nonfiction stories about others often treads on what the industry calls "life story rights," not a legal term, just a handy grab bag term for the rights involved. The artist (filmmaker, storyteller, photographer, fine artist, even songwriters) wants to tell a person's "life story" or use their name, image or likeness without getting sued for it.
+Telling "based upon," nonfiction stories about others 
+often treads on what the industry calls "life story rights," 
+not a legal term, just a handy grab bag term for the rights involved. 
+The artist (filmmaker, storyteller, photographer, fine artist, 
+even songwriters) wants to tell a person's "life story" 
+or use their name, image or likeness without getting sued for it.
 
-If possible artist and living subject execute a simple agreement, wherein the subject promises not to sue for defamation, invasion of privacy, use of name, image, or likeness, and a number of other claims. A nice description can be found in a passage called ["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. (2009), by Gunnar Erickson, Mark Halloran & Harris Tulchin. See also, [Purchasing Life Story Rights By: Mark Litwak](http://www.marklitwak.com/purchasing-life-story-rights.html)
+If possible artist and living subject 
+execute a simple agreement, 
+wherein the subject promises not to sue 
+for defamation, invasion of privacy, use of name, image, or likeness, 
+and a number of other claims. 
+A nice description can be found in a passage called 
+["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) 
+from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. (2009), by Gunnar Erickson, Mark Halloran & Harris Tulchin. See also, [Purchasing Life Story Rights By: Mark Litwak](http://www.marklitwak.com/purchasing-life-story-rights.html)
 
-If an agreement can't be had, storytellers and filmmakers may proceed, but often the script or the nonfiction book will be annotated with sources for any factual statements made about real people, and permissions will be obtained to use anyone's name image or likeness. 
+If an agreement can't be had, 
+storytellers and filmmakers may proceed, 
+but often the script or the nonfiction book 
+will be annotated. 
+All factual statements about living people and historical events, 
+will be annotated with sources. 
 
-In the international context, these rights are all jurisdiction-specific and depend on careful, specific drafting of contract provisions. 
+In the international context, these so-called life story rights 
+are all jurisdiction-specific 
+and depend on careful, 
+specific drafting of contract provisions. 
 
 Let's look first at defamation.
 
 ### Defamation
 
-Stories, songs, movies, even photos about real people, may defame them, especially if those works of art contain or suggest false statements of fact. 
+Stories, songs, movies, even photos about real people, 
+may defame them, 
+if those works of art contain or suggest false statements of fact. 
 
 * ["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. 2009. 
 * [Defamation Law Made Simple at Nolo.com.][defamation]
@@ -50,7 +85,12 @@ Two forms: Libel and slander.
 
 #### Defamation Per Se
 
-All states, except Arizona, Arkansas, Missouri, and Tennessee, recognize that some categories of false statements are so harmful that they are considered to be defamatory per se. In the common law tradition, damages for such false statements are presumed and do not have to be proven.
+All states, 
+except Arizona, Arkansas, Missouri, and Tennessee, 
+recognize that some categories of false statements are so harmful 
+that they are considered to be defamatory per se. 
+In the common law tradition, 
+damages for such false statements are presumed and do not have to be proven.
 
 Statements are defamatory per se where they falsely impute to the plaintiff one or more of the following:
 
@@ -63,7 +103,11 @@ Statements are defamatory per se where they falsely impute to the plaintiff one 
 
 ### Defamation Meets First Amendment
 
-Sometimes called the constitutionalization of defamation law, [*New York Times v. Sullivan*][sullivan] changed everything for public officials who don't like the way they are portrayed in the press. It all started in Montgomery, Alabama and the civil rights movement in the South. 
+Sometimes called the constitutionalization of defamation law, 
+[*New York Times v. Sullivan*][sullivan] 
+changed everything for public officials 
+who don't like the way they are portrayed in the press. 
+It all started in Montgomery, Alabama and the civil rights movement in the South. 
 
 #### Elements
 
