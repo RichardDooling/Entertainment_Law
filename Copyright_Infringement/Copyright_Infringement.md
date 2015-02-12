@@ -7,7 +7,9 @@ chapter: Copyright Infringement
 
 # Lawyers For The Talent
 
-###### by Richard Dooling
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE).
 
 ## Infringement & Fair Use
 
@@ -17,13 +19,24 @@ chapter: Copyright Infringement
 
 Copyright is violated only if the prior work has been *copied.* 
 
-If I write an original song, then you come along, *copy* it, and publish it under your name, that's a copyright violation. 
+If I write an original song, 
+then you come along, *copy* it, 
+and publish it under your name, 
+that's a copyright violation. 
 
-If I write an original song, and you just happen to INDEPENDENTLY create an identical song, even though you have never heard my song or read my music, I have no recourse against you under the copyright laws. 
+If I write an original song, 
+and you just happen to INDEPENDENTLY create an identical song, 
+even though you have never heard my song or read my music, 
+I have no recourse against you under the copyright laws. 
 
 Judge Learned Hand put it this way:
 
-> If by some magic a man who had never known it were to compose anew Keats's *Ode on a Grecian Urn*, he would be an 'author,' and if he copyright it, others might not copy that poem, though they might of course copy Keats's . . .
+> If by some magic a man who had never known it 
+> were to compose anew Keats's *Ode on a Grecian Urn*, 
+> he would be an 'author,' 
+> and if he copyright it, 
+> others might not copy that poem, 
+> though they might of course copy Keats's . . .
 
 To prove copyright infringement, the copyright holder must establish:
 
@@ -34,19 +47,44 @@ To prove copyright infringement, the copyright holder must establish:
 
 #### Access & Substantial Similarity
 
-Direct evidence of copying is rare, so courts rely instead on circumstantial evidence to prove copying, usually by allowing the plaintiff to prove that the works are substantially similar and that the defendant had **access** to the work.
+Direct evidence of copying is rare, 
+so courts rely instead on circumstantial evidence to prove copying, 
+usually by allowing the plaintiff to prove 
+that the works are substantially similar 
+and that the defendant had **access** to the work.
 
-Access is usually a crucial component of any copyright claim, because similarity alone is usually not enough. Creating a substantially similar work is not a copyright violation unless the defendant COPIED plaintiff's work.
+Access is usually a crucial component of any copyright claim, 
+because similarity alone is usually not enough. 
+Creating a substantially similar work 
+is not a copyright violation 
+unless the defendant COPIED plaintiff's work.
 
-> Plaintiff has the burden of proving that the defendant copied original elements from the plaintiff’s copyrighted work. The plaintiff may show the defendant copied from the work by showing by a preponderance of the evidence that the **defendant had access** to the plaintiff’s copyrighted work and that there are substantial similarities between the defendant’s work and original elements of the plaintiff’s work.
+> Plaintiff has the burden of proving 
+> that the defendant copied original elements 
+> from the plaintiff’s copyrighted work. 
+> The plaintiff may show the defendant copied from the work 
+> by showing by a preponderance of the evidence 
+> that the **defendant had access** to the plaintiff’s copyrighted work 
+> and that there are substantial similarities 
+> between the defendant’s work 
+> and original elements of the plaintiff’s work.
 
 [U.S. Courts for the Ninth Circuit Manual of Model Civil Jury Instructions: 17.15 Copying—Access and Substantial Similarity](http://www3.ce9.uscourts.gov/jury-instructions/node/272).
 
 #### Striking Similarity
 
-If the plaintiff is unable to prove that the defendant had access to plaintiff's work, then sometimes the court may allow plaintiff to prove that the two works are so **strikingly similar** that defendant must have had access. However courts are careful to point out that proof of striking similarity is 
+If the plaintiff is unable to prove 
+that the defendant had access to plaintiff's work, 
+then sometimes the court may allow plaintiff 
+to prove that the two works are so **strikingly similar** 
+that defendant must have had access. 
+However courts are careful to point out that proof of striking similarity is 
 
-> just one piece of circumstantial evidence tending to show access and must not be considered in isolation; it must be considered together with other types of circumstantial relating to access.
+> just one piece of circumstantial evidence 
+> tending to show access 
+> and must not be considered in isolation; 
+> it must be considered together 
+> with other types of circumstantial relating to access.
 
 See [*Selle v. Gibb*](http://scholar.google.com/scholar_case?case=15134673856711698951) below.
  
@@ -55,7 +93,7 @@ See [*Selle v. Gibb*](http://scholar.google.com/scholar_case?case=15134673856711
 ###### US Southern District New York (1976)
 
 * [Case on Google Scholar](http://scholar.google.com/scholar_case?case=7721050309378220492)
-* [Case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=420fsupp177&appflag=67.12)
+* [Case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=420fsupp177&appflag=67.12) 
 * [Case on Wikipedia](http://en.wikipedia.org/wiki/My_Sweet_Lord#Copyright_infringement_suit).
 
 One of the most famous copyright infringement suit of all time. 
@@ -64,51 +102,80 @@ First listen to ["He's So Fine,"](https://www.youtube.com/watch?v=JU5qP20iJl0&fe
 
 Then listen to George Harrison's massive soulful hit ["My Sweet Lord"](https://www.youtube.com/watch?v=0kNGnIKUdMI&feature=kp).
 
-Now see if you can tell why the Chiffons sued? Five years of litigation ensued, resulting in a verdict for Mack and against Harrison. The case stands for the unsettling proposition that copyright infringement need not be intentional, and indeed may even be "unconscious" or take place in the "subconscious." Metaphysics meets copyright. When your client wrote her song, did she unintentionally infringe on lullaby her mother sang to her?
+Now see if you can tell why the Chiffons sued? 
+Five years of litigation ensued, 
+resulting in a verdict for Mack and against Harrison. 
+The case stands for the unsettling proposition 
+that copyright infringement need not be intentional, 
+and indeed may even be "unconscious" 
+or take place in the "subconscious." 
+Metaphysics meets copyright. 
+When your client wrote her song, 
+did she unintentionally infringe on lullaby her mother sang to her?
+
+#### Excerpts from *Bright Tunes* opinion
 
 OWEN, District Judge.
 
-This is an action in which it is claimed that a successful song, "My
-Sweet Lord," listing George Harrison as the composer, is plagiarized from
-an earlier successful song, "He's So Fine," composed by Ronald Mack,
-recorded by a singing group called the "Chiffons," the copyright of
-which is owned by plaintiff, Bright Tunes Music Corp.
+This is an action in which it is claimed that a successful song, 
+"My Sweet Lord," listing George Harrison as the composer, 
+is plagiarized from an earlier successful song, "He's So Fine," 
+composed by Ronald Mack,
+recorded by a singing group called the "Chiffons," 
+the copyright of which is owned by plaintiff, Bright Tunes Music Corp.
 
-'He's So Fine,' recorded in 1962, is a catchy tune consisting essentially
-of four repetitions of a very short basic musical phrase, "sol-mi-re,"
-(hereinafter motif A), altered as necessary to fit the
-words, followed by four repetitions of another short basic musical
-phrase, "sol-la-do-la-do," (hereinafter motif B). While
-neither motif is novel, the four repetitions of A, followed by four
-repetitions of B, is a highly unique pattern. In addition,
-in the second use of the motif B series, there is a grace note inserted
+'He's So Fine,' recorded in 1962, is a catchy tune 
+consisting essentially of four repetitions of a very short basic musical phrase, 
+"sol-mi-re," (hereinafter motif A), 
+altered as necessary to fit the words, 
+followed by four repetitions of another short basic musical phrase, 
+"sol-la-do-la-do," (hereinafter motif B). 
+While neither motif is novel, 
+the four repetitions of A, 
+followed by four repetitions of B, 
+is a highly unique pattern. 
+In addition,
+in the second use of the motif B series, 
+there is a grace note inserted
 making the phrase go "sol-la-do-la-*re*-do."
 
-"My Sweet Lord," recorded first in 1970, also uses the same motif A
-(modified to suit the words) four times, followed by motif B, repeated
-three times, not four. In place of "He's So Fine's" fourth repetition of
-motif B, "My Sweet Lord" has a transitional passage of musical
-attractiveness of the same approximate length, with the identical grace
-note in the identical second repetition. The harmonies of
-both songs are identical.
+"My Sweet Lord," recorded first in 1970, 
+also uses the same motif A (modified to suit the words) four times, 
+followed by motif B, repeated three times, not four. 
+In place of "He's So Fine's" fourth repetition of motif B, 
+"My Sweet Lord" has a transitional passage 
+of musical attractiveness of the same approximate length, 
+with the identical grace note in the identical second repetition. 
+The harmonies of both songs are identical.
 
->Fn. 6. Expert witnesses for the defendants asserted crucial differences in the two songs. These claimed differences essentially stem, however, from the fact that different words and number of syllables were involved. This necessitated modest alterations in the repetitions or the places of beginning of a phrase, which, however, has nothing to do whatsoever with the essential musical kernel that is involved.
+> Fn. 6. Expert witnesses for the defendants 
+> asserted crucial differences in the two songs. 
+> These claimed differences essentially stem, however, 
+> from the fact that different words and number of syllables were involved. 
+> This necessitated modest alterations in the repetitions 
+> or the places of beginning of a phrase, which, 
+> however, has nothing to do whatsoever 
+> with the essential musical kernel that is involved.
 
-George Harrison, a former member of The Beatles, was aware of
-"He's So Fine." In the United States, it was No. 1 on the billboard charts
-for five weeks; in England, Harrison's home country, it was No. 12 on
-the charts on June 1, 1963, a date upon which one of the Beatle songs
-was, in fact, in first position. For seven weeks in 1963, "He's So Fine"
+George Harrison, a former member of The Beatles, 
+was aware of "He's So Fine." 
+In the United States, it was No. 1 on the billboard charts for five weeks; 
+in England, Harrison's home country, 
+it was No. 12 on the charts on June 1, 1963, 
+a date upon which one of the Beatle songs was, in fact, in first position. 
+For seven weeks in 1963, "He's So Fine"
 was one of the top hits in England.
 
-According to Harrison, the circumstances of the composition of My "Sweet
-Lord" were as follows. Harrison and his group, which include an American
-black gospel singer named Billy Preston, were in
-Copenhagen, Denmark, on a singing engagement. There was a press
-conference involving the group going on backstage. Harrison slipped away
-from the press conference and went to a room upstairs and began
-"vamping" some guitar chords, fitting on to the chords he was playing
-the words, "Hallelujah" and "Hare Krishna" in various ways.
+According to Harrison, 
+the circumstances of the composition of My "Sweet Lord" were as follows. 
+Harrison and his group, 
+which include an American black gospel singer named Billy Preston, 
+were in Copenhagen, Denmark, on a singing engagement. 
+There was a press conference involving the group going on backstage. 
+Harrison slipped away from the press conference 
+and went to a room upstairs and began "vamping" some guitar chords, 
+fitting on to the chords he was playing the words, 
+"Hallelujah" and "Hare Krishna" in various ways.
 During the course of this vamping, he was alternating between what
 musicians call a Minor II chord and a Major V chord.
 
@@ -125,7 +192,11 @@ develop a little bit further during the following week as he was playing
 it on his guitar. Thus developed motif A and its words interspersed with
 "Hallelujah" and "Hare Krishna."
 
->Fn. 8. These words ended up being a "responsive" interjection between the eventually copyrighted words of "My Sweet Lord." In "He's So Fine", the Chiffons used the sound "dulang" in the same places to fill in and give rhythmic impetus to what would otherwise be somewhat dead spots in the music.
+> Fn. 8. These words ended up being a "responsive" interjection 
+> between the eventually copyrighted words of "My Sweet Lord." 
+> In "He's So Fine", the Chiffons used the sound "dulang" 
+> in the same places to fill in and give rhythmic impetus 
+> to what would otherwise be somewhat dead spots in the music.
 
 Approximately one week after the idea first began to germinate, the
 entire group flew back to London because they had earlier booked time to
@@ -176,23 +247,27 @@ theme. However, they in fact were, for it is perfectly
 obvious to the listener that in musical terms, the two songs are
 virtually identical except for one phrase &hellip; [The judge then noted that "even Harrison's own expert witness acknowledged that although the two motifs were in the public domain, their use here was so unusual as to make them unique.]
 
-What happened? I conclude that the composer, in seeking
-musical materials to clothe his thoughts, was working with various
-possibilities. As he tried this possibility and that, there came to the
-surface of his mind a particular combination that pleased him as being
-one he felt would be appealing to a prospective listener; in other
-words, that this combination of sounds would work. Why? Because his
-subconscious knew it already had worked in a song his conscious mind did
-not remember. Having arrived at this pleasing combination of sounds, the
-recording was made, the lead sheet prepared for copyright and the song
-became an enormous success. Did Harrison deliberately use the music of
-"He's So Fine?" I do not believe he did so deliberately. Nevertheless, it
-is clear that "My Sweet Lord" is the very same song as "He's So
-Fine" with different words, and Harrison had access to
-"He's So Fine." This is, under the law, infringement of copyright, and is
-no less so even though subconsciously accomplished. [*Sheldon v.
-Metro-Goldwyn Pictures Corp.,* (2d Cir. 1936)](http://scholar.google.com/scholar_case?case=3859838602307612005);
-[*Northern Music Corp. v. Pacemaker Music Co., Inc.,* (S.D.N.Y. 1965)](http://scholar.google.com/scholar_case?about=13229859812881995919).
+What happened? I conclude that the composer, 
+in seeking musical materials to clothe his thoughts, 
+was working with various possibilities. 
+As he tried this possibility and that, 
+there came to the surface of his mind a particular combination that pleased him 
+as being one he felt would be appealing to a prospective listener; 
+in other words, that this combination of sounds would work. 
+Why? Because his subconscious knew 
+it already had worked in a song 
+his conscious mind did not remember. 
+Having arrived at this pleasing combination of sounds, 
+the recording was made, 
+the lead sheet prepared for copyright 
+and the song became an enormous success. 
+Did Harrison deliberately use the music of "He's So Fine?" 
+I do not believe he did so deliberately. 
+Nevertheless, it is clear that "My Sweet Lord" 
+is the very same song as "He's So Fine" with different words, 
+and Harrison had access to "He's So Fine." 
+This is, under the law, infringement of copyright, 
+and is no less so even though subconsciously accomplished.
 
 Given the foregoing, I find for the plaintiff on the issue of
 plagiarism, and set the action down for trial on November 8, 1976 on the
@@ -209,32 +284,40 @@ So Ordered.
 ###### US Court of Appeals (7th Cir. 1984) 
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=15134673856711698951)
-* [case on Westlaw] (http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=741f2d896&appflag=67.12) 
+* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=741f2d896&appflag=67.12) 
 * [Wikipedia](http://en.wikipedia.org/wiki/Selle_v._Gibb).  
 
 CUDAHY, Circuit Judge.
 
-The plaintiff, Ronald H. Selle, brought a suit against three brothers,
-Maurice, Robin and Barry Gibb, known collectively as the popular singing
-group, the Bee Gees, alleging that the Bee Gees, in their hit tune, "How
-Deep Is Your Love," had infringed the copyright of his song, "Let It
-End." The jury returned a verdict in plaintiff Selle's favor on the issue of
-liability in a bifurcated trial. The district court, Judge George N.
-Leighton, granted the defendants' motion for judgment notwithstanding
-the verdict and, in the alternative, for a new trial. [*Selle v. Gibb,* (N.D.Ill.
+The plaintiff, Ronald H. Selle, 
+brought a suit against three brothers,
+Maurice, Robin and Barry Gibb, 
+known collectively as the popular singing group, the Bee Gees, 
+alleging that the Bee Gees, in their hit tune, 
+"How Deep Is Your Love," had infringed 
+the copyright of his song, "Let It End." 
+The jury returned a verdict in plaintiff Selle's favor 
+on the issue of liability in a bifurcated trial. 
+The district court, Judge George N. Leighton, 
+granted the defendants' motion for judgment notwithstanding the verdict 
+and, in the alternative, for a new trial. [*Selle v. Gibb,* (N.D.Ill.
 1983)](http://scholar.google.com/scholar_case?case=11567908603789103293).
 We affirm the grant of the motion for judgment notwithstanding the
 verdict.
 
 ## I
 
-Selle composed his song, "Let It End," in one day in the fall of 1975
-and obtained a copyright for it on November 17, 1975. He played his song
-with his small band two or three times in the Chicago area and sent a
-tape and lead sheet of the music to eleven music recording and
-publishing companies. Eight of the companies returned the materials to
-Selle; three did not respond. This was the extent of the public
-dissemination of Selle's song. [More facts at *Selle v. Gibb* (N.D.Ill.1983)](http://scholar.google.com/scholar_case?case=11567908603789103293).
+Selle composed his song, "Let It End," 
+in one day in the fall of 1975
+and obtained a copyright for it on November 17, 1975. 
+He played his song with his small band 
+two or three times in the Chicago area 
+and sent a tape and lead sheet of the music 
+to eleven music recording and publishing companies. 
+Eight of the companies returned the materials to Selle; 
+three did not respond. 
+This was the extent of the public dissemination of Selle's song. 
+[More facts at *Selle v. Gibb* (N.D.Ill.1983)](http://scholar.google.com/scholar_case?case=11567908603789103293).
 
 Selle first became aware of
 the Bee Gees' song, "How Deep Is Your Love," in May 1978 and thought
@@ -430,39 +513,50 @@ adduce any evidence of access and stated that an inference of access may
 not be based on mere conjecture, speculation or a bare possibility of
 access. [567 F.Supp. at 1181](http://scholar.google.com/scholar_case?case=11567908603789103293).
 
-Thus, in [*Testa v. Janssen,* 492 F.Supp. 198, 202-03 (W.D.Pa.
+Thus, in [*Testa v. Janssen,* (W.D.Pa.
 1980),](http://scholar.google.com/scholar_case?case=11105954636820891332)
-the court stated that "[t]o support a finding of access, plaintiffs'
-evidence must extend beyond mere speculation or conjecture. And, while
-circumstantial evidence is sufficient to establish access, a defendant's
-opportunity to view the copyrighted work must exist by a reasonable
-possibility — not a bare possibility" (citations omitted). 
+the court stated that:
 
-Judge Leighton thus based his decision on what he characterized as the
-plaintiff's inability to raise more than speculation that the Bee Gees
-had access to his song. The extensive testimony of the defendants and
-their witnesses describing the creation process went essentially
-uncontradicted, and there was no attempt even to impeach their
-credibility. Judge Leighton further relied on the principle that the
-testimony of credible witnesses concerning a matter within their
-knowledge cannot be rejected without some impeachment, contradiction or
-inconsistency with other evidence on the particular point at issue.&hellip; 
+> To support a finding of access, 
+> plaintiffs' evidence must extend beyond mere speculation or conjecture. 
+> And, while circumstantial evidence is sufficient to establish access, 
+> a defendant's opportunity to view the copyrighted work must exist 
+> by a reasonable possibility — not a bare possibility. 
 
-Judge Leighton's conclusions that there was no more than a bare
-possibility that the defendants could have had access to Selle's song
-and that this was an insufficient basis from which the jury could have
-reasonably inferred the existence of access seem correct. The plaintiff
-has failed to meet even the minimum threshold of proof of the
+Judge Leighton thus based his decision 
+on what he characterized as the plaintiff's inability 
+to raise more than speculation that the Bee Gees
+had access to his song. 
+The extensive testimony of the defendants 
+and their witnesses describing the creation process 
+went essentially uncontradicted, 
+and there was no attempt even to impeach their credibility. 
+Judge Leighton further relied on the principle 
+that the testimony of credible witnesses 
+concerning a matter within their knowledge 
+cannot be rejected 
+without some impeachment, contradiction or inconsistency 
+with other evidence on the particular point at issue.&hellip; 
+
+Judge Leighton's conclusions 
+that there was no more than a bare possibility 
+that the defendants could have had access to Selle's song
+and that this was an insufficient basis 
+from which the jury could have reasonably inferred 
+the existence of access seem correct. 
+The plaintiff has failed to meet even the minimum threshold of proof of the
 possibility of access and, as Judge Leighton has stated, an inference of
 access would thus seem to be "at war with the undisputed facts." [567
 F.Supp. at 1183](http://scholar.google.com/scholar_case?case=11567908603789103293).
 
 ## IV
 
-The grant of the motion for judgment notwithstanding the verdict might,
-if we were so minded, be affirmed on the basis of the preceding analysis
-of the plaintiff's inability to establish a reasonable inference of
-access. This decision is also supported by a more traditional analysis
+The grant of the motion for judgment notwithstanding the verdict 
+might, if we were so minded, 
+be affirmed on the basis of the preceding analysis
+of the plaintiff's inability 
+to establish a reasonable inference of access. 
+This decision is also supported by a more traditional analysis
 of proof of access based only on the proof of "striking similarity"
 between the two compositions. The plaintiff relies almost exclusively on
 the testimony of his expert witness, Dr. Parsons, that the two pieces
@@ -479,7 +573,10 @@ that the defendant independently arrived at the same result." Nimmer,
 *Copyright,* at 13-14.
 
 "Striking similarity" is not merely a function of the number of
-identical notes that appear in both compositions.&hellip; An important factor in analyzing the degree of similarity of two compositions is the uniqueness of the sections which are asserted to be similar.
+identical notes that appear in both compositions.&hellip; 
+An important factor in analyzing the degree of similarity 
+of two compositions is the uniqueness of the sections 
+which are asserted to be similar.
 
 If the complaining work contains an unexpected departure from the normal
 metric structure or if the complaining work includes what appears to be
@@ -597,25 +694,86 @@ case is considerable.
 
 #### NOTES *Selle v. Gibb,* (7th Cir. 1984)
 
-Ronald Selle composed “Let It End” in the fall of 1975, secured copyright, and played it a few times with his band in Chicago. Selle sent the tape and sheet music to record companies, with no luck.
+Ronald Selle composed “Let It End” in the fall of 1975, 
+secured copyright, and played it a few times with his band in Chicago. 
+Selle sent the tape and sheet music to record companies, with no luck.
 
-Then Selle saw the hit movie *Saturday Night Fever* and heard “How Deep Is Your Love?” by the Bee Gees. Selle brought an action against the Bee Gees alleging copyright infringement and claiming that the Bee Gees must have copied Selle's "Let It End" in composing "How Deep Is Your Love".
+Then Selle saw the hit movie *Saturday Night Fever* 
+and heard “How Deep Is Your Love?” by the Bee Gees. 
+Selle brought an action against the Bee Gees 
+alleging copyright infringement 
+and claiming that the Bee Gees must have copied Selle's "Let It End" 
+in composing "How Deep Is Your Love".
 
-Plaintiff Selle called only one expert: Dr. Arrond Parsons, a professor of classical music. Parsons had never done song comparisons. 
+Plaintiff Selle called only one expert: 
+Dr. Arrond Parsons, a professor of classical music. 
+Parsons had never done song comparisons. 
 
-The jury decided in favor of plaintiff Selle, but the judge granted judgment notwithstanding the verdict. Why? No access! The district court said that **proof of copying is essential.** If no direct evidence of access, then inference of access may be established by striking similarity. But circumstantial evidence of access may be rebutted by evidence that the work was created independently, or that both copies are based on a common source in the  public domain.
+The jury decided in favor of plaintiff Selle, 
+but the judge granted judgment notwithstanding the verdict. 
+Why? No access! 
+The district court said that **proof of copying is essential.** 
+If no direct evidence of access, 
+then inference of access may be established by striking similarity. 
+But circumstantial evidence of access may be rebutted 
+by evidence that the work was created independently, 
+or that both copies are based on a common source in the public domain.
 
-> Two works may be identical in every detail, but, if the alleged infringer created the accused work independently or both works were copied from a common source in the public domain, then there is no infringement. Therefore, if the plaintiff admits to having kept his or her creation under lock and key, it would seem logically impossible to infer access through striking similarity. Thus, although it has frequently been written that striking similarity alone can establish access, the decided cases suggest that this circumstance would be most unusual. The plaintiff must always present sufficient evidence to support a reasonable possibility of access because the jury cannot draw an inference of access based upon speculation and conjecture alone.
+> Two works may be identical in every detail, 
+> but, if the alleged infringer created the accused work independently 
+> or both works were copied from a common source in the public domain, 
+> then there is no infringement. 
+> Therefore, if the plaintiff admits 
+> to having kept his or her creation under lock and key, 
+> it would seem logically impossible to infer access through striking similarity. 
+> Thus, although it has frequently been written 
+> that striking similarity alone can establish access, 
+> the decided cases suggest that this circumstance would be most unusual. 
+> The plaintiff must always present sufficient evidence 
+> to support a reasonable possibility of access 
+> because the jury cannot draw an inference of access 
+> based upon speculation and conjecture alone.
 
 ## Subsantial Similarity
 
-Copyright plaintiffs must prove that alleged infringers had access to plaintiff's copyrighted work AND must prove that the infringing work is "substantially similar" to the copyrighted work. The test for "substantial similarity" is "whether an average lay observer would recognize the alleged copy as having been appropriated from the copyrighted work." [*Warner Bros. Inc. v. ABC* (2d Cir. 1981)](http://scholar.google.com/scholar_case?case=11184341880970931909).
+Copyright plaintiffs must prove 
+that alleged infringers had access to plaintiff's copyrighted work 
+AND must prove that the infringing work is "substantially similar" 
+to the copyrighted work. 
+The test for "substantial similarity" is 
+"whether an average lay observer would recognize the alleged copy 
+as having been appropriated from the copyrighted work." 
+[*Warner Bros. Inc. v. ABC* (2d Cir. 1981)](http://scholar.google.com/scholar_case?case=11184341880970931909).
 
-In [*Nichols v Universal* (2d Cir. 1930)](http://scholar.google.com/scholar_case?case=14991934121439658064), Judge Learned Hand compared a play, *Abie's Irish Rose*, with a movie *The Cohens and the Kellys* in a copyright suit.
+In [*Nichols v Universal* (2d Cir. 1930)](http://scholar.google.com/scholar_case?case=14991934121439658064), 
+Judge Learned Hand compared a play, *Abie's Irish Rose*, 
+with a movie *The Cohens and the Kellys* in a copyright suit.
 
-Copyright in literary works “cannot be limited literally to the text, else a plagiarist would escape by immaterial variations.” Instead, Judge Hand formulated "the abstractions test":
+Copyright in literary works “cannot be limited literally to the text, 
+else a plagiarist would escape by immaterial variations.” 
+Instead, Judge Hand formulated "the abstractions test":
 
-> Upon any work, and especially upon a play, a great number of patterns of increasing generality will fit equally well, as more and more of the incident is left out. The last may perhaps be no more than the most general statement of what the play is about, and at times might consist only of its title; but there is a point in this series of abstractions where they are no longer protected, since otherwise the playwright could prevent the use of his 'ideas,' to which, apart from their expression, his property is never extended . . . .  Nobody has ever been able to fix that boundary, and nobody ever can. In some cases the question has been treated as though it were analogous to lifting a portion out of the copyrighted work; but the analogy is not a good one, because though the skeleton is a part of the body, it pervades and supports the whole. In such cases we are rather concerned with the line between expression and what is expressed.”
+> Upon any work, and especially upon a play, 
+> a great number of patterns of increasing generality 
+> will fit equally well, 
+> as more and more of the incident is left out. 
+> The last may perhaps be no more 
+> than the most general statement of what the play is about, 
+> and at times might consist only of its title; 
+> but there is a point in this series of abstractions 
+> where they are no longer protected, 
+> since otherwise the playwright could prevent the use of his 'ideas,' 
+> to which, apart from their expression, 
+> his property is never extended.&hellip; 
+> Nobody has ever been able to fix that boundary, 
+> and nobody ever can. 
+> In some cases the question has been treated 
+> as though it were analogous to lifting a portion out of the copyrighted work; 
+> but the analogy is not a good one, 
+> because though the skeleton is a part of the body, 
+> it pervades and supports the whole. 
+> In such cases we are rather concerned 
+> with the line between expression and what is expressed.”
 
 We can see a similar analysis applied in the following case.
 
@@ -814,13 +972,17 @@ work, and before either Daisy or Boolie can mention the missing salmon,
 Hoke hands Daisy a new can to replace the salmon he had eaten the
 previous day. An embarrassed Daisy quickly bids Boolie good-bye.
 
-We next see Daisy tending to her husband's grave on what is referred to
-in the screenplay as a "full, fuzzy-green, warm morning." She asks Hoke, who is standing nearby, to put a pot
-of azaleas on Leo Bauer's grave. Hoke cannot locate the Bauer grave and,
-deeply embarrassed, is forced to admit to Daisy that he is unable to
-read. Daisy, formerly an  elementary school teacher, teaches
-Hoke to sound out the name Bauer. Throughout the works Daisy helps Hoke
-learn to read and write&hellip;
+We next see Daisy tending to her husband's grave 
+on what is referred to in the screenplay 
+as a "full, fuzzy-green, warm morning." 
+She asks Hoke, who is standing nearby, 
+to put a pot of azaleas on Leo Bauer's grave. 
+Hoke cannot locate the Bauer grave and, deeply embarrassed, 
+is forced to admit to Daisy 
+that he is unable to read. 
+Daisy, formerly an elementary school teacher, 
+teaches Hoke to sound out the name Bauer. 
+Throughout the works Daisy helps Hoke learn to read and write.&hellip;
 
 A few years later, we see Hoke and Boolie discussing the new car Boolie
 bought for Daisy. Hoke tells Boolie he bought Daisy's old car from a
@@ -1188,11 +1350,19 @@ SO ORDERED.
 3. the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
 4. the effect of the use upon the potential market for or value of the copyrighted work.
 
-The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
+The fact that a work is unpublished 
+shall not itself bar a finding of fair use 
+if such finding is made upon consideration of all the above factors.
 
 #### Who decides whether use of a copyrighted work was fair?
 
-The court does. AFTER the fact. Meaning that the accused infringer has already been hauled into court by the copyright holder. Attorneys fees (kaching!) This why copyright CLEARANCES and LICENSING are essential BEFORE the movie is made. Clearances are designed to keep the artist from being sued in the first place.
+The court does. AFTER the fact. 
+Meaning that the accused infringer 
+has already been hauled into court by the copyright holder. 
+Attorneys fees (kaching!) 
+This why copyright CLEARANCES and LICENSING are essential 
+BEFORE the movie is made. 
+Clearances are designed to keep the artist from being sued in the first place.
 
 #### *Harper & Row v. The Nation* (Sct. 1985)
 
@@ -1200,31 +1370,72 @@ The court does. AFTER the fact. Meaning that the accused infringer has already b
 * [case at Westlaw][harper]
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Harper_%26_Row_v._Nation_Enterprises)
 
-The Watergate Scandall forced Richard Nixon to resign as President of the United States in 1974. Vice President Gerald Ford became president, and thirty days later granted Nixon a full pardon for any crimes he may have committed while in office. 
+The Watergate Scandall forced Richard Nixon 
+to resign as President of the United States in 1974. 
+Vice President Gerald Ford became president, 
+and thirty days later granted Nixon a full pardon 
+for any crimes he may have committed while in office. 
 
-The decision caused an outrcy in the press and public indignation from citizens (particularly Democracts) who wanted Nixon tried, convicted, and possibly sent to prison. 
+The decision caused an outrcy in the press 
+and public indignation from citizens 
+(particularly Democracts) 
+who wanted Nixon tried, convicted, and possibly sent to prison. 
 
-Five years later, Ford published *A Time to Heal: The Autobiography of Gerald R. Ford.* and was marketed in part as Ford's chance to explain his decision to pardon Nixon. 
+Five years later, 
+Ford published *A Time to Heal: The Autobiography of Gerald R. Ford.* 
+and was marketed in part as Ford's chance to explain his decision to pardon Nixon. 
 
-In March 1979, weeks before Ford's publisher *Harper & Row* planned to publish *A Time To Heal,* an undisclosed source provided The Nation Magazine with Ford's unpublished manuscript. 
+In March 1979, 
+weeks before Ford's publisher *Harper & Row* planned to publish *A Time To Heal,* 
+an undisclosed source provided The Nation Magazine 
+with Ford's unpublished manuscript. 
 
-Working directly from the bootleg copy of the pages, an editor of The Nation produced a short piece entitled “The Ford Memoirs-Behind the Nixon Pardon.” 
+Working directly from the bootleg copy of the pages, 
+an editor of The Nation produced a short piece entitled 
+“The Ford Memoirs-Behind the Nixon Pardon.” 
 
-The Nation piece was timed to "scoop" an article scheduled shortly to appear in Time Magazine. Time had agreed to purchase the exclusive right to print prepublication excerpts from the copyright holders, Harper & Row Publishers, Inc. ("Harper"). When Time found out about The Nation article, Time canceled its agreement. 
+The Nation piece was timed to "scoop" an article 
+scheduled shortly to appear in Time Magazine. 
+Time had agreed to purchase the exclusive right 
+to print prepublication excerpts from the copyright holders, 
+Harper & Row Publishers, Inc. ("Harper"). 
+When Time found out about The Nation article, Time canceled its agreement. 
 
 Harper sued The Nation for copyright infringement and won. 
 
-On appeal, the Second Circuit reversed the lower court's finding of infringement, holding that The Nation's act was sanctioned as a “fair use” of the copyrighted material. 
+On appeal, 
+the Second Circuit reversed the lower court's finding of infringement, 
+holding that The Nation's act was sanctioned 
+as a “fair use” of the copyrighted material. 
 
-The Supreme Court reversed. Writing for the majority Justice Sandra Day O'Connor acknowledged that the Second Circuit was correct to note that Ford's book was "news" and mostly "facts," the kind of material that militates in favor of a fair use finding. But O'Connor placed greater emphasis on the author's publishing rights under &#167;106:
+The Supreme Court reversed. 
+Writing for the majority 
+Justice Sandra Day O'Connor acknowledged 
+that the Second Circuit was correct to note 
+that Ford's book was "news" and mostly "facts," 
+the kind of material that militates in favor of a fair use finding. 
+But O'Connor placed greater emphasis 
+on the author's publishing rights under &#167;106:
 
-> The right of first publication implicates a threshold decision by the author whether and in what form to release his work. First publication is inherently different from other §106 rights in that only one person can be the first publisher; as the contract with Time illustrates, the commercial value of the right lies primarily in exclusivity. Because the potential damage to the author from judicially enforced “sharing” of the first publication right with unauthorized users of his manuscript is substantial, the balance of equities in evaluating such a claim of fair use inevitably shifts.
+> The right of first publication 
+> implicates a threshold decision by the author 
+> whether and in what form to release his work. 
+> First publication is inherently different from other §106 rights 
+> in that only one person can be the first publisher; 
+> as the contract with Time illustrates, 
+> the commercial value of the right lies primarily in exclusivity. 
+> Because the potential damage to the author 
+> from judicially enforced “sharing” of the first publication right 
+> with unauthorized users of his manuscript is substantial, 
+> the balance of equities 
+> in evaluating such a claim of fair use inevitably shifts.
 
 The Court applied the four prongs of the &#167;107 fair use as follows:
 
 1. The purpose and character of the use:
 
-The Court agreed with the Second Circuit that The Nation's purpose in publishing the excerpts was ostensibly "news reporting," and that [§107][107] lists news reporting as one of the exemplary activities tending toward a finding of fair use. But the court insisted that the issue was not what constitutes "news," but whether a claim of newsreporting is a valid fair use defense to an infringement of *copyrightable expression*.”
+The Court agreed with the Second Circuit 
+that The Nation's purpose in publishing the excerpts was ostensibly "news reporting," and that [§107][107] lists news reporting as one of the exemplary activities tending toward a finding of fair use. But the court insisted that the issue was not what constitutes "news," but whether a claim of newsreporting is a valid fair use defense to an infringement of *copyrightable expression*.”
 
 As for the *character* of The Nation's use, the trial court found that The Nation knowingly exploited a purloined manuscript. The Supreme Court said that: "Fair use presupposes ‘good faith’ and ‘fair dealing,’” which was decidedly lacking in The Nation's conduct.
 
@@ -1256,15 +1467,23 @@ The Court found that "this last factor is undoubtedly the single most important 
 
 JUSTICE SOUTER delivered the opinion of the Court.
 
-We are called upon to decide whether 2 Live Crew's commercial parody of
-Roy Orbison's song, "Oh, Pretty Woman,"  may be a fair use
-within the meaning of the Copyright Act &hellip; [§ 107][107]. Although the District Court granted summary judgment
-for 2 Live Crew, the Court of Appeals reversed, holding the defense of
-fair use barred by the song's commercial character and excessive
-borrowing. Because we hold that a parody's commercial character is only
-one element to be weighed in a fair use enquiry, and that insufficient
-consideration was given to the nature of parody in weighing the degree
-of copying, we reverse and remand.
+We are called upon to decide 
+whether 2 Live Crew's commercial parody 
+of Roy Orbison's song, "Oh, Pretty Woman," 
+may be a fair use within the meaning of the Copyright Act [§ 107][107]. 
+
+Although the District Court 
+granted summary judgment for 2 Live Crew, 
+the Court of Appeals reversed, 
+holding the defense of fair use 
+barred by the song's commercial character 
+and excessive borrowing. 
+
+Because we hold that a parody's commercial character 
+is only one element to be weighed in a fair use enquiry, 
+and that insufficient consideration was given 
+to the nature of parody in weighing the degree of copying, 
+we reverse and remand.
 
 ## I
 
@@ -1296,68 +1515,85 @@ entitled "As Clean As They Wanna Be." The albums and compact discs
 identify the authors of "Pretty Woman" as Orbison and Dees and its
 publisher as Acuff-Rose.
 
-Almost a year later, after nearly a quarter of a million copies of the
-recording had been sold, Acuff-Rose sued 2 Live Crew and its record
-company, Luke Skyywalker Records, for copyright infringement. The
-District Court granted summary judgment for 2 Live Crew, reasoning that the commercial purpose of 2 Live Crew's song was no bar
-to fair use; that 2 Live Crew's version was a parody, which "quickly
-degenerates into a play on words, substituting predictable lyrics with
-shocking ones" to show "how bland and banal the Orbison song" is; that 2
-Live Crew had taken no more than was necessary to "conjure up" the
-original in order to parody it; and that it was "extremely unlikely that
-2 Live Crew's song could adversely affect the market for the original."
-The District
-Court weighed these factors and held that 2 Live Crew's song made fair
-use of Orbison's original. *Id.,* at 1158-1159.
+Almost a year later, 
+after nearly a quarter of a million copies 
+of the recording had been sold, 
+Acuff-Rose sued 2 Live Crew and its record company, 
+Luke Skyywalker Records, 
+for copyright infringement. 
+
+The District Court granted summary judgment for 2 Live Crew, 
+reasoning that the commercial purpose of 2 Live Crew's song 
+was no bar to fair use; 
+that 2 Live Crew's version was a parody, 
+which "quickly degenerates into a play on words, 
+substituting predictable lyrics with shocking ones" 
+to show "how bland and banal the Orbison song" is; 
+that 2 Live Crew had taken no more than was necessary 
+to "conjure up" the original in order to parody it; 
+and that it was "extremely unlikely that 2 Live Crew's song 
+could adversely affect the market for the original."
+
+The District Court weighed these factors 
+and held that 2 Live Crew's song made fair
+use of Orbison's original. 
 
 The Court of Appeals for the Sixth Circuit reversed and remanded.
 Although it assumed for the purpose of its opinion
-that 2 Live Crew's song  was a parody of the Orbison original,
-the Court of Appeals thought the District Court had put too little
-emphasis on the fact that "every commercial use &hellip; is presumptively .
-. . unfair," [*Sony Corp. of America* v. *Universal City Studios, Inc.* (1984),](http://scholar.google.com/scholar_case?case=5876335373788447272)
-and it held that "the admittedly commercial nature" of the parody
-"requires the conclusion" that the first of four factors relevant under
-the statute weighs against a finding of fair use. Next, the Court of Appeals determined that, by "taking the heart
-of the original and making it the heart of a new work," 2 Live Crew had,
-qualitatively, taken too much. Finally, after noting
-that the effect on the potential market for the original (and the market
-for derivative works) is "undoubtedly the single most important element
-of fair use," [*Harper & Row, Publishers, Inc.* v. *Nation Enterprises,*
-471 U. S. 539, 566
-(1985),](http://scholar.google.com/scholar_case?case=12801604581154452950)
-the Court of Appeals faulted the District Court for "refus[ing] to
-indulge the presumption" that "harm for purposes of the fair use
-analysis has been established by the presumption attaching to commercial
-uses." In sum, the court concluded that its
-"blatantly commercial purpose . . . prevents this parody from being a
-fair use." 
+that 2 Live Crew's song was a parody of the Orbison original,
+the Court of Appeals thought the District Court 
+had [failed to emphasize] 
+that "every commercial use &hellip; 
+is presumptively &hellip; unfair," 
+[*Sony Corp. of America* v. *Universal City Studios, Inc.* (1984),][sony]. 
+and it held that 
+"the admittedly commercial nature" of the parody
+"requires the conclusion" 
+that the first of four factors [nature of the use] relevant under the statute 
+weighs against a finding of fair use. 
+
+Next, the Court of Appeals determined that, 
+by "taking the heart of the original 
+and making it the heart of a new work," 
+2 Live Crew had, qualitatively, taken too much. 
+Finally, after noting 
+that the effect on the potential market for the original 
+(and the market for derivative works) 
+is "undoubtedly the single most important element of fair use," 
+[*Harper & Row, Publishers, Inc.* v. *Nation Enterprises,* (1985),](http://scholar.google.com/scholar_case?case=12801604581154452950)
+the Court of Appeals faulted the District Court 
+for "refusing to indulge the presumption" that 
+"harm for purposes of the fair use analysis 
+has been established by the presumption attaching to commercial uses." 
+In sum, the court concluded that its 
+"blatantly commercial purpose &hellip; 
+prevents this parody from being a fair use." 
 
 We granted certiorari &hellip; to determine whether 2
 Live Crew's commercial parody could be a fair use.
 
 ## II
 
-It is uncontested here that 2 Live Crew's song would be an infringement
-of Acuff-Rose's rights in "Oh, Pretty Woman," under the Copyright Act &hellip; but for a finding of
-fair use through parody. From the infancy of
-copyright protection, some opportunity for fair use of copyrighted
-materials has been thought necessary to fulfill copyright's very
-purpose, "[t]o promote the Progress of Science and useful Arts. . . ."
-U. S. Const., Art. I, § 8, cl. 8. For as Justice Story
-explained:
+It is uncontested here 
+that 2 Live Crew's song would be an infringement
+of Acuff-Rose's rights in "Oh, Pretty Woman," 
+under the Copyright Act &hellip; 
+but for a finding of fair use through parody. 
+From the infancy of copyright protection, 
+some opportunity for fair use of copyrighted materials 
+has been thought necessary to fulfill copyright's very purpose, 
+"To promote the Progress of Science and useful Arts. . . ." 
+U.S. Const., Art. I, § 8, cl. 8. 
+
+For as Justice Story explained:
 
 > In truth, in literature, in science and in art, there are,
 and can be, few, if any, things, which in an abstract sense, are
 strictly new and original throughout. Every book in literature, science
 and art, borrows, and must necessarily borrow, and use much which was
-well known and used before." 
+well known and used before. 
 
-[*Emerson* v. *Davies* (CCD Mass. 1845)](http://scholar.google.com/scholar_case?about=591557054954121280).
-
-In [*Folsom* v. *Marsh,* 9 F. Cas. 342 (No. 4,901) (CCD Mass.
-1841),](http://scholar.google.com/scholar_case?about=4495747226837550380)
-Justice Story distilled the essence of law and methodology from the
+In [*Folsom* v. *Marsh,* (CCD Mass.  1841),](http://scholar.google.com/scholar_case?about=4495747226837550380) Justice Story distilled the essence of law and methodology from the
 earlier cases: 
 
 > look to the nature and objects of the selections made,
@@ -1939,3 +2175,5 @@ taking fiction is less fair.
 [beastie]: http://artsbeat.blogs.nytimes.com/2013/11/25/the-beastie-boys-fight-online-video-parody-of-girls/?_r=0 "Beastie Boys Mad About 'Girls' Parody"
 [107]: http://www.copyright.gov/title17/92chap1.html#107 "Section 107: Fair Use"
 [106]: http://www.copyright.gov/title17/92chap1.html#106 "Section 106: Rights"
+[selle]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=420fsupp177&appflag=67.12 "Selle v. Gibb"
+[sony]: http://scholar.google.com/scholar_case?case=5876335373788447272 "Sony v. Universal (Sct. 1984)"
