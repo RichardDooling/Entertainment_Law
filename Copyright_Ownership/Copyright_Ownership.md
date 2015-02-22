@@ -15,9 +15,18 @@ Who owns the rights?
 
 #### § 201 . Ownership of copyright
 
-**(a) Initial Ownership.** — Copyright in a work protected under this title vests initially in the author or authors of the work. The authors of a joint work are coowners of copyright in the work.
+**(a) Initial Ownership.** --- 
+Copyright in a work protected under this title 
+vests initially in the author or authors of the work. 
+The authors of a joint work are coowners of copyright in the work.
 
-**(b) Works Made for Hire.** — In the case of a work made for hire, the employer or other person for whom the work was prepared is considered the author for purposes of this title, and, unless the parties have expressly agreed otherwise in a written instrument signed by them, owns all of the rights comprised in the copyright.
+**(b) Works Made for Hire.** --- 
+In the case of a work made for hire, 
+the employer or other person for whom the work was prepared 
+is considered the author for purposes of this title, 
+and, unless the parties have expressly agreed otherwise 
+in a written instrument signed by them, 
+owns all of the rights comprised in the copyright.
 
 [Copyright Act § 201][201]
 
@@ -25,7 +34,10 @@ Who owns the rights?
 
 The Copyright Act defines a "joint work" as:
 
-> a work prepared by two or more authors with the intention that their contributions be merged into inseparable or interdependent parts of a unitary whole.
+> a work prepared by two or more authors 
+> with the intention that their contributions 
+> be merged into inseparable or interdependent parts 
+> of a unitary whole.
 
 To be considered joint authors, each author must:
 
@@ -49,7 +61,6 @@ by making deals for partial ownership of the copyright.
 ###### United States Court of Appeals For The Second Circuit (1991)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=431638294827861380)
-* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=945f2d500&appflag=67.12)
 
 #### Case summary
 
@@ -59,7 +70,7 @@ an African-American vaudeville comedienne.
  
 Taylor began to collect material about “Moms” Mabley, 
 interviewing Mabley's friends and family, 
-collecting her jokes, and reviewing library resources.  
+collecting her jokes, and reviewing library resources. 
 
 In 1985, 
 Taylor contacted Alice Childress, 
@@ -71,7 +82,7 @@ and Childress eventually agreed.
 
 Taylor turned over all of her research material to Childress, 
 and later did further research at Childress's request. 
-Taylor also paid Childress $2,500 as a down payment of sorts.  
+Taylor also paid Childress $2,500 as a down payment of sorts. 
 
 Taylor does NOT dispute that Childress wrote the play entitled 
 "Moms: A Praise Play for a Black Comedienne." 
@@ -83,23 +94,24 @@ Taylor argues however that she provided more that mere research to the project:
 
 Childress registered copyright in the play, and the two eventually had a falling out.
 
-The question became: **Who owned the copyright in the work?** Childress alone? Or, as Taylor argued, Childress and Taylor jointly?  
+The question became: **Who owned the copyright in the work?** Childress alone? Or, as Taylor argued, Childress and Taylor jointly? 
 
 The court rejected Taylor's claim of joint authorship 
 holding that a work qualifies as a “joint work” 
 under the definition section of the Copyright Act, [17 U.S.C. § 101][101]
-only when
+only when:
 
-> **both authors intended, 
+> both authors intended, 
 > at the time the work was created, 
-> “that their contributions be merged into inseparable 
-> or interdependent parts of a unitary whole,”** 
+> "that their contributions be merged into inseparable 
+> or interdependent parts of a unitary whole," 
+> (quoting the Copyright Act)
 
-and there was not enough evidence 
+And there was not enough evidence 
 that Childress had such an intent at the time she wrote "Moms." 
 
-The Court said that copyright law requires 
-that **the contributions of both authors to be independently copyrightable**, 
+The Court said that copyright law requires that 
+**the contributions of both authors to be independently copyrightable**, 
 and that Taylor's contributions, 
 which consisted of ideas and research, 
 were NOT copyrightable. 
@@ -114,98 +126,135 @@ Judge Jon O. Newman put it this way:
 
 > A playwright does not so easily acquire a co-author.
 
-#### Excerpts From *Childress* opinion  
+#### Excerpts From *Childress* opinion 
 
-In common with many issues arising in the domain of copyrights, the
-determination of whether to recognize joint authorship in a particular
-case requires a sensitive accommodation of competing demands advanced by
-at least two persons, both of whom have normally contributed in some way
-to the creation of a work of value. Care must be taken to ensure that
-true collaborators in the creative process are accorded the perquisites
-of co-authorship and to guard against the risk that a sole author is
-denied exclusive authorship status simply because another person
-rendered some form of assistance. Copyright law best serves the
-interests of creativity when it carefully draws the bounds of "joint
-authorship" so as to protect the legitimate claims of both sole authors
-and coauthors.&hellip; 
+In common with many issues 
+arising in the domain of copyrights, 
+the determination of whether to recognize joint authorship 
+in a particular case 
+requires a sensitive accommodation 
+of competing demands 
+advanced by at least two persons, 
+both of whom have normally contributed in some way
+to the creation of a work of value. 
+Care must be taken 
+to ensure that true collaborators in the creative process 
+are accorded the perquisites of co-authorship 
+and to guard against the risk 
+that a sole author is denied exclusive authorship status 
+simply because another person rendered some form of assistance. 
+Copyright law best serves the interests of creativity 
+when it carefully draws the bounds of "joint authorship" 
+so as to protect the legitimate claims 
+of both sole authors and coauthors.&hellip; 
 
- Nevertheless, we are persuaded to side with the position taken by the case law and endorsed
-by the agency administering the Copyright Act. The insistence on
-copyrightable contributions by all putative joint authors might serve to
-prevent some spurious claims by those who might otherwise try to share
-the fruits of the efforts of a sole author of a copyrightable work, even
-though a claim of having contributed copyrightable material could be
-asserted by those so inclined. More important, the prevailing view
-strikes an appropriate balance in the domains of both copyright and
-contract law. In the absence of contract, the copyright remains with the
-one or more persons who created copyrightable material. Contract law
-enables a person to hire another to create a copyrightable work, and the
-copyright law will recognize the employer as "author." [17 U.S.C. §
-201(b)][201]. Similarly, the person with non-copyrightable material who
-proposes to join forces with a skilled writer to produce a copyrightable
-work is free to make a contract to disclose his or her material in
-return for assignment of part ownership of the resulting copyright.
-*Id.* [§ 201(d)][201]. And, as with all contract matters, the parties may
-minimize subsequent disputes by formalizing their agreement in a written
-contract. *Cf.* [17 U.S.C. § 101][101] ("work made for hire" definition of
-"specially ordered" or "commissioned" work includes requirement of
-written agreement). It seems more consistent with the spirit of
-copyright law to oblige all joint authors to make copyrightable
-contributions, leaving those with non-copyrightable contributions to
-protect their rights through contract.
+[T]he prevailing view strikes an appropriate balance 
+in the domains of both copyright and contract law. 
+In the absence of contract, 
+the copyright remains with the one or more persons 
+who created copyrightable material. 
+Contract law enables a person 
+to hire another to create a copyrightable work, 
+and the copyright law 
+will recognize the employer as "author." [§ 201(b)][201]. 
+Similarly, the person with non-copyrightable material 
+who proposes to join forces with a skilled writer 
+to produce a copyrightable work 
+is free to make a contract to disclose his or her material 
+in return for assignment of part ownership of the resulting copyright. [§ 201(d)][201]. 
+And, as with all contract matters, 
+the parties may minimize subsequent disputes 
+by formalizing their agreement in a written contract. [§ 101][101] 
+("work made for hire" 
+definition of "specially ordered" or "commissioned" work 
+includes requirement of written agreement). 
+It seems more consistent 
+with the spirit of copyright law 
+to oblige all joint authors 
+to make copyrightable contributions, 
+leaving those with non-copyrightable contributions 
+to protect their rights through contract.
 
-There remains for consideration the crucial aspect of joint authorship —
-the nature of the intent that must be entertained by each putative joint
-author at the time the contribution of each was created. The wording of
-the statutory definition appears to make relevant only the state of mind
-regarding the unitary nature of the finished work — an intention "that
-their contributions be merged into inseparable or interdependent parts
-of a unitary whole." However, an inquiry so limited would extend joint
-author status to many persons who are not likely to have been within the
-contemplation of Congress. For example, a writer frequently works with
-an editor who makes numerous useful revisions to the first draft, some
-of which will consist of additions of copyrightable expression. Both
-intend their contributions to be merged into inseparable parts of a
-unitary whole, yet very few editors and even fewer writers would expect
-the editor to be accorded the status of joint author, enjoying an
-undivided half interest in the copyright in the published work.
-Similarly, research assistants may on occasion contribute to an author
-some protectable expression or merely a sufficiently original selection
-of factual material as would be entitled to a copyright, yet not be
-entitled to be regarded as a joint author of the work in which the
-contributed material appears. What distinguishes the writer-editor
-relationship and the writer-researcher relationship from the true joint
-author relationship is the lack of intent of both participants in the
+There remains for consideration 
+the crucial aspect of joint authorship---
+the nature of the intent 
+that must be entertained 
+by each putative joint author 
+at the time the contribution of each was created. 
+The wording of the statutory definition 
+appears to make relevant only the state of mind
+regarding the unitary nature of the finished work---
+an intention "that their contributions 
+be merged into inseparable or interdependent parts
+of a unitary whole." 
+However, an inquiry so limited 
+would extend joint author status 
+to many persons who are not likely 
+to have been within the contemplation of Congress. 
+For example, 
+a writer frequently works with an editor 
+who makes numerous useful revisions to the first draft, 
+some of which will consist of additions of copyrightable expression. 
+Both intend their contributions 
+to be merged into inseparable parts of a unitary whole, 
+yet very few editors and even fewer writers 
+would expect the editor to be accorded the status of joint author, 
+enjoying an undivided half interest in the copyright 
+in the published work.
+Similarly, research assistants 
+may on occasion contribute to an author
+some protectable expression 
+or merely a sufficiently original selection
+of factual material 
+as would be entitled to a copyright, 
+yet not be entitled to be regarded as a joint author of the work 
+in which the contributed material appears. 
+What distinguishes the writer-editor relationship 
+and the writer-researcher relationship 
+from the true joint author relationship 
+is the lack of intent of both participants in the
 venture to regard themselves as joint authors.&hellip; 
 
-Examination of whether the putative co-authors ever shared an intent to
-be co-authors serves the valuable purpose of appropriately confining the
-bounds of joint authorship arising by operation of copyright law, while
-leaving those not in a true joint authorship relationship with an author
-free to bargain for an arrangement that will be recognized as a matter
-of both copyright and contract law. Joint authorship entitles the
-co-authors to equal undivided interests in the work, *see* [17 U.S.C. §
-201(a)][201] &hellip; 
-That equal sharing of rights should be reserved for relationships in
-which all participants fully intend to be joint authors. The sharing of
-benefits in other relationships involving assistance in the creation of
-a copyrightable work can be more precisely calibrated by the
-participants in their contract negotiations regarding division of
-royalties or assignment of shares of ownership of the copyright, *see*
-[17 U.S.C. § 201(d)][201].&hellip; 
+Examination of whether the putative co-authors 
+ever shared an intent to be co-authors 
+serves the valuable purpose of appropriately confining the
+bounds of joint authorship arising by operation of copyright law, 
+while leaving those not in a true joint authorship relationship 
+with an author free to bargain for an arrangement 
+that will be recognized as a matter of both copyright and contract law. 
+Joint authorship entitles the co-authors 
+to equal undivided interests in the work, *see* [§ 201(a)][201] &hellip; 
+That equal sharing of rights 
+should be reserved for relationships 
+in which all participants fully intend to be joint authors. 
+The sharing of benefits in other relationships 
+involving assistance in the creation of a copyrightable work 
+can be more precisely calibrated 
+by the participants in their contract negotiations 
+regarding division of royalties 
+or assignment of shares of ownership of the copyright, *see*
+[§ 201(d)][201].&hellip; 
 
-There is no evidence that Childress ever contemplated, much less would have accepted, crediting the play as "written by Alice Childress and Clarice Taylor."
+There is no evidence that Childress ever contemplated, 
+much less would have accepted, 
+crediting the play as 
+"written by Alice Childress and Clarice Taylor."
 
-Childress was asked to write a play about "Moms" Mabley and did so. To
-facilitate her writing task, she accepted the assistance that Taylor
-provided, which consisted largely of furnishing the results of research
-concerning the life of "Moms" Mabley. As the actress expected to portray
-the leading role, Taylor also made some incidental suggestions,
-contributing ideas about the presentation of the play's subject and
-possibly some minor bits of expression. But there is no evidence that
-these aspects of Taylor's role ever evolved into more than the helpful
-advice that might come from the cast, the directors, or the producers of
-any play. A playwright does not so easily acquire a co-author.
+Childress was asked to write a play about "Moms" Mabley and did so. 
+To facilitate her writing task, 
+she accepted the assistance that Taylor provided, 
+which consisted largely of furnishing the results of research
+concerning the life of "Moms" Mabley. 
+As the actress expected to portray the leading role, 
+Taylor also made some incidental suggestions,
+contributing ideas about the presentation of the play's subject 
+and possibly some minor bits of expression. 
+But there is no evidence 
+that these aspects of Taylor's role 
+ever evolved into more than the helpful advice 
+that might come from the cast, 
+the directors, or the producers of any play. 
+A playwright does not so easily acquire a co-author.
 
 #### Commentary on *Childress*
 
@@ -213,13 +262,32 @@ any play. A playwright does not so easily acquire a co-author.
 
 ## Works Made For Hire
 
-So far, so good. If the author creates the work, the author owns the copyright. If the author creates the work *with* somebody else and they created a [joint work][201], then they are both authors and coowners of copyright in the work. 
+So far, so good. 
+If the author creates the work, 
+the author owns the copyright. 
+If the author creates the work *with* somebody else, 
+and they created a [joint work][201], 
+then they are both authors and coowners of copyright in the work. 
 
-But what about hired guns? What happens if somebody else pays the author to create the work? Shouldn't the person who hired the author own the copyright in the work? Yes.
+But what about hired guns? 
+What happens if somebody else pays the author to create the work? 
+Shouldn't the person who hired the author 
+own the copyright in the work? Yes.
 
-The copyright statute calls this a "work made for hire," and says that ["the employer or other person for whom the work was prepared"][201] is considered the author of the copyrighted work. 
+The copyright statute calls this 
+a "work made for hire," 
+and says that ["the employer or other person for whom the work was prepared"][201] is considered the author of the copyrighted work. 
 
-For example, if the studio hires the screenwriter to create a screenplay, the studio owns the copyright to the screenplay, which is why writers are hired and fired until the script is just right. Yes, I am oversimplifying. The copyright statute's definition of a "work made for hire" is more elaborate, but Hollywood screenwriters, especially *hired* screenwriters, create works made for hire, or works owned by somebody else.
+For example, 
+if the studio hires the screenwriter to create a screenplay, 
+the studio owns the copyright to the screenplay, 
+which is why writers are hired and fired 
+until the script is just right. 
+Yes, I am oversimplifying. 
+The copyright statute's definition of a "work made for hire" 
+is more elaborate, 
+but Hollywood screenwriters, especially *hired* screenwriters, 
+create works made for hire, or works owned by somebody else.
 
 Under [§ 101][101] of the Copyright Act, a “work made for hire” is— 
 
@@ -237,7 +305,9 @@ Under [§ 101][101] of the Copyright Act, a “work made for hire” is—
     - or as an atlas,
     - **if** the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire.&hellip; 
 
-In the next case, the United States Supreme Court applies these straightforward provisions to a messy set of facts. In the words of Francois La Rochefoucauld:
+In the next case, the United States Supreme Court applies these straightforward provisions to a messy set of facts. 
+
+In the words of Francois La Rochefoucauld:
 
 > There is nothing more horrible than the murder of a beautiful theory by a gang of brutal facts.
 
@@ -247,7 +317,7 @@ In the next case, the United States Supreme Court applies these straightforward 
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012)
 * [case on Westlaw][ccnv]
-* [Wikipedia](http://en.wikipedia.org/wiki/Community_for_Creative_Non-Violence_v._Reid).  
+* [Wikipedia](http://en.wikipedia.org/wiki/Community_for_Creative_Non-Violence_v._Reid). 
 
 Please read this case in its entirety by [downloading from Westlaw][ccnv], 
 or [reading at Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012). 
@@ -569,7 +639,7 @@ in which an original grant :
  
 The court ruled that these two licenses indeed 
 included the right to make the work available on videocassette, 
-but only because the terms used  
+but only because the terms used 
 were far broader and more inclusive 
 than than the language in Cohen's deal:
 
@@ -580,28 +650,28 @@ And the court noted that Cohen had expressly reserved any rights not transferred
  
 <!--Weiler mid p. 485 4th ed -->
 
-### *Effects Associates v. Cohen*  
+### *Effects Associates v. Cohen* 
 
 ###### United States Court of Appeals for the Ninth Circuit (1990)
 
 Low-budget horror movie mogul Larry Cohen made a movie 
 called *The Stuff* 
-about a yogurt-like alien life form invading earth.  
+about a yogurt-like alien life form invading earth. 
 
 Cohen hired Effects Associates to make some special effects for the movie, 
 including video showing the climactic explosion of a factory 
-where The Stuff was mass-produced.  
+where The Stuff was mass-produced. 
 
 Cohen orally promised to pay Effects Associates $64,000 
 for creating the special effects. 
 
 No written agreement and no discussion 
-about who would own the copyright to the special effects footage.  
+about who would own the copyright to the special effects footage. 
 
 Effects Associates delivered the special effects as promised, 
 but Cohen was unhappy about the factory explosion, 
 and so paid only half of the promised amount for that sequence, 
-for a total of $56,000.  
+for a total of $56,000. 
 
 Effects Associates made several demands 
 for the rest of the agreed sum (a little over $8,000), 
@@ -648,23 +718,34 @@ See for yourself! [YouTube: The Disputed Footage In *Cohen*](http://www.youtube.
 
 ## Digital Sampling and Imaging
 
-[Circular 56a][circ56a], published by the United States Copyright Office, 
+[Circular 56a][circ56a], 
+published by the United States Copyright Office, 
 and entitled 
 "Copyright Registration of Musical Compositions and Sound Recordings" 
 explains the difference, for copyright purposes, 
 between musical compositions and sound recordings.
 
-**A musical composition:** consists of music, including any accompanying words, 
+**A musical composition:** consists of music, 
+including any accompanying words, 
 and is normally registered as a work of the performing arts. 
 The author of a musical composition is generally the composer, 
 and the lyricist, if any.
-A musical composition may be in the form of a notated copy (for example, sheet music) 
-or in the form of a phonorecord (for example, cassette tape, LP, or CD). 
+A musical composition may be in the form of a notated copy 
+(for example, sheet music) 
+or in the form of a phonorecord 
+(for example, cassette tape, LP, or CD). 
 Sending a musical composition in the form of a phonorecord 
-does not necessarily mean that there is a claim to copyright in the sound recording.
+does not necessarily mean 
+that there is a claim to copyright in the sound recording.
 
-**A sound recording:** results from the fixation of a series of musical, spoken or other sounds. The author of a sound recording is the performer(s) whose performance is fixed, or the record producer who processes the sounds and fixes them in the final recording, or both. 
-Copyright in a sound recording is not the same as, or a substitute for, copyright in the underlying musical composition.
+**A sound recording:** results from the fixation of a series of musical, spoken or other sounds. 
+The author of a sound recording 
+is the performer(s) whose performance is fixed, 
+or the record producer who processes the sounds 
+and fixes them in the final recording, or both. 
+Copyright in a sound recording is not the same as, 
+or a substitute for, 
+copyright in the underlying musical composition.
 
 ### Newton v. Diamond
 
@@ -703,7 +784,8 @@ In 1978, he composed the song "Choir" &hellip;
 Newton performed and recorded "Choir" 
 and licensed all rights in the sound recording to ECM Records for $5000. 
 The license covered only the sound recording, 
-and it is undisputed that Newton retained all rights to the composition of "Choir." 
+and it is undisputed that Newton retained all rights 
+to the composition of "Choir." 
 Sound recordings and their underlying compositions are separate works 
 with their own distinct copyrights. [17 U.S.C. § 102(a)(2), (7)][102].
 
@@ -737,84 +819,108 @@ the pitch was lowered slightly.&hellip;
 
 #### Whether Defendants' Use was De Minimis
 
-Assuming that the sampled segment of the composition was sufficiently
-original to merit copyright protection, we nevertheless affirm on the
-ground that Beastie Boys' use was de minimis and therefore not
-actionable.
+Assuming that the sampled segment of the composition 
+was sufficiently original to merit copyright protection, 
+we nevertheless affirm on the ground 
+that Beastie Boys' use was de minimis 
+and therefore not actionable.
 
-For an unauthorized use of a copyrighted work to be actionable, there
-must be substantial similarity between the plaintiff's and the
-defendants' works.
-This means that even where the fact of copying is conceded, no legal
-consequences will follow from that fact unless the copying is
-substantial. The principle that trivial copying does not constitute
-actionable infringement has long been a part of copyright law. Indeed,
-as Judge Learned Hand observed over 80 years ago: "Even where there is
-some copying, that fact is not conclusive of infringement. Some copying
-is permitted. In addition to copying, it must be shown that this has
-been done to an unfair extent." [*West Publ'g Co. v. Edward Thompson
-Co.,* (E.D.N.Y.1909)](http://scholar.google.com/scholar_case?about=16045528342371426574).
+For an unauthorized use of a copyrighted work to be actionable, 
+there must be substantial similarity 
+between the plaintiff's and the defendants' works.
+This means that even where the fact of copying is conceded, 
+no legal consequences will follow from that fact 
+unless the copying is substantial. 
+The principle that trivial copying does not constitute
+actionable infringement has long been a part of copyright law. 
+Indeed, as Judge Learned Hand observed over 80 years ago: 
+
+> Even where there is some copying, 
+> that fact is not conclusive of infringement. 
+> Some copying is permitted. 
+> In addition to copying, 
+> it must be shown that this has been done to an unfair extent.
+
+[*West Publ'g Co. v. Edward Thompson Co.,* (E.D.N.Y.1909)](http://scholar.google.com/scholar_case?about=16045528342371426574).
+
 This principle reflects the legal maxim, *de minimis non curat lex*
 (often rendered as, "the law does not concern itself with trifles").
 
-The leading case on de minimis infringement in our circuit is [*Fisher
-v. Dees,* (9th Cir.1986),](http://scholar.google.com/scholar_case?case=16874877052780018691)
-where we observed that a use is de minimis only if the average audience
-would not recognize the appropriation.&hellip; ("[A] taking
-is considered de minimis only if it is so meager and fragmentary that
-the average audience would not recognize the appropriation."). This
-observation reflects the relationship between the de minimis maxim and
-the general test for substantial similarity, which also looks to the
-response of the average audience, or ordinary observer, to determine
-whether a use is infringing. To say that a use is de minimis because no audience would recognize the appropriation is thus to say that the works are not substantially
-similar.&hellip; 
+The leading case on de minimis infringement 
+in our circuit is [*Fisher v. Dees,* (9th Cir.1986),](http://scholar.google.com/scholar_case?case=16874877052780018691)
+where we observed that a use is de minimis 
+only if the average audience 
+would not recognize the appropriation.&hellip; 
+("[A] taking is considered de minimis 
+only if it is so meager and fragmentary that
+the average audience would not recognize the appropriation."). 
+This observation reflects the relationship 
+between the de minimis maxim 
+and the general test for substantial similarity, 
+which also looks to the response of the average audience, 
+or ordinary observer, to determine whether a use is infringing. 
+To say that a use is de minimis 
+because no audience would recognize the appropriation 
+is thus to say that the works are not substantially similar.&hellip; 
 
-This case involves not only use of a composition, as was the case in
-*Fisher,* but also use of a sound recording of a performance of that
-composition. Because the defendants licensed the sound recording, our
-inquiry is confined to whether the unauthorized use of the composition
-itself was substantial enough to sustain an infringement claim.
-Therefore, we may consider only Beastie Boys' appropriation of the
-song's compositional elements and must remove from consideration all the
-elements unique to Newton's performance. Stated another way, we must
-"filter out" the licensed elements of the sound recording to get down to
-the unlicensed elements of the composition, as the composition is the
-sole basis for Newton's infringement claim. 
+This case involves not only use of a composition, 
+as was the case in *Fisher,* 
+but also use of a sound recording 
+of a performance of that composition. 
+Because the defendants licensed the sound recording, 
+our inquiry is confined to whether 
+the unauthorized use of the composition itself 
+was substantial enough to sustain an infringement claim.
+Therefore, we may consider only Beastie Boys' appropriation 
+of the song's compositional elements 
+and must remove from consideration 
+all the elements unique to Newton's performance. 
+Stated another way, 
+we must "filter out" the licensed elements 
+of the sound recording 
+to get down to the unlicensed elements of the composition, 
+as the composition is the sole basis for Newton's infringement claim. 
 
-In filtering out the unique performance elements from consideration, and
-separating them from those found in the composition, we find substantial
-assistance in the testimony of Newton's own experts. His experts reveal
-the extent to which the sound recording of "Choir" is the product of
-Newton's highly developed performance techniques, rather than the result
-of a generic rendition of the composition. As a general matter,
-according to Newton's expert Dr. Christopher Dobrian, "[t]he
-contribution of the performer is often so great that s/he in fact
-provides as much musical content as the composer." This is particularly
-true with works like "Choir," given the nature of jazz performance and
+In filtering out the unique performance elements from consideration, 
+and separating them from those found in the composition, 
+we find substantial assistance 
+in the testimony of Newton's own experts. 
+His experts reveal the extent to which 
+the sound recording of "Choir" 
+is the product of Newton's highly developed performance techniques, 
+rather than the result of a generic rendition of the composition. 
+As a general matter, 
+according to Newton's expert Dr. Christopher Dobrian, 
+"the contribution of the performer is often so great 
+that s/he in fact provides as much musical content as the composer." 
+This is particularly true with works like "Choir," 
+given the nature of jazz performance and
 the minimal scoring of the composition &hellip;
 
-\* \* \*
+Whatever copyright interest Newton obtained 
+in this "dense cluster of pitches and ambient sounds," 
+he licensed that interest to ECM Records over twenty years ago, 
+and ECM Records in turn licensed that interest to Beastie Boys. 
+Thus, regardless of whether the average audience 
+might recognize "the Newton technique" 
+at work in the sampled sound recording,
+those performance elements are beyond consideration 
+in Newton's claim for infringement of his copyright 
+in the underlying composition. 
+Having licensed away his interest in the recording of his performance, Newton's only claim is for a violation of his rights 
+in the three-note sequence transcribed in the composition.
 
-Whatever copyright interest Newton obtained in this "dense cluster of
-pitches and ambient sounds," he licensed that interest to ECM Records
-over twenty years ago, and ECM Records in turn licensed that interest to
-Beastie Boys. Thus, regardless of whether the average audience might
-recognize "the Newton technique" at work in the sampled sound recording,
-those performance elements are beyond consideration in Newton's claim
-for infringement of his copyright in the underlying composition. Having
-licensed away his interest in the recording of his performance, Newton's
-only claim is for a violation of his rights in the three-note sequence
-transcribed in the composition.
-
-Once we have isolated the basis of Newton's infringement action
----the "Choir" composition, 
-devoid of the unique performance elements found only in the sound recording---
+Once we have isolated the basis of Newton's infringement action---
+the "Choir" composition, 
+devoid of the unique performance elements 
+found only in the sound recording---
 we turn to the nub of our inquiry: 
 whether Beastie Boys' unauthorized use of the composition, 
 as opposed to their authorized use of the sound recording, 
 was substantial enough to sustain an infringement action. 
 In answering that question, 
-we must distinguish between the degree and the substantiality of the works' similarity. 
+we must distinguish 
+between the degree and the substantiality of the works' similarity. 
 The practice of music sampling will often present cases 
 where the degree of similarity is high. 
 Indeed, unless the sample has been altered or digitally manipulated, 
@@ -823,28 +929,39 @@ Yet as Nimmer explains,
 "[if] the similarity is only as to nonessential matters, 
 then a finding of no substantial similarity should result." &hellip; 
 This reflects the principle 
-that the substantiality requirement applies throughout the law of copyright, 
+that the substantiality requirement 
+applies throughout the law of copyright, 
 including cases of music sampling, 
-even where there is a high degree of similarity.&hellip; 
+even where there is a high degree of similarity.&hellip;"
 
-When viewed in relation to Newton's composition as a whole, the sampled
-portion is neither quantitatively nor qualitatively significant.
-Quantitatively, the three-note sequence appears only once in Newton's
-composition. It is difficult to measure the precise relationship between
-this segment and the composition as a whole, because the score calls for
-between 180 and 270 seconds of improvisation. When played, however, the
-segment lasts six seconds and is roughly two percent of the
-four-and-a-half-minute "Choir" sound recording licensed by Beastie Boys.
-Qualitatively, this section of the composition is no more significant
-than any other section. Indeed, with the exception of two notes, the
-entirety of the scored portions of "Choir" consist of notes separated by
-whole and half-steps from their neighbors; the remainder of the
-composition calls for sections of improvisation that range between 90
-and 180 seconds in length. Although the sampled section may be
-representative of the scored portions of the composition, Newton has
-failed to offer any evidence as to this section's particular
-significance in the composition as a whole. Instead, his experts
-emphasize the significance of Newton's performance, the unique elements
+When viewed in relation to Newton's composition as a whole, 
+the sampled portion 
+is neither quantitatively nor qualitatively significant.
+Quantitatively, the three-note sequence 
+appears only once in Newton's composition. 
+It is difficult to measure the precise relationship between
+this segment and the composition as a whole, 
+because the score 
+calls for between 180 and 270 seconds of improvisation. 
+When played, however, the segment lasts six seconds 
+and is roughly two percent 
+of the four-and-a-half-minute "Choir" sound recording 
+licensed by Beastie Boys.
+Qualitatively, this section of the composition 
+is no more significant than any other section. 
+Indeed, with the exception of two notes, 
+the entirety of the scored portions of "Choir" 
+consist of notes separated by
+whole and half-steps from their neighbors; 
+the remainder of the composition calls for sections of improvisation 
+that range between 90 and 180 seconds in length. 
+Although the sampled section 
+may be representative of the scored portions of the composition, 
+Newton has failed to offer any evidence 
+as to this section's particular significance 
+in the composition as a whole. 
+Instead, his experts emphasize the significance 
+of Newton's performance, the unique elements
 of which Beastie Boys properly licensed.
 
 Yet Newton maintains that the testimony of his experts creates a genuine
@@ -970,7 +1087,7 @@ from the composition and sound recording
 "Get Off Your Ass and Jam" ("Get Off") 
 in the rap song "100 Miles and Runnin'" ("100 Miles"), 
 which was included in the sound track of the movie 
-*I Got the Hook Up* (*Hook Up*).&hellip;  
+*I Got the Hook Up* (*Hook Up*).&hellip; 
 
 Bridgeport and Westbound claim to own 
 the musical composition and sound recording copyrights in 
@@ -985,7 +1102,7 @@ Defendant No Limit Films,
 in conjunction with Priority Records, 
 released the movie to theaters on May 27, 1998.
 The movie was apparently also released on VHS, DVD, and cable
-television.&hellip;  
+television.&hellip; 
 
 Westbound's claims are for infringement 
 of the sound recording "Get Off." 

@@ -78,7 +78,7 @@ A writing helps courts divine what the parties had in mind:
 > in the light of the circumstances &hellip; 
 > The circumstances for this purpose 
 > include the entire situation, 
-> as it appeared to the parties.  
+> as it appeared to the parties. 
 
 > [Restatement 2d Contracts § 202][202]
  
@@ -497,6 +497,36 @@ the studios took the position that HUAC's hearings were nonsense
 and that they were not going to penalize talent 
 for refusing to answer questions about their political affiliations. 
 But when public pressure started to build in the form of boycotts by the American Legion and other politically powerful groups, the box office was threatened, and the studios caved. 
+
+#### NBC's Brian Williams
+
+NBC Nightly News anchor Brian Williams' recent mythomania 
+about his imaginary adventures 
+that didn't quite actually happen to him 
+while he was covering the Iraq war for NBC news 
+are the latest example of a moral clause invocation.
+
+[Contract ‘morality clause’ could determine Brian Williams’ future](http://pagesix.com/2015/02/15/brian-williams-future-hangs-on-morality-clause-in-contract/)
+
+By Emily Smith February 15, 2015. 
+
+Sources say that the “public morals” clause 
+that appears in NBC News employees’ paperwork includes the verbiage:
+
+> If artist commits any act 
+> or becomes involved in any situation, or occurrence, 
+> which brings artist into public disrepute, 
+> contempt, scandal or ridicule, 
+> or which justifiably shocks, insults or offends 
+> a significant portion of the community, 
+> or if publicity is given to any such conduct &hellip; 
+> company shall have the right to terminate.
+
+Reports have said NBC execs 
+seriously considered firing Williams 
+before settling on the suspension.
+
+NBC declined to comment, and Barnett didn’t get back to us.
 
 ## Studio-Publisher Obligations ##
 
