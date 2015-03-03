@@ -1266,6 +1266,12 @@ Frequently Asked Questions For Student and Independent Filmmakers
 
 **A:** If you intend to use these songs on a soundtrack album, you will need to negotiate additional soundtrack rights with the publisher and record label as you negotiate the synch and master use rights for your film.
 
+#### Find Out Who Owns Music Rights
+
+* [AllMusic.com](http://allmusic.com). The near-equivalent to IMDB in the music world is Like IMDB it lists credits, albums, and songs of all musicians. But to my knowledge there is no "Pro" feature providing information about representation. The American Society of Composers, Authors and Publishers ([ASCAP](http://en.wikipedia.org/wiki/American_Society_of_Composers,_Authors_and_Publishers)) and Broadcast Music, Inc. ([BMI](the http://en.wikipedia.org/wiki/Broadcast_Music,_Inc.)) also provide databases where you can search for music by title or by artist and discover the publisher for each song:
+    * [ASCAP title search](https://www.ascap.com/home/ace-title-search/index.aspx)
+    * [BMI repertoire search](http://repertoire.bmi.com/startpage.asp)
+
 ### Film Options
 
 #### Five Stages of Film Production

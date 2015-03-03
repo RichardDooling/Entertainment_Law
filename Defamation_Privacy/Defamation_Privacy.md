@@ -80,7 +80,7 @@ if those works of art contain or suggest false statements of fact.
 
 Two forms: Libel and slander.
 
-* Libel (mneumonic sounds like "label") is defamation in print; it's written or recorded, as in television or movies.   
+* Libel (mneumonic sounds like "label") is defamation in print; it's written or recorded, as in television or movies. 
 * Slander is defamation by way of the spoken word.
 
 #### Defamation Per Se
@@ -157,7 +157,7 @@ In the wake of *New York Times v. Sullivan,* the defamation rules changed and pr
 - Private Figures (Ordinary People)
 - Public Officials (Politicians) 
 - Public Figures (Celebrities)
-- Limited Purpose Public Figures (ordinary people who suddenly become famous because of their association with a particular event or issue)  
+- Limited Purpose Public Figures (ordinary people who suddenly become famous because of their association with a particular event or issue).
 
 If a public official or a public figure (celebrity) wishes to sue someone for defaming them they must prove [actual malice](http://en.wikipedia.org/wiki/Actual_malice).
 
@@ -938,14 +938,21 @@ Privacy rights come in four different flavors, best described by Justice Louis B
 3. False Light - Presentation of people in a false light in the public eye.
 4. Celebrity Publicity Rights - Appropriation of one's name, image, or likeness.
 
-[Wikipedia: Privacy Laws of the United States](http://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States)  
-[Wikipedia: Privacy Laws By Country](http://en.wikipedia.org/wiki/Privacy_law#Privacy_laws_by_country)
+* [Wikipedia: Privacy Laws of the United States](http://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States) 
+* [Wikipedia: Privacy Laws By Country](http://en.wikipedia.org/wiki/Privacy_law#Privacy_laws_by_country)
 
 * [If Only J-Law Could Retain Brandeis](http://www.bloombergview.com/articles/2014-09-05/if-only-j-law-could-retain-brandeis?alcmpid=view).
 
 #### 1. Intrusion Upon Seclusion
 
-> One who intentionally intrudes, physically or otherwise, upon the solitude or seclusion of another or his private affairs or concerns, is subject to liability to the other for invasion of his privacy, if the intrusion would be highly offensive to a reasonable person.
+> One who intentionally intrudes, 
+> physically or otherwise, 
+> upon the solitude or seclusion of another 
+> or his private affairs or concerns, 
+> is subject to liability to the other 
+> for invasion of his privacy, 
+> if the intrusion would be highly offensive 
+> to a reasonable person.
 
 [Restatement 2nd of Torts § 652B: Intrusion upon Seclusion](http://tinyurl.com/lqqgzng)
 
@@ -962,7 +969,10 @@ Privacy rights come in four different flavors, best described by Justice Louis B
 
 #### 3. False Light
 
-> One who gives publicity to a matter concerning another that places the other before the public in a false light is subject to liability to the other for invasion of his privacy, if:
+> One who gives publicity to a matter concerning another 
+> that places the other before the public in a false light 
+> is subject to liability to the other 
+> for invasion of his privacy, if:
 
 > (a) the false light in which the other was placed would be highly offensive to a reasonable person, and
 > (b) the actor had knowledge of or acted in reckless disregard as to the falsity of the publicized matter and the false light in which the other would be placed.
@@ -1715,7 +1725,7 @@ At the end of all the proof, District Judge Neese directed a verdict for defenda
 
 ### I. STATEMENT OF FACTS
 
-In April 1931, nine black youths were accused of raping two young white women while riding a freight train between Chattanooga, Tennessee, and Huntsville, Alabama. The case was widely discussed in the local, national, and foreign press. The youths were quickly tried in Scottsboro, Alabama, and all were found guilty and sentenced to death. The Alabama Supreme Court affirmed the convictions.  
+In April 1931, nine black youths were accused of raping two young white women while riding a freight train between Chattanooga, Tennessee, and Huntsville, Alabama. The case was widely discussed in the local, national, and foreign press. The youths were quickly tried in Scottsboro, Alabama, and all were found guilty and sentenced to death. The Alabama Supreme Court affirmed the convictions. 
 
 The United States Supreme Court reversed all convictions on the ground that the defendants were denied the right to counsel guaranteed by the Sixth Amendment. The defendants were retried separately after a change of venue from
 Scottsboro to Decatur, Alabama. Patterson was the first defendant retried, and this trial was the subject of the NBC production. In a jury trial before Judge Horton, he was tried, convicted, and sentenced to death. Judge Horton set the verdict aside on the ground that the evidence was insufficient. Patterson and one other defendant, Norris,
@@ -2010,10 +2020,10 @@ What if instead of suing for defamation, the unhappy public figure sues for inte
 
 ###### United States Supreme Court (1988)
 
-* [case at Google Scholar](http://scholar.google.com/scholar_case?case=5069891851949874011)
-* [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=108+S.Ct.+876&appflag=67.12)
-* [case at Wikipedia](http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell)  
-* [Image of the Campari ad](http://law2.umkc.edu/faculty/projects/ftrials/falwell/campariL.jpg)
+* [*Hustler v. Falwell* at Google Scholar](http://scholar.google.com/scholar_case?case=5069891851949874011).
+* [*Hustler v. Falwell* at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=108+S.Ct.+876&appflag=67.12).
+* [*Hustler v. Falwell* at Wikipedia](http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell). 
+* [Image of the Campari ad](http://law2.umkc.edu/faculty/projects/ftrials/falwell/campariL.jpg).
 
 The inside front cover of the November 1983 issue of Hustler Magazine
 featured a "parody" of an advertisement for Campari Liqueur that
@@ -2204,8 +2214,8 @@ accordingly
 
 #### Reference/Footnote Cases
 
-* [*Spahn v. Julian Mesner,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=23+a.d.2d+216&appflag=67.12), 260 NYS2d 451 (1965).  
-* [False Light at Wikipedia](http://en.wikipedia.org/wiki/False_light).  
+* [*Spahn v. Julian Mesner,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=23+a.d.2d+216&appflag=67.12), 260 NYS2d 451 (1965). 
+* [False Light at Wikipedia](http://en.wikipedia.org/wiki/False_light). 
 
 
 #### Totally Optional Readings & Viewings
