@@ -334,7 +334,7 @@ What happens when a person with a license to exhibit a movie on television now w
 
 That's the story of *Cohen v. Paramount.* 
 
-### Cohen v. Paramount Pictures Corp.
+### *Cohen v. Paramount Pictures Corp.*
 
 ###### United States Court of Appeals For The Ninth Circuit (1988)
 
@@ -427,45 +427,60 @@ paragraph 6, unless in some way it is encompassed within the right to
 
 The limitation on the right to perform the synchronization with the
 composition in it is found in paragraph 4 and that paragraph limits the
-right to perform, or to authorize others to perform, to: 4(a) exhibition
-of the motion picture to audiences in motion picture theatres and other
-places of public entertainment where motion pictures are customarily
-shown, and 4(b) exhibition of the motion picture by means of television,
-including pay television, subscription television, and "closed circuit
-into homes" television.
+right to perform, or to authorize others to perform, to: 
 
-It is obvious that the distribution of videocassettes through sale and
-rental to the general public for viewing in their homes does not fit
-within the purpose of category 4(a) above, which is restricted to
-showing in theatres and other similar public places. Paramount argues
-that it fits within 4(b), in that the distribution of videocassettes for
-showing in private homes is the equivalent of "exhibition by means of
-television." Paragraph 4(b) grants to Paramount the limited right to
-authorize broadcasters and cable television companies to broadcast the
-movie over the airwaves or to transmit it by cable, microwave, or some
-such means from a central location. The words of that paragraph must be
-tortured to expand the limited right granted by that section to an
-entirely different means of making that film available to the general
-public — the distribution of individual videocassettes to the general
-public for private "performances" in their homes. The general tenor of
-the section contemplates some sort of broadcasting or centralized
-distribution, not distribution by sale or rental of individual copies to
-the general public. Furthermore, the exhibition of the videocassette in
-the home is not "by means of television." Though videocassettes may be
-exhibited by using a television monitor, it does not follow that, for
-copyright purposes, playing videocassettes constitutes "exhibition by
-television." Exhibition of a film on television differs fundamentally
-from exhibition by means of a videocassette recorder ("VCR"). Television
-requires an intermediary network, station, or cable to send the
-television  signals
-into consumers' homes. The menu of entertainment appearing on television
-is controlled entirely by the intermediary and, thus, the consumer's
-selection is limited to what is available on various channels. Moreover,
-equipped merely with a conventional television set, a consumer has no
-means of capturing any part of the television display; when the program
-is over it vanishes, and the consumer is powerless to replay it. Because
-they originate outside the home, television signals are emphemeral (sic) and
-beyond the viewer's grasp.
+> 4(a) exhibition of the motion picture to audiences in motion picture theatres and other places of public entertainment where motion pictures are customarily shown, and 
+
+> 4(b) exhibition of the motion picture by means of television, including pay television, subscription television, and "closed circuit into homes" television.
+
+It is obvious 
+that the distribution of videocassettes 
+through sale and rental to the general public 
+for viewing in their homes 
+does not fit within the purpose of category 4(a) above, 
+which is restricted to showing in theatres 
+and other similar public places. 
+Paramount argues that it fits within 4(b), 
+in that the distribution of videocassettes 
+for showing in private homes is the equivalent of 
+"exhibition by means of television." 
+Paragraph 4(b) grants to Paramount 
+the limited right to authorize broadcasters 
+and cable television companies 
+to broadcast the movie over the airwaves 
+or to transmit it by cable, microwave, 
+or some such means from a central location. 
+The words of that paragraph must be tortured 
+to expand the limited right granted by that section 
+to an entirely different means of making that film available 
+to the general public---the distribution of individual videocassettes 
+to the general public for private "performances" in their homes. 
+The general tenor of the section 
+contemplates some sort of broadcasting 
+or centralized distribution, 
+not distribution by sale or rental 
+of individual copies to the general public. 
+Furthermore, the exhibition of the videocassette 
+in the home is not "by means of television." 
+Though videocassettes may be exhibited by using a television monitor, 
+it does not follow that, for copyright purposes, 
+playing videocassettes constitutes 
+"exhibition by television." 
+Exhibition of a film on television differs fundamentally
+from exhibition by means of a videocassette recorder ("VCR"). 
+Television requires an intermediary network, 
+station, or cable to send the television signals into consumers' homes. 
+The menu of entertainment appearing on television
+is controlled entirely by the intermediary 
+and, thus, the consumer's selection is limited 
+to what is available on various channels. 
+Moreover, equipped merely with a conventional television set, 
+a consumer has no means of capturing any part of the television display; 
+when the program is over it vanishes, 
+and the consumer is powerless to replay it. 
+Because they originate outside the home, 
+television signals are ephemeral 
+and beyond the viewer's grasp.
 
 Videocassettes, of course, allow viewing of a markedly different nature.
 Videocassette entertainment is controlled within the home, at the
@@ -630,12 +645,10 @@ he was selling the right to display a movie using his song on videocassette.
 
 Paramount argued that the terms of Cohen's license 
 were similar to agreements in two other other early videocassette cases,
-in which an original grant : 
+in which an original grant of rights included videocassette rights, even though such rights did not exist at the time of the original deal. 
 
-1. A contract between *Platinum Record Co. v. LucasFilm* (DCNJ 1983) giving the right:
-> to exhibit, distribute, exploit, market and perform said motion picture, its air, screen and television trailers, **perpetually throughout the world by any means or methods now or hereafter known**'
-2. A contract in *Rooney v. Columbia Pictures* (SDNY 1982) which licensed the right to exhibit the films:
-> **by any present or future methods or means** and by **any other means now known or unknown**.
+1. A contract between *Platinum Record Co. v. LucasFilm* (DCNJ 1983) giving the right: "to exhibit, distribute, exploit, market and perform said motion picture, its air, screen and television trailers, **perpetually throughout the world by any means or methods now or hereafter known.**"
+2. A contract in *Rooney v. Columbia Pictures* (SDNY 1982) which licensed the right to exhibit the films: **by any present or future methods or means** and by **any other means now known or unknown**.
  
 The court ruled that these two licenses indeed 
 included the right to make the work available on videocassette, 
@@ -706,8 +719,8 @@ there was an implied license for Cohen to use it.
 The court called copyright ownership "a bundle of rights":
 
 > In granting a nonexclusive license to Cohen, 
-> Effects has given up only one stick from that bundle---
-> the right to sue Cohen for copyright infringement. 
+> Effects has given up only one stick from that bundle---the 
+> right to sue Cohen for copyright infringement. 
 > It retains the right to sue him in state court 
 > on a variety of other grounds, 
 > including breach of contract. 
@@ -747,7 +760,7 @@ Copyright in a sound recording is not the same as,
 or a substitute for, 
 copyright in the underlying musical composition.
 
-### Newton v. Diamond
+### *Newton v. Diamond*
 
 ###### United States Court of Appeals Ninth Circuit (2003)
 
