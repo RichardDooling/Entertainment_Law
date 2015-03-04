@@ -8,16 +8,29 @@ subtitle: Lawyers For The Talent
 
 ### Lanham Act &sect; 43(a)
 
-Trademarks are "brands" or "marks" associated with goods, services and commercial activities.
-The Lanham Act, &sect; 43(a), prohibits false designations or representations of goods or services. 
+Trademarks are "brands" or "marks" 
+associated with goods, services and commercial activities.
+The Lanham Act, &sect; 43(a), 
+prohibits false designations 
+or representations of goods or services. 
 
-> Any person who &hellip; uses in commerce any word, term, name, symbol, or device &hellip; or any false designation of origin, false or misleading description of fact &hellip; which &hellip; is likely to cause confusion &hellip; mistake &hellip; or to deceive as to the affiliation, connection or association of such person with another person, or as to the origin, sponsorship or approval of his or her goods, services or commercial activities &hellip; 
+> Any person who &hellip; uses in commerce 
+> any word, term, name, symbol, or device &hellip; 
+> or any false designation of origin, 
+> false or misleading description of fact &hellip; 
+> which &hellip; is likely to cause confusion &hellip; 
+> mistake &hellip; or to deceive 
+> as to the affiliation, connection or association 
+> of such person with another person, 
+> or as to the origin, sponsorship or approval 
+> of his or her goods, services or commercial activities &hellip; 
 
 #### "Passing off," "Palming off," "Reverse passing off"
 
-If an artist puts her name on someone else's goods or services 
+If an artist puts her name 
+on someone else's goods or services 
 and passes them off as her own, 
-it is a trademark violation.  
+it is a trademark violation. 
 
 If an artist removes someone's name from goods or services 
 and then sells the product in an unbranded state 
@@ -99,7 +112,7 @@ defendants cite no case holding that it does not similarly reach musical
 compositions. We also note that "[t]o recover for a violation of
 [section 43(a)] it is not necessary that a mark or trade-mark be
 registered. The dispositive question is whether the party has a
-reasonable interest to be protected against false advertising." &hellip;  
+reasonable interest to be protected against false advertising." &hellip; 
 Finally, we
 recently have made clear that in cases involving false designation, the
 actionable "conduct must not only be unfair but must in some discernable
@@ -306,9 +319,11 @@ VAN GRAAFEILAND, Circuit Judge:
 Hormel Foods Corporation appeals 
 from a judgment of the United States District Court 
 for the Southern District of New York (Wood, J.) denying
-Hormel's request for a permanent injunction against Jim Henson Productions, Inc.&hellip; 
+Hormel's request for a permanent injunction 
+against Jim Henson Productions, Inc.&hellip; 
 Hormel originally contended 
-that Henson's use of the character "Spa'am" in its upcoming movie 
+that Henson's use of the character 
+"Spa'am" in its upcoming movie 
 and related merchandise 
 would infringe and/or dilute Hormel's trademark in the luncheon meat SPAM, 
 but now limits its argument to the merchandising use. 
@@ -1132,15 +1147,15 @@ handbags.  Louis Vuitton's principle trademark is the
 highly-distinctive and famous Toile Monogram. 
 Registered in 1932, this trademark, along with its component marks
 (collectively, the "LVM Marks"), are famous, distinctive, and
-incontestable.&hellip;  
+incontestable.&hellip; 
 
 Louis Vuitton has invested millions of dollars and decades of time and
 effort to create a global recognition that causes consumers to associate
 the LVM Marks with high-quality, luxury goods emanating exclusively from
-Louis Vuitton.&hellip;  
+Louis Vuitton.&hellip; 
 
 Warner Bros. is one of the oldest and most respected producers of motion
-pictures and television shows in the country and the world.  
+pictures and television shows in the country and the world. 
 In the summer of 2011, 
 Warner Bros. released "The Hangover: Part II" ("the Film"), 
 the sequel to the 2009 hit bachelor-party-gone-awry-comedy "The Hangover." 
@@ -1160,40 +1175,57 @@ are far less expensive than genuine Louis Vuitton products. (*Id.*)
 
 As alleged in the complaint, 
 in one early scene in the Film 
-the "four main characters are in Los Angeles International Airport before a flight to
-Thailand for the character Stu's bachelor party and wedding." 
-"[A]s the characters are walking through the airport, 
-a porter is pushing on a dolly what appears to be Louis Vuitton trunks, 
-some hard-sided luggage, and two Louis Vuitton Keepall travel bags." 
+the "four main characters 
+are in Los Angeles International Airport 
+before a flight to Thailand 
+for the character Stu's bachelor party and wedding." 
+
+"As the characters are walking through the airport, 
+a porter is pushing on a dolly 
+what appears to be Louis Vuitton trunks, 
+some hard-sided luggage, 
+and two Louis Vuitton Keepall travel bags." 
 Alan, one of the characters, is carrying what appears to be a
 matching over-the-shoulder Louis Vuitton "Keepall" bag, 
 but it is actually an infringing Diophy bag. 
-Moments later, Alan is seen sitting on a bench in the airport lounge 
-and places his bag (i.e., the Diophy bag) on the empty seat next to him. 
+Moments later, 
+Alan is seen sitting on a bench in the airport lounge 
+and places his bag (i.e., the Diophy bag) 
+on the empty seat next to him. 
 Stu, who is sitting in the chair to the other side of the bag, 
-moves the bag so that Teddy, Stu's future brother-in-law, can sit down between him and Alan. 
+moves the bag so that Teddy, Stu's future brother-in-law, 
+can sit down between him and Alan. 
+
 Alan reacts by saying: 
 
 > "Careful that is ... that is a Lewis Vuitton." 
 
-No other reference to Louis Vuitton or the Diophy bag is made after this point.
+No other reference to Louis Vuitton 
+or the Diophy bag is made after this point.
 
-After the movie was released in theaters, Louis Vuitton sent Warner
-Bros.' a cease and desist letter noting its objection to the use of the
-Diophy bag in the Film. Despite being informed of
-its objection, on December 6, 2011, Warner Bros. released the Film in
-the United States on DVD and Blu-Ray.  The complaint
-alleges that "many consumers believed the Diophy [b]ag" used in the Film
-"was, in fact, a genuine Louis Vuitton," and that Louis Vuitton
-consented to Warner Bros.' "misrepresentation" that the Diophy bag was a
-genuine Louis Vuitton product.  Louis Vuitton
-claims that its harm has been "exacerbated by the prominent use of the
-aforementioned scenes and the LVM Marks in commercials and
-advertisements for the [F]ilm," and that Alan's "Lewis Vuitton" line has
-"become an oft-repeated and hallmark quote from the movie."  Louis Vuitton attaches to the complaint, as Exhibit E, what it
-claims are "[r]epresentative Internet references and blog excerpts"
-demonstrating that consumers mistakenly believe that the Diophy bag is a
-genuine Louis Vuitton bag. 
+After the movie was released in theaters, 
+Louis Vuitton sent Warner Bros. 
+a cease and desist letter 
+noting its objection to the use of the Diophy bag in the Film. 
+Despite being informed of its objection, on December 6, 2011, 
+Warner Bros. released the Film in the United States on DVD and Blu-Ray. 
+The complaint alleges that 
+"many consumers believed the Diophy bag" 
+used in the Film 
+"was, in fact, a genuine Louis Vuitton," 
+and that Louis Vuitton consented to Warner Bros. 
+"misrepresentation" 
+that the Diophy bag was a genuine Louis Vuitton product. 
+Louis Vuitton claims that its harm has been "exacerbated 
+by the prominent use of the aforementioned scenes 
+and the LVM Marks in commercials and advertisements for the [F]ilm," 
+and that Alan's "Lewis Vuitton" line 
+has "become an oft-repeated and hallmark quote from the movie." 
+Louis Vuitton attaches to the complaint, 
+as Exhibit E, what it claims 
+are "representative Internet references and blog excerpts"
+demonstrating that consumers mistakenly believe 
+that the Diophy bag is a genuine Louis Vuitton bag. 
 
 #### B. The Present Motion
 
@@ -1256,19 +1288,19 @@ question of whether consumers are likely to be confused." &hellip;
 #### 1. *First Amendment*
 
 In [*Rogers v.  Grimaldi*](http://scholar.google.com/scholar_case?case=1704090655237798849)*,*
-the Second Circuit held that the Lanham Act is inapplicable to "artistic
-works" as long as the defendant's use of the mark is (1) "artistically
-relevant" to the work and (2) not "explicitly misleading" as to the
+the Second Circuit held 
+that the Lanham Act is inapplicable to "artistic works" 
+as long as the defendant's use of the mark is (1) 
+"artistically relevant" to the work and (2) 
+not "explicitly misleading" as to the
 source or content of the work.
 
 [The court in *Rogers* applied this test to the use of a trademark in a movie title, but courts have extended it to the content of expressive works as well. [*Cliffs Notes, Inc. v. Bantam Doubleday Dell Publ'g Group, Inc.* (2d Cir. 1989)](http://scholar.google.com/scholar_case?case=3543157455154245054) ("[T]he *Rogers* balancing approach is generally applicable to Lanham claims against works of artistic expression."); *see also* [*E.S.S.  Entm't 2000, Inc. v. Rock Star Videos, Inc.* (9th Cir.2008)](http://scholar.google.com/scholar_case?case=6229102239124683155) ("Rock Star Videos") ("[T]here is no principled reason why [the *Rogers* test] ought not also apply to the use of a trademark in the body of the work.") (citing [*Mattel, Inc. v. Walking Mountain Prods.* (9th Cir.2003)](http://scholar.google.com/scholar_case?case=7581792703482092445)). The parties do not dispute the application of *Rogers* to the content of a movie.]
 
 Louis Vuitton does not dispute 
-that Warner Bros.' challenged use of the mark is noncommercial, 
-placing it firmly within the purview of an "artistic work" under *Rogers. 
-See* [*Joseph Burstyn, Inc. v. Wilson* (1952)](http://scholar.google.com/scholar_case?case=5628256980652867975) (holding that motion pictures are protected speech); 
- *see also* [*United
-States v. United Foods, Inc.* (Sct. 2001)](http://scholar.google.com/scholar_case?case=905607278793226675)
+that Warner Bros. challenged use of the mark is noncommercial, 
+placing it firmly within the purview of an "artistic work" 
+under *Rogers.  See* [*Joseph Burstyn, Inc. v. Wilson* (1952)](http://scholar.google.com/scholar_case?case=5628256980652867975) (holding that motion pictures are protected speech); *see also* [*United States v. United Foods, Inc.* (Sct. 2001)](http://scholar.google.com/scholar_case?case=905607278793226675)
 (defining "commercial speech" as "speech that does no more than propose
 a commercial transaction").
 
@@ -1277,7 +1309,7 @@ Louis Vuitton objects to the present motion on the following grounds:
 1. whether the use was "artistically relevant" is an issue of fact that requires discovery; 
 2. the "explicitly misleading" prong is not limited to confusion as to the source or content of the defendant's work;
 3. Warner Bros. is not afforded First Amendment protection for using an infringing product; and
-4. Disposing this case on a motion to dismiss is otherwise inappropriate.  
+4. Disposing this case on a motion to dismiss is otherwise inappropriate. 
 
 #### *a. Artistic Relevance*
 
