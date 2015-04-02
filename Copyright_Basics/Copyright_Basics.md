@@ -169,7 +169,7 @@ even a slight amount will suffice."
 
 Because *Breakout* consisted of a series of shapes and images 
 in a particular sequence alongside audio, 
-the Court found it met the requisite level of Copyright.  
+the Court found it met the requisite level of Copyright. 
 
 Even five distinctive musical notes are copyrightable. 
 Watch this video clip from 
@@ -178,12 +178,12 @@ Beginning at the 5:00 mark,
 the five second tones played to make contact with the alien ship 
 were created by famed movie composer John Williams 
 and a copyright successfully registered to protect them.
-  
+ 
 ### Fixation
 
 Copyright protection does not require a work to be published, 
 but does require that the work be 
-"fixed in a tangible medium of expression" [&sect; 102(a)][102]  
+"fixed in a tangible medium of expression" [&sect; 102(a)][102] 
 
 > A work is 'fixed' &hellip; 
 > when its embodiment in a copy or phonorecord &hellip; 
@@ -271,7 +271,7 @@ that “research is copyrightable.”
 
 It is well settled that copyright protection extends 
 only to an author's expression of facts 
-and not to the facts themselves.&hellip;  
+and not to the facts themselves.&hellip; 
 This dichotomy between facts and their expression 
 derives from the concept of originality 
 which is the premise of copyright law. 
@@ -280,7 +280,7 @@ copyright protection may secure for a limited time to "Authors &hellip;
 the exclusive Right to their respective Writings." 
 An "author" is one 
 "to whom anything owes its origin; originator; maker; 
-one who completes a work of science or literature." &hellip;  
+one who completes a work of science or literature." &hellip; 
 
 Obviously, a fact does not originate 
 with the author of a book describing the fact. 
@@ -415,7 +415,7 @@ Mooney acknowledged he had consulted Hoehling's book
 and relied on it for some details in writing his own, 
 but he maintained he first discovered the sabotage theory 
 in Dale Titler's *Wings of Mystery*, also released in 1962.
-  
+ 
 Hoehling sued Mooney and Universal for copyright infringement. 
 The district court granted defendants' motion for summary judgment 
 and the Second Circuit affirmed, holding that, 
@@ -549,7 +549,7 @@ These are sc&#232;nes-&#192;-faire,
 which most of us recognize as clich&#233;s 
 and not copyrightable. 
 Maybe Robert Louis Stevenson could have at least 
-argued with a straight face for copyright protection,  
+argued with a straight face for copyright protection, 
 if he were the first author to create a pirate who said "Arrrgh!" 
 and had an eyepatch, bandana, and hook for a hand. 
 But now these elements are not copyrightable. 
@@ -570,7 +570,7 @@ Why? Because they are not ORIGINAL.
 >  * Pseudonyms of individuals (including pen or stage names);
 >  * Titles of works 
 >  * Catchwords, catchphrases, mottoes,	slogans, or short advertising expressions 
->  * Listings of ingredients, as in recipes, labels, or formulas. When a recipe or formula is accompanied by an explanation or directions, the text directions may be copyrightable, but the recipe or formula itself remains uncopyrightable.  
+>  * Listings of ingredients, as in recipes, labels, or formulas. When a recipe or formula is accompanied by an explanation or directions, the text directions may be copyrightable, but the recipe or formula itself remains uncopyrightable. 
 
 * [Circular 34: Copyright Protection Not Available for Names, Titles, or Short Phrases](http://www.copyright.gov/circs/circ34.pdf)
 
@@ -653,6 +653,7 @@ instead of having to prove actual damages:
 
 * [Larry Lessig TED Talk on User Generated Content](http://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity.html).
 * [Work-for-Hire Freelance Writing Agreement](http://www.docracy.com/0s38bg2lkok/work-for-hire-freelance-writing-agreement-1)
+* [Room For Debate: Blurred Lines](http://www.nytimes.com/roomfordebate/2015/03/17/robin-thicke-pharrell-williams-and-a-blurry-copyright-law)
 
 [4ever-1day]: http://www.youtube.com/watch?v=tk862BbjWx4 "Forever Less One Day: Copyright"
 [101]: http://www.copyright.gov/title17/92chap1.html#101 "Section 101: Defintions"
@@ -665,7 +666,7 @@ instead of having to prove actual damages:
 [bleistein]: http://en.wikipedia.org/wiki/Bleistein_v._Donaldson_Lithographing_Company "Bleistein v. Donaldson Lithography"
 [feist]: http://en.wikipedia.org/wiki/Feist_v._Rural "Wikipedia on Feist v. Rural"
 [rosemont]: http://scholar.google.com/scholar_case?case=5738679872075150588 "Rosemont"
-[hoehling]: http://scholar.google.com/scholar_case?case=1452880530764001390 "Hoehling v. Universal Studios"  
+[hoehling]: http://scholar.google.com/scholar_case?case=1452880530764001390 "Hoehling v. Universal Studios" 
 
 ## Changelog
 

@@ -11,40 +11,79 @@ chapter: Dealmaking
 
 ## Doing Deals 
 
-Dealmaking in the publishing industry has always been a civilized sport with
-just a few usually friendly players: author, agent and publisher. Even deals
-worth millions are relatively simple and sound, never mind that it was made
-over the phone weeks ago. The same is true in Hollywood, despite the occasional
-high-profile lawsuits, some of which we read about. 
+Dealmaking in the publishing industry 
+has always been a civilized sport with
+just a few usually friendly players: 
+author, agent and publisher. 
+Even deals worth millions are relatively simple and sound, 
+never mind that it was made over the phone weeks ago. 
+The same is true in Hollywood, 
+despite the occasional high-profile lawsuits, 
+some of which we read about. 
 
-People in the entertainment industry do deals worth millions with phone calls,
-handshakes, napkin and iPad agreements. They haggle via texts and tweets and
-emails, until somebody says the magic words "we are closed" and everybody makes
-friendly noises, which means you have a deal, and 99% of the time you DO have a
-deal. The written parts of that deal might not come for months. But eventually
-people in business affairs cut, cull and paste those original messages into
-deal memos and letter agreements and proposed contract drafts that often say:
-"These contract terms are void and unenforceable unless this agreement is
-signed by both parties," but those agreements sometimes never get signed; they
-just stand as some evidence of what the parties intended during negotiations. 
+People in the entertainment industry 
+do deals worth millions with phone calls,
+handshakes, napkin and iPad agreements. 
+They haggle via texts and tweets and emails, 
+until somebody says the magic words "we are closed," 
+after which everybody makes friendly noises. 
+That means you have a deal, 
+and 99% of the time you DO have a deal. 
+The written parts of that deal might not come for months. 
+But eventually people in business affairs 
+cut, cull and paste those original messages into deal memos 
+and letter agreements and proposed contract drafts that often say:
 
-The entertainment industries are too fast moving and involve too many players
-and contingent deals to dawdle while lawyers fuss over contract language and
-wait for signatures. Usually the bargains struck work out fine. Blockbusters
-and tentpoles get made and the players compromise on any terms that weren't
+> These contract terms are void and unenforceable unless this agreement is
+signed by both parties.
+
+But those agreements sometimes never get signed; 
+which means by their own terms they cannot be enforecable contracts, 
+but they may stand as some evidence 
+of what the parties intended during negotiations. 
+
+The entertainment industries move too fast 
+and involve too many players and contingent deals 
+to wait for lawyers fuss over contract language and obtain signatures. 
+Usually the bargains struck work out fine. 
+Blockbusters and tentpoles get made 
+and the players compromise on any terms that weren't
 included in the conversations surrounding the original deal.
 
 As the authors of the leading Entertainment Law textbook put it:
 
-> Typically, agents put the initial pact together by negotiating the major deal points for each side. After an oral agreement is reached, participants then turn to their attorneys to finalize the agreement and draft a "deal memo," or letter of intent, documenting the material terms of the contract. These terms specify the salary, percentage of profit, tentative filming dates, and degree of credit the start will receive. Some deal memos also include arrangements for the level of creative control and personal perks that a party will enjoy. **Often these deal memos are never signed by the parties.** While contracting parties contemplate the completion of lengthy, signed agreements, in many cases pre-production work, even filming, commences before each side's attorneys are able to finish negotiating and drafting a final personal service contract.
+> Typically, agents put the initial pact together 
+> by negotiating the major deal points for each side. 
+> After an oral agreement is reached, 
+> participants then turn to their attorneys 
+> to finalize the agreement and draft a "deal memo," 
+> or letter of intent, 
+> documenting the material terms of the contract. 
+> These terms specify the salary, percentage of profit, 
+> tentative filming dates, 
+> and degree of credit the start will receive. 
+> Some deal memos also include arrangements 
+> for the level of creative control 
+> and personal perks that a party will enjoy. 
+> **Often these deal memos are never signed by the parties.** 
+> While contracting parties contemplate 
+> the completion of lengthy, signed agreements, 
+> in many cases pre-production work, even filming, 
+> commences before each side's attorneys 
+> are able to finish negotiating 
+> and drafting a final personal service contract.
 
-> *Entertainment, Media, and The Law: Text, Cases, and Problems, 4th Ed.,* Paul C. Weiler, Gary C. Meyers.
+> *Entertainment, Media, and The Law: Text, Cases, and Problems*, (4th Ed. 2011), Paul C. Weiler, Gary C. Meyers.
 
-When deals fall through, a judge or jury comes along and asks almost
-metaphysical questions about what happened: Did the parties agree? Or did they
-just agree to make an agreement later? After some uncertain event? Like, "Yes,
-we agree, but only if Spielberg directs and Daniel Craig plays the hero." A
-deal or a deal to make a deal if--? 
+When deals fall through, 
+a judge or jury comes along 
+and asks almost metaphysical questions about what happened: 
+Did the parties agree? 
+Or did they just agree to make an agreement later? 
+Did they "agree to agree" only after some uncertain event? 
+For example, "Yes, we agree to make this deal, 
+but only if Spielberg directs and Daniel Craig plays the hero." 
+Is this a deal? Or just a dead to make a deal IF---? 
 
 The book passages help give us a glimpse into deals in the various industries,
 but another way to appreciate the boundaries of the often hurry-scurry world of
@@ -67,7 +106,7 @@ respondent Main Line Pictures, Inc.
 in Main Line's breach of contract action 
 relating to production of the movie “Boxing Helena.” 
 (A “loan-out” corporation is a personal service corporation 
-which lends the services of an artist to a production company.)&hellip;  
+which lends the services of an artist to a production company.)&hellip; 
 
 ### FACTS
 
@@ -77,14 +116,18 @@ Basinger was a well known actress,
 having starred in many movies, 
 including “Batman” and “9 1/2 Weeks.” 
 On December 28, 1990, 
-Main Line's president, Carl Mazzocone wrote to Basinger through
-her agent Intertalent offering Basinger $500,000 plus additional
-deferred compensation to star in the movie.
+Main Line's president, Carl Mazzocone, wrote to Basinger 
+through her agent Intertalent 
+offering Basinger $500,000 
+plus additional deferred compensation 
+to star in the movie.
 
-Basinger was excited about the script and interested in playing the
-female lead. Barbara Dreyfus, Basinger's assistant and Mighty Wind's
-director of development, arranged for Basinger to meet the film's
-screenwriter and director, Jennifer Lynch.
+Basinger was excited about the script 
+and interested in playing the female lead. 
+Barbara Dreyfus, 
+Basinger's assistant and Mighty Wind's director of development, 
+arranged for Basinger 
+to meet the film's screenwriter and director, Jennifer Lynch.
 
 Mighty Wind was Basinger's “loan-out” corporation, a company through
 which Basinger “loaned” her acting services. Payment for Basinger's
@@ -154,7 +197,7 @@ reasonably expected to receive approximately $3 million in domestic
 presales. The money obtained from the foreign presales would secure
 financing for the film. 
 
-> A presale is a minimum guarantee by a distributor in a specific market to procure that distributor's rights to show the movie in a given territory. After Basinger declined to perform in “Boxing Helena,” Main Line produced the movie with a lesser known actress. Without Basinger, total presales declined to $2.5 million.  
+> A presale is a minimum guarantee by a distributor in a specific market to procure that distributor's rights to show the movie in a given territory. After Basinger declined to perform in “Boxing Helena,” Main Line produced the movie with a lesser known actress. Without Basinger, total presales declined to $2.5 million. 
 
 In April 1991, Main Line began preproduction activities including
 casting, wardrobe, special effects and model construction.
@@ -235,7 +278,7 @@ On June 21, 1991, Main Line filed a complaint naming as defendants
 Basinger and Mighty Wind. The complaint alleged that defendants breached
 an oral and a written contract to provide Basinger's acting services.&hellip; 
 
-&hellip; The jury concluded that “Basinger and/or MightyWind” had entered into
+The jury concluded that “Basinger and/or MightyWind” had entered into
 both an oral and a written contract, had breached the contract and had
 caused damages to Main Line in the amount of $7,421,694. The jury
 further determined that “Basinger and/or Mighty Wind” had denied in bad
@@ -266,7 +309,8 @@ and rarely do parties pursue the nuclear option and sue each other.
 But if they do sue each other for breach of contract, 
 the courts will try to guess what agreement the parties made. 
 The terms of the contract must be definite and enforceable, 
-and the court wants to be assured that the parties reached that point of negotiations, 
+and the court wants to be assured 
+that the parties reached that point of negotiations, 
 where the parties made a deal.
 
 At a minimum, oral and written contracts must usually answer the following questions:
@@ -279,7 +323,10 @@ At a minimum, oral and written contracts must usually answer the following quest
 
 #### Statute of Frauds
 
-Contracts may be oral or written, implied or explicit. For centuries, the common law had required that some contracts MUST BE in writing, or courts will not enforce them. 
+Contracts may be oral or written, implied or explicit. 
+For centuries, the common law had required 
+that some contracts MUST BE in writing, 
+or courts will not enforce them. 
 
 * Contracts for the sale of land;
 * Contracts for the sale of goods above a certain dollar amount (often $500.00);
@@ -287,57 +334,129 @@ Contracts may be oral or written, implied or explicit. For centuries, the common
 * Contract promising to marry someone;
 * Contracts where somebody promises to pay the debt of somebody else.
 
-In the entertainment business, the most common statute of frauds issue is when an an artist promises to perform services for MORE THAN A YEAR. Usually such contracts must be in writing, or courts will not enforce them. But this doesn't mean that any contract that COULD last more than a year must be in writing. Contracts of indefinite duration don't require a writing no matter how long they may take.
+In the entertainment business, 
+the most common statute of frauds issue arises 
+when an an artist promises to perform services for MORE THAN ONE YEAR. 
+Usually such contracts must be in writing, 
+or courts will not enforce them. 
+But what about contracts that COULD last more than a year? 
+Must those contracts be in writing? 
+In general, contracts of indefinite duration 
+don't require a writing no matter how long they may take.
 
 #### Promissory Estoppel
 
 > "The law is simply expediency wearing a long white dress." --Quentin Crisp
 
-The legal magic words "promissory estoppel" and "detrimental reliance" mean that sometimes the law will enforce promises, even if they aren't contained in binding contracts. That's what happened when singer Aretha Franklin promised to perform in a Broadway musical and then backed out at the last minute. 
+The legal magic words 
+"promissory estoppel" and "detrimental reliance" 
+mean that sometimes the law will enforce promises, 
+even if those promises aren't contained in binding contracts. 
+That's what happened when singer Aretha Franklin 
+promised to perform in a Broadway musical 
+and then backed out at the last minute. 
 
 ## *Elvin Associates v. Aretha Franklin,* 
 
 ###### United States District Court SDNY (1990) 
 
-* [Case on Westlaw][aretha] 
+* [Case on Westlaw][aretha_westlaw] 
+* [Case on Google Scholar][aretha_scholar]
 
-In early 1984, broadway producer Ashton Springer wanted to make a Broadway musical about gospel singer Mahalia Jackson, her life and her music. 
+In early 1984, broadway producer Ashton Springer 
+wanted to make a Broadway musical 
+about gospel singer Mahalia Jackson, 
+her life and her music. 
 
-Springer wrote to singer Aretha Franklin and asked her to appear in the title role. 
+Springer wrote to singer Aretha Franklin 
+and asked her to appear in the title role. 
 
-Aretha personally called Springer and expressed strong interest in the role. She told Springer to contact her agents at the William Morris Agency. 
+Aretha personally called Springer 
+and expressed strong interest in the role. 
+She told Springer to contact her agents 
+at the William Morris Agency. 
 
-Springer had several conversations with Aretha's agents and traded proposals and counter-proposals with them. Springer also began making arrangements to begin production.  
+Springer had several conversations with Aretha's agents 
+and traded proposals and counter-proposals with them. 
+Springer also began making arrangements to begin production. 
 
-Near the end of February 1984, Aretha's agents called Springer and accepted his final proposal. 
+Near the end of February 1984, 
+Aretha's agents called Springer 
+and accepted his final proposal. 
 
-Meanwhile Springer spoke often with Aretha about artistic and production issues, as he continued working out the terms of the deal with her agents. 
+Meanwhile Springer spoke often with Aretha 
+about artistic and production issues, 
+as he continued working out the terms of the deal with her agents. 
 
-In a conversation about rehearsal and performance dates, Aretha told Springer that she had no conflicts on her schedule. "This is what I am doing," she told Springer. 
+In a conversation about rehearsal and performance dates, 
+Aretha told Springer that she had no conflicts on her schedule. 
+"This is what I am doing," she told Springer. 
 
-In New York, Springer struck deals with various investors to finance the *Mahalia* production and spoke with promoters and theaters in other cities to reserve dates. In discussions with several promoters, Springer learned for the first time that Aretha Franklin had cancelled several recent  performances because of a fear of flying. 
+In New York, Springer struck deals 
+with various investors to finance the *Mahalia* production 
+and spoke with promoters and theaters in other cities to reserve dates. 
+In discussions with several promoters, 
+Springer learned for the first time 
+that Aretha Franklin had cancelled several recent performances 
+because of a fear of flying. 
 
-Springer called Aretha's agents and asked about the cancelled performances. The agents told Springer not to worry, that the cancelled engagements had been made by other agents without Aretha's approval, and that there were no such problems with this deal.
+Springer called Aretha's agents 
+and asked about the cancelled performances. 
+The agents told Springer not to worry, 
+that the cancelled engagements had been made by other agents 
+without Aretha's approval, 
+and that there were no such problems with this deal.
 
-Springer also checked with Aretha, who told him that she wanted to do the show and would fly as necessary. 
+Springer also checked with Aretha, 
+who told him that she wanted to do the show 
+and would fly as necessary. 
 
-Springer met with his lawyer and Aretha's agents on March 23rd 1984 and agreed to the same basic terms that had been proposed before. Springer asked the agents to call Franklin and confirm. The agents stepped out, called Franklin, returned to the meeting and told Springer that Aretha had agreed. 
+Springer met with his lawyer and Aretha's agents 
+on March 23rd 1984 
+and agreed to the same basic terms 
+that had been proposed before. 
+Springer asked the agents to call Franklin and confirm. 
+The agents stepped out, called Franklin, 
+returned to the meeting and told Springer that Aretha had agreed. 
 
-After that meeting, Springer's lawyer wrote the contract in the form of a letter to Franklin's company. The contract draft began:
+After that meeting, 
+Springer's lawyer wrote the contract 
+in the form of a letter to Franklin's company. 
+The contract draft began:
 
-> This letter . . . **when countersigned by you**, shall constitute our understanding until a more formal agreement is prepared.
+> This letter &hellip; **when countersigned by you**, shall constitute our understanding until a more formal agreement is prepared.
 
-More drafts circulate, all of them had the same "when countersigned by you" language, all of them quibbling over details. Meanwhile, Springer hired set, lighting and constume desginers, stage and crew, reserved dance studios, and did everything necessary to begin rehearsals. 
+More drafts circulated, 
+all of them had the same "when countersigned by you" language, 
+all of them quibbling over details. 
+Meanwhile, Springer hired set, lighting and constume designers, 
+stage and crew, reserved dance studios, 
+and did everything necessary to begin rehearsals. 
 
-A final draft of the contract was ready for signatures on June 7th, the date that Aretha was scheduled to come to New York to begin rehearsals. 
+A final draft of the contract was ready for signatures on June 7th, 
+the date that Aretha was scheduled to come to New York to begin rehearsals. 
 
-Aretha Franklin never showed on June 7th and never came to New York for rehearsals. When Springer's lawyer called Aretha's agents they reported that Franklin would not fly to New York. 
+Aretha Franklin never showed on June 7th 
+and never came to New York for rehearsals. 
+When Springer's lawyer called Aretha's agents 
+they reported that Franklin would not fly to New York. 
 
-Springer paid off the cast, cancelled production and sued Aretha Franklin. 
+Springer paid off the cast, 
+cancelled production and sued Aretha Franklin. 
 
-Springer's problem? The letter his lawyer wrote plainly said that it would be our understanding "when signed by you." The judge said this meant that Springer did not have a contract, either express or implied, until Aretha Frankline signed the letter, and she never did.
+Springer's problem? 
+The letter his lawyer wrote plainly said 
+that it would be our understanding "when signed by you." 
+The judge said this meant that Springer did not have a contract, 
+either express or implied, 
+until Aretha Franklin signed the letter, and she never did.
 
-Now what? Aretha Franklin did not make a contract, but she did make repeated promises, and her promises caused Springer to spend a lot of money getting the show ready. In the magic words of contract law, Springer "detrimentally relied" on Aretha's promises. 
+Now what? Aretha Franklin did not make a contract, 
+but she did make repeated promises, 
+and her promises caused Springer 
+to spend a lot of money getting the show ready. 
+In the magic words of contract law, 
+Springer "detrimentally relied" on Aretha's promises. 
 
 Unjust? Yes. Meaning we need some magic words 
 to make Aretha Franklin pay Springer for breaking her promise to perform, 
@@ -347,79 +466,102 @@ Voila. Promissory estoppel. It requires:
 
 * A makes a clear and unambiguous promise to B;
 * B relies on that promise. 
-* B is "injured" (loses money, suffers other damages) when A fails to keep the promise.
+* B is "injured" (loses money, suffers other damages) 
+when A fails to keep the promise.
 
 #### Excerpts from *Elvin Associates v. Aretha Franklin,* 
 
-The central issue pertaining to plaintiff's claim for breach of contract
-is whether or not the parties to that proposed contract &hellip; evinced an intent not to be formally bound before
-execution of a written, integrated contract. Language inserted in a
-draft of the agreement referring to its validity upon execution has
-generally been found to be strong (though not conclusive) evidence of
-intent *not* to be bound prior to execution.
+The central issue pertaining to Springer's claim for breach of contract
+is whether &hellip; the parties to that proposed contract &hellip; 
+evinced an intent not to be formally bound 
+before execution of a written, integrated contract. 
+Language inserted in a draft of the agreement 
+referring to its validity upon execution 
+has generally been found to be strong 
+(though not conclusive) evidence 
+of intent *not* to be bound prior to execution.&hellip; 
 
-Although we based our tentative findings largely on the fact that all of
-the incidental terms had been worked out by the final draft, and that
-the understanding was that Franklin would sign the agreement when she
-came to New York, there remains the obstacle of the preamble that [Springer's lawyer, Jay Kramer]
-drafted and that remained in every draft, namely: 
+All of the incidental terms had been worked out by the final draft, 
+and &hellip; the understanding was that Franklin 
+would sign the agreement when she came to New York, 
+[but] there remains the obstacle of the preamble 
+that [Springer's lawyer, Jay Kramer] drafted 
+and that remained in every draft, namely: 
 
-> "This letter, when countersigned by you, shall constitute our understanding until a more
-formal agreement is prepared." 
+> "This letter, when countersigned by you, 
+> shall constitute our understanding 
+> until a more formal agreement is prepared." 
 
-After reviewing the above cited
-authorities and the post-trial submissions, we are constrained to find
-that such language indicates that [Aretha Franklin] was not to be
-contractually bound to Springer until the draft agreement was executed.
-This clause is simply too close to the language held to be decisive in [other cases]
-to be ignored. The cause of action for breach of contract must therefore
-be dismissed. &hellip; 
+We &hellip; find that such language indicates 
+that [Aretha Franklin] was not to be contractually bound to Springer 
+until the draft agreement was executed.
+This clause is simply too close to the language 
+held to be decisive in [other cases] to be ignored. 
+The cause of action for breach of contract 
+must therefore be dismissed. &hellip; 
 
-That, however, does not end the case. As above noted, plaintiff has
-asserted, in the alternative, a right to recover on a theory of
-promissory estoppel. The elements of a claim for promissory estoppel are: “[A] clear and unambiguous promise; a reasonable and foreseeable reliance by the party to whom the promise is made; and an injury sustained by the party asserting the estoppel by reason of his reliance.” The “ ‘circumstances [must be] such as to render it unconscionable to deny’ the promise upon which plaintiff has relied.” 
+That, however, does not end the case. 
+As above noted, Springer has asserted, in the alternative, 
+a right to recover on a theory of promissory estoppel. 
 
+The elements of a claim for promissory estoppel are: 
 
+1. A clear and unambiguous promise; 
+2. A reasonable and foreseeable reliance 
+by the party to whom the promise is made; 
+3. and an injury sustained by the party asserting the estoppel 
+by reason of his reliance.&hellip; 
 
-The elements of a claim for promissory estoppel
-are: "[A] clear and unambiguous promise; a reasonable and foreseeable
-reliance by the party to whom the promise is made; and an injury
-sustained by the party asserting the estoppel by reason of his
-reliance." &hellip; 
+The circumstances [must be] such as to render it unconscionable to deny the promise upon which plaintiff has relied.
 
-It is difficult to imagine a more fitting case for applying the
-above-described doctrine. Although for her own business purposes
-Franklin insisted that the formal contract be with the corporate entity
-through which her services were to be "furnished," in the real world the
-agreement was with her, and we find that she had unequivocally and
-intentionally committed herself to appear in the production long before
-day on which it was intended  that the finalized agreement with her
-corporation would be signed.
+It is difficult to imagine a more fitting case 
+for applying the above-described doctrine. 
+Although for her own business purposes 
+Franklin insisted that the formal contract 
+be with the corporate entity 
+through which her services were to be "furnished," 
+in the real world the agreement was with her, 
+and we find that she had 
+unequivocally and intentionally 
+committed herself to appear in the production 
+long before day on which it was intended 
+that the finalized agreement with her corporation would be signed.
 
-First, it is clear from the testimony of all of the witnesses that
-Franklin was enthusiastic about appearing in the production and that at
-all times during the relevant period gave it the highest professional
-priority. She early on stated to Springer: "This is what I am doing."
-Combined with her oral agreement, through her agents, to the basic
-financial terms of her engagement, her continued expression of this
-enthusiasm to Springer more than amply afforded Springer a reasonable
-basis for beginning to make the various arrangements and expenditures
+First, 
+it is clear from the testimony of all of the witnesses 
+that Franklin was enthusiastic about appearing in the production 
+and that at all times during the relevant period 
+gave it the highest professional priority. 
+She early on stated to Springer: 
+"This is what I am doing."
+Combined with her oral agreement, through her agents, 
+to the basic financial terms of her engagement, 
+her continued expression of this enthusiasm to Springer 
+more than amply afforded Springer a reasonable basis 
+for beginning to make the various arrangements and expenditures
 necessary to bring the production to fruition.
 
-Second, Franklin could not possibly have assumed that Springer could
-have performed his obligations to her — which, among other things,
-included arranging a complicated schedule of performances to commence
-shortly after her arrival in New York — without committing himself to
-and actually spending considerable sums prior to her affixing her
-signature to the contract on the date of such arrival. Throughout the
-time that he was making those commitments and advancing the necessary
-sums, she accepted his performance without any disclaimer of her prior
-promises to him. Indeed, she actively participated in many aspects of
-the necessary arrangements.
+Second, 
+Franklin could not possibly have assumed 
+that Springer could have performed his obligations to her---
+which, among other things, 
+included arranging a complicated schedule of performances 
+to commence shortly after her arrival in New York---
+without committing himself to 
+and actually spending considerable sums 
+prior to her affixing her signature to the contract 
+on the date of such arrival. 
+Throughout the time that he was making those commitments 
+and advancing the necessary sums, 
+she accepted his performance 
+without any disclaimer of her prior promises to him. 
+Indeed, she actively participated 
+in many aspects of the necessary arrangements.
 
-Third, Franklin's expression to Springer of her fear of flying did not,
-as she has contended, make her promise conditional or coat it with a
-patina of ambiguity that should have alerted Springer to suspend his
+Third, 
+Franklin's expression to Springer of her fear of flying did not,
+as she has contended, make her promise conditional 
+or coat it with a patina of ambiguity that should have alerted Springer to suspend his
 efforts to mount the production. Although Franklin rejected Springer's
 offer to make alternative ground transportation arrangements, her
 primary reason for doing so was that she was determined to overcome her
@@ -554,7 +696,7 @@ appellant is referring to testimony of Skirball and Rogell
 to the effect that they "felt" or "understood" 
 the parties were "bound" or "committed" 
 when they said they had a deal and then shook hands; 
-and appellant is also referring to the testimony of Rogell to the effect that the handshaking was "in a manner in which you shake hands when you have concluded a deal." &hellip;  
+and appellant is also referring to the testimony of Rogell to the effect that the handshaking was "in a manner in which you shake hands when you have concluded a deal." &hellip; 
 
 As above stated, 
 the court found that on May 16 the parties entered into an oral contract, 
@@ -566,7 +708,7 @@ was orally approved by the parties;
 the second draft of the agreement (May 24), 
 incorporating changes in the first draft (May 20), 
 was prepared in order to memorialize the oral contract entered into between the parties. 
-The parties had entered into prior contracts, including the Gwenaud contract. Appellant concedes that on May 16 the parties agreed orally upon the basic points of the contract (story, star and money) and that the other points were details which the parties anticipated could be agreed upon without difficulty. The other points or "details" were to follow the pattern of the Gwenaud contract. (Youngman's letter to the resident attorney of RKO, directing him to draw the agreement herein, stated that "All of the other terms and provisions are the same as those in the last contract [Gwenaud contract].") &hellip;  
+The parties had entered into prior contracts, including the Gwenaud contract. Appellant concedes that on May 16 the parties agreed orally upon the basic points of the contract (story, star and money) and that the other points were details which the parties anticipated could be agreed upon without difficulty. The other points or "details" were to follow the pattern of the Gwenaud contract. (Youngman's letter to the resident attorney of RKO, directing him to draw the agreement herein, stated that "All of the other terms and provisions are the same as those in the last contract [Gwenaud contract].") &hellip; 
 
 In *Mancuso v. Krackov,* it was said: "It is not necessary that each term [of an oral contract] be spelled out in minute detail." In *Thompson v. Schurman,* it was said: 
 
@@ -597,7 +739,7 @@ No single factor is decisive, but each provides significant guidance.
 
 ###### Existence of Contract Where Written Memorial is Contemplated
 
-> Manifestations of assent that are in themselves sufficient to conclude a contract will not be prevented from so operating by the fact that the parties also manifest an intention to prepare and adopt a written memorial thereof; but the circumstances may show that the agreements are preliminary negotiations.  
+> Manifestations of assent that are in themselves sufficient to conclude a contract will not be prevented from so operating by the fact that the parties also manifest an intention to prepare and adopt a written memorial thereof; but the circumstances may show that the agreements are preliminary negotiations. 
 
 These circumstances may be shown by "oral testimony or by correspondence or other preliminary or partially complete writings." 
 
@@ -659,7 +801,7 @@ If you cannot get rid of the clause, limit it: Avoid options on “the same term
 
 Also limit the clause to a summary or proposal for the next book (not entire manuscript). Otherwise you may be unable to shop a query, proposal, or summary to another publisher until you finish the second book and show it to your original publisher. 
 
-Limit the time. And don’t let the publisher require publication of the first work. Limit option only to similar books (fiction, non-fiction, poetry).  
+Limit the time. And don’t let the publisher require publication of the first work. Limit option only to similar books (fiction, non-fiction, poetry). 
 
 *See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at &para; 19.
 
@@ -774,7 +916,7 @@ Westbound to The Ohio Players for their agreement to record exclusively
 for Westbound. Plaintiffs emphasize especially that the recording
 agreement lacked mutuality because even though The Ohio Players were
 obligated to make a minimum number of recordings, Westbound was not
-required to make even a single recording using The Ohio Players. &hellip;  
+required to make even a single recording using The Ohio Players. &hellip; 
 
 Contrary to the conclusion reached by the circuit court judge, it
 is our view that consideration passed to The Ohio Players when they
@@ -942,7 +1084,7 @@ extend its right to the plaintiffs' services, but only at the cost of
 renewing its own obligation to use reasonable efforts on their behalf.
 The law prefers an interpretation that makes sense of the entire
 contract to one that leaves a provision with no sense or reason for
-being a part of a contract.&hellip;  
+being a part of a contract.&hellip; 
 
 The circuit court also erred in failing to give effect to the
 doctrine of promissory estoppel as a substitute for consideration.
@@ -1052,6 +1194,70 @@ From the opinion of the court:
 
 While Kavovit was allowed to disaffirm the contract, he was required to pay Eden all commissions Eden would have been due over the course of the contract.
 
+## De Havilland v. Warner Bros.
+
+* [The De Havilland Law](http://en.wikipedia.org/wiki/De_Havilland_Law)
+
+> Hollywood industry lawyers in the 1920s, 1930s, and 1940s 
+> took the position that an exclusive personal services contract 
+> should be treated as suspended during the periods 
+> when the artist was not actually working. 
+> Since no artist could be working every single day 
+> (that is, including holidays and weekends), 
+> this interpretation meant 
+> that two, or later seven, years of actual service 
+> would be spread over a much longer calendar period, 
+> thus extending the time 
+> during which the studio system 
+> had complete control of a young artist's career.
+
+> In response, actress Olivia de Havilland 
+> filed a lawsuit on August 23, 1943 against Warner Bros. 
+> which was backed by the Screen Actors Guild. 
+> The lawsuit resulted in a landmark decision &hellip; 
+> de Havilland's favor on December 8, 1944. 
+> In a unanimous opinion by Justice Clement Lawrence Shinn, 
+> the three-justice panel adopted the common sense view 
+> that seven years from the commencement of service 
+> means seven calendar years. 
+> Since de Havilland had started performance 
+> under her Warner annual contract on May 5, 1936 
+> (which had been renewed six times pursuant to its terms since then), 
+> and seven calendar years had elapsed from that date, 
+> the contract was no longer enforceable 
+> and she was free to seek projects with other studios.
+
+Such an old case might feel antique, 
+but the same theory has been used right up to the present day, 
+and will likely be deployed in a major dispute between two 
+talent titans (CAA vs. UTA).
+
+##### [CAA vs. UTA, Corporate Raiding and the Ghost of Ed Limato (Analysis)](http://www.hollywoodreporter.com/thr-esq/caa-uta-corporate-raiding-ghost-785655)
+
+> Consider the case of the late legendary agent, 
+> who spent most of his career at ICM 
+> before defecting to William Morris in 2007, 
+> taking with him such clients 
+> as Denzel Washington, Steve Martin and more. 
+> Limato was under contract to ICM 
+> but when the agency tried to diminish his status, 
+> he argued, in effect, that his contract was "illegal" 
+> because it violated California's strict "seven-year rule" 
+> for personal services contracts. 
+> That law dates back to actress Olivia de Havilland's lawsuit 
+> against Warner Bros. in the 1940s 
+> for repeatedly extending her contract with the studio 
+> after "suspending" her for rejecting suggested roles. 
+> In 1944, the California Court of Appeal ruled that de Havilland---
+> or any other actor, director or other talent 
+> in the entertainment industry---
+> could not be subject to a contract to perform personal services 
+> beyond seven years from the beginning of the deal. 
+> The so-called "de Havilland law" 
+> fundamentally changed Hollywood, 
+> brought about the end of the old studio system 
+> and allowed talent agencies to amass power.  
+
 ## The Movie Option
 
 ###### Where Publishing Meets Hollywood
@@ -1074,7 +1280,7 @@ Instead, of buying the rights outright, the producer *rents* them. She buys the 
 
 The producer or the studio buys a period of time during which they will try to strike a movie deal. How many months or years are they asking the seller not to sell to someone else? 
 
-With budgets at $70 million or more and with complicated deals for talent, a producer wants time to "set up" the project at a major studio. At a minimum, 6, 12, or 18 months, or even two years. Longer periods of time are common, only because most options include another option to renew, or to buy another period of time, but for steadily escalating dollar amounts. For independent movies, the producer may need even more time to "pre-sell" foreign rights to exhibit movies which have not even been made yet, usually because a major name is associated with the project.  
+With budgets at $70 million or more and with complicated deals for talent, a producer wants time to "set up" the project at a major studio. At a minimum, 6, 12, or 18 months, or even two years. Longer periods of time are common, only because most options include another option to renew, or to buy another period of time, but for steadily escalating dollar amounts. For independent movies, the producer may need even more time to "pre-sell" foreign rights to exhibit movies which have not even been made yet, usually because a major name is associated with the project. 
 
 Usually measured in months, this is called the "Option Period." During this period of time if the producer or studio wish to "execute their option," they have the right to buy the movie rights for a pre-arranged purchase price.
 
@@ -1090,7 +1296,7 @@ If the movie gets made, the producer or studio will pay the total amount of mone
 
 The option agreement MUST CONTAIN A PURCHASE PRICE to be an enforceable promise (PL 101-105). Otherwise the producer has promised only to BUY the movie rights, not how much she will pay. 
 
-The price may vary greatly, but it must be negotiated up front at the time the option agreement is made. If the movie gets made, the author is paid in full. If the deal falls through for any reason and the movie does NOT get made in the option period, then the novelist keeps the option payment and the movie rights remain with the novelist, too.  
+The price may vary greatly, but it must be negotiated up front at the time the option agreement is made. If the movie gets made, the author is paid in full. If the deal falls through for any reason and the movie does NOT get made in the option period, then the novelist keeps the option payment and the movie rights remain with the novelist, too. 
 
 
 [goldseal]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=286+P.2d+954&appflag=67.12 "Gold Seal v. RKO"
@@ -1099,5 +1305,6 @@ The price may vary greatly, but it must be negotiated up front at the time the o
 [kavovit]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=563nys2d1001&appflag=67.12	"Scott Eden v. Kavovit"
 [goudal]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=5+p2d+432&appflag=67.12 "Goudal v. Cecil B. Demille"
 [loews]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=185+F.2d+641&appflag=67.12 "Loew's Inc v. Cole"
-[aretha]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=735+F.Supp.+1177&appflag=67.12 "Elvin Associates v. Aretha Franklin"
+[aretha_westlaw]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=735+F.Supp.+1177&appflag=67.12 "Elvin Associates v. Aretha Franklin"
+[aretha_scholar]: https://scholar.google.com/scholar_case?case=18444995163017745133& 
 [basinger_latimes]: http://articles.latimes.com/1993-03-01/entertainment/ca-150_1_boxing-helena-lawsuit
