@@ -34,19 +34,21 @@ But eventually people in business affairs
 cut, cull and paste those original messages into deal memos 
 and letter agreements and proposed contract drafts that often say:
 
-> These contract terms are void and unenforceable unless this agreement is
-signed by both parties.
+> These contract terms are void and unenforceable 
+> unless this agreement is signed by both parties.
 
-But those agreements sometimes never get signed; 
-which means by their own terms they cannot be enforecable contracts, 
-but they may stand as some evidence 
+Often these proposed terms never get signed, 
+which means by their own terms they cannot be enforceable contracts. 
+At most they are some evidence 
 of what the parties intended during negotiations. 
+Alas the law does not enforce negotiations 
+(offer and counteroffer), it enforces contracts. 
 
 The entertainment industries move too fast 
 and involve too many players and contingent deals 
 to wait for lawyers fuss over contract language and obtain signatures. 
 Usually the bargains struck work out fine. 
-Blockbusters and tentpoles get made 
+Blockbusters and tentpoles get made, 
 and the players compromise on any terms that weren't
 included in the conversations surrounding the original deal.
 
@@ -73,22 +75,26 @@ As the authors of the leading Entertainment Law textbook put it:
 > are able to finish negotiating 
 > and drafting a final personal service contract.
 
-> *Entertainment, Media, and The Law: Text, Cases, and Problems*, (4th Ed. 2011), Paul C. Weiler, Gary C. Meyers.
+> *Entertainment, Media, and The Law: Text, Cases, and Problems*, 
+> (4th Ed. 2011), Paul C. Weiler, Gary C. Meyers.
 
 When deals fall through, 
 a judge or jury comes along 
 and asks almost metaphysical questions about what happened: 
 Did the parties agree? 
-Or did they just agree to make an agreement later? 
+Or did they just agree to agree later, 
+some indefinite length of time? 
 Did they "agree to agree" only after some uncertain event? 
-For example, "Yes, we agree to make this deal, 
+For example, "Yes, we agreed to make this deal, 
 but only if Spielberg directs and Daniel Craig plays the hero." 
-Is this a deal? Or just a dead to make a deal IF---? 
+Is this a deal? Or just a deal to make a deal IF---? 
 
-The book passages help give us a glimpse into deals in the various industries,
-but another way to appreciate the boundaries of the often hurry-scurry world of
-dealmaking is to read the cases memorializing some famous Hollywood and
-publishing feuds. 
+Rarely the dispute ends in litigation. 
+If it actually goes to trial, 
+the tabloids and trades chronicle 
+the egos, the treachery, and the feuds. 
+If somebody appeals, 
+the dispute may be writ in the caselaw and memorialized for the ages. 
 
 ## *Mainline v. Basinger*
 
@@ -177,9 +183,11 @@ Attorney Philips's annotations
 requested certain changes to be included in a formal written document.
 For example, 
 she wanted to change the number of days Basinger would work in post-production. 
-On Attorney Philips's own copy of the document, she noted 
-“There is substantial nudity - KB ok with it &hellip; 
-no frontal nudity - nothing graphic - more subliminal.” 
+On Attorney Philips's own copy of the document, she noted:
+
+> There is substantial nudity - KB ok with it &hellip; 
+> no frontal nudity - nothing graphic - more subliminal.
+
 Attorney Philips also noted that the “Loan-out company is Mighty Wind
 Productions.” Mazzocone understood Mighty Wind was “Kim's production
 company and that's who the contract should be made with and that's where
@@ -707,8 +715,7 @@ on May 24 a memorial, setting forth all the terms of the oral contract,
 was orally approved by the parties; 
 the second draft of the agreement (May 24), 
 incorporating changes in the first draft (May 20), 
-was prepared in order to memorialize the oral contract entered into between the parties. 
-The parties had entered into prior contracts, including the Gwenaud contract. Appellant concedes that on May 16 the parties agreed orally upon the basic points of the contract (story, star and money) and that the other points were details which the parties anticipated could be agreed upon without difficulty. The other points or "details" were to follow the pattern of the Gwenaud contract. (Youngman's letter to the resident attorney of RKO, directing him to draw the agreement herein, stated that "All of the other terms and provisions are the same as those in the last contract [Gwenaud contract].") &hellip; 
+was prepared in order to memorialize the oral contract entered into between the parties. The parties had entered into prior contracts, including the Gwenaud contract. Appellant concedes that on May 16 the parties agreed orally upon the basic points of the contract (story, star and money) and that the other points were details which the parties anticipated could be agreed upon without difficulty. The other points or "details" were to follow the pattern of the Gwenaud contract. (Youngman's letter to the resident attorney of RKO, directing him to draw the agreement herein, stated that "All of the other terms and provisions are the same as those in the last contract [Gwenaud contract].") &hellip; 
 
 In *Mancuso v. Krackov,* it was said: "It is not necessary that each term [of an oral contract] be spelled out in minute detail." In *Thompson v. Schurman,* it was said: 
 
@@ -745,88 +752,6 @@ These circumstances may be shown by "oral testimony or by correspondence or othe
 
 [Restatement (2nd) Contracts § 27](https://a.next.westlaw.com/Document/Ib0b48de2da5e11e2aa340000837bc6dd/View/FullText.html)
 
-## Definiteness
-
-## *Pinnacle Books v. Harlequin,* 
-
-###### United States District Court SDNY (1981).
-
-* [Case on Westlaw][pinnacle] 519 F.Supp 118 (SDNY 1981)(5 pages).
-
-In 1976, Pinnacle Books entered into a contract with Pendleton for the rights to publish books 29 through 38 in *The Executioner* series. Since 1969, Pendleton had written and Pinnacle had published 38 different action/adventure books in *The Executioner* series. Author Pendleton owned copyright in the series, which had sold approximately 20 million copies.
-
-The agreement provided that: 
-
-> Pendleton would not offer rights in the series to any other publisher until, **after extending their best efforts**, the parties were unable to agree on terms for a new contract.”
-
-In 1978-79, Pendleton and Pinnacle began negotiating for an extension of their agreement, when a dispute broke out over foreign royalties. It was settled eventually, and according to Pinnacle negotiations became more intense, but their differences could have been resolved if the parties had continued using **their best efforts.**
-
-But in January 1980, Harlequin Books began negotiating with Pendleton for rights to *The Executioner* series.
-
-On May 15, 1980, Pendleton signed with Harlequin.
-
-Pinnacle sued Harlequin and sought an injunction and damages against Harlequin for unlawful interference with the contractual relationship between Pinnacle and Don Pendleton (its most successful author).
-
-Now, for Pinnacle to succeed for unlawful interference with a contract, Pinnacle had to prove up a VALID contract. Pinnacle argued that it had an agreement with Pendleton that he would use **best efforts** to agree on new contract terms.
-
-Indeed if Pendleton had not negotiated at all, perhaps Pinnacle would have a good argument, but how is the court supposed to enforce a contract provision that says the parties must use their **best efforts?**
-
-The court said:
-
-> where the parties agreed only to negotiate and failed to state the standards by which their negotiation efforts were to be measured, it is impossible to determine whether Pinnacle used their "best efforts" to negotiate a new agreement.
-
-> There simply is no objective standard by which the court can determine whether Pinnacle's offer constituted its best efforts; nor can it decide whether Pendleton's participation in negotiations with Pinnacle for over a year were his best efforts. In short, the option clause is unenforceable due to the indefiniteness of its terms . . . 
-
-> “Best efforts” or similar clauses, like any other contractual agreement, must set forth in definite and certain terms every material element of the contemplated bargain. It is hornbook law that courts cannot and will not supply the material terms of a contract. Essential to the enforcement of a “best efforts” clause is a clear set of guidelines against which the parties' “best efforts” may be measured. 
-
-What Pinnacle really needed (and apparently was unable to bargain for) was an "option clause."
-
-#### Authors Guild on Option Clauses	
-
-To the Authors Guild, Option clauses are "Unacceptable Provisions."
-
-A typical option clause looks like this:
-
-> The Author grants Publisher the exclusive option to acquire the rights to the next full-length work of [fiction or non-fiction] to be written by the Author. Publisher shall be entitled to a period of sixty (60) days after submission of the next work in which to make an offer for that work, during which time the Author agrees not to solicit any third party offers, directly or indirectly.
-
-*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at paragraph 19.
-
-As the Authors Guild puts it: These clauses favor PUBLISHERS ONLY, not authors. An option clause gives your publisher the PRIVILEGE to publish your next book (but only if they want to).
-
-An book contract option clause binds the author to the publisher, even if the relationship has been unsatisfactory. The clause usually contains some or all of the terms you MUST accept for the optioned work.  Even “first refusal” clauses and “agreements to agree” impede the author’s freedom.  Some publishers will simply delete option clauses. Consider asking for an editor’s clause instead?
-
-What if your editor leaves? What if you get a better deal elsewhere? You may not want a provision hanging over your head that you MUST show your next book to your current publisher first. 
-
-If you cannot get rid of the clause, limit it: Avoid options on “the same terms” and “last refusal rights” (allowing publisher to match terms the author has received). Go for a “limited time right of first refusal” on terms “to be mutually agreed upon.” 
-
-Also limit the clause to a summary or proposal for the next book (not entire manuscript). Otherwise you may be unable to shop a query, proposal, or summary to another publisher until you finish the second book and show it to your original publisher. 
-
-Limit the time. And don’t let the publisher require publication of the first work. Limit option only to similar books (fiction, non-fiction, poetry). 
-
-*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at &para; 19.
-
-#### How Book Advances Work
-
-Your client signs a book contract and agrees to a standard 15% royalty with a $120,000 advance payable as follows:
-
-* 1/3 ($40k) on signing.
-* 1/3 ($40k) on delivery of manuscript.
-* 1/3 ($40k) on publication.
-
-But remember, all of these payments are going to your client's literary agent. 
-
-So when your client gets the first third of his advance ($40k on signing), the literary agent removes her 15% ($6k) and you the entertainment or publishing lawyer get 5% ($2k).
-
-On the entire $120,000, the literary agent would take 15% ($18,000) and the publishing lawyer would take 5% ($6,000).
-
-The book gets published and the cover price is $20, so every book sold gets your client $3.00 (15% of $20).
-
-Let’s say the book sells 50,000 copies:
-
-* $3.00 x $50,000 = $150,000 gross royalties
-* $150,000 - $120,000 (advance) = $30,000.
-
-On next royalty statement, your client will earn $30,000, the literary agent will take $4,500 and the lawyer will take $1,500.
 
 #### Consideration and Mutuality
 
@@ -931,12 +856,7 @@ Players received a legal advantage.&hellip;
 
 Although the $4,000 payment to plaintiffs was not recited in either of
 the agreements, parol evidence was properly admitted to establish that
-the payment was made in consideration of the agreements. Where a
-contract is silent as to consideration, its existence may be established
- through parol
-evidence.&hellip; 
-The agreements are valid and enforceable even if they lack mutuality
-because they are supported by the executed consideration of $4,000
+the payment was made in consideration of the agreements. Where a contract is silent as to consideration, its existence may be established through parol evidence.&hellip; The agreements are valid and enforceable even if they lack mutuality because they are supported by the executed consideration of $4,000
 passing from the defendants to The Ohio Players.&hellip; 
 
 Even had the defendants not made the $4,000 advance, the plaintiffs
@@ -959,17 +879,7 @@ compelled by the rule that the law implies mutual promises to use good
 faith in interpreting an agreement and good faith and fair dealing in
 carrying out its purposes.
 
-In [*Wood v.
-Lucy*](http://scholar.google.com/scholar_case?about=17497756576520329824)*,*
-an often-cited decision, the plaintiff, a dress manufacturer, obtained
-exclusive rights to market dresses designed by the defendant, a
-prominent designer, in return for the plaintiff's agreement to pay the
-designer one-half of its profits. The designer endorsed fabrics and
-dresses of plaintiff's competitors, and defended the plaintiff's suit
-for damages by contending, as the plaintiffs in this case argue, that
-the contract lacked mutuality because it did not require the plaintiff
-to do anything. Mr. Justice Cardozo, speaking for the New York Court of
-Appeals, rejected this argument, saying:
+In [*Wood v.  Lucy*](http://scholar.google.com/scholar_case?about=17497756576520329824)*,* an often-cited decision, the plaintiff, a dress manufacturer, obtained exclusive rights to market dresses designed by the defendant, a prominent designer, in return for the plaintiff's agreement to pay the designer one-half of its profits. The designer endorsed fabrics and dresses of plaintiff's competitors, and defended the plaintiff's suit for damages by contending, as the plaintiffs in this case argue, that the contract lacked mutuality because it did not require the plaintiff to do anything. Mr. Justice Cardozo, speaking for the New York Court of Appeals, rejected this argument, saying:
 
 > "[The defendant insists] that the plaintiff does not bind himself to
 > anything. *It is true that he does not promise in so many words that
@@ -1256,7 +1166,7 @@ talent titans (CAA vs. UTA).
 > The so-called "de Havilland law" 
 > fundamentally changed Hollywood, 
 > brought about the end of the old studio system 
-> and allowed talent agencies to amass power.  
+> and allowed talent agencies to amass power. 
 
 ## The Movie Option
 
@@ -1300,7 +1210,6 @@ The price may vary greatly, but it must be negotiated up front at the time the o
 
 
 [goldseal]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=286+P.2d+954&appflag=67.12 "Gold Seal v. RKO"
-[pinnacle]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=519+F.supp+118&appflag=67.12 "Pinnacle Books v. Harlequin"
 [bonner]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=394+NE.2d+1303&appflag=67.12 "Bonner v. Westbound Records"
 [kavovit]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=563nys2d1001&appflag=67.12	"Scott Eden v. Kavovit"
 [goudal]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=5+p2d+432&appflag=67.12 "Goudal v. Cecil B. Demille"
