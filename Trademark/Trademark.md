@@ -1287,15 +1287,15 @@ question of whether consumers are likely to be confused." &hellip;
 
 #### 1. *First Amendment*
 
-In [*Rogers v.  Grimaldi*](http://scholar.google.com/scholar_case?case=1704090655237798849)*,*
+In [*Rogers v.  Grimaldi*](http://scholar.google.com/scholar_case?case=1704090655237798849),
 the Second Circuit held 
 that the Lanham Act is inapplicable to "artistic works" 
-as long as the defendant's use of the mark is (1) 
-"artistically relevant" to the work and (2) 
-not "explicitly misleading" as to the
-source or content of the work.
+as long as the defendant's use of the mark is 
+(1) "artistically relevant" to the work and 
+(2) not "explicitly misleading" 
+as to the source or content of the work.
 
-[The court in *Rogers* applied this test to the use of a trademark in a movie title, but courts have extended it to the content of expressive works as well. [*Cliffs Notes, Inc. v. Bantam Doubleday Dell Publ'g Group, Inc.* (2d Cir. 1989)](http://scholar.google.com/scholar_case?case=3543157455154245054) ("[T]he *Rogers* balancing approach is generally applicable to Lanham claims against works of artistic expression."); *see also* [*E.S.S.  Entm't 2000, Inc. v. Rock Star Videos, Inc.* (9th Cir.2008)](http://scholar.google.com/scholar_case?case=6229102239124683155) ("Rock Star Videos") ("[T]here is no principled reason why [the *Rogers* test] ought not also apply to the use of a trademark in the body of the work.") (citing [*Mattel, Inc. v. Walking Mountain Prods.* (9th Cir.2003)](http://scholar.google.com/scholar_case?case=7581792703482092445)). The parties do not dispute the application of *Rogers* to the content of a movie.]
+The court in *Rogers* applied this test to the use of a trademark in a movie title, but courts have extended it to the content of expressive works as well. [*Cliffs Notes, Inc. v. Bantam Doubleday Dell Publ'g Group, Inc.* (2d Cir. 1989)](http://scholar.google.com/scholar_case?case=3543157455154245054) ("[T]he *Rogers* balancing approach is generally applicable to Lanham claims against works of artistic expression."); *see also* [*E.S.S.  Entm't 2000, Inc. v. Rock Star Videos, Inc.* (9th Cir.2008)](http://scholar.google.com/scholar_case?case=6229102239124683155) ("Rock Star Videos") ("[T]here is no principled reason why [the *Rogers* test] ought not also apply to the use of a trademark in the body of the work.") (citing [*Mattel, Inc. v. Walking Mountain Prods.* (9th Cir.2003)](http://scholar.google.com/scholar_case?case=7581792703482092445)). The parties do not dispute the application of *Rogers* to the content of a movie.]
 
 Louis Vuitton does not dispute 
 that Warner Bros. challenged use of the mark is noncommercial, 
@@ -1314,51 +1314,64 @@ Louis Vuitton objects to the present motion on the following grounds:
 #### *a. Artistic Relevance*
 
 The threshold for "artistic relevance" is purposely low 
-and will be satisfied unless 
-the use "has *no* artistic relevance to the underlying work *whatsoever.*" 
+and will be satisfied unless the use 
+"has *no* artistic relevance to the underlying work *whatsoever.*" 
 [*Rogers,*](http://scholar.google.com/scholar_case?case=1704090655237798849)
-(emphasis added); *see also* [*Rock Star Videos, Inc.*](http://scholar.google.com/scholar_case?case=6229102239124683155)
+(emphasis added); 
+*see also* [*Rock Star Videos, Inc.*](http://scholar.google.com/scholar_case?case=6229102239124683155)
 (holding that, under *Rogers,* "the level of relevance merely must be
-above zero"); *Dillinger, LLC v. Elec. Arts Inc.*  (S.D.Ind. June 16, 2011) ("[I]t is
-not the role of the Court to determine how meaningful the relationship
+above zero"); 
+*Dillinger, LLC v. Elec. Arts Inc.* (S.D.Ind. June 16, 2011) 
+("It is not the role of the Court 
+to determine how meaningful the relationship
 between a trademark and the content of a literary work must be;
-consistent with *Rogers,* any connection whatsoever is enough."). The
-artistic relevance prong ensures that the defendant intended an artistic
-— i.e., noncommercial — association with the plaintiff's mark, as
-opposed to one in which the defendant intends to associate with the mark
-to exploit the mark's popularity and good will. 
+consistent with *Rogers,* any connection whatsoever is enough."). 
+The artistic relevance prong ensures 
+that the defendant intended an artistic---i.e., noncommercial---
+association with the plaintiff's mark, 
+as opposed to one in which the defendant intends 
+to associate with the mark to exploit the mark's popularity and good will. 
 *See* [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849)
 (finding that the defendant satisfied the artistic relevance prong where
 its use of the trademark was "not arbitrarily chosen just to exploit the
 publicity value of [the plaintiffs' mark] but instead ha[d] genuine
 relevance to the film's story").
 
-Warner Bros.' use of the Diophy bag meets this low threshold. Alan's
-terse remark to Teddy to "Be careful!" because his bag "is a Lewis
-Vuitton" comes across as snobbish only because the public signifies
-Louis Vuitton — to which the Diophy bag looks confusingly similar — with
-luxury and a high society lifestyle.  His remark
-also comes across as funny because he mispronounces the French "Louis"
-like the English "Lewis," and ironic because he cannot correctly
-pronounce the brand name of one of his expensive possessions, adding to
-the image of Alan as a socially inept and comically misinformed
-character. This scene also introduces the comedic tension
+Warner Bros' use of the Diophy bag meets this low threshold. 
+Alan's terse remark to Teddy to "Be careful!" 
+because his bag "is a Lewis Vuitton" 
+comes across as snobbish 
+only because the public signifies Louis Vuitton---
+to which the Diophy bag looks confusingly similar---
+with luxury and a high society lifestyle. 
+His remark also comes across as funny 
+because he mispronounces the French "Louis"
+like the English "Lewis," 
+and ironic because he cannot correctly pronounce 
+the brand name of one of his expensive possessions, 
+adding to the image of Alan as a socially inept 
+and comically misinformed character. 
+This scene also introduces the comedic tension
 between Alan and Teddy that appears throughout the Film.
 
-Louis Vuitton contends that the Court cannot determine that the use of
-the Diophy bag was artistically relevant until after discovery.
-Specifically, Louis Vuitton maintains that it should be able to review
-the script and depose the Film's creators to determine whether Warner
-Bros. intended to use an authentic Louis Vuitton bag or Diophy's
-knock-off bag. &hellip; However,
-the significance of the airport scene relies on Alan's bag — authentic
-or not — looking like a Louis Vuitton bag. Louis Vuitton does not
-dispute this was Warner Bros.' intention, and therefore the discovery it
-seeks is irrelevant. The Court is satisfied that Warner Bros.' use of
-the Diophy bag (whether intentional or inadvertent) was intended to
-create an artistic association with Louis Vuitton, and there is no
-indication that its use was commercially motivated. *See* [*Rogers,* 875 F.2d at
-1001](http://scholar.google.com/scholar_case?case=1704090655237798849).[^11]
+Louis Vuitton contends 
+that the Court cannot determine 
+that the use of the Diophy bag was artistically relevant 
+until after discovery.
+Specifically, Louis Vuitton maintains 
+that it should be able to review the script 
+and depose the Film's creators 
+to determine whether Warner Bros. 
+intended to use an authentic Louis Vuitton bag or Diophy's knock-off bag.&hellip; However, the significance of the airport scene 
+relies on Alan's bag---authentic or not---
+looking like a Louis Vuitton bag. 
+Louis Vuitton does not dispute this was Warner Bros.' intention, 
+and therefore the discovery it seeks is irrelevant. 
+The Court is satisfied that Warner Bros.' use of the Diophy bag 
+(whether intentional or inadvertent) 
+was intended to create an artistic association with Louis Vuitton, 
+and there is no indication that its use was commercially motivated. 
+*See* [*Rogers,* 875 F.2d at 1001](http://scholar.google.com/scholar_case?case=1704090655237798849).
 
 [In a footnote, the Court distinguished cases cited by Louis Vuitton, 
 including [*Parks v. LaFace Records* Cir.2003)](http://scholar.google.com/scholar_case?case=11600086449229682086)
@@ -1368,8 +1381,9 @@ song," and noting that the "marketing power" of the song's title
 "unquestionably enhanced the song's potential sale to the consuming
 public").]
 
-Accordingly, the Court concludes that the use of the Diophy bag has some artistic relevance to
-the plot of the Film.
+Accordingly, 
+the Court concludes that the use of the Diophy bag 
+has some artistic relevance to the plot of the Film.
 
 #### *b. Explicitly Misleading*
 
@@ -1423,7 +1437,7 @@ the defendant's artistic work, and not to someone else's. This narrow
 construction of the Lanham Act accommodates the public's interest in
 free expression by restricting its application to those situations that
 present the greatest risk of consumer confusion: namely, when trademarks
-are used to "dupe[] consumers into buying a product they mistakenly
+are used to "dupe consumers into buying a product they mistakenly
 believe is sponsored by the trademark owner." [*Rock Star Videos*](http://scholar.google.com/scholar_case?case=6229102239124683155)
 (quoting [*Walking Mountain*](http://scholar.google.com/scholar_case?case=7581792703482092445)).
 When this concern is present it will generally outweigh the public's
@@ -1616,6 +1630,60 @@ SO ORDERED.
 
 * [Disney Denies Bid To Keep Characters 3 Hallandale Day-care Centers Are Given One Month To Remove Murals](http://articles.sun-sentinel.com/1989-05-18/news/8901250789_1_day-care-centers-day-care-centers-disney-officials)
 * [Nastiness Is Not a Fantasy In Movie Theme Park War](http://www.nytimes.com/1989/08/13/us/nastiness-is-not-a-fantasy-in-movie-theme-park-war.html)
+
+##### Entertainment Lawyers On Fair Use
+
+Watch this 6-minute YouTube clip of two entertainment lawyers discussing trademark and copyright issues.
+
+[What Filmmakers Should Know About Featuring Logos & Trademarks In An Independent Movie.](https://www.youtube.com/watch?v=64WGwD6VIhI)
+
+A student sent me this YouTube and asked: 
+"Hey, I thought you said that filmmakers should get logos and copyrighted material out of the shot! These lawyers say logos are no problem?"
+
+Keep in mind these are two good lawyers getting paid well 
+to solve rights issues that would not exist 
+if the filmmakers had simply had the guy change his T-shirt. 
+Then you would not need a lawyer on the phone with the E&O insurer, 
+followed by negotiations over insurance contract language. 
+
+I'm sure these are two fine lawyers
+who pride themselves on solving rights issues 
+AFTER the film has been shot 
+and the filmmakers need to get insurance. 
+(No mention about whether the filmmakers had to pay a premium 
+over and above the usual 
+to protect against the increased likelihood of litigation 
+caused by an unnecessary rights issue 
+and how many hours of legal work it took.)
+
+Again, a price worth paying 
+if you NEED that Star Wars logo or trademark 
+because your hero dreams of Luke Skywalker
+and models his life upon him, 
+but if Star Wars means nothing to your film 
+why put the logo in your shot 
+and risk a completely unnecessary insurance or legal issue?
+
+We know from class and from our book and from *Rogers v. Grimaldi* 
+that you usually MAY use a trademark 
+when it is artistically relevant to your work. 
+So that's not news. 
+(Doesn't mean another Ginger Rogers won't sue you anyway and lose.) 
+The Disney example they use here is similar; 
+if the filmmakers are making an undercover movie ABOUT Disney. 
+That might make Disney and its trademark and logos artistically relevant. 
+Then care should be taken 
+to make sure that the audience is not confused 
+about whether Disney made or sponsored the film. 
+
+Same goes for fair use and copyright. 
+As we discussed you can't stop somebody
+from suing you for infringement, 
+you simply assert the affirmative defense of fair use. 
+But if you avoid using the copyrighted material in the first place, 
+it's one less thing to worry about 
+and one less issue for insurers or distributors 
+who want to buy your film.
 
 
 <!-- BEGIN COMMENT -->
