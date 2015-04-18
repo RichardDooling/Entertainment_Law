@@ -438,7 +438,7 @@ and then the collaborators compromise.
 
 #### Morals Clauses ####
 
-> A morals clause is a provision in a contract > or official document 
+> A morals clause is a provision in a contract or official document 
 > that prohibits certain behavior in a person's private life. 
 > They deal with behavior such as sexual acts and drug use. 
 > They were commonly used in the contract 

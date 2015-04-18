@@ -17,39 +17,131 @@ chapter: Representation
 
 What do entertainment lawyers do?
 
-> Just like Frances Gumm became Judy Garland, and Thomas Mapother III became Tom Cruise, "entertainment law" is actually a more glamorized, fabricated name for contract law, copyright law, intellectual property law, licensing law, litigation, and working really hard just like every other lawyer out there . . . . Entertainment lawyers are merely copyright, contract, or IP lawyers who have clients in the entertainment business, just like sports lawyers have clients in the sports business.
+> Just like Frances Gumm became Judy Garland, 
+> and Thomas Mapother III became Tom Cruise, 
+> "entertainment law" is actually a more glamorized, fabricated name 
+> for contract law, copyright law, intellectual property law, 
+> licensing law, litigation, 
+> and working really hard 
+> just like every other lawyer out there.&hellip; 
+> Entertainment lawyers are merely copyright, contract, 
+> or IP lawyers who have clients in the entertainment business, 
+> just like sports lawyers have clients in the sports business.
 
 * Erica Winter, [Entertainment Law - Glamor By Association?](http://www.lawcrossing.com/article/379/Entertainment-Law-Glamor-By-Association/#)
 * Diane Dannenfeldt, [How Entertainment Lawyers Work](http://entertainment.howstuffworks.com/entertainment-lawyer.htm)
 
+As in other walks of life, the lawyer 
+(in this case, the entertainment or publishing lawyer) 
+is a kind of "super fiduciary," 
+overseeing problems the client has with "regular" fiduciaries 
+(agents, managers, producers).
+
 ### Literary Agents
 
-Unlike talent agents, literary agents are not governed by special sections of the New York or California Labor Codes, but as agents they are governed by the common law of agency. In short, the relationship between an author and her agent are whatever is contained in the contract, usually signed at the commencement of their relationship. 
+An author with a great agent often doesn't need a lawyer; 
+that's why finding an agent is the brass ring. The hardest part. 
+It can take years, sometimes decades. 
+Real literary agents know what sells, 
+and they are picky when it comes to represneting new authors.
 
-As discussed, an author presented with a written agency agreement needs legal help, if only because it is the one time in the relationship that the parties are adverse. The agent may overreach and attempt to include an interminable agency clause (see *Peter lampack Agency* case) or some other one-sided clause. As discussed in our materials on book contracts, the Authors Guild will help authors and their representatives negotiate and edit these contracts.
+As Stephen King put it:
 
-## Contracts With Literary Agents 
+> Of course there has to be some talent involved, 
+> but talent is a dreadfully cheap commodity, 
+> cheaper than table salt.
+> What separates the talented individual 
+> from the successful one is a lot of hard work and study; 
+> a constant process of honing.
+
+So it's a happy day when an agent calls with the good news: 
+They'd love to represent your work. 
+Before the agent can represent the author, 
+there may be an agency agreement to sign. 
+At this point in the author-agent relationship, 
+the author needs legal advice before signing the agency agreement.
+
+The giant agencies (CAA, WME, UTA) use form agreements 
+whose terms have already been fought over 
+by unions and lawyers for decades. 
+But a boutique literary agency 
+may have a agency agreement 
+that purports to give them the right to 15% of all royalties 
+arising out of the publishing agreement. Forever. 
+These provision are controversial, 
+and lately not enforced by courts. (See *Lampack* below.) 
+
+Unlike California talent agents, 
+New York literary agents are not governed 
+by the New York or California Labor Codes, 
+but as agents they are governed by the common law of agency. 
+The agent's obligations to her author 
+are also often spelled out in a written agreement with the agency. 
+Some agents still have handshake verbal agreements 
+and protect themselves only with the agency clause 
+contained in the book contracts the agent negotiates for the author.
+
+A first-time author needs legal help with that agency agreement. 
+First stop, the [Authors Guild][]. 
+If the author does not yet qualify for assistance, 
+then the author should probably find a lawyer. 
+
+Yes, agents owe their clients duties under the law.
+Agents are supposed to bargain *for* their clients, 
+not *with* their clients over the terms of an agency agreement.
+The one time the literary agent is *adverse* to her client 
+(instead of looking out for the client's best interests) 
+is possibly in negotiations about the terms of the agency agreement itself.
+
+The agent may overreach 
+and attempt to include an interminable agency clause 
+(see *Peter Lampack Agency* case), 
+or some other one-sided clause. 
+As discussed in our materials on book contracts, 
+the Authors Guild often will help authors 
+and their representatives negotiate and edit these contracts.
+
+#### Contracts With Literary Agents 
+
+Once the agent and author are fast friends, 
+their interests are usually aligned. 
+The agent gets 15% of everything the author earns, 
+an incentive to work hard for a bigger share.
 
 An author represented by a good talent agent 
-might not even need a lawyer. 
+may publish several books and never need a lawyer. 
 But when an author "travels," as they say, 
 meaning their books appeal to international audiences, 
-the contractual arrangements, the international rights questions become quite complex.
-The same is true once Hollywood and multiple agents (film, literary, music) get involved. 
+the contract terms become more complex. 
+The international rights issues are more arcane and complex. 
+Once Hollywood begins optioning an author's books, 
+the author probably would do well 
+at least meet with a few entertainment lawyers.
+Hollywood deals involve multiple agents, managers, and lawyers 
+(film, literary, music) all get involved. 
+It's no place to be wandering around without a good lawyer 
+and perhaps a passport, because it feels like a foreign country.
 
-A good entertainment lawyer may be able to offer disinterested advice about the disposition of rights when the agents have conflicts of interest with their clients. 
+Hollywood aside, a good entertainment or publishing lawyer 
+may be able to offer disinterested advice 
+about the disposition of rights 
+when the agents have conflicts of interest with their clients. 
 
-For example, the Hollywood talent agent who sells literary rights to your novel is trying to get you top dollar, but what if the producer he's selling to is also represented by your large talent agency? 
+For example, 
+the Hollywood talent agent who sells film rights 
+to the author's novel will go for top dollar, 
+but what if the talent agent is selling those rights to a producer 
+who also happens to be represented by your large talent agency? 
+The big agencies will often provide a second opinion, 
+a disinterested review of the terms to guard against conflicts of interest.
 
-As in other walks of life, the lawyer (in this case, the entertainment lawyer) 
-is a kind of "super fiduciary," overseeing problems the client has with "regular" fiduciaries (agents, managers, producers).
 
-### The Interminable Agency Clause
+#### The Interminable Agency Clause
 
 * [Description of clause](http://accrispin.blogspot.com/2011/04/interminable-agency-clause.html)
 * [Authors Guild Warning](http://www.ninc.com/writers_resources/interminable.asp)
 
-## Peter Lampack Agency, Inc. v. Martha Grimes
+### *Peter Lampack Agency, Inc. v. Martha Grimes*
 
 ###### Superior Court New York (2010)
 
@@ -59,19 +151,15 @@ is a kind of "super fiduciary," overseeing problems the client has with "regular
 BERNARD J. FRIED, J.
 
 This case involves the Peter Lampack Agency, Inc. ("PLA"), 
-and Martha Grimes ("Grimes"), Penguin Group (USA) Inc. ("Penguin"), Penguin Putnam
-Inc. ("Penguin-Putnam"), Viking Penguin, a division of Penguin Group
-(USA) Inc. ("Viking-Penguin"), Signet, a division of Penguin Group (USA)
-Inc. ("Signet"), Onyx, a division of Penguin Group (USA) Inc. ("Onyx"),
-and New American Library, a division of Penguin Group (USA) Inc. ("New
-American").
+and Martha Grimes ("Grimes"), 
+and various corporate affiliates of the Penguin Group (USA) Inc. ("Penguin").
 
 It is undisputed that in or about 1996, 
 Grimes, an author of literary and commercial fiction, 
 retained PLA as her literary agent. 
 PLA acted in this capacity for twelve years, 
 during which it procured publishing agreements 
-for numerous works authored by Grimes. 
+for many works authored by Grimes. 
 Those works were published 
 and Grimes received over twelve million dollars 
 from the publication and domestic and international sale of her novels.
@@ -91,10 +179,12 @@ in 2005 ("2005 Penguin/Viking-Penguin Agreement"). The
 2005 Penguin/Viking-Penguin Agreement contains an option clause
 providing:
 
-> [T]he Author hereby grants to the Publisher the exclusive right and
-> option to publish &hellip; her next book-length work of fiction &hellip; 
-> The Publisher shall have a period of thirty (30) days after receipt by
-> the Publisher of the notification from the Author or her agent of the
+> [T]he Author hereby grants to the Publisher 
+> the exclusive right and option to publish &hellip; 
+> her next book-length work of fiction &hellip; 
+> The Publisher shall have a period of thirty (30) days 
+> after receipt by the Publisher of the notification 
+> from the Author or her agent of the 
 > Author's desire to commence negotiation concerning such next
 > book-length work of fiction within which to notify the Author
 > whether it desires to publish such work and to negotiate the terms and
@@ -127,12 +217,12 @@ pleaded:
 In the first cause of action, 
 PLA alleges that the publishing agreement
 for Grimes' book "The Black Cat" arose out of the Option on Next Work
-clause in the 2005 Penguin/Viking-Penguin Agreement and that Grimes
-violated the terms of the 2005 Penguin/Viking-Penguin Agreement by
-refusing to pay PLA commission for "The Black Cat." Defendant Grimes
-moves to dismiss the first cause of action, arguing that under the 2005
-Penguin/Viking-Penguin Agreement, PLA is not entitled to commission for
-"The Black Cat" because: 
+clause in the 2005 Penguin/Viking-Penguin Agreement 
+and that Grimes violated the terms of the 2005 Penguin/Viking-Penguin Agreement 
+by refusing to pay PLA commission for "The Black Cat." 
+Defendant Grimes moves to dismiss the first cause of action, 
+arguing that under the 2005 Penguin/Viking-Penguin Agreement, 
+PLA is not entitled to commission for "The Black Cat" because: 
 
 1. PLA's agency is not coupled with an interest and PLA's agency was revoked in May 2007; 
 2. the Option on Next Work clause is an unenforceable "agreement to agree"; and 
@@ -146,9 +236,11 @@ Grimes argues
 that the terms of the 2005 Penguin/Viking-Penguin Agreement 
 do not entitle PLA to commission for "The Black Cat" 
 because PLA's agency was not coupled with an interest 
-and it was revoked before negotiations for the "The Black Cat" publishing agreement began. 
+and it was revoked before negotiations 
+for the "The Black Cat" publishing agreement began. 
 PLA argues that even if its agency was revoked, 
-the first cause of action for breach of contract is sufficiently pleaded in the complaint 
+the first cause of action for breach of contract 
+is sufficiently pleaded in the complaint 
 because the publishing agreement for "The Black Cat" 
 arose out of the Option on Next Work clause 
 in the 2005 Penguin/Viking-Penguin Agreement 
@@ -156,15 +248,19 @@ and under the terms of that Agreement,
 PLA is entitled to commission for publishing agreements 
 arising out of the Option on Next Work clause. 
 
-The only part of the 2005 Penguin/Viking-Penguin Agreement that entitles
-PLA to commission is the commission provision. 
+The only part of the 2005 Penguin/Viking-Penguin Agreement 
+that entitles PLA to commission is the commission provision. 
 The Option on Next Work clause 
-does not provide for PLA to receive commission for publishing
-agreements arising out of the clause. Therefore, in order to determine
-whether PLA has sufficiently pleaded a breach of contract claim for the
-first cause of action, I must look to the commission provision in the
-2005 Penguin/Viking-Penguin Agreement and determine whether this
-provision entitles PLA to receive commission for publishing agreements
+does not provide for PLA to receive commission 
+for publishing agreements arising out of the clause. 
+
+Therefore, in order to determine 
+whether PLA has sufficiently pleaded a breach of contract claim 
+for the first cause of action, 
+I must look to the commission provision 
+in the 2005 Penguin/Viking-Penguin Agreement 
+and determine whether this provision entitles PLA 
+to receive commission for publishing agreements
 arising out of the Option on Next Work clause. The commission provision
 in the 2005 Penguin/Viking-Penguin Agreement provides in relevant part:
 
@@ -180,37 +276,24 @@ in the 2005 Penguin/Viking-Penguin Agreement provides in relevant part:
 
 It is the general rule that an agency for no definite term is revocable
 at will.&hellip; However, when an agency authority is coupled with an interest,
-the agency is irrevocable.&hellip; [*In
-re Jarmakowski's Estate,* 169 Misc
-463](http://scholar.google.com/scholar_case?about=9579664636969417491&hl=en&as_sdt=2006) [NY Sur.
-1938]. 
-
-An agency is coupled with an interest where, as a part of the
-arrangement with the principal, the agent receives title to all or part
-of the subject matter of the agency. (3 Am. Jur. 2d Agency § 63; *In re
-Jarmakowski's Estate,* 8 NYS2d at 38; [*Marbury v. Barnet,* 40 N.Y.S.
-76, 77](http://scholar.google.com/scholar_case?about=10753184655813253964&hl=en&as_sdt=2006) [1st
-Dep't 1896]: "to make the power irrevocable, there must be an interest
-in the subject of the agency itself, and not a mere interest in the
-result of the execution of the authority.&hellip;). 
-
-Words alone are not enough to establish an agency coupled with an interest. (2A NY Jur. 2d,
-Agency § 56; *In re Jarmakowski's Estate,* 8 NYS2d at 38).
+the agency is irrevocable.&hellip; 
+An agency is coupled with an interest 
+where, as a part of the arrangement with the principal, 
+the agent receives title to all or part of the subject matter of the agency.&hellip; Words alone are not enough to establish an agency coupled with an interest. &hellip; 
 
 **In this case, the commission provision grants PLA a 15% commission in
 the proceeds from its sale of rights in Grimes' literary works and not
-an interest in those literary works themselves.** The mere fact that the
+an interest in those literary works themselves.** 
+
+The mere fact that the
 commission provision "appoints PLA irrevocably" as an agent is not
-enough to create an agency coupled with an interest. (*In re
-Jarmakowski's Estate,* 8 NYS2d at 38 ["there must be more than mere
-words to establish an agency coupled with an interest]"). PLA argues
-that its agency is irrevocable because the agency authority was given as
-security for the debts incurred by PLA in procuring the publishing
-agreements for Grimes. However, an agent who is authorized to reimburse
+enough to create an agency coupled with an interest.&hellip; 
+
+However, an agent who is authorized to reimburse
 himself out of the proceeds of the agency for advances made or expenses
 incurred does not have a power coupled with an interest unless he is
-also given a property interest in the subject matter of the power. (3
-Am. Jur. 2d Agency § 65). Since PLA does not have a property interest in
+also given a property interest in the subject matter of the power. 
+&hellip; Since PLA does not have a property interest in
 Grimes' literary works, its agency is revocable and it was revoked in
 May 2007. Therefore, PLA's argument fails in so far as PLA relies on its
 alleged irrevocable agency to support its claim for breach of contract
@@ -219,16 +302,21 @@ in the first cause of action.
 The remainder of the commission provision in the 2005
 Penguin/Viking-Penguin Agreement provides that 
 
-> "[PLA] shall retain a sum equal to fifteen percent (15%) of all gross monies due and payable to
-the account of the Author under this Agreement.&hellip;"
+> PLA shall retain a sum equal to fifteen percent (15%) 
+> of all gross monies due and payable to the account of the Author 
+> under this Agreement.&hellip;
 
 The commission provision does not provide that
-PLA is entitled to commission on agreements arising out of the Option on
-Next Work clause and it only entitles PLA to commission for the four
-books that are the subject of the 2005 Penguin/Viking-Penguin Agreement.
-Therefore, PLA is not entitled to commission for "The Black Cat" and the
-first cause of action is dismissed. In light of this disposition, it is
-unnecessary to address Grimes' other arguments with respect to the first
+PLA is entitled to commission on agreements 
+arising out of the Option on Next Work clause 
+and it only entitles PLA to commission 
+for the four books 
+that are the subject of the 2005 Penguin/Viking-Penguin Agreement.
+Therefore, PLA is not entitled to commission for "The Black Cat" 
+and the first cause of action is dismissed. 
+In light of this disposition, 
+it is unnecessary to address Grimes' other arguments 
+with respect to the first
 cause of action.
 
 ### *II. Second Through Seventh Causes of Action*
@@ -271,13 +359,7 @@ commission for extensions of these agreements. Furthermore, PLA does not
 allege any facts or cite any cases to support its argument that despite
 the unambiguous terms of the commission provision in the underlying
 agreements, PLA is entitled to commission for extensions of these
-agreements. (*See* [*Swits v. New York Sys. Exch.,* 281 AD2d 833,
-835](http://scholar.google.com/scholar_case?case=8935599430196936844&hl=en&as_sdt=2006) (3d Dep't
-2001) (holding that former salesperson is not entitled to commission on
-post-termination lease renewals or extensions because there was no
-express provision for the payment of commission post-termination).&hellip; 
-Therefore, the second through seventh causes of action
-for breach of contract are dismissed.&hellip; 
+agreements.&hellip; 
 
 Accordingly, it is hereby ORDERED 
 that the motion to dismiss the first, second through seventh &hellip; 
@@ -334,18 +416,24 @@ Instead, the court looked at the commission provision and found that PLA was not
 
 On the question of whether the commission clause found in the Penguin 2005 publishing agreements constituted an "agency with an interest," the court had this to say:
 
-> It is the general rule that an agency for no definite term is revocable
-at will. [] However, when an agency authority is coupled with an interest,
-the agency is irrevocable. [] An agency is coupled with an interest where, as a part of the
-arrangement with the principal, the agent receives title to all or part
-of the subject matter of the agency.
+> It is the general rule 
+> that an agency for no definite term is revocable at will. 
+> However, when an agency authority is coupled with an interest, 
+> the agency is irrevocable. 
+> An agency is coupled with an interest where, 
+> as a part of the arrangement with the principal, 
+> the agent receives title to all or part 
+> of the subject matter of the agency. 
 
 Citing the Restatement 2nd of Agency 2d Agency § 63 and New York law, the court said:
 
-> To make the power irrevocable, there must be an interest
-in the subject of the agency itself, and not a mere interest in the
-result of the execution of the authority . . . . . Words alone are not
-enough to establish an agency coupled with an interest.
+> To make the power irrevocable, 
+> there must be an interest
+> in the subject of the agency itself, 
+> and not a mere interest in the
+> result of the execution of the authority.;&hellip; 
+> Words alone are not enough to establish 
+> an agency coupled with an interest.
 
 The court found that 2005 Penguin commission provision granted PLA a 15% commission in
 the proceeds from its sale of rights in Grimes' literary works and not
@@ -358,12 +446,12 @@ Because PLA did not have a property interest in Grimes' literary works, its agen
 * [Trial Court Opinion: Peter Lampack Agency v. Martha Grimes,](http://scholar.google.co.uk/scholar_case?case=2622311633908231934) (2010 NY Slip Op 51749).
 * [Court of Appeals: Peter Lampack Agency v. Martha Grimes,](http://scholar.google.co.uk/scholar_case?case=5116981929088179346) 93 A.D.3d 430 (NY.Ct. App. 2012).
 
-##### The Interminable Agency Clause
+#### The Interminable Agency Clause
 
 * [Description of clause](http://accrispin.blogspot.com/2011/04/interminable-agency-clause.html)
 * [Authors Guild Warning](http://www.ninc.com/writers_resources/interminable.asp)
 
-### Hollywood Representation
+## Hollywood Representation
 
 Usually involves one or more of the following:
 
@@ -372,79 +460,126 @@ Usually involves one or more of the following:
 -   Business Manager
 -   Entertainment Lawyer
 
+Even with suitcases of talent 
+it's a long march to earn a living wage 
+in the entertainment industry. 
+New talents looking for work often assume 
+that any representation is better than no represenation 
+and sign on with agents or managers 
+who may do little in the way of finding their clients work. 
+In defense of the agents, 
+it's not their job to find you work.
+In my experience, good agents are superb 
+at extracting maximum terms from interested buyers. 
+The day is so filled with those negotiations 
+that the agent doesn't need to go "find" work for talented clients. 
+If clients are working hard, 
+there will be something new to sell soon. 
+Until then, interested buyers holding on lines 2 and 3. 
+Goodbye for now.
+
 ### New York’s Employment Agent Regulation
 
 New York regulates "theatrical employment" agencies under its general business laws where section 171 defines a "theatrical employment agency" as: 
 
-> any person &hellip; who procures or attempts to procure employment or engagements for circus, vaudeville, the variety field, the legitimate theater, motion pictures, radio, television, phonograph recordings, transcriptions, opera, concert, ballet, modeling or other entertainments or exhibitions or performances, *but such terms does not include the business of managing such entertainments, exhibitions or performances, or the artists or attractions constituting the same, where such business only incidentally involves the seeking of employment therefore.*
+> any person &hellip; 
+> who procures or attempts to procure employment 
+> or engagements for circus, vaudeville, the variety field, 
+> the legitimate theater, motion pictures, radio, television, 
+> phonograph recordings, transcriptions, opera, concert, 
+> ballet, modeling or other entertainments or exhibitions 
+> or performances, *but such terms does not include 
+> the business of managing such entertainments, 
+> exhibitions or performances, or the artists 
+> or attractions constituting the same, 
+> where such business only incidentally 
+> involves the seeking of employment therefore.*
 
 [New York General Business - Article 11 - § 171 Definitions](http://law.onecle.com/new-york/general-business/GBS0171_171.html)
 
-The following case discusses not only New York's Employment Agent Regulation, but also looks at the intricacies of being both a lawyer AND a manager.
+The following case discusses 
+not only New York's Employment Agent Regulation, 
+but also looks at the intricacies of being both a lawyer AND a manager.
 
-## Mandel v. Liebman 
+### *Mandel v. Liebman*
 
 ###### New York Supreme Court (1951)
 
-Louis Mandel brought an action against Max Liebman to collect commission
-allegedly due under contract whereby plaintiff agreed to act as
-defendant's personal representative and manager. The Supreme Court, New
-York County, Gavagan, J., dismissed the complaint at close of
-plaintiff's evidence and entered judgment for defendant, which judgment
-was affirmed by the Appellate Division of the Supreme Court, First
-Judicial Department, with reargument denied and change in opinion granted, and plaintiff
-appealed. The Court of Appeals, Conway, J., held, inter alia, that the
+Louis Mandel brought an action against Max Liebman 
+to collect commission allegedly due under contract 
+whereby plaintiff Mandel agreed to act as
+defendant Liebman's personal representative and manager. 
+The Court &hellip; dismissed the complaint 
+at close of plaintiff Mandel's evidence 
+and entered judgment for defendant Liebman, 
+which judgment was affirmed by [the appellate court] 
+and plaintiff Mandel appealed. 
+The Court of Appeals, Conway, J., held, inter alia, that the
 contract was not unconscionable and void.
 
 Reversed and new trial granted.
 
 **Opinion**
 
-CONWAY, Judge.
+CONWAY, Judge (edited passim)
 
-[The defendant Max Liebman is an author, writer and director in the entertainment
-world. The plaintiff Louis Mandel  is an attorney who devotes himself to the business
-of acting as personal representative, advisor and manager for persons
-engaged in the entertainment world. On May 8, 1946, they entered into a
-written contract whereby Liebman (the talent) agreed to employ attorney Mandel ‘as his
-personal representative and manager’ for a term of five years. Liebman agreed to pay to Mandel, as compensation, 10% of all his earnings
-during the term of the contract, and thereafter on earnings from
-employments commenced during the term of the contract 
-and continued or renewed or resumed beyond the term of
-the contract.&hellip; 
+The defendant Max Liebman is an author, 
+writer and director in the entertainment world. 
+The plaintiff Louis Mandel is an attorney 
+who devotes himself to the business of acting as personal representative, 
+advisor and manager for persons engaged in the entertainment world. 
+On May 8, 1946, they entered into a written contract 
+whereby Liebman (the talent) agreed to employ attorney Mandel 
+'as his personal representative and manager' 
+for a term of five years. 
+Liebman agreed to pay to Mandel, 
+as compensation, 10% of all his earnings during the term of the contract, 
+and thereafter on earnings from employments 
+commenced during the term of the contract 
+and continued or renewed or resumed 
+beyond the term of the contract.&hellip; 
 
 Soon after several disputes arose about business records 
-which Mandel refused to return to Liebman because Liebman had failed 
-to pay the percentage of earnings agreed
-upon in the contract of May 8, 1946. Defendant then obtained an order of
-Special Term, dated February 17, 1947, in a summary turnover proceeding,
+which Mandel refused to return to Liebman 
+because Liebman had failed to pay 
+the percentage of earnings agreed upon in the contract of May 8, 1946. 
+Defendant then obtained an order of Special Term, 
+dated February 17, 1947, 
+in a summary turnover proceeding,
 directing plaintiff to turn over the papers to defendant. 
 
-Mandel commenced this action to recover the compensation allegedly due him for
-the period from May 8, 1948, to May 8, 1949, under the contract of May
-8, 1946. 
+Mandel commenced this action 
+to recover the compensation allegedly due him 
+for the period from May 8, 1948, to May 8, 1949, 
+under the contract of May 8, 1946. 
 
-The action was dismissed on the merits at the close of plaintiff's case
+The action was dismissed on the merits 
+at the close of Mandel's case
 upon the grounds of the relationship of attorney
-and client between plaintiff and defendant. The Trial Justice presumably
+and client between plaintiff and defendant. 
+The Trial Justice presumably 
 was relying upon the rule that a client who has signed a retainer
-agreement with respect to some matter in controversy may discharge the
-attorney at any time, with or without cause, and relegate the attorney
-to a quantum meruit action for his services to the time of the
-discharge.&hellip; The court also found that the specific business records
-at issue had into Mandel's possession in the course of an
-attorney-client relationship. 
+agreement with respect to some matter in controversy 
+may discharge the attorney at any time, 
+with or without cause, 
+and relegate the attorney to a quantum meruit action 
+for his services to the time of the discharge.&hellip; 
+The court also found that the specific business records at issue 
+had come into Mandel's possession 
+in the course of an attorney-client relationship. 
 
-The majority in the Appellate Division
-affirmed the judgment dismissing the complaint, but on a ground
-different from that advanced by the trial court. The majority in the
-Appellate Division held that the original contract of May 8, 1946 &hellip; ‘was void and unconscionable and against
-public policy’. In reaching that conclusion, the court pointed out that,
-under the original contract of May 8, 1946, the plaintiff was not
-required to render any services to defendant; that plaintiff had
-introduced no proof of the rendition of any services to defendant; and
-yet defendant was required to pay to plaintiff ‘what might be called a
-tribute in perpetuity.’&hellip;]  
+The [appellate court] affirmed the judgment 
+dismissing the complaint, 
+but on a ground different from that advanced by the trial court. 
+The [appellate court] held that the original contract of May 8, 1946 &hellip; 
+'was void and unconscionable and against public policy'. 
+In reaching that conclusion, the court pointed out that,
+under the original contract of May 8, 1946, Mandel was not
+required to render any services to Liebman; 
+that Mandel had introduced no proof 
+of the rendition of any services to Liebman; 
+and yet Liebman was required to pay to Mandel 
+‘what might be called a tribute in perpetuity.’&hellip;
 
 It is apparent that the majority, in
 holding the contracts to be ‘unconscionable’, thought that the
@@ -470,61 +605,70 @@ manifest as to shock the conscience and confound the judgment of any man
 of common sense.
 
 There might be some force to the
-claim of unconscionability in the case at bar if the contract could
-properly be construed as was done by the majority in the Appellate
-Division. That court held that under the express terms of the contract
-of May 8, 1946, plaintiff was not required to render any services to
-defendant. We do not think that that is a permissible construction under
-our decisions. See *Wood v. Lucy, Lady Duff-Gordon*. 
+claim of unconscionability in the case at bar 
+if the contract could properly be construed 
+as was done by the majority in the Appellate Division. 
+That court held that under the express terms of the contract of May 8, 1946, Mandel was not required to render any services to Liebman. 
+We do not think that that is a permissible construction 
+under our decisions. See *Wood v. Lucy, Lady Duff-Gordon*. 
 
-Here, the contract provides that it is mutually agreed by the parties &hellip; 
-that the defendant 'hereby employs' the plaintiff 
+Here, the contract provides 
+that it is mutually agreed by the parties &hellip; 
+that the Liebman 'hereby employs' Mandel 
 'as his personal representative and manager 
 to use his ability and experience as such manager and personal representative 
-in the guidance and furtherance' of defendant's career 
+in the guidance and furtherance' of Liebman's career 
 and 'to advise him in connection with all offers of employment 
 and contracts for services, and conclude for him such contracts.' 
-Thus, there is a clear implication that plaintiff 
+Thus, there is a clear implication that Mandel 
 was required to do that for which he was employed. 
-Even if the contract had merely provided that plaintiff was employed 'as
-personal representative and manager,' 
+Even if the contract had merely provided 
+that Mandel was employed 'as personal representative and manager,' 
 with no further description of his duties, 
 that would have been sufficient, for it could be shown that to
 these parties, in a specialized field with it own peculiar customs and
 usages, that phrase was enough to measure the entire extent of
-plaintiff's required services. 
+Mandel's required services. 
 
-The further provision in the
-contract that plaintiff ‘shall only devote as much time and attention to
-the activities and affairs' of defendant ‘as the opinion and judgment’
-of plaintiff ‘deems necessary’ must be given a reasonable interpretation
-consonant with the purpose of the contract. It would be an unnatural and
-bizarre construction of the document to hold that that provision was
-intended to excuse plaintiff from any obligation to render service under
-the contract, while continuing to reap benefits thereunder. The
-provision seems merely to constitute an attempt on the part of plaintiff
-to protect himself from excessive and unreasonable demands upon his
-time. See Meyers v. Nolan, supra, 18 Cal.App.2d at page
-323, where it was said: 
+The provision in the contract that Mandel 
+‘shall only devote as much time and attention 
+to the activities and affairs' of Liebman 
+‘as the opinion and judgment’ of Mandel ‘deems necessary’ 
+must be given a reasonable interpretation 
+consonant with the purpose of the contract. 
+It would be an unnatural and bizarre construction of the document 
+to hold that that provision was intended to excuse plaintiff from any obligation to render service under the contract, while continuing to reap benefits thereunder. 
+The provision seems merely to constitute an attempt 
+on the part of Mandel to protect himself from excessive and unreasonable demands upon his time. 
 
-> The fact that the contract provided that the managers could devote as much time to defendant's affairs as they deemed necessary does not destroy its mutuality. The very nature of the business of the parties was such that representation of other actors was to be expected. The clause was evidently inserted to avoid any misunderstanding on the subject and to more clearly define the rights and obligations of the managers.  
+See *Meyers v. Nolan* &hellip; where it was said: 
 
-Of course, as defendant urges, 
-it is theoretically possible that plaintiff, under this provision, 
+> The fact that the contract provided 
+> that the managers could devote as much time to defendant's affairs 
+> as they deemed necessary does not destroy its mutuality. 
+> The very nature of the business of the parties 
+> was such that representation of other actors was to be expected. 
+> The clause was evidently inserted 
+> to avoid any misunderstanding on the subject 
+> and to more clearly define the rights and obligations of the managers. 
+
+Of course, as Liebman urges, 
+it is theoretically possible that Mandel, under this provision, 
 could deem it necessary to devote no time to the activities 
 and affairs of defendant, but in that event, it is clear that
-plaintiff would not be performing the contract but would be breaching it and
+Mandel would not be performing the contract but would be breaching it and
 foregoing his right to compensation.
 
-Since plaintiff, as we hold, was required to render some service to
-defendant under the contract, 
+Since Mandel, as we hold, was required to render some service to
+Liebman under the contract, 
 it cannot be said that the contract was unconscionable. 
-Defendant was the best judge of the necessity and worth of plaintiff's services, 
+Liebman was the best judge 
+of the necessity and worth of Mandel's services, 
 and of the price he wished to pay to obtain them. 
-In return for plaintiff's contractual obligation to render such services, 
-defendant agreed to pay as compensation an amount based upon a
+In return for Mandel's contractual obligation to render such services, 
+Liebman agreed to pay as compensation an amount based upon a
 percentage of his earnings. It is not for the court to decide whether
-defendant made a good or bad bargain. We fail to see how the contract
+Liebman made a good or bad bargain. We fail to see how the contract
 can be described as one “such as no man in his senses &hellip; would
 make” and “no honest or fair man would accept” &hellip; or one which would
 ‘shock the conscience and confound the judgment of any man of common
@@ -546,10 +690,10 @@ matter in controversy under which the client may discharge the attorney
 at any time, with or without cause, and relegate the attorney to an
 action for his services to the time of discharge.&hellip; 
 
-Here, plaintiff was employed as defendant's personal representative and manager, 
+Here, Mandel was employed as Liebman's personal representative and manager, 
 a position which might well have been filled by a nonlawyer. 
-As a lawyer, plaintiff might be called upon 
-to use his legal training in handling defendant's affairs, 
+As a lawyer, Mandel might be called upon to use his legal training 
+in handling Liebman's affairs, 
 but that is not sufficient, as a matter of law, 
 to transform an otherwise binding contract of employment 
 into a contract at will on the part of the employer. 
@@ -557,25 +701,28 @@ An attorney, like any other man,
 may enter into a contract of employment 
 which can be enforced against the employer, 
 and that is so even though the employment may envisage the exercise of his
-legal skills and ability.&hellip;  
+legal skills and ability.&hellip; 
 
 Likewise, it cannot be said
 as matter of law that the contract was illegal and void for the reason
-that plaintiff &hellip; was conducting a
-theatrical employment agency without a license therefor. By
-express exemption &hellip; a person engaged in the business of
-managing ‘entertainments, exhibitions or performances, or the artists or
-attractions constituting the same, where such business only incidentally
-involves the seeking of employment therefor’ is not required to be
-licensed. As noted, plaintiff was employed as defendant's ‘personal
-representative and manager’. It was specifically provided that ‘this
-contract does not in any way contemplate that the second party
-(plaintiff) shall act as agent for the purpose of procuring further
-contracts or work’ for defendant, the plaintiff was ‘not required in any
-way to procure’ such contracts or work, and that in the event defendant
+that Mandel &hellip; was conducting a theatrical employment agency 
+without a license therefor. 
+By express exemption &hellip; 
+a person engaged in the business of managing 
+‘entertainments, exhibitions or performances, or the artists 
+or attractions constituting the same, 
+where such business only incidentally 
+involves the seeking of employment therefor’ 
+is not required to be licensed. 
+As noted, Mandel was employed as Liebman's 'personal representative and manager'. It was specifically provided that:
+
+> this contract does not in any way contemplate that the second party
+(Mandel) shall act as agent for the purpose of procuring further
+contracts or work’ for Liebman, the plaintiff was ‘not required in any
+way to procure’ such contracts or work, and that in the event Liebman 
 ‘needs additional employment or work then an agent shall be employed by
-the second party (plaintiff) to procure such employment, and the
-services of said agent shall be separately paid for’ by defendant.
+the second party (Liebman) to procure such employment, and the
+services of said agent shall be separately paid for’ by Liebman.
 
 The judgments below should be reversed and a new trial granted, with
 costs to abide the event.
@@ -584,19 +731,48 @@ costs to abide the event.
 
 ###### &sect;&sect; 1700.23-1700.47 of the California Labor Code
 
-In California, talent agents and talent agencies are regulated by the Talent Agencies Act (TAA), which is part of the [California Labor Code](http://www.leginfo.ca.gov/.html/lab_table_of_contents.html).  
+In California, talent agents and talent agencies are regulated by the Talent Agencies Act (TAA), which is part of the [California Labor Code](http://www.leginfo.ca.gov/.html/lab_table_of_contents.html). 
 
 [TAA Section 1700.4](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=01001-02000&file=1700-1700.4) carefully defines its terms:
 
-> "Talent agency" means a person or corporation who engages in the occupation of procuring, offering, promising, or attempting to procure employment or engagements for an artist or artists, except that the activities of procuring, offering, or promising to procure recording contracts for an artist or artists shall not of itself subject a person or corporation to regulation and licensing under this chapter. Talent agencies may, in addition, counsel or direct artists in the development of their professional careers.
+> "Talent agency" means a person or corporation 
+> who engages in the occupation of procuring, offering, 
+> promising, or attempting to procure employment 
+> or engagements for an artist or artists, 
+> except that the activities of procuring, offering, 
+> or promising to procure recording contracts 
+> for an artist or artists shall not of itself 
+> subject a person or corporation to regulation 
+> and licensing under this chapter. 
+> Talent agencies may, in addition, 
+> counsel or direct artists 
+> in the development of their professional careers.
 
 So, under the TAA, a talent agent is:
 
-> A person or corporation who engages in the occupation of procuring, offering, promising, or attempting to procure employment for artist or artists.
+> A person or corporation 
+> who engages in the occupation of procuring, offering, promising, 
+> or attempting to procure employment for artist or artists.
 
-Put simply agents find artists work. By contrast, managers are supposed to simply "manage" their clients careers. If managers start "procuring, offering, promising or attempting to procure employment" for their clients, then they are engaging in activities regulated by the statute, and they are acting like unlicensed agents. If their clients complain to the Labor Commissioner, the managers may forfeit any commissions earned from unlawfully acting like agents.
+Put simply agents find artists work. 
+By contrast, managers are supposed to simply "manage" 
+their clients careers. 
+If managers start "procuring, offering, promising 
+or attempting to procure employment" for their clients, 
+then they are engaging in activities regulated by the statute, 
+and they are acting like unlicensed agents. 
+If their clients complain to the Labor Commissioner, 
+the managers may forfeit any commissions earned 
+from unlawfully acting like agents.
 
-No better illustration than the following case. The case is a long one, because it attempts to definitively deal with a contentious recurring problem: What happens when managers cross the line and act like agents insofar as they "solicit or procure employment" for their clients? In the course of addressing this issue, the opinion becomes almost an essay about how Hollywood works.
+No better illustration than the following case. 
+The case is a long one, 
+because it attempts to definitively deal with a contentious recurring problem: What happens when managers cross the line and act like agents 
+insofar as they "solicit or procure employment" for their clients? 
+In the course of addressing this issue, 
+the opinion becomes almost an essay about how Hollywood works.
+
+### Representation
 
 ## Marathon Entertainment, Inc. v. Blasi,
 
@@ -894,7 +1070,7 @@ employment—any individual, any corporation, any manager—is a talent
 agency subject to regulation.&hellip; 
 Consequently, as the Courts of Appeal have unanimously held, a personal
 manager who solicits or procures employment for his artist-client is
-subject to and must abide by the Act. [*Park v. Deftones,*](http://scholar.google.com/scholar_case?case=14383445149997334293); [*Waisbren v. Peppercorn Productions, Inc.](http://scholar.google.com/scholar_case?case=823549855453847638)&hellip;  
+subject to and must abide by the Act. [*Park v. Deftones,*](http://scholar.google.com/scholar_case?case=14383445149997334293); [*Waisbren v. Peppercorn Productions, Inc.](http://scholar.google.com/scholar_case?case=823549855453847638)&hellip; 
 The Labor Commissioner, whose interpretations of the
 Act we may look to for guidance &hellip; 
 has similarly uniformly applied the Act to personal managers. 
@@ -951,7 +1127,7 @@ from regulation. Rather, they remain exempt from regulation insofar as
 they do those things that personal managers do, but they are regulated
 under the Act to the extent they stray into doing the things that make one a talent agency under the Act.
 
-> The Entertainment Commission articulated precisely this rationale in concluding there was no need to separately license personal managers: "It is not a person who is being licensed [under] the [Act;] rather, it is the activity of procuring employment. Whoever performs that activity is legally defined as a talent agent and [must be] licensed, as such. Therefore, the licensing of a personal manager—or anyone else who undertakes to procure employment for an artist—with the [Act] already in place would be a needless duplication of licensure activity."&hellip;  
+> The Entertainment Commission articulated precisely this rationale in concluding there was no need to separately license personal managers: "It is not a person who is being licensed [under] the [Act;] rather, it is the activity of procuring employment. Whoever performs that activity is legally defined as a talent agent and [must be] licensed, as such. Therefore, the licensing of a personal manager—or anyone else who undertakes to procure employment for an artist—with the [Act] already in place would be a needless duplication of licensure activity."&hellip; 
 
 ### III. *Sanctions for Solicitation and Procurement Under the Act*
 
@@ -1070,7 +1246,7 @@ do, that it is available.
 
 More generally, the conclusion that severance is available is consistent
 with a wide range of cases that have applied the doctrine to partially
-enforce contracts involving unlicensed services.&hellip;  
+enforce contracts involving unlicensed services.&hellip; 
 
 Blasi contends that even if severability may generally apply to disputes
 under the Act, we should announce a rule categorically precluding its
@@ -1214,7 +1390,7 @@ stream.
 This compensation scheme is essentially analogous to a contingency fee
 arrangement, in which an attorney provides an undifferentiated set of
 services and is compensated not for each service but as a percentage of
-the ultimate recovery her efforts yield for her client.&hellip;  
+the ultimate recovery her efforts yield for her client.&hellip; 
 
 While an undifferentiated compensation scheme may in some instances
 preclude severance &hellip; it does not represent a categorical
@@ -1716,7 +1892,7 @@ above, constitute a breach of the fiduciary duty Kurnit owed the Croces.
 #### 4. *Remedy*
 
 Mrs. Croce seeks rescission of the contracts or more specifically
-termination of the contracts on the date of judgment.&hellip;  
+termination of the contracts on the date of judgment.&hellip; 
 
 The breach of fiduciary duty by Kurnit is not so fundamental as to
 defeat the intent or purpose of the contract.
@@ -1763,6 +1939,7 @@ IT IS SO ORDERED.
 * [Wikipedia: Literary Agent](http://en.wikipedia.org/wiki/Literary_agent)
 * [Legal definition of a "literary agent"](http://www.duhaime.org/LegalDictionary/L/LiteraryAgent.aspx).
 
+[Authors Guild]: https://www.authorsguild.org/ "Authors Guild"
 [buchwald]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1990+WL+357611&appflag=67.12 "Buchwald v. Paramount Pictures"
 [mandel]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=303+N.Y.+88&appflag=67.12 "Mandel v. Liebman"
 [raden]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=262+p.2d+61&appflag=67.12 "Raden v. Laurie"
