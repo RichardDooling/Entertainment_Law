@@ -68,9 +68,11 @@ but now that she has sold certain rights to the land,
 ownership is more complicated. 
 
 Does the farmer own The Hundred Acre Wood? 
-No, but Amy has sold him *the right* to use ten acres of her land for two years. 
+No, but Amy has sold him *the right* 
+to use ten acres of her land for two years. 
 Do the fracking company and the telecom company *own* The Hundred Acre Wood? 
-No, but again they have paid Amy for various *rights* to use or occupy her land. 
+No, but again they have paid Amy for various *rights* 
+to use or occupy her land. 
 
 What if somebody wants to buy the Hundred Acre Wood,  
 but they don't want frackers or fiberoptic cable workers on their land?
@@ -86,7 +88,8 @@ Now Amy builds a cabin deep in the Hundred Acre Wood,
 where she writes a novel called *Zombies & Vampires*. 
 
 The Hundred Acre Wood is real property 
-consisting of the land and a bundle of Amy's rights protected by property law. 
+consisting of the land 
+and a bundle of Amy's rights protected by property law. 
 Amy's novel is "intellectual property" 
 consisting of her writing and a bundle of rights protected by the U.S. copyright laws. 
 
@@ -101,10 +104,14 @@ In 1790, the Framers of the U.S. Constitution had the same idea in mind when the
 > the exclusive Right to their respective Writings and Discoveries.
 
 The Consititution grants Congress many powers 
-(to raise armies, to declare war, to coin money), but the only BUSINESS explicitly protected by the Constitution is the intellectual property business. 
+(to raise armies, to declare war, to coin money), 
+but the only BUSINESS explicitly protected by the Constitution 
+is the intellectual property business. 
 Nice for authors, artists and inventors!
 
-Congress wasted no time exercising its new power and passed the first U.S. copyright law in 1790. The last major overhaul of these laws was the Copyright Act of 1976. 
+Congress wasted no time exercising its new power 
+and passed the first U.S. copyright law in 1790. 
+The last major overhaul of these laws was the Copyright Act of 1976. 
 
 The copyright laws describe and protect 
 the bundle of rights Amy owns in her novel *Aliens and Zombies.* 
@@ -200,8 +207,9 @@ and they'll say,
 "Why? The publisher will copyright the book for you."
 
 This is true, and nobody seems too worried 
-that the authors precious words might be stolen 
-before the book is published (and the copyright registered in the author's name). 
+that the author's precious words might be stolen 
+before the book is published
+(and the copyright is registered in the author's name). 
 If the book never finds a publisher, 
 then it's probably not worth stealing. 
 
@@ -211,11 +219,11 @@ would "pirate" the manuscrpt of a first novel,
 or "steal the idea" and write their own novel 
 based upon a promising premise seems most unlikely. 
 
-Would-be authors are lucky if anybody will read, let alone steal, 
-their manuscripts. 
+Would-be authors are lucky if anybody will read, 
+let alone steal, their manuscripts. 
 And in the case of the "high concept" thriller? 
-(You don't understand, this isn't just zombies, it's *alien* zombies, 
-with chainsaws for hands!) 
+(You don't understand, this isn't just zombies, 
+it's *alien* zombies, with chainsaws for hands!) 
 The fear is that the idea will be stolen, 
 and it never fails to remind me 
 of computing pioneer Howard Aiken's taunt to industry noobs: 

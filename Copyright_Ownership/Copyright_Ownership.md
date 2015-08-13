@@ -729,6 +729,10 @@ The court called copyright ownership "a bundle of rights":
 
 See for yourself! [YouTube: The Disputed Footage In *Cohen*](http://www.youtube.com/watch?v=1LnisuqGSsY).
 
+[JUNE 29, 2015 9:53am PT by Eriq Gardner
+Appeals Court Rules Producer, Not Director, Gets Film Copyright](
+http://www.hollywoodreporter.com/thr-esq/appeals-court-rules-producer-not-805650)
+
 ## Digital Sampling and Imaging
 
 [Circular 56a][circ56a], 

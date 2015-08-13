@@ -25,6 +25,12 @@ or representations of goods or services.
 > or as to the origin, sponsorship or approval 
 > of his or her goods, services or commercial activities &hellip; 
 
+### Trademark Basics
+
+Watch this video from the US Patent & Trademark Office
+
+[Basic Facts About Trademarks: What Every Small Business Should Know Now, Not Later](http://www.uspto.gov/trademarks-getting-started/trademark-basics).
+
 #### "Passing off," "Palming off," "Reverse passing off"
 
 If an artist puts her name 

@@ -285,7 +285,7 @@ So Ordered.
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=15134673856711698951)
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=741f2d896&appflag=67.12) 
-* [Wikipedia](http://en.wikipedia.org/wiki/Selle_v._Gibb).  
+* [Wikipedia](http://en.wikipedia.org/wiki/Selle_v._Gibb).
 
 CUDAHY, Circuit Judge.
 
@@ -1677,7 +1677,7 @@ value, as Acuff-Rose itself does not deny. Like less ostensibly humorous
 forms of criticism, it can provide social benefit, by shedding light on
 an earlier work, and, in the process, creating a new one. We thus line
 up with the courts that have held that parody, like other comment or
-criticism, may claim fair use under § 107.&hellip;  
+criticism, may claim fair use under § 107.&hellip; 
 
 The germ of parody lies in the definition of the Greek *parodeia,*
 quoted in Judge Nelson's Court of Appeals dissent, as "a song sung
@@ -2151,6 +2151,8 @@ taking fiction is less fair.
 #### Totally Optional Readings and Viewings ####
 
 * [Shepard Fairey and the Obama "Hope" Poster](http://en.wikipedia.org/wiki/Barack_Obama_%22Hope%22_poster).
+* ['Hope' poster artist Shepard Fairey faces arrest in Detroit](
+http://www.politico.com/story/2015/06/shepard-fairey-arrest-warrant-graffiti-119413.html) By Nick Gass, 6/25/15 6:31 AM EDT.
 * [The New Yorker: Who Owns This Image?](http://www.newyorker.com/online/blogs/currency/2014/02/who-owns-this-image.html)
 * [Woody Allen's Midnight In Paris: Copyright Infringement?](http://www.theguardian.com/film/2013/jul/19/midnight-in-paris-copyright-william-faulkner) (In the film, Owen Wilson's character says: "The past is not dead. Actually, it's not even past." In *Requiem for a Nun*, Faulkner wrote: "The past is never dead. It's not even past." Faulkner Literary Rights argued this amounted to copyright infringement, but Sony countered by claiming de minimis and "fair use").
 * [*Woods v. Universal*](http://www.leagle.com/decision/1996982920FSupp62_1966.xml/WOODS%20v.%20UNIVERSAL%20CITY%20STUDIOS,%20INC.) (SDNY 1996)(*12 Monkeys* scene featuring Bruce Willis being interrogated in a futuristic chair infringes on drawing called *Neomechanical Tower (Upper) Chamber*).
@@ -2169,6 +2171,7 @@ taking fiction is less fair.
 * [Marvin Gaye's Children Use Audio Mashup to Prove 'Blurred Lines' Is Infringing](http://www.hollywoodreporter.com/thr-esq/marvin-gayes-children-use-audio-731178)
 * [Documentary Filmmakers' Statement Of Best Practices In Fair Use](http://www.cmsimpact.org/sites/default/files/fair_use_final.pdf) (see *Pocket Lawyer* page 246).
 * [Code Of Best Practices In Fair Use For Online Video](http://www.cmsimpact.org/sites/default/files/online_best_practices_in_fair_use.pdf) (see *Pocket Lawyer* page 246).
+* [The Fair Use App An Interactive Guide for Filmmakers and Video Creators](http://www.newmediarights.org/fairuse/)
 
 [aba-copyright]: http://www.americanbar.org/groups/young_lawyers/publications/the_101_201_practice_series/elements_of_a_copyright.html "Elements of Copyright Claim"
 [harper]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=105+S.Ct.+2218&appflag=67.12 "Harper & Row v. Nation Enterprises"
