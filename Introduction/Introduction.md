@@ -19,12 +19,12 @@ chapter: Introduction
 
 > "Art is making something out of nothing and selling it." 
 
---[Frank Zappa](http://en.wikipedia.org/wiki/Frank_Zappa)
+> --[Frank Zappa](http://en.wikipedia.org/wiki/Frank_Zappa)
 
 ## What is Entertainment Law?
 
 Entertainment law is law applied to the entertainment industry. 
-But why does the entertainment industry get it's own law school course? 
+But why does the entertainment industry get its own law school course? 
 Paul Weiler, author of the leading textbook, put it this way: 
 
 > Entertainment is a human activity and economic venture. 

@@ -331,7 +331,7 @@ Justice SCALIA delivered the opinion of the Court.
 
 #### *Brown* Could Have Gone The Other Way?
 
-[The Supreme Court Came Alarmingly Close to Allowing Video Game Censorship][http://www.slate.com/blogs/future_tense/2015/01/07/elena_kagan_reveals_the_supreme_court_came_close_to_allowing_video_game.html?wpsrc=fol_tw]
+[The Supreme Court Came Alarmingly Close to Allowing Video Game Censorship](http://www.slate.com/blogs/future_tense/2015/01/07/elena_kagan_reveals_the_supreme_court_came_close_to_allowing_video_game.html?wpsrc=fol_tw)
 
 By Mark Joseph Stern
 
@@ -368,16 +368,18 @@ The Supreme Court has narrowly defined the class of unprotected, “inciting” 
 
 The Davidsons do not allege which song Howard was listening to at the time he brutally murdered Officer Davidson. As described later, the songs of *2Pacalypse Now* vary in their content and message. However, at least one song on the recording, "Crooked Ass Nigga," describes the commission of violence against police officers:
 
-| Now I could be a crooked nigga too 
-| When I'm rollin with my crew 
-| Watch what crooked niggas do 
-| I got a nine millimeter Glock pistol 
-| I'm ready to get with you at the trip of the whistle 
-| So make your move and act like you wanna flip 
-| I fired 13 shots and popped another clip 
-| My brain locks, my Glock's like a f—kin mop, 
-| The more I shot, the more mothaf—ka's dropped 
-| And even cops got shot when they rolled up.
+~~~
+Now I could be a crooked nigga too 
+When I'm rollin with my crew 
+Watch what crooked niggas do 
+I got a nine millimeter Glock pistol 
+I'm ready to get with you at the trip of the whistle 
+So make your move and act like you wanna flip 
+I fired 13 shots and popped another clip 
+My brain locks, my Glock's like a f—kin mop, 
+The more I shot, the more mothaf—ka's dropped 
+And even cops got shot when they rolled up.
+~~~
 
 In support of the first prong, the Davidsons argue that Shakur describes his music as "revolutionary" that has a purpose of angering the listener. This argument may place too much importance on Shakur's rhetoric. Calling one's music revolutionary does not, by itself, mean that Shakur intended his music to produce imminent lawless conduct. At worst, Shakur's intent was to cause violence some time after the listener considered Shakur's message. The First Amendment protects such advocacy.
 
