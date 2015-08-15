@@ -1,15 +1,11 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Lawyers For The Talent
+subtitle: Entertainment Law
 chapter: Introduction
 ---
 
-# Lawyers For The Talent
-
-###### by Richard Dooling
-
-## Introduction
+# Introduction
 
 > "I never called my work an 'art'. 
 > It's part of show business, 

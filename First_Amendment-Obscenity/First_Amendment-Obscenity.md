@@ -1,15 +1,11 @@
 ---
 author: Richard Dooling
-title: Entertainment Law 
-subtitle: Lawyers For The Talent
+title: Lawyers For The Talent
+subtitle: Entertainment Law 
 chapter: First Amendment - Obscenity
 ---
 
-# Lawyers For The Talent
-
-###### by Richard Dooling
-
-## First Amendment - Obscenity 
+# First Amendment - Obscenity 
 
 For several decades in the second half of the last century, the Supreme Court was deluged with obscenity cases, clearly a category of unprotected speech. But the problem was defining it.
 
@@ -21,7 +17,7 @@ As we'll see later, obscenity trials are almost pass&eacute; because of the adve
 
 No better example then 2 Live Crew's "Nasty As They Wanna Be."
 
-### *Skyywalker Records, Inc. v. Navarro*
+## *Skyywalker Records, Inc. v. Navarro*
 
 ###### Federal Dist. Court, SD Florida (1990)
 
@@ -42,7 +38,7 @@ Child pornography, the court said, is unprotected speech, not because it is obsc
 
 Which raised the question: What about virtual child pornography, in which no actual children are used as actors?
 
-### *Ashcroft v. Free Speech Coalition*
+## *Ashcroft v. Free Speech Coalition*
 
 ###### U.S. Supreme Court (2002)
 

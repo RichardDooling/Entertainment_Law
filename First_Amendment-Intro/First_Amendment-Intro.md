@@ -1,15 +1,11 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Lawyers For The Talent
+subtitle: Entertainment Law
 chapter: First Amendment - Sex
 ---
 
-# Lawyers For The Talent
-
-###### by Richard Dooling
-
-## First Amendment - Introduction
+# First Amendment - Introduction
 
 The First Amendment says: 
 
@@ -54,7 +50,7 @@ The easiest way to check for state action?
 Look for a law (statute, ordinance, regulation), 
 then look at the speech which supposedly violated the law. 
 
-### What Is Speech?
+## What Is Speech?
 
 In the United States, the First Amendment protects speech, 
 but what kinds of speech? Spoken words? Printed words? 

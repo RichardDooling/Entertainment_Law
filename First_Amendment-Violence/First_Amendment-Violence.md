@@ -1,20 +1,17 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Lawyers For The Talent
+subtitle: Entertainment Law
 chapter: First Amendment - Violence
 ---
 
-# Lawyers For The Talent
-
-###### by Richard Dooling
-
-## First Amendment - Violence
+# First Amendment - Violence
 
 If speech is just too "sexy," it can be banned. 
 If it's indecent, it can be regulated. 
-But what if speech is just too violent? 
-What if a rapstar's lyrics "inspire" 
+But what if speech is just too violent 
+or unreasonably dangerous?
+What if a rap star's lyrics "inspire" 
 or ["cause" somebody to shoot a cop?](http://thediscography.org/discoDbDetail.php?req=942) 
 
 What if a journalist writes a lurid men's magazine article 
@@ -35,10 +32,12 @@ What if a programmer creates a violent video game
 that arguably "causes" or "inspires" a school shooting? 
 
 Should the family members of these victims 
-be allowed to sue magazine publishers, record companies, rock starts 
+be allowed to sue magazine publishers, record companies and rappers 
 for indirectly "causing" the death of their loved ones? 
 
-Fourteen different murderers have said that Oliver Stone’s *Natural Born Killers* [inspired them to go on crime sprees of their own][nbk]. 
+Fourteen different murderers have said 
+that Oliver Stone’s *Natural Born Killers* 
+[inspired them to go on crime sprees of their own][nbk]. 
 
 What if somebody hires a videographer to make a documentary 
 about the production and sale of so-called ["crush videos"][stevens] 
@@ -61,7 +60,6 @@ that arguably amounts to incitement to violence?
 In *Ginsberg v. New York* (discussed below), 
 the Supreme Court upheld a New York statute 
 that regulated obscenity-for-minors, 
-
 prohibiting the sale of *sexual* material that, 
 while not obscene to adults, 
 would be obscene from the perspective of a child. 
@@ -127,14 +125,31 @@ sad example of envy and jealousy." Cinderella's evil stepsisters have their eyes
 pecked out by doves. And Hansel and Gretel (children!)
 kill their captor by baking her in an oven.
 
-High-school reading lists are full of similar fare. Homer's Odysseus blinds Polyphemus the Cyclops by grinding out his eye with a heated stake. The Odyssey of Homer, Book IX, p. 125 (S. Butcher & A. Lang transls. 1909) ("Even so did we seize the fiery-pointed brand and whirled it round in his eye, and the blood flowed about the heated bar. And the breath of the flame singed his eyelids and brows all about, as the ball of the eye burnt away, and the roots thereof crackled in the flame"). In the Inferno, Dante and Virgil watch corrupt politicians struggle to stay submerged beneath a lake of boiling pitch, lest they be skewered by devils above the surface. And Golding's Lord of the Flies recounts how a schoolboy called Piggy is savagely murdered *by other children* while marooned on an island.
+High-school reading lists are full of similar fare. 
+Homer's Odysseus blinds Polyphemus the Cyclops 
+by grinding out his eye with a heated stake &hellip; 
+("Even so did we seize the fiery-pointed brand 
+and whirled it round in his eye, 
+and the blood flowed about the heated bar. 
+And the breath of the flame singed his eyelids and brows all about, 
+as the ball of the eye burnt away, 
+and the roots thereof crackled in the flame"). 
+In the Inferno, Dante and Virgil watch corrupt politicians 
+struggle to stay submerged beneath a lake of boiling pitch, 
+lest they be skewered by devils above the surface. 
+And Golding's Lord of the Flies recounts how a schoolboy called Piggy 
+is savagely murdered *by other children* while marooned on an island.
 
-This is not to say that minors' consumption of violent entertainment has
-never encountered resistance. In the 1800's, dime novels depicting crime
-and "penny dreadfuls" (named for their price and content) were blamed in
-some quarters for juvenile delinquency. See Brief for Cato Institute as
-*Amicus Curiae* 6-7. When motion pictures came along, they became the
-villains instead. "The days when the police looked upon dime novels as
+This is not to say 
+that minors' consumption of violent entertainment 
+has never encountered resistance. 
+In the 1800's, dime novels depicting crime and "penny dreadfuls" 
+(named for their price and content) 
+were blamed in some quarters for juvenile delinquency. 
+See Brief for Cato Institute as *Amicus Curiae* 6-7. 
+When motion pictures came along, 
+they became the villains instead. 
+"The days when the police looked upon dime novels as
 the most dangerous of textbooks in the school for crime are drawing to a
 close &hellip; They say that the moving picture machine &hellip; tends even
 more than did the dime novel to turn the thoughts of the easily
@@ -142,9 +157,9 @@ influenced to paths which sometimes lead to prison." Moving Pictures as
 Helps to Crime, N.Y. Times, Feb. 21, 1909, quoted in Brief for Cato
 Institute, at 8. For a time, our Court did permit broad censorship of
 movies because of their capacity to be "used for evil," see [*Mutual
-Film Corp. v. Industrial Comm'n of Ohio,* (S.Ct. 1915),](http://scholar.google.com/scholar_case?case=7270078849202844362&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)
-but we eventually reversed course, [*Joseph Burstyn, Inc.,*](http://scholar.google.com/scholar_case?case=5628256980652867975&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0);
-see also [*Erznoznik, supra,*](http://scholar.google.com/scholar_case?case=7611920100258061680&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)
+Film Corp. v. Industrial Comm'n of Ohio,* (S.Ct. 1915),](http://scholar.google.com/scholar_case?case=7270078849202844362)
+but we eventually reversed course, [*Joseph Burstyn, Inc.,*](http://scholar.google.com/scholar_case?case=5628256980652867975);
+see also [*Erznoznik, supra,*](http://scholar.google.com/scholar_case?case=7611920100258061680)
 (invalidating a drive-in movies restriction designed to protect
 children). Radio dramas were next, and then came comic books. Brief for
 Cato Institute, at 10-11. Many in the late 1940's and early 1950's
@@ -168,7 +183,7 @@ the more interactive. Literature when it is successful draws the reader
 into the story, makes him identify with the characters, invites him to
 judge them and quarrel with them, to experience their joys and
 sufferings as the reader's own." [*American Amusement Machine Assn. v.
-Kendrick,* (7th Cir. 2001)](http://scholar.google.com/scholar_case?case=13025078069235542866&q=brown+entertainment+merchants&hl=en&as_sdt=2006&scilh=0)
+Kendrick,* (7th Cir. 2001)](http://scholar.google.com/scholar_case?case=13025078069235542866)
 (striking down a similar restriction on violent video games).
 
 Justice ALITO has done considerable independent research to identify &hellip; video games in which "the violence is astounding. Victims are dismembered, decapitated, disemboweled, set on fire, and chopped into little pieces &hellip; Blood gushes, splatters, and pools." Justice ALITO recounts all these disgusting video games in order to disgust us--but disgust is not a valid basis for restricting expression. And the same is true of Justice ALITO's description of those video games he has discovered that have a racial or ethnic motive for their violence--"ethnic cleansing' [of] &hellip; African Americans, Latinos, or Jews." To what end does he relate this? Does it somehow increase the "aggressiveness" that California wishes to suppress? Who knows? But it does arouse the reader's ire, and the reader's desire to put an end to this horrible message. Thus, ironically, Justice ALITO's argument highlights the precise danger posed by the California Act: that the *ideas* expressed by speech--whether it be violence, or gore, or racism--and not its objective effects, may be the real reason for governmental proscription.
@@ -331,9 +346,7 @@ Justice SCALIA delivered the opinion of the Court.
 
 #### *Brown* Could Have Gone The Other Way?
 
-[The Supreme Court Came Alarmingly Close to Allowing Video Game Censorship](http://www.slate.com/blogs/future_tense/2015/01/07/elena_kagan_reveals_the_supreme_court_came_close_to_allowing_video_game.html?wpsrc=fol_tw)
-
-By Mark Joseph Stern
+[Slate Blog: The Supreme Court Came Alarmingly Close to Allowing Video Game Censorship](http://www.slate.com/blogs/future_tense/2015/01/07/elena_kagan_reveals_the_supreme_court_came_close_to_allowing_video_game.html?wpsrc=fol_tw), by Mark Joseph Stern.
 
 > It could have been very, very different. 
 > On Monday, Ars Technica unearthed remarks 
@@ -344,13 +357,20 @@ By Mark Joseph Stern
 > Her intuition, Kagan said, told her that California’s law “was OK,” 
 > but free-speech principles required her to invalidate the law. 
 > “That is the one case,” Kagan added, 
-> “where I kind of think I just don’t know. I just don’t know if that’s right.”
+> “where I kind of think I just don’t know. 
+> I just don’t know if that’s right.”
 
 ## Civil Liability For Inciting Violence?
 
-So much for government as censor of violence, and so much for statutes which attempt to hitchhike on the language of the *Miller* test and create in essence a *Miller* test for violence. But is that the end of the question? Of course not. 
+So much for government as censor of violence, 
+and so much for statutes which attempt 
+to hitchhike on the language of the *Miller* test 
+and create in essence a *Miller* test for violence. 
+But is that the end of the question? Of course not. 
 
-If the First Amendment prevents states from regulating violent entertainment products, what about suing the manufacturers of such products after the fact? But here too, the First Amendment, as well as well-settled principles of tort law (duty, foreseeability, causation), have so far prevented victims and family members from bringing civil suits against the manufacturers of video products. 
+If the First Amendment prevents states from regulating violent entertainment products, 
+then what about suing the manufacturers of such products after the fact? But here too, the First Amendment and well-settled principles of tort law (duty, foreseeability, causation), have so far prevented victims and family members 
+from bringing civil suits against the manufacturers of video products. 
 
 Even before the tragic shooting at Columbine High School, perpetrated by two senior students Eric Harris and Dylan Klebold, who murdered a total of 12 students and one teacher and injured 21 others, victims and the families of victims sought judgments against the manufacturers of entertainment products because those products arguably inspired or "incited" criminals to mayhem. Harris and Klebold were [both fans of video games like *Doom* and *Wolfenstein 3D*](http://en.wikipedia.org/wiki/Columbine_High_School_massacre#Video_games) and so (the argument goes) the makers of those games had a hand in "causing" the appalling violence at Columbine, which has been called the Pearl Harbor of the American culture wars.
 

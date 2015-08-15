@@ -1,21 +1,17 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Lawyers For The Talent
+subtitle: Entertainment Law
 chapters: First Amendment - Indecency
 ---
 
-# Lawyers For The Talent
-
-###### by Richard Dooling
-
-## First Amendment - Indecency
+# First Amendment - Indecency
 
 Just as we get comfortable with the notion of categories, and the notion that speech is either protected or unprotected, along comes a category of speech the Federal Commmunications Commission wishes to REGULATE. 
 
 Please read these two cases in their entirety. Keep your eye on the ball: Is George Carlin's speech protected speech? When Bono says, "This is really really fucking brilliant" during a prime time TV broadcast at the 2003 Golden Globe awards, is that obscene?
 
-### *FCC v. Pacifica Foundation*
+## *FCC v. Pacifica Foundation*
 
 ###### U.S. Supreme Court (1978)
 
@@ -24,7 +20,7 @@ Please read these two cases in their entirety. Keep your eye on the ball: Is Geo
 * [case at Westlaw][pacifica]
 * George Carlin's [Seven Dirty Words][7dirty] routine.
 
-### *FCC v. Fox Television Stations* (Fox II)
+## *FCC v. Fox Television Stations* (Fox II)
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=9187101700166207966) 
 * [case at Westlaw][fox]
