@@ -109,9 +109,14 @@ Thanks to Moore's Law and the relentless advance of information technologies, ta
 If you are brand new to intellectual property and copyright, please peruse:
 
 * [Introduction to Intellectual Property: Crash Course IP 1](https://www.youtube.com/watch?v=RQOJgEA5e1k)
+* [Copyright Basics: Crash Course Intellectual Property 2](https://www.youtube.com/watch?v=Tamoj84j64I&list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN&index=2)
+* [Copyright, Exceptions, and Fair Use: Crash Course Intellectual Property 3](https://www.youtube.com/watch?v=Q_9O8J9skL0)
+* [Forever Less One Day: Meet Copyright!][4ever-1day] 
+
+And just skim these:
+
 * [Intellectual Property](http://en.wikipedia.org/wiki/Intellectual_property).
 * [Copyright](http://en.wikipedia.org/wiki/Copyright).
-* [Forever Less One Day: Meet Copyright!][4ever-1day] 
 
 ## Talent Representatives
 

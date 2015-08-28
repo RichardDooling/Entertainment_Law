@@ -17,6 +17,11 @@ to help educate people about the copyright laws.
 
 * [Copyright Basics](http://www.copyright.gov/circs/circ01.pdf) (read first 6 pages of Copyright Basics; stop at page 7, Copyright Registration)
 
+Crash Course on Copyright is also great for introduction and review:
+
+* [Copyright Basics: Crash Course Intellectual Property 2](https://www.youtube.com/watch?v=Tamoj84j64I&list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN&index=2)
+* [Copyright, Exceptions, and Fair Use: Crash Course Intellectual Property 3](https://www.youtube.com/watch?v=Q_9O8J9skL0)
+
 ### History of Copyright
 
 > Copyright turns the content of protected works into a private good 

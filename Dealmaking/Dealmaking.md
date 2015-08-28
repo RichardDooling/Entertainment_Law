@@ -1172,13 +1172,30 @@ talent titans (CAA vs. UTA).
 
 ###### Where Publishing Meets Hollywood
 
-What does it mean to “option” movie rights? Movie options are common in Hollywood, but they are also common in many industries, anytime a buyer wants an option to buy something valuable for an agreed period of time. It may be an option to buy fine art, rights to music, a building, a [Stradivarius](http://en.wikipedia.org/wiki/Stradivarius), stocks, whole corporations. It doesn't matter. The basics of the option are the same.
+What does [optioning your book](http://johnaugust.com/2003/optioning-your-book) mean? 
+Screenwriter John August answers the question for working authors and writers [at his blog for screenwriters](http://johnaugust.com/2003/optioning-your-book). 
+
+> "I’m gonna pay you $1000 today. In exchange for that $1000, you promise you won’t sell anyone else the rights during the next twelve months. Also, any time during these twelve months, I can pay you $25,000 and you’ll sell me all the film rights to the book."
+
+> In this example, $1000 is the option price, and $25,000 is the full purchase (or buyout) price. But those are completely arbitrary numbers. Often the option price is just $1. Sometimes the full purchase price is $1 million. And the length of the option can vary as well, from six months up to two years or more, perhaps with a clause allowing the producer to renew the option at fixed price.
+
+> In short, the dollars and dates can be anything, but the basic structure of the deal is the same.
+
+> From ["Optioning your book"](http://johnaugust.com/2003/optioning-your-book), by [John August](http://johnaugust.com).
+
+### Options
+
+Movie options are common in Hollywood, 
+but they are also common in many industries, 
+anytime a buyer wants an option to buy something valuable 
+for an agreed period of time. 
+It may be an option to buy fine art, rights to music, a building, a [Stradivarius](http://en.wikipedia.org/wiki/Stradivarius), stocks, whole corporations. It doesn't matter. The basics of the option are the same.
 
 In the movie biz, it works this way. A producer or a studio thinks that your novel (magazine article, graphic novel, treatment, screenplay) might make for a nice feature film. They call your novel "source material" or "story material," and total story costs (including the screenplay) usually account for about 2-5% of a movie's budget.
 
-Budgets for feature films average $70 million these days. Therefore if the producer were to buy the movie rights to your novel outright, she should pay roughly $1.5 to $2 million (1-3% of $70 million)(which leaves another 2% to pay the screenwriter). Nobody wants to spend that kind of money only to find out that a movie can't be made (because they've paid three different screenwriters and still can't get a script they like, or they can't make deals with enough A-list talent, or dozens of other reasons from insurance to tax credits).
+Budgets for feature films average $70 million these days. Therefore if the producer were to buy the movie rights to your novel outright, she should pay roughly $1.5 to $2 million (1-3% of $70 million)(which leaves another 2% to pay the screenwriter). Nobody wants to spend that kind of money only to find out that a movie can't be made. And movies don't get made for many reasons: because they've paid three different screenwriters and still can't get a script they like, or they can't make deals with enough A-list talent, or dozens of other reasons from insurance to tax credits. The slip between cup and lip in Hollywood is a mile wide. Most projects don't get made.
 
-Instead, of buying the rights outright, the producer *rents* them. She buys the OPTION to purchase the movie rights to your novel, for a fixed time period, probably with an option to renew. How does that work?
+So instead of buying the rights outright and risking the full purchase price for the rights to your novel, the producer *rents* the rights. She buys the OPTION to purchase the movie rights to your novel, for a fixed time period, probably with an option to renew. How does that work?
 
 #### Three  Essential Terms of any Option Agreement 
 
@@ -1207,6 +1224,10 @@ If the movie gets made, the producer or studio will pay the total amount of mone
 The option agreement MUST CONTAIN A PURCHASE PRICE to be an enforceable promise (PL 101-105). Otherwise the producer has promised only to BUY the movie rights, not how much she will pay. 
 
 The price may vary greatly, but it must be negotiated up front at the time the option agreement is made. If the movie gets made, the author is paid in full. If the deal falls through for any reason and the movie does NOT get made in the option period, then the novelist keeps the option payment and the movie rights remain with the novelist, too. 
+
+### More on Movie Options
+
+* See [Would My Book Make A Good Movie?](http://dooling.com/index.php/2006/02/23/would-my-book-make-a-good-movie/) by Richard Dooling.
 
 
 [goldseal]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=286+P.2d+954&appflag=67.12 "Gold Seal v. RKO"

@@ -62,6 +62,18 @@ What about slander? Isn't that speech?
 Or fraud, or hiring somebody to murder your spouse, 
 or lying to an IRS agent, or soliciting a prostitute? 
 
+When courts try to decide whether speech is protected or unprotected 
+they naturally wonder: 
+Is this the sort of speech the Founding Fathers 
+had in mind when they wrote the First Amendment?
+As far as we know, no framer of the Constitution asked the question:
+Yes, but what IS speech? 
+Did the Founding Fathers mean to say 
+that public nudity, live sex acts, and bestiality are all speech, 
+and therefore Congress had no power to pass laws against such "expressive conduct"? 
+Did they believe that live sex acts are like flag burning or marching in the streets? 
+And did this mean that they believed Congress had no power to pass laws against obscenity, indecency, pornography, nude dancing and the like?
+
 The First Amendment obviously does not protect ALL speech. 
 Author Kurt Vonnegut once observed that: 
 "The First Amendment reads more like a dream than a law." 
@@ -172,7 +184,7 @@ because Holmes was also the Justice who wrote:
 
 Justice Louis Brandeis offered a parallel and sometimes competing principle of First Amendment theory eight years later, when he described the purpose of the First Amendment:
 
-> Those who won our independence . . . believed that freedom to think as you will and to speak as you think are means indispensable to the discovery and spread of political truth; that without free speech and assembly discussion would be futile . . .  
+> Those who won our independence &hellip; believed that freedom to think as you will and to speak as you think are means indispensable to the discovery and spread of political truth; that without free speech and assembly discussion would be futile. 
 
 > --[*Whitney v. California*](https://scholar.google.com/scholar_case?case=9558803063364299687) (US 1927)
 
@@ -201,7 +213,7 @@ and all of the "actors" are computer generated?
 Is virtual child pornography subject to the same extremely serious penalties 
 that the government imposes on 
 creating, possessing, or distributing child pornography 
-created by using real child actors?  
+created by using real child actors? 
 
 But a film producer or a director or a screenwriter or author 
 needs an entertainment lawyer, not a con law scholar. 
@@ -234,7 +246,7 @@ The Ohio Board charged a fee for the approval service, and the Board could order
 
 When Mutual Film Corporation, a movie distributor, sued the Board arguing that this licensing scheme and Ohio's censorship of movies violated its freedom of speech, the company lost in the lower court and then appealed to the United States Supreme Court. 
 
-In a unanimous opinion, the Supreme Court noted the insidious power of movies to affect the sensibilities of women and children and dismissed Mutual Film's "freedom of speech" arguments without a second thought:  
+In a unanimous opinion, the Supreme Court noted the insidious power of movies to affect the sensibilities of women and children and dismissed Mutual Film's "freedom of speech" arguments without a second thought: 
 
 "[T]he exhibition of moving pictures is a business pure and simple, originated and conducted for profit, like other spectacles, not to be regarded &hellip; as part of the press of the country or as organs of public opinion. They are mere representations of events, of ideas and sentiments published and known, vivid, useful and entertaining no doubt, but, as we have said, capable of evil, having power for it, the greater because of their attractiveness and manner of exhibition."
 
@@ -273,7 +285,7 @@ The bearded stranger plies the girl with wine and apparently ravishes her.
 When the poor girl discovers later that she is pregnant, 
 she cries "It is the grace of God" 
 and decides that she is the Virgin Mary 
-and that this must be an Immaculate Conception.  
+and that this must be an Immaculate Conception. 
 
 Needless to say, the film offended and enraged Catholics all over the world, 
 including the mighty Cardinal Spellman, Archbishop of New York, 
@@ -408,7 +420,8 @@ a film on the basis of a censor's conclusion that it is "sacrilegious."
 
 ### Categories of Unprotected Speech 
 
-In declaring that movies are indeed protected speech under the First Amendment, the United States Supreme Court in *Burstyn* took pains to point out that the film was not obscene within the meaning of another famous First Amendment case.
+In declaring that movies are indeed protected speech under the First Amendment, 
+the United States Supreme Court in *Burstyn* took pains to point out that the film was not obscene within the meaning of another famous First Amendment case.
 
 ### *Chaplinsky v. New Hampshire*
 
@@ -456,9 +469,11 @@ Child pornography and disclosing classified communications in violation of the E
 * [Eugene Volokh on the meaning of "Congress shall make no law . .  ."](http://www.volokh.com/2012/09/19/the-founders-free-speechpress-clause/).  If the the tiny print bothers you, try [Readability.](http://www.readability.com/articles/xj1s2qys)
 * [Congress Shall Make No Law . . .][dooling_1sta], by Richard Dooling
 * [ACLU: Freedom of Expression in the Arts & Entertainment][aclu_1stA]
-*   [*The Atlantic:* "The Most Powerful Dissent in American History"](http://www.theatlantic.com/national/archive/2013/08/the-most-powerful-dissent-in-american-history/278503/) (a book that reveals precisely how and why Oliver Wendell Holmes changed his mind about the first amendment).
-*   [*The Atlantic:* "It's Time to Stop Using the 'Fire in a Crowded Theater' Quote"](http://www.theatlantic.com/national/archive/2012/11/its-time-to-stop-using-the-fire-in-a-crowded-theater-quote/264449/) (A nice take on the *US v. Schenk* and how it may have led to Holmes’ opinion in *Abrams*).
-*   [Fox Urges End to Broadcast Indecency Limits](http://www.hollywoodreporter.com/thr-esq/fox-urges-end-broadcast-indecency-572512)
+* [*The Atlantic:* "The Most Powerful Dissent in American History"](http://www.theatlantic.com/national/archive/2013/08/the-most-powerful-dissent-in-american-history/278503/) (a book that reveals precisely how and why Oliver Wendell Holmes changed his mind about the first amendment).
+* [*The Atlantic:* "It's Time to Stop Using the 'Fire in a Crowded Theater' Quote"](http://www.theatlantic.com/national/archive/2012/11/its-time-to-stop-using-the-fire-in-a-crowded-theater-quote/264449/) (A nice take on the *US v. Schenk* and how it may have led to Holmes’ opinion in *Abrams*).
+* [*The Wall Street Journal:* Even Speech We Hate Should Be Free Those who want to limit freedom of speech are misusing Oliver Wendell Holmes's famous 1919 line about ‘shouting fire in a theater’](http://www.wsj.com/articles/even-speech-we-hate-should-be-free-1440165276) 
+* [*The Hell You Say: The new battles over free speech are fierce, but who is censoring whom?*](http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say), BY Kelefa Sanneh.
+* [Fox Urges End to Broadcast Indecency Limits](http://www.hollywoodreporter.com/thr-esq/fox-urges-end-broadcast-indecency-572512)
 * [Highest criminal court in Texas strikes down "improper photography" statute](http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/09/18/texas-highest-criminal-court-strikes-down-improper-photography-statute/)
 
 ### Reference/Footnote Cases
@@ -476,11 +491,7 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 
 ### Changelog
 
-* Version 1.1 - 27-Aug-2014 - fixed broken ref links
-* Version 1.2 - 30-Aug-2014 - fixed paragraph headers and Mutual Film broken link.
-* Version 1.3 - 01-Sep-2014 - fixed broken links
-* Version 1.4 - 03-Sep-2014 - fixed broken link Fox II
-* Version 1.5 - 03-Sep-2014 - Added Volokh link
+* Version 1.1 - 28-Aug-2015 
 
 <!--Cases -->
 
@@ -494,7 +505,7 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 [yahoo]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=433f3d1199&appflag=67.12 "Yahoo! Inc. v. La Ligue Contre Le Racisme Et L'Antisemitisme"
 [fox]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=132+S.Ct.+2307\&appflag=67.12 "FCC v. Fox"
 [burstyn]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=72+S.Ct.+777\&appflag=67.12 "Joseph Burstyn v. Wilson" 
-[burstyn-w]: http://en.wikipedia.org/wiki/Joseph_Burstyn,_Inc_v._Wilson "Joseph Burstyn v. Wilson"  
+[burstyn-w]: http://en.wikipedia.org/wiki/Joseph_Burstyn,_Inc_v._Wilson "Joseph Burstyn v. Wilson" 
 [navarro]: http://en.wikipedia.org/wiki/2_Live_Crew#As_Nasty_As_They_Wanna_Be "Skywalker v. Navarro at Wikipedia"
 [skyywalker]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=739fsupp578\&appflag=67.12 "*Skyywalker Records v. Navarro* at Westlaw"
 [miller-w]: https://en.wikipedia.org/wiki/Miller_v._California "*Miller v. California* at Wikipedia."
@@ -521,6 +532,10 @@ http://historyempire.com/zenger-trial/
 http://www.ushistory.org/us/7c.asp
 
 But when courts try to decide whether speech is protected or unprotected they naturally wonder: Is this the sort of speech the Founding Fathers had in mind when they wrote the First Amendment?
+
+As far as we know, nobody asked the question: Yes, but what IS speech?
+When the Founding Fathers said that Congress shall make no law &hellip; abridging the freedom of speech. Did the Founding Fathers mean to say that public nudity, live sex acts, and bestiality are all speech, and therefore Congress had no power to pass laws against such "expressive conduct." Did they believe that live sex acts are like flag burning or marching in the streets? 
+And did this mean that they believed Congress had no power to pass laws against obscenity, indecency, pornography, nude dancing and the like.
 
 What is the purpose of Was this the sort of speech the Founding Fathers would for the next case. A professor might Sounds like a question the professor would pose
 
