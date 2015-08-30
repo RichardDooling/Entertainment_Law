@@ -115,7 +115,7 @@ In speculating on what the Founders had in mind, Volokh has this to say.
 > referred to some understanding 
 > that there is a proper scope of such freedom 
 > (even if the scope was unsettled in some particulars), 
-> rather to unlimited freedom to say or print anything one pleases.
+> rather than an unlimited freedom to say or print anything one pleases.
 
 > It's much like, if tomorrow a state enacted a law 
 > protecting "the freedom to marry," 
@@ -240,28 +240,37 @@ The state government of Ohio had passed a statute in 1913 forming a board of cen
 
 Under the Ohio law: 
 
-"Only such films as are in the judgment and discretion of the board of censors of a moral, educational or amusing and harmless character shall be passed and approved by such board." 
+> Only such films as are in the judgment and discretion of the board of censors of a moral, educational or amusing and harmless character shall be passed and approved by such board.
 
-The Ohio Board charged a fee for the approval service, and the Board could order the arrest of anyone showing an unapproved film in the state. 
+The Ohio Board charged a fee for the approval service, 
+and the Board could order the arrest of anyone showing an unapproved film in the state. 
 
 When Mutual Film Corporation, a movie distributor, sued the Board arguing that this licensing scheme and Ohio's censorship of movies violated its freedom of speech, the company lost in the lower court and then appealed to the United States Supreme Court. 
 
 In a unanimous opinion, the Supreme Court noted the insidious power of movies to affect the sensibilities of women and children and dismissed Mutual Film's "freedom of speech" arguments without a second thought: 
 
-"[T]he exhibition of moving pictures is a business pure and simple, originated and conducted for profit, like other spectacles, not to be regarded &hellip; as part of the press of the country or as organs of public opinion. They are mere representations of events, of ideas and sentiments published and known, vivid, useful and entertaining no doubt, but, as we have said, capable of evil, having power for it, the greater because of their attractiveness and manner of exhibition."
+> The exhibition of moving pictures is a business pure and simple, originated and conducted for profit, like other spectacles, not to be regarded &hellip; as part of the press of the country or as organs of public opinion. They are mere representations of events, of ideas and sentiments published and known, vivid, useful and entertaining no doubt, but, as we have said, capable of evil, having power for it, the greater because of their attractiveness and manner of exhibition.
 
 ### The Hays Code
 
-Hollywood panicked at the prospect of trying to distribute movies in fifty different states with fifty different boards of censorship and fifty different ideas about what makes a film "moral, educational or amusing and harmless." 
+Hollywood panicked at the prospect of trying to distribute movies 
+in fifty different states 
+with fifty different boards of censorship 
+and fifty different ideas about what makes a film 
+"moral, educational or amusing and harmless." 
 
-From 1915 (the date of the *Mutual Film* decision) to 1952, the film industry zealously regulated itself to show the states they need not worry about censoring Hollywood movies. The industry created the infamous Motion Picture Production Code aka the "Hays Code" and aggressively enforced it. 
+From 1915 (the date of the *Mutual Film* decision) to 1952, 
+the film industry zealously regulated itself 
+to show the states they need not worry about censoring Hollywood movies. 
+The industry created the infamous Motion Picture Production Code 
+aka the "Hays Code" and aggressively enforced it. 
 
-Named after Will H. Hays, president of the Motion Picture Producers and Distributors of America from 1922 to 1945, the Code had three general principles:
+Named after Will H. Hays, 
+president of the Motion Picture Producers and Distributors of America from 1922 to 1945, 
+the Code had three general principles:
 
 1. No picture shall be produced which will lower the moral standards of those who see it. Hence the sympathy of the audience shall never be thrown to the side of crime, wrong-doing, evil or sin.
-
 2. Correct standards of life, subject only to the requirements of drama and entertainment, shall be presented.
-
 3. Law, natural or human, shall not be ridiculed, nor shall sympathy be created for its violation. 
 
 (From the Production Code, 1934)
@@ -329,7 +338,7 @@ Amendment, through the Fourteenth, secures to any form of "speech" or
 
 It cannot be doubted that motion pictures are a significant medium for the communication of ideas. They may affect public attitudes and behavior in a variety of ways, ranging from direct espousal of a political or social doctrine to the subtle shaping of thought which characterizes all artistic expression. The importance of motion pictures as an organ of public opinion is not lessened by the fact that they are designed to entertain as well as to inform. As was said in [*Winters* v. *New York,* 333 U. S. 507, 510 (1948)](http://scholar.google.com/scholar_case?case=16314089118204976902):
 
-> "The line between the informing and the entertaining is too elusive for the protection of that basic right [a free press]. Everyone is familiar with instances of propaganda through fiction. What is one man's amusement, teaches another's doctrine."
+> The line between the informing and the entertaining is too elusive for the protection of that basic right [a free press]. Everyone is familiar with instances of propaganda through fiction. What is one man's amusement, teaches another's doctrine.
 
 It is urged that motion pictures do not fall within the First Amendment's aegis because their production, distribution, and exhibition is a large-scale business conducted for private profit. We cannot agree.  That books, newspapers, and magazines are published and sold for profit does not prevent them from being a form of expression whose liberty is safeguarded by the First Amendment.  We fail to see why operation for profit should have any different effect in the
 case of motion pictures.
@@ -342,7 +351,7 @@ protection. If there be capacity for evil it may be relevant in
 determining the permissible scope of community control, but it does not
 authorize substantially unbridled censorship such as we have here.
 
-For the foregoing reasons, we conclude that expression by means of motion pictures is included within the free speech and free press guaranty of the First and Fourteenth Amendments. To the extent that language in the opinion in [*Mutual Film Corp.* v. *Industrial Comm'n, supra*](http://scholar.google.com/scholar_case?case=7270078849202844362)*,* is out of harmony with the views here set forth, we no longer adhere to it.
+For the foregoing reasons, we conclude that expression by means of motion pictures is included within the free speech and free press guaranty of the First and Fourteenth Amendments. To the extent that language in the opinion in [*Mutual Film Corp.*](http://scholar.google.com/scholar_case?case=7270078849202844362) is out of harmony with the views here set forth, we no longer adhere to it.
 
 To hold that liberty of expression by means of motion pictures is
 guaranteed by the First and Fourteenth Amendments, however, is not the
@@ -437,7 +446,7 @@ Later, a disturbance occurred and the traffic officer on duty at the busy inters
 
 > You are a Goddamned racketeer and a damned Fascist and the whole government of Rochester are Fascists or agents of Fascists.
 
-Chaplinsky was arrested, charged and convicted in the municipal court of Rochester, New Hampshire, for violating a statute a New Hampshire state law that provided:
+Chaplinsky was arrested, charged and convicted in the municipal court of Rochester, New Hampshire, for violating a New Hampshire state law that provided:
 
 > No person shall address any offensive, derisive or annoying word to any
 other person who is lawfully in any street or other public place, nor
@@ -450,19 +459,49 @@ Chaplinsky appealed all the way to the Supreme Court, claiming that the law was 
 
 Justice Murphy, writing for a unanimous court, upheld Chaplinsky's conviction under the statute and crafted one of the most widely quoted paragraphs in First Amendment jurisprudence, often cited in cases where the first amendment speaker is about to lose the case:
 
-> [T]he right of free speech is not absolute at all times and under all circumstances. There are certain well-defined and narrowly limited classes of speech, the prevention  and punishment of which have never been thought to raise any Constitutional problem. These include the lewd and obscene, the profane, the libelous, and the insulting or "fighting" words--those which by their very utterance inflict injury or tend to incite an immediate breach of the peace. It has been well observed that such utterances are no essential part of any exposition of ideas, and are of such slight social value as a step to truth that any benefit that may be derived from them is clearly outweighed by the social interest in order and morality. "Resort to epithets or personal abuse is not in any proper sense communication of information or opinion safeguarded by the Constitution, and its punishment as a criminal act would raise no question under that instrument.
+> The right of free speech is not absolute at all times and under all circumstances. There are certain well-defined and narrowly limited classes of speech, the prevention  and punishment of which have never been thought to raise any Constitutional problem. These include the lewd and obscene, the profane, the libelous, and the insulting or "fighting" words---those which by their very utterance inflict injury or tend to incite an immediate breach of the peace. It has been well observed that such utterances are no essential part of any exposition of ideas, and are of such slight social value as a step to truth that any benefit that may be derived from them is clearly outweighed by the social interest in order and morality. Resort to epithets or personal abuse is not in any proper sense communication of information or opinion safeguarded by the Constitution, and its punishment as a criminal act would raise no question under that instrument.
 
 ## Unprotected Speech
 
-Some call this a "two-tier" or "category" approach to the First Amendment, meaning, some speech is protected by the First Amendment and some isn't. *Chaplinsky* is famous for listing the classes of speech historically not protected by the First Amendment, but also famous for planting the seed of the notion that not all speech is valuable or "essential" to the "exposition of ideas," a very Brandeis-like argument. 
+Some call this a "two-tier" or "category" approach to the First Amendment, 
+meaning, some speech is protected by the First Amendment and some isn't. 
+*Chaplinsky* is famous for listing the categories of speech 
+historically not protected by the First Amendment, 
+but also famous for planting the seed of the notion 
+that not all speech is valuable or "essential" to the "exposition of ideas," 
+a very Brandeis-like argument. 
 
-Some of the categories (the obscene, the libelous, fighting words) are still with us. The Court has outlined several others (incitement, child pornography), but as we'll see the current Roberts Court is not receptive to legislatures adding "new" categories of unprotected speech, like [stolen valor speech](http://en.wikipedia.org/wiki/Stolen_Valor_Act_of_2013), or [animal crush videos](http://en.wikipedia.org/wiki/United_States_v._Stevens). 
+Some of the categories 
+(the obscene, the libelous, fighting words) are still with us. 
+The Court has outlined several others (incitement, child pornography), 
+but as we'll soon see the current Roberts Court 
+is not receptive to legislatures adding "new" categories of unprotected speech, 
+like [stolen valor speech](http://en.wikipedia.org/wiki/Stolen_Valor_Act_of_2013), or [animal crush videos](http://en.wikipedia.org/wiki/United_States_v._Stevens). 
 
-Other governments have different concerns and different categories of offensive speech. France and Germany prohibit varieties of hate speech or speech denying the historical facts of the Holocaust. See, for example, the wide variety of free speech laws collected at Wikipedia: [Free Speech By Country](http://en.wikipedia.org/wiki/Freedom_of_speech_by_country). Canadian courts have held that pornography which is "degrading or dehumanizing" to women may be prohibited (see [R. v. Butler](http://en.wikipedia.org/wiki/R._v._Butler) an analysis explicitly rejected by Judge Frank Easterbrook in [*American Booksellers v.  Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986), [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
+Other governments have different concerns 
+and different categories of offensive speech. 
+France and Germany prohibit varieties of hate speech 
+or speech denying the historical facts of the Holocaust. 
+[Google and Facebook are under pressure from German authorities to abide by German laws banning racist sentiments](http://www.jpost.com/Diaspora/Germany-warns-Facebook-Clamp-down-on-Holocaust-denial-or-else-413595). As Justice Minister Heiko Maas said in an interview with Reuters:
 
-* [Nice summary of speech restrictions and unprotected speech categories](http://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States#Types_of_speech_restrictions)
+> Holocaust denial and inciting racial hatred are crimes in Germany and it doesn't matter if they're posted on Facebook or uttered out in the public on the market square. 
 
-Child pornography and disclosing classified communications in violation of the Espionage Act are good examples. Both involve SPEECH, but the U.S. Supreme Court says these categories of speech are not protected by the First Amendment. Child porn and disclosing classified information therefore are both categories of "unprotected speech," meaning the  government can fine you or send you to prison for engaging in them. [18 U.S. Code &sect; 2251 - Sexual exploitation of children](http://www.law.cornell.edu/uscode/text/18/2251)
+> ---[Germany warns Facebook: Clamp down on Holocaust denial - or else](http://www.jpost.com/Diaspora/Germany-warns-Facebook-Clamp-down-on-Holocaust-denial-or-else-413595).
+
+By way of example, peek at the wide variety of free speech laws 
+collected at Wikipedia: [Free Speech By Country](http://en.wikipedia.org/wiki/Freedom_of_speech_by_country). 
+Canadian courts have held that pornography 
+that is "degrading or dehumanizing" to women may be prohibited 
+(see [R. v. Butler](http://en.wikipedia.org/wiki/R._v._Butler) 
+an analysis explicitly rejected by Judge Frank Easterbrook in [*American Booksellers v.  Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986), [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
+
+When it comes to the United States, consider this [nice summary of speech restrictions and unprotected speech categories](http://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States#Types_of_speech_restrictions). 
+
+Child pornography and disclosing classified communications 
+in violation of the Espionage Act are good examples. 
+Both involve SPEECH, but the U.S. Supreme Court 
+says that these categories of speech are not protected by the First Amendment. 
+Child porn and disclosing classified information therefore are both categories of "unprotected speech," meaning the  government can fine you or send you to prison for engaging in them. [18 U.S. Code &sect; 2251 - Sexual exploitation of children](http://www.law.cornell.edu/uscode/text/18/2251)
 
 #### Totally Optional Reading
 
@@ -486,8 +525,8 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 *  [*New York Times Co. v.  Sullivan*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=376+us+254&appflag=67.12), 376 U.S. 254 (1964). [Wikipedia](http://en.wikipedia.org/wiki/New_York_Times_Co._v._Sullivan)
 * *Miller v. California,* U.S. Supreme Court (1973) [Wikipedia](https://en.wikipedia.org/wiki/Miller_v._California)
 * The [*Miller* test at Wikipedia][miller_test].
-*  [*New York v.  Ferber*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=458us747&appflag=67.12), 458 US 747 (1982).  [Wikipedia](http://en.wikipedia.org/wiki/New_York_v._Ferber).
-*  [*American Booksellers v. Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986).  [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
+* [*New York v.  Ferber*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=458us747&appflag=67.12), 458 US 747 (1982). [Wikipedia](http://en.wikipedia.org/wiki/New_York_v._Ferber).
+* [*American Booksellers v. Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986). [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
 
 ### Changelog
 
