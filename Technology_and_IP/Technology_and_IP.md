@@ -19,7 +19,7 @@ Two longish United States Supreme Court cases, but they are both major landmarks
 
 ### Fair Use and Home Video
 
-This is a test sentence. Okay, here's another test sentence.
+This is a test sentence. Okay, here's another test sentence. Third test sentence.
 
 *   [*Sony v. Universal Studios,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=464us417&appflag=67.12) 464 US 417 (1984).  [Wikipedia](http://en.wikipedia.org/wiki/Sony_Corp._of_America_v._Universal_City_Studios,_Inc.).
 
