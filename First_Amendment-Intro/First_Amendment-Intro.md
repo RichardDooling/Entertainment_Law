@@ -2,7 +2,7 @@
 author: Richard Dooling
 title: Lawyers For The Talent
 subtitle: Entertainment Law
-chapter: First Amendment - Sex
+chapter: First Amendment - Intro
 ---
 
 # First Amendment - Introduction
