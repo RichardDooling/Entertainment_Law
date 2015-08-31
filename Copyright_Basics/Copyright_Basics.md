@@ -394,7 +394,7 @@ it rejected the language regarding independent research:
 > proscription against the copyright of ideas and facts, and to a lesser
 > extent the privilege of fair use, are designed to prevent.
 
-[*Rosemont*][rosement].
+[*Rosemont*][rosemont].
 
 The Second Circuit has adhered to its position 
 in the most recent appellate case to address the question, 

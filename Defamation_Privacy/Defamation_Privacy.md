@@ -122,7 +122,7 @@ A plaintiff suing for defamation had to prove:
 
 [Restatement 2nd of Torts §559](http://tinyurl.com/ksezohp).
 
-## New York Times v. Sullivan
+## *New York Times v. Sullivan*
 
 ###### US Supreme Court 1964
 
@@ -180,7 +180,7 @@ In Australia, the High Court held in [*Theophanous v. The Herald & Weekly Times 
 
 Now let's look at some entertainment industry cases where public officials and figures alleged defamation.
 
-## Davis v. Constantin Costa-Gavras,
+## *Davis v. Constantin Costa-Gavras*
 
 ###### US District Court, S.D. New York (1987)
 
