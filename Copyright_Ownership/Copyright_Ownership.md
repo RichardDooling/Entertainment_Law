@@ -328,7 +328,7 @@ This case is an important United States Supreme Court case decided on its facts 
 
 Courts must often apply old contract language to new technologies. 
 
-Suppose an author licenses a publisher to print her books in hardcover or paperback. Does that license also include the right to publish the same book as an e-book? What if e-book technology did not exist the author made the original publishing deal?
+Suppose an author licenses a publisher to print her books in hardcover or paperback. Does that license also include the right to publish the same book as an e-book? What if e-book technology did not exist when the author made the original publishing deal?
 
 What happens when a person with a license to exhibit a movie on television now wants to exhibit a movie using VCR tapes or DVD discs? What if these technologies didn't even exist when the artist made his deal with the studio? 
 
@@ -611,7 +611,7 @@ judgment in favor of Paramount is reversed.
 
 REVERSED and REMANDED.
 
-##### Dooling Case Summary (from slides)
+#### Notes on *Cohen v. Paramount Pictures Corp.*
 
 In 1969, Herbert Cohen owned copyright in a song called “Merry-Go-Round.” 
 Cohen granted a “synchronization” license 
@@ -644,7 +644,7 @@ so Cohen could not have known
 he was selling the right to display a movie using his song on videocassette.
 
 Paramount argued that the terms of Cohen's license 
-were similar to agreements in two other other early videocassette cases,
+were similar to agreements in two other early videocassette cases,
 in which an original grant of rights included videocassette rights, even though such rights did not exist at the time of the original deal. 
 
 1. A contract between *Platinum Record Co. v. LucasFilm* (DCNJ 1983) giving the right: "to exhibit, distribute, exploit, market and perform said motion picture, its air, screen and television trailers, **perpetually throughout the world by any means or methods now or hereafter known.**"
@@ -1088,6 +1088,10 @@ Newton should be allowed to present his claims of infringement to a
 jury. I therefore dissent from the majority's conclusion to the
 contrary.
 
+####Note on *Newton v. Diamond*
+
+For anyone interested, in 2012, Bloomberg Law made a short [Youtube video][beastie] on the Beastie Boys' legal troubles that features the 3-note sample in question in this case.
+
 ### Bridgeport Music, Inc. v. Dimension Films
 
 ###### United States Court of Appeals Sixth Circuit (2005)
@@ -1255,14 +1259,14 @@ no opinion on its applicability to these facts.
 
 ## Future of Sampling
 
-**If you sample, you must license** seems to be the rule following *Bridgeport*. But why? Why is this not subject to a simple fair use analysis?
+**"If you sample, you must license"** seems to be the rule following *Bridgeport*. But why? Why is this not subject to a simple fair use analysis?
 
 ### Good Copy Bad Copy
 
 Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](http://blip.tv/good-copy-bad-copy/good-copy-bad-copy-full-feature-364089), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
 
 * [Why Hasn't The Recording Industry Sued Girl Talk?](https://www.techdirt.com/articles/20090707/0237205466.shtml)
-* [Why The Music Industry Isn’t Suing Mashup Star ‘Girl Talk’] (https://gigaom.com/2010/11/16/419-why-the-music-industry-isnt-suing-mashup-star-girl-talk/)
+* [Why The Music Industry Isn’t Suing Mashup Star ‘Girl Talk’](https://gigaom.com/2010/11/16/419-why-the-music-industry-isnt-suing-mashup-star-girl-talk/)
 
 
 ### How To Acquire Music For Films
@@ -1285,7 +1289,7 @@ Frequently Asked Questions For Student and Independent Filmmakers
 
 #### Find Out Who Owns Music Rights
 
-* [AllMusic.com](http://allmusic.com). The near-equivalent to IMDB in the music world is Like IMDB it lists credits, albums, and songs of all musicians. But to my knowledge there is no "Pro" feature providing information about representation. The American Society of Composers, Authors and Publishers ([ASCAP](http://en.wikipedia.org/wiki/American_Society_of_Composers,_Authors_and_Publishers)) and Broadcast Music, Inc. ([BMI](the http://en.wikipedia.org/wiki/Broadcast_Music,_Inc.)) also provide databases where you can search for music by title or by artist and discover the publisher for each song:
+* [AllMusic.com](http://allmusic.com). The near-equivalent to IMDB in the music world is Like IMDB it lists credits, albums, and songs of all musicians. But to my knowledge there is no "Pro" feature providing information about representation. The American Society of Composers, Authors and Publishers ([ASCAP](http://en.wikipedia.org/wiki/American_Society_of_Composers,_Authors_and_Publishers)) and Broadcast Music, Inc. ([BMI](http://en.wikipedia.org/wiki/Broadcast_Music,_Inc.)) also provide databases where you can search for music by title or by artist and discover the publisher for each song:
     * [ASCAP title search](https://www.ascap.com/home/ace-title-search/index.aspx)
     * [BMI repertoire search](http://repertoire.bmi.com/startpage.asp)
 
@@ -1315,8 +1319,8 @@ instead of buying them outright.
 #### The Movie Option 3 Essential Terms
 
 1. The option period 
-2. The option payment. 
-3. The purchase price. 
+2. The option payment 
+3. The purchase price 
 
 ##### 1. The Option Period
 
@@ -1345,7 +1349,7 @@ Mainly how much? $50k, $100k, usually more.
 * [*GOOD COPY BAD COPY*](http://blip.tv/good-copy-bad-copy/good-copy-bad-copy-full-feature-364089), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
 * [*Copyright Criminals*](http://vimeo.com/9958864), a documentary that examines the creative and commercial value of sampling in music. Featuring Public Enemy, De La Soul, QBert and more.
 * [Are actors employees or independent contractors?](http://www.hollywoodreporter.com/thr-esq/google-warns-muslims-ruling-will-684425) (An actress sues Google to takedown the controversial "Innocence of Muslims" video claiming that she still owns the copyright to her performance.
-* [More on Innocence of Muslims](http://www.newyorker.com/online/blogs/elements/2014/03/a-controversial-youtube-video-haunts-free-speech-again.html)
+* [More on "Innocence of Muslims"](http://www.newyorker.com/online/blogs/elements/2014/03/a-controversial-youtube-video-haunts-free-speech-again.html)
 * Lawsuit alleges Jay Z hit 'Run This Town' [illegally sampled 1960s funk song][jayz_lawsuit]
 * [Frank Ocean's 'Super Rich Kids' Named in Copyright Lawsuit](http://www.rollingstone.com/music/news/frank-oceans-super-rich-kids-named-in-copyright-lawsuit-20140211#ixzz2t3iDZnRQ)
 * [Wikipedia Defends the Monkey Selfie](http://www.newyorker.com/news/daily-comment/monkey-see-monkey-click)
@@ -1363,3 +1367,4 @@ Mainly how much? $50k, $100k, usually more.
 [102]: http://www.copyright.gov/title17/92chap1.html#102 "Section 102: Subject Matter"
 [106]: http://www.copyright.gov/title17/92chap1.html#106 "Section 106: Exlusive rights in copyrighted works"
 [201]: http://www.copyright.gov/title17/92chap2.html#201 "Section 201: Ownership of Copyright"
+[beastie]: https://www.youtube.com/watch?v=KARQOgivaGA
