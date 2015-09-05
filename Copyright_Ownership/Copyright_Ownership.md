@@ -1269,11 +1269,13 @@ Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](http://blip.tv/good-
 * [Why The Music Industry Isn’t Suing Mashup Star ‘Girl Talk’](https://gigaom.com/2010/11/16/419-why-the-music-industry-isnt-suing-mashup-star-girl-talk/)
 
 
-### How To Acquire Music For Films
+## How To Acquire Music For Films
+
+In general, there are 3 ways music is acquired for a film: (1) the filmmaker licenses music that already exists prior to filming, (2) the filmmaker hires an artist to re-record music for the film (usually used when you can't acquire a license), or (3) an artist or composer is hired to make new music specifically for the film being produced.
 
 [From ASCAP.com](http://www.ascap.com/music-career/articles-advice/film-tv/how-to-acquire-music-for-films.aspx):
 
-Frequently Asked Questions For Student and Independent Filmmakers
+**Frequently Asked Questions For Student and Independent Filmmakers**
 
 **Q:** What Licenses Must I Get To Use A Song In My Film?
 
@@ -1282,6 +1284,8 @@ Frequently Asked Questions For Student and Independent Filmmakers
 - **Synchronization License:** This is the right to synchronize a song or a piece of music with your visual image. It must be obtained from the copyright owner of the music, which is usually the publisher. You can find out who the publisher is by using ASCAP's Clearance Express (ACE) at www.ascap.com/ace. Songs that are not represented by ASCAP might be found at the National Music Publishers' Association "Songfile" website (www.nmpa.org).You will be provided with a contact at the publisher's Business Affairs or Licensing Department.
 
 - **Master Use License:** This is the right to reproduce a specific recording of a song in your film. You clear this right with the record label who owns the specific recording you would like to use; see the liner notes of the recording to find out which company this is. Alternatively, you can get contact information for record labels by calling ASCAP's Film/TV Department. You will be provided with a contact at the record label's Business Affairs Department.
+
+[Note: It's not a bad idea for filmmakers to also secure a **Performance License** and a **Videogram License**, which allows the film containing the song to be broadcast on television and copies of the film to be made and sold. Interestingly, in the United States, no special license is required to show the movie in a movie theater.]
 
 **Q:** Can I Use These Songs On My Soundtrack Album?
 
@@ -1293,7 +1297,19 @@ Frequently Asked Questions For Student and Independent Filmmakers
     * [ASCAP title search](https://www.ascap.com/home/ace-title-search/index.aspx)
     * [BMI repertoire search](http://repertoire.bmi.com/startpage.asp)
 
-### Film Options
+####Music Licensing Agreements
+Once a copyright owner agrees to let a filmmaker license their song for a film, best practice requires drawing up an official licensing contract. This license will usually be nonexclusive, meaning that the owner can allow anyone else they want to use the song as well (exclusive licenses are rarer and, understandably, harder to negotiate). A good licensing agreement will set forward **where the license applies** (the one receiving the license will want this to be broad as possible -- "the world", for example; but it will cost less to license for local use -- say, for a local television ad), all **forms of media** where the song will be used (not just "film", but broadcast, cable, and satellite television, in-flight movies, DVD, etc. -- again, the filmmaker will want this to be as broad as possible), and the **license fee** (for popular songs, a license can run you tens of thousands of dollars, and some copyright owners will want royalties, as well). If the filmmaker will be modifying the song in any way, they will need to include this in the license agreement.
+
+####Re-recording and Sound-Alike Recordings
+Some filmmakers choose to re-record a song in an effort to save some money on licensing fees. This option still requires obtaining licenses from the publishing company (you will still need a synchronization license, and performance and videogram licenses, if applicable). You will also need to hire musicians to do the new recording (which can have its own contracting foibles).
+
+But, could you hire a cover band that sounds exactly like the artist denying your request to re-record the song so that the audience will be fooled into thinking it's the original song (known as a "sound-alike recording")? Probably not, as this may violate the original artist's right of publicity (this falls under the laws of unfair competition).
+
+####Commissioning Music
+
+Often, filmmakers want new music made specifically for their movie (think of the great movie composers, like John Williams or Hans Zimmer). Filmmakers will then negotiate a composer's service agreement that structures the relationship as a work made for hire. This solves the issue of ownership -- the rights to the recording and the composition itself will belong to the production company, not the composer.
+
+## Film Options
 
 #### Five Stages of Film Production
 
