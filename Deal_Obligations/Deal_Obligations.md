@@ -471,11 +471,24 @@ Shortly thereafter, legendary baseball player Babe Ruth also had a "morals claus
 Sexual or moral misbehavior is tough enough to define. 
 What about unpopular political positions?
 
+During the ["Red Scare" of the 1950s](https://en.wikipedia.org/wiki/Red_Scare), when Congressional Committees investigated the motion picture industry for evidence that it had been infiltrated by Communists,
+Hollywood screenwriters and actors were "blacklisted" and prohibited from belonging to the Hollywood guilds and being paid by studios from practicing their craft. 
+
+This movie looks promising and tells the story of 
+[Dalton Trumbo](https://en.wikipedia.org/wiki/Dalton_Trumbo), 
+a Hollywood screenwriter, blacklisted during the 1950s: 
+[Bryan Cranston Goes From Drug Lord to Communist in Blacklist Saga 'Trumbo': "A Socialist, But He Loved Being Rich"](http://www.hollywoodreporter.com/features/bryan-cranston-plays-communist-trumbo-819228)
+
+[![Screenwriter Dalton Trumbo](https://upload.wikimedia.org/wikipedia/commons/0/04/Dalton_and_Cleo_Trumbo_%281947_HUAC_hearings%29.png)](https://en.wikipedia.org/wiki/Dalton_Trumbo)
+
+The following case dramatizes the blacklisting of another screenwriter, Lester Cole, one of the infamous Hollywood Ten, along with Dalton Trumbo.
+
 ### *Loew's, Inc. v. Cole,* 
 
 ###### United States Court of Appeals Ninth Circuit (1950).
 
 * [Case on Westlaw][loews].
+
 
 In 1947, the Committee on Un-American Activities (HUAC) of the House of Representatives conducted a public hearing, at Washington, for the purpose of inquiring into alleged Communist infiltration into the motion picture industry. Among dozens of witnesses called, beginning October 20, and concluding October 30, were Lester Cole (a screenwriter), and a number of the executives of the appellant, Loew's, Incorporated, a Delaware Corporation, engaged, under the trade name of Metro-Goldwyn-Mayer, in the production and distribution of motion pictures. Cole had been employed by Loew's as a writer of screenplays since 1945. 
 
