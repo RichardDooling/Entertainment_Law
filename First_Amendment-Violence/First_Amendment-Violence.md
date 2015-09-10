@@ -820,7 +820,7 @@ to extort"); §875(d) (proscribing threats to property or reputation made
 "intent to extort" requirements in Sections 875(b) and (d) should
 preclude courts from implying an unexpressed "intent to threaten"
 requirement in Section 875(c). See [*Russello* v. *United States*
-(US 1983)](http://scholar.google.com/scholar_case?case=3958155902896689467)
+(S.Ct. 1983)](http://scholar.google.com/scholar_case?case=3958155902896689467)
 ("Where Congress includes particular language in one section of a
 statute but omits it in another section of the same Act, it is generally
 presumed that Congress acts intentionally and purposely in the disparate
@@ -848,7 +848,7 @@ The fact that the statute does not specify any required mental state,
 however, does not mean that none exists. We have repeatedly held that
 "mere omission from a criminal enactment of any mention of criminal
 intent" should not be read "as dispensing with it." 
-[*Morissette United States* (US 1952)](http://scholar.google.com/scholar_case?case=787130527265701764). 
+[*Morissette United States* (S.Ct. 1952)](http://scholar.google.com/scholar_case?case=787130527265701764). 
 This rule of construction reflects the basic principle that "wrongdoing
 must be conscious to be criminal." As Justice Jackson
 explained, this principle is "as universal and persistent in mature
@@ -865,14 +865,14 @@ is "a necessary element in the indictment and proof of every crime."
 We therefore generally "interpret criminal statutes to include
 broadly applicable scienter requirements, even where the statute by its
 terms does not contain them." [*United States* v. *X-Citement Video,
-Inc.,* (US 1994)](http://scholar.google.com/scholar_case?case=199076989173199864). 
+Inc.,* (S.Ct. 1994)](http://scholar.google.com/scholar_case?case=199076989173199864). 
 
 This is not to say that a defendant must know that his conduct is
 illegal before he may be found guilty. The familiar maxim "ignorance of
 the law is no excuse" typically holds true. Instead, our cases have
 explained that a defendant generally must "know the facts that make his
 conduct fit the definition of the offense," [*Staples v. United
-States* (US 1994),](http://scholar.google.com/scholar_case?case=9070596919144743522)
+States* (S.Ct. 1994),](http://scholar.google.com/scholar_case?case=9070596919144743522)
 even if he does not know that those facts give rise to a crime.
 
 *Morissette,* for example, involved an individual who had taken spent
@@ -880,7 +880,7 @@ shell casings from a Government bombing range, believing them to have
 been abandoned. During his trial for "knowingly converting" property
 of the United States, the judge instructed the jury that the only
 question was whether the defendant had knowingly taken the property
-without authorization. [342 US at
+without authorization. [342 S.Ct. at
 248-249](http://scholar.google.com/scholar_case?case=787130527265701764).
 This Court reversed the defendant's conviction, ruling that he had to
 know not only that he was taking the casings, but also that someone else
@@ -913,7 +913,7 @@ The Court instead construed the statute to require knowledge of
 the facts that made the use of the food stamps unauthorized. 
 
 To take another example, in [*Posters N Things, Ltd. v. United
-States* (US 1994)](http://scholar.google.com/scholar_case?case=8688167052149067906)
+States* (S.Ct. 1994)](http://scholar.google.com/scholar_case?case=8688167052149067906)
 this Court interpreted a federal statute prohibiting the sale of drug
 paraphernalia. 
 Whether the items in question qualified as drug paraphernalia was an
@@ -993,9 +993,9 @@ thinks---"reduces culpability on the all-important element of the crime
 to negligence," [*Jeffries*](http://scholar.google.com/scholar_case?case=5838543687001663628)
 (Sutton, J., *dubitante*), and we "have long been reluctant to infer
 that a negligence standard was intended in criminal statutes." [*Rogers*
-v. *United States,* (US 1975) (Marshall, J.,
+v. *United States,* (S.Ct. 1975) (Marshall, J.,
 concurring)](http://scholar.google.com/scholar_case?case=2048750632248542584);
-[*Cochran* v. *United States* (US 1895)](http://scholar.google.com/scholar_case?case=10487595760688789256)
+[*Cochran* v. *United States* (S.Ct. 1895)](http://scholar.google.com/scholar_case?case=10487595760688789256)
 (defendant could face "liability in a civil action for negligence, 
 but he could only be held criminally for an evil intent actually existing in
 his mind"). Under these principles, "what \[Elonis\] thinks" does
@@ -1012,7 +1012,7 @@ negligence standard.
 
 In support of its position 
 the Government relies most heavily on
-[*Hamling v. United States* (US 1974)](http://scholar.google.com/scholar_case?case=487349011929396754).
+[*Hamling v. United States* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=487349011929396754).
 In that case, the Court rejected the argument 
 that individuals could be convicted of mailing obscene material 
 only if they knew the "legal status of the materials" distributed. 
@@ -1054,7 +1054,7 @@ question at oral argument, Elonis stated that a finding of
 recklessness would not be sufficient. Neither
 Elonis nor the Government has briefed or argued that point, and we
 accordingly decline to address it. See [*Department of Treasury, IRS v.
-FLRA* (US 1990)](http://scholar.google.com/scholar_case?case=531302628905511627)
+FLRA* (S.Ct. 1990)](http://scholar.google.com/scholar_case?case=531302628905511627)
 (this Court is "poorly situated" to address an argument the Court of
 Appeals did not consider, the parties did not brief, and counsel
 addressed in "only the most cursory fashion at oral argument"). Given
@@ -1092,8 +1092,8 @@ Elonis contends that it would.
 I would reject that argument.
 
 It is settled that the Constitution does not protect true threats. 
-See [*Virginia* v. *Black* (US 2003)](http://scholar.google.com/scholar_case?case=2729037874515332053);
-[*R. A. V.* v. *St. Paul* (US 1992)][rav]; [*Watts*][watts].
+See [*Virginia* v. *Black* (S.Ct. 2003)](http://scholar.google.com/scholar_case?case=2729037874515332053);
+[*R. A. V.* v. *St. Paul* (S.Ct. 1992)][rav]; [*Watts*][watts].
 
 And there are good reasons for that rule: 
 True threats inflict great harm and have little if any social value. 
@@ -1181,8 +1181,8 @@ We have sometimes cautioned that it is necessary to
 "extend a measure of strategic protection"
 to otherwise unprotected false statements of fact 
 in order to ensure enough "breathing space" for protected speech. 
-[*Gertz* v. *Robert Welch, Inc.* (US 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202&q=elonis&hl=en&as_sdt=6,28)
-(quoting [*NAACP* v. *Button* (US 1963)](http://scholar.google.com/scholar_case?case=13147024771433949854)
+[*Gertz* v. *Robert Welch, Inc.* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202&q=elonis&hl=en&as_sdt=6,28)
+(quoting [*NAACP* v. *Button* (S.Ct. 1963)](http://scholar.google.com/scholar_case?case=13147024771433949854)
 
 A similar argument might be made with respect to threats. 
 But we have also held that the law provides adequate breathing space 
@@ -1245,13 +1245,13 @@ a communication must be a serious expression of an intention
 to commit unlawful physical violence, not merely "political hyperbole";
 "vehement, caustic, and sometimes unpleasantly sharp attacks"; or
 "vituperative, abusive, and inexact" statements. [*Watts* v. *United
-States,* (US 1969) (*per curiam*)][watts]
+States,* (S.Ct. 1969) (*per curiam*)][watts]
 It also cannot be determined solely
 by the reaction of the recipient, but must instead be "determined by the
 interpretation of a *reasonable* recipient familiar with the context of
 the communication," [*United States* v. *Darby* (4th Cir. 1994)](http://scholar.google.com/scholar_case?case=8979048315490359160&q=elonis&hl=en&as_sdt=6,28)
 (emphasis added), lest historically protected speech be suppressed at
-the will of an eggshell observer, cf. [*Cox* v. *Louisiana* (US 1965)](http://scholar.google.com/scholar_case?case=7762480998218131446).&hellip; 
+the will of an eggshell observer, cf. [*Cox* v. *Louisiana* (S.Ct. 1965)](http://scholar.google.com/scholar_case?case=7762480998218131446).&hellip; 
 
 There is thus no dispute that, at a minimum, §875(c) requires
 an objective showing: The communication must be one that "a reasonable
@@ -1288,7 +1288,7 @@ threatening posts were nevertheless protected by the First Amendment.
 Elonis does not contend that threats are constitutionally protected
 speech, nor could he: "From 1791 to the present &hellip; our society . . .
 has permitted restrictions upon the content of speech in a few limited
-areas," true threats being one of them. [*R. A. V.* v. *St. Paul* (US 1992)][rav]
+areas," true threats being one of them. [*R. A. V.* v. *St. Paul* (S.Ct. 1992)][rav]
 Instead, Elonis claims that only *intentional*
 threats fall within this particular historical exception.
 
@@ -1301,14 +1301,14 @@ doing so since the late 18th and early 19th centuries. (Long string cite of stat
 State practice
 thus provides at least some evidence of the original meaning of the
 phrase "freedom of speech" in the First Amendment. See [*Roth* v.
-*United States* (US 1957)](http://scholar.google.com/scholar_case?case=14778925784015245625)
+*United States* (S.Ct. 1957)](http://scholar.google.com/scholar_case?case=14778925784015245625)
 (engaging in a similar inquiry with respect to obscenity).&hellip; 
 
 ## B
 
 Elonis also insists that our precedents require a mental state of
 intent when it comes to threat prosecutions under §875(c), primarily
-relying on [*Watts*][watts] and [*Virginia* v. *Black* (US 2003)](http://scholar.google.com/scholar_case?case=2729037874515332053).
+relying on [*Watts*][watts] and [*Virginia* v. *Black* (S.Ct. 2003)](http://scholar.google.com/scholar_case?case=2729037874515332053).
 Neither of those decisions, however, addresses whether the First
 Amendment requires a particular mental state for threat prosecutions.
 
@@ -1353,7 +1353,7 @@ of speech. For instance, the Court has indicated that a legislature may
 constitutionally prohibit "\`fighting words,' those personally abusive
 epithets which, when addressed to the ordinary citizen, are, as a matter
 of common knowledge, inherently likely to provoke violent reaction,"
-[*Cohen* v. *California* (US 1971)](http://scholar.google.com/scholar_case?case=7398433541275578772&q=elonis&hl=en&as_sdt=6,28)---without
+[*Cohen* v. *California* (S.Ct. 1971)](http://scholar.google.com/scholar_case?case=7398433541275578772&q=elonis&hl=en&as_sdt=6,28)---without
 proof of an intent to provoke a violent reaction. 
 Because the definition of "fighting words" 
 turns on how the "ordinary citizen" would react to
@@ -1362,14 +1362,14 @@ guilty of a breach of the peace if he "makes statements likely to
 provoke violence and disturbance of good order, even though no such
 eventuality be intended," and that the punishment of such statements "as
 a criminal act would raise no question under \[the Constitution\],"
-see also [*Chaplinsky* v. *New Hampshire* (US 1942)](http://scholar.google.com/scholar_case?case=124249671461500618&q=elonis&hl=en&as_sdt=6,28)
+see also [*Chaplinsky* v. *New Hampshire* (S.Ct. 1942)](http://scholar.google.com/scholar_case?case=124249671461500618&q=elonis&hl=en&as_sdt=6,28)
 (rejecting a First Amendment challenge to a general-intent construction
 of a state statute punishing "\`fighting' words").&hellip; 
 
 And our precedents allow liability in tort for false statements about
 private persons on matters of private concern even if the speaker acted
 negligently with respect to the falsity of those statements. See
-[*Philadelphia Newspapers, Inc.* v. *Hepps* (US 1986)](http://scholar.google.com/scholar_case?case=3066699330828671613&q=elonis&hl=en&as_sdt=6,28).
+[*Philadelphia Newspapers, Inc.* v. *Hepps* (S.Ct. 1986)](http://scholar.google.com/scholar_case?case=3066699330828671613&q=elonis&hl=en&as_sdt=6,28).
 I see no reason why we should give threats pride of place among
 unprotected speech.
 
