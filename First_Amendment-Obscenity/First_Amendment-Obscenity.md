@@ -727,6 +727,23 @@ the statute in its entirety.
 * [USDOJ Citizens Guide To U.S. Federal Law On Child Pornography](http://www.justice.gov/criminal/ceos/citizensguide/citizensguide_porn.html).
 
 
+[navarro]: http://en.wikipedia.org/wiki/2_Live_Crew#As_Nasty_As_They_Wanna_Be "Skywalker v. Navarro at Wikipedia"
+[skyywalker]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=739fsupp578\&appflag=67.12 "*Skyywalker Records v. Navarro* at Westlaw"
+[miller-w]: https://en.wikipedia.org/wiki/Miller_v._California "*Miller v. California* at Wikipedia."
+[esrb]: http://www.esrb.org/index-js.jsp "ESRB"
+[pacifica]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=98sct3026\&appflag=67.12 "FCC v. Pacifica"
+[miller_test]: http://en.wikipedia.org/wiki/Miller_test "The *Miller* Obscenity Test"
+[7dirty]: http://www.youtube.com/watch?v=vbZhpf3sQxQ "George Carlin Seven Dirty Words"
+[dooling_1sta]: http://www.richarddooling.com/index.php/category/first-amendment/ "Dooling: Marketplace of Ideas vs. Civic Republicanism"
+[ashcroft]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=535+U.S.+234\&appflag=67.12 "Ashcroft v. Free Speech Coalition"
+[aclu_1stA]: https://www.aclu.org/free-speech/freedom-expression-arts-and-entertainment "Freedom of Expression in the Arts"
+[yahoo]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=433f3d1199&appflag=67.12 "Yahoo! Inc. v. La Ligue Contre Le Racisme Et L'Antisemitisme"
+[fox]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=132+S.Ct.+2307\&appflag=67.12 "FCC v. Fox"
+[burstyn]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=72+S.Ct.+777\&appflag=67.12 "Joseph Burstyn v. Wilson" 
+[burstyn-w]: http://en.wikipedia.org/wiki/Joseph_Burstyn,_Inc_v._Wilson "Joseph Burstyn v. Wilson" 
+[navarro]: http://en.wikipedia.org/wiki/2_Live_Crew#As_Nasty_As_They_Wanna_Be "Skywalker v. Navarro at Wikipedia"
+[skyywalker]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=739fsupp578\&appflag=67.12 "*Skyywalker Records v. Navarro* at Westlaw"
+[miller-w]: https://en.wikipedia.org/wiki/Miller_v._California "*Miller v. California* at Wikipedia."
 
 <!-- BEGIN COMMENT -->
 
