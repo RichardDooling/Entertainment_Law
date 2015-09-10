@@ -18,7 +18,7 @@ What if a journalist writes a lurid men's magazine article
 about autoerotic asphyxiation 
 and arguably “causes” teenagers to try such deviant behavior for themselves, 
 [accidentally hanging themselves](http://en.wikipedia.org/wiki/Erotic_asphyxiation)? 
-What if at trial, the victim's family argues 
+What if, at trial, the victim's family argues 
 that the journalist's lurid article 
 was really just a how-to for teenage thrill-seekers? 
 We sympathize with the parents 
@@ -35,7 +35,7 @@ Should the family members of these victims
 be allowed to sue magazine publishers, record companies and rappers 
 for indirectly "causing" the death of their loved ones? 
 
-Fourteen different murderers have said 
+What about violent movies? Fourteen different murderers have said 
 that Oliver Stone’s *Natural Born Killers* 
 [inspired them to go on crime sprees of their own][nbk]. 
 
@@ -96,7 +96,7 @@ if those acts are depicted" in a manner that:
 
 > "a reasonable person, considering the game as a whole, would find appeals to a deviant or morbid interest of minors," that is "patently offensive to prevailing standards in the community as to what is suitable for minors," and that "causes the game, as a whole, to lack serious literary, artistic, political, or scientific value for minors." 
 
-Violation of the Act is punishable by a civil fine of up to \$1,000.
+Violation of the Act is punishable by a civil fine of up to $1,000.
 
 Respondents, representing the video-game and software industries, 
 brought a preenforcement challenge to the Act 
@@ -533,7 +533,7 @@ We affirm the judgment below.
 
 ## True Threats
 
-So violent entertainment, at least to Justice Scalia and a majority of the United States Supreme Court is an entirely different matter than obscene entertainment. 
+So violent entertainment, at least to Justice Scalia and a majority of the United States Supreme Court, is an entirely different matter than obscene entertainment. 
 
 What about entertainment products that arguably threaten others or possibly incite others to commit acts of violence?
 
@@ -571,11 +571,7 @@ and---if not---whether the First Amendment requires such a showing.
 #### A
 
 Anthony Douglas Elonis was an active user 
-of the social networking Web site Facebook. 
-Users of that Web site may post items on their
-Facebook page that are accessible to other users, 
-including Facebook "friends" who are notified 
-when new content is posted. 
+of the social networking Web site Facebook&hellip; 
 In May 2010, Elonis's wife of nearly seven years left him, 
 taking with her their two young children. 
 Elonis began "listening to more violent music" 
@@ -850,14 +846,7 @@ however, does not mean that none exists. We have repeatedly held that
 intent" should not be read "as dispensing with it." 
 [*Morissette United States* (S.Ct. 1952)](http://scholar.google.com/scholar_case?case=787130527265701764). 
 This rule of construction reflects the basic principle that "wrongdoing
-must be conscious to be criminal." As Justice Jackson
-explained, this principle is "as universal and persistent in mature
-systems of law as belief in freedom of the human will and a consequent
-ability and duty of the normal individual to choose between good and
-evil." The "central thought" is that a defendant must be
-"blameworthy in mind" before he can be found guilty, a concept courts
-have expressed over time through various terms such as *mens rea,*
-scienter, malice aforethought, guilty knowledge, and the like. 
+must be conscious to be criminal."&hellip;
 
 Although there are exceptions, 
 the "general rule" is that a guilty mind 
@@ -875,70 +864,7 @@ conduct fit the definition of the offense," [*Staples v. United
 States* (S.Ct. 1994),](http://scholar.google.com/scholar_case?case=9070596919144743522)
 even if he does not know that those facts give rise to a crime.
 
-*Morissette,* for example, involved an individual who had taken spent
-shell casings from a Government bombing range, believing them to have
-been abandoned. During his trial for "knowingly converting" property
-of the United States, the judge instructed the jury that the only
-question was whether the defendant had knowingly taken the property
-without authorization. [342 S.Ct. at
-248-249](http://scholar.google.com/scholar_case?case=787130527265701764).
-This Court reversed the defendant's conviction, ruling that he had to
-know not only that he was taking the casings, but also that someone else
-still had property rights in them. He could not be found liable "if he
-truly believed the casings to be abandoned." 
-
-By the same token, 
-in [*Liparota v. United States,*](https://scholar.google.com/scholar_case?case=4023609322524882336) we considered a statute making it a crime 
-to knowingly possess or use food stamps in an unauthorized manner. 
-The Government's argument, 
-similar to its position in this case, 
-was that a defendant's conviction could be upheld 
-if he knowingly possessed or used the food stamps, 
-and in fact his possession or use was unauthorized.
-But this Court rejected that interpretation of the statute, 
-because it would have criminalized 
-"a broad range of apparently innocent conduct" 
-and swept in individuals who had no knowledge of the facts that
-made their conduct blameworthy. 
-For example, the statute made it illegal to use food stamps 
-at a store that charged higher prices to food stamp customers. 
-Without a mental state requirement in the statute, 
-an individual who unwittingly paid higher prices 
-would be guilty under the Government's interpretation. 
-The Court noted that Congress *could* have intended to cover 
-such a "broad range of conduct," 
-but declined "to adopt such a sweeping interpretation" 
-in the absence of a clear indication that Congress intended that result. 
-The Court instead construed the statute to require knowledge of
-the facts that made the use of the food stamps unauthorized. 
-
-To take another example, in [*Posters N Things, Ltd. v. United
-States* (S.Ct. 1994)](http://scholar.google.com/scholar_case?case=8688167052149067906)
-this Court interpreted a federal statute prohibiting the sale of drug
-paraphernalia. 
-Whether the items in question qualified as drug paraphernalia was an
-objective question that did not depend on the defendant's state of mind. 
-But, we held, an individual could not be convicted of
-selling such paraphernalia unless he "knew that the items at issue
-were likely to be used with illegal drugs." 
-Such a showing was necessary 
-to establish the defendant's culpable state of mind.
-
-And again, in *X-Citement Video,* 
-we considered a statute criminalizing
-the distribution of visual depictions of minors 
-engaged in sexually explicit conduct. 
-[513 US at 68](http://scholar.google.com/scholar_case?case=199076989173199864).
-We rejected a reading of the statute 
-which would have required only that
-a defendant knowingly send the prohibited materials, 
-regardless of whether he knew the age of the performers. 
-We held instead that a defendant must also know 
-that those depicted were minors, 
-because that was "the crucial element separating legal innocence from wrongful conduct." 
-See also [*Staples,* 511 US at 619](http://scholar.google.com/scholar_case?case=9070596919144743522)
-(defendant must know that his weapon had automatic firing capability to
-be convicted of possession of such a weapon).
+\* \* \*
 
 When interpreting federal criminal statutes 
 that are silent on the required mental state, 
@@ -1010,31 +936,7 @@ contents and context of his posts, and a reasonable person would have
 recognized that the posts would be read as genuine threats. That is a
 negligence standard.
 
-In support of its position 
-the Government relies most heavily on
-[*Hamling v. United States* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=487349011929396754).
-In that case, the Court rejected the argument 
-that individuals could be convicted of mailing obscene material 
-only if they knew the "legal status of the materials" distributed. 
-Absolving a defendant of liability 
-because he lacked the knowledge that the materials were legally obscene 
-"would permit the defendant to avoid prosecution 
-by simply claiming that he had not brushed up on the law."
-It was instead enough for liability that 
-"a defendant had knowledge of the contents of the materials he distributed, 
-and that he knew the character and nature of the materials."
-
-This holding does not help the Government. 
-In fact, the Court in *Hamling* approved a state court's conclusion 
-that requiring a defendant to know 
-the character of the material incorporated 
-a "vital element of scienter" so that 
-"not innocent but *calculated purveyance* of filth &hellip; is exorcised." 
-In this case, "calculated purveyance"
-of a threat would require that Elonis know the threatening nature of
-his communication. Put simply, the mental state requirement the Court
-approved in *Hamling* turns on whether a defendant knew the *character*
-of what was sent, not simply its contents and context.
+\* \* \*
 
 In light of the foregoing, Elonis's conviction cannot stand. The
 jury was instructed that the Government need prove only that a
@@ -1160,7 +1062,7 @@ from all the little cuts.
 Or this: 
 
 > Fold up your \[protection from abuse order\] and put it in your pocket. Is it thick enough to
-stop a bullet?"
+stop a bullet?
 
 There was evidence that Elonis made sure his wife saw his posts. 
 And she testified that they made her feel "extremely afraid" 
@@ -1214,8 +1116,7 @@ thus left to guess at the appropriate mental state for §875(c). All they
 know after today's decision is that a requirement of general intent will
 not do. But they can safely infer that a majority of this Court would
 not adopt an intent-to-threaten requirement, as the opinion carefully
-leaves open the possibility that recklessness may be enough. See *ante,*
-at 16-17.
+leaves open the possibility that recklessness may be enough. 
 
 This failure to decide throws everyone from appellate judges to everyday
 Facebook users into a state of uncertainty. This uncertainty could have
@@ -1590,26 +1491,7 @@ particular use of foreseeability in the duty inquiry finds its roots in
 perhaps the most famous application of the foreseeability principle. In
 [*Palsgraf v. Long Island Railroad Co.,* (N.Y. 1928),](http://scholar.google.com/scholar_case?about=8468647111215907111&q=james+meow&hl=en&as_sdt=6,28&scilh=0)
 then-Judge Cardozo determined that the defendant's duty is to avoid
-"risks reasonably to be perceived." *Id.* at 100. As every former law
-student remembers, the plaintiff in *Palsgraf* had bought a train ticket
-to travel to the Rockaways for the afternoon and was waiting on the
-station platform. Two men were rushing to catch a departing train, one
-easily hopped on board and the other struggled to pull himself onto the
-rear car. A conductor on the train pulled him on board, but in the
-process, the struggling passenger dropped onto the rails the brown-paper
-package he was carrying. The package was full of fireworks and exploded.
-The explosion overturned a large set of scales on the platform,
-which struck Palsgraf, and Palsgraf sued the railroad for her injuries.
-
-Cardozo determined that the railroad simply did not owe a duty to
-Palsgraf to protect against *the injury that she suffered.* For Cardozo,
-the harm that Palsgraf suffered was not sufficiently probable that the
-railroad employees could have been expected to anticipate it occurring
-from their actions. Cardozo's reasoning, although implying that Palsgraf
-was the unforeseeable plaintiff, rested on the improbability of the
-*harm* that she suffered arising from the defendant's particular
-actions. *Id.* at 101. For Cardozo too, the existence of a duty of care
-was a creature of circumstance.
+"risks reasonably to be perceived."&hellip; 
 
 Cardozo's opinion in *Palsgraf,* while cited as the cornerstone of the
 American doctrine of a limited duty of care, has been criticized for its
@@ -1693,25 +1575,7 @@ distribution of games, movies, and internet material.
 
 #### 1. The Duty to Protect Against Intentional Criminal Actions
 
-First, courts have held that, except under extraordinary circumstances,
-individuals are generally entitled to assume that third parties will not
-commit intentional criminal acts &hellip; The reasons behind this general rule are simple enough. The first reason is a probabilistic judgment that foreseeability analysis requires.
-Individuals generally are significantly deterred from undertaking
-intentional criminal conduct given the sanctions that can follow. The
-threatened sanctions make the third-party intentional criminal conduct
-sufficiently less likely that, under normal circumstances, we do not
-require the putative tort defendant to anticipate it. Indeed, this
-statistical observation explains the distinction drawn by Kentucky
-courts in the dram shop liability cases.
-
-The second reason is structural. The system of criminal liability has
-concentrated responsibility for an intentional criminal act in the
-primary actor, his accomplices, and his co-conspirators. By imposing
-liability on those who did not endeavor to accomplish the intentional
-criminal undertaking, tort liability would diminish the responsibility
-placed on the criminal defendant. The normative message of tort law in
-these situations would be that the defendant is not entirely responsible
-for his intentional criminal act.
+\* \* \*
 
 Does this case involve the extraordinary circumstances under which we
 would require the defendants to anticipate a third party's intentional
@@ -1935,10 +1799,7 @@ the products themselves, but by Carneal's reaction to the products.
 We place this open question of Kentucky law aside as the parties
 apparently have. James has failed to demonstrate a prior requirement,
 that the video games, movies, and internet sites are "products"
-for purposes of strict liability. This was the basis on which the
-district court dismissed James's products liability claims, holding that
-the video games, movie, and internet transmissions were not "products,"
-at least in the sense that James sought to attach liability to them.
+for purposes of strict liability&hellip;
 
 This court has already substantially resolved the question of Kentucky
 law presented. In [*Watters v. TSR,* (6th
@@ -2035,7 +1896,7 @@ Andy V. A copy of *Hustler Magazine,* opened to the article about the
 
 [Troy's mother, Diane Herceg, and Troy's friend (Andy V.) sued Hustler to recover damages for emotional and psychological harms they suffered as a result of Troy's death and for exemplary damages, alleging negligence, products liability, dangerous instrumentality, and attractive nuisance, and incitement. In response, Hustler filed a motion to dismiss the complaint for failure to state a claim. The district dismissed all claims, save the incitement claim and the case was allowed to go to the jury on incitement alone. 
 
-The jury returned a verdict in favor of the plaintiffs awarding Diane Herceg \$69,000 in actual damages and \$100,000 exemplary damages and awarding Andy V. \$3,000 for the pain and mental suffering he endured as the bystander who discovered Troy's body and \$10,000 exemplary damages.]
+The jury returned a verdict in favor of the plaintiffs awarding Diane Herceg $69,000 in actual damages and $100,000 exemplary damages and awarding Andy V. $3,000 for the pain and mental suffering he endured as the bystander who discovered Troy's body and $10,000 exemplary damages.]
 
 ### Incitement
 
