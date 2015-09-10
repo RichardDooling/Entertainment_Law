@@ -5,57 +5,52 @@ subtitle: Entertainment Law
 chapter: Sources
 ---
 
-#Lawyers for the Talent
+# Lawyers for the Talent
 
 ###### By Richard Dooling
 
-##Sources
+## Sources
 
-[American Society of Composers, Authors, and Publishers (ASCAP).][ASCAP]
+### Textbooks
 
-[Allmusic.com.][Allmusic]
+* Weiler, P., and G. Myers. ["Entertainment, Media, and the Law: Text, Cases, and Problems, 4th Ed."][Entertainment] West Academic Publishing, 2011.
+* Burr, S. ["Entertainment Law: Cases and Materials in Established and Emerging Media, 1st Ed."][Burr] West Academic Publishing, 2011.
 
-August, J. ["Optioning Your Book."][August]
+### Other books
 
-[Authors Guild. "Improving Your Book Contract - Negotiation Tips for Nine Typical Clauses."][Improving]
+* Passman, D. ["All You Need to Know About the Music Business: Eighth Edition."][Passman] Free Press, 2012.
+* Crowell, T. ["The Pocket Lawyer for Comic Book Creators: A Legal Toolkit for Comic Book Artists and Writers, 1st ed."][Comic] Focal Press, 2014.
+* Crowell, T. ["The Pocket Lawyer for Filmmakers: A Legal Toolkit for Independent Producers."][Pocket] Focal Press, 2011.
+* Erickson, G., M. Halloran, and H. Tulchin. ["Independent Film Producer's Survival Guide: A Business and Legal Sourcebook, 3rd ed."][Independent] Schirmer Trade Books, 2010.
+* Balkin, R. ["A Writer's Guide to Contract Negotiations."][Balkin] Writers Digest Books, 1985.
+* Levine, M. ["Negotiating a Book Contract."][Levine] Asphodel Press, 2009.
 
-[Authors Guild Model Trade Book Contract and Guide.][Model]
+### Websites
 
-Balkin, R. ["A Writer's Guide to Contract Negotiations."][Balkin] Writers Digest Books, 1985.
+* [Google Scholar.][Google]
+* [Internet Movie Database.][imdb]
+* [Publishers Weekly.][Pub]
+* [The Hollywood Reporter, Esq.][THR]
 
-[Broadcast Music, Inc. (BMI).][BMI]
+### Organizations
 
-Burr, S. ["Entertainment Law: Cases and Materials in Established and Emerging Media, 1st Ed."][Burr] West Academic Publishing, 2011.
+* [The Authors Guild](https://www.authorsguild.org/)
+* [The Writers Guild of America](http://www.wga.org/)
+* [United States Copyright Office.][USCO]
+* [United States Patent and Trademark Office.][USPTO]
+* [American Society of Composers, Authors, and Publishers (ASCAP).][ASCAP]
+* [Allmusic.com.][Allmusic]
+* [Broadcast Music, Inc. (BMI).][BMI]
+* [World Intellectual Property Organization.][WIPO]
+* [Wikipedia.][Wiki]
 
-Crowell, T. ["The Pocket Lawyer for Comic Book Creators: A Legal Toolkit for Comic Book Artists and Writers, 1st ed."][Comic] Focal Press, 2014.
+### Good Articles
 
-Crowell, T. ["The Pocket Lawyer for Filmmakers: A Legal Toolkit for Independent Producers."][Pocket] Focal Press, 2011.
+* August, J. ["Optioning Your Book."][August]
+* [Authors Guild. "Improving Your Book Contract - Negotiation Tips for Nine Typical Clauses."][Improving]
+* [Authors Guild Model Trade Book Contract and Guide.][Model]
+* Liu, K. ["The Benefits of Copyright Registration."][Liu]
 
-Erickson, G., M. Halloran, and H. Tulchin. ["Independent Film Producer's Survival Guide: A Business and Legal Sourcebook, 3rd ed."][Independent] Schirmer Trade Books, 2010.
-
-[Google Scholar.][Google]
-
-[Internet Movie Database.][imdb]
-
-Levine, M. ["Negotiating a Book Contract."][Levine] Asphodel Press, 2009.
-
-Liu, K. ["The Benefits of Copyright Registration."][Liu]
-
-Passman, D. ["All You Need to Know About the Music Business: Eighth Edition."][Passman] Free Press, 2012.
-
-[Publishers Weekly.][Pub]
-
-[The Hollywood Reporter, Esq.][THR]
-
-[United States Copyright Office.][USCO]
-
-[United States Patent and Trademark Office.][USPTO]
-
-Weiler, P., and G. Myers. ["Entertainment, Media, and the Law: Text, Cases, and Problems, 4th Ed."][Entertainment] West Academic Publishing, 2011.
-
-[Wikipedia.][Wiki]
-
-[World Intellectual Property Organization.][WIPO]
 
 [Allmusic]: http://allmusic.com
 [ASCAP]: www.ascap.com 
