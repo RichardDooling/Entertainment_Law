@@ -1372,7 +1372,10 @@ Mainly how much? $50k, $100k, usually more.
 
 ##### Totally Optional: For Musicians & Recording Artists
 
-* [Harvard Law School Recording Artists Project: Copyright Basics](http://www.law.harvard.edu/academics/clinical/tlc/rap/rap-for-clients/copyright.html)
+* [Harvard Law School Recording Artists Project: Copyright Basics](http://www.law.harvard.edu/academics/clinical/tlc/rap/rap-for-clients/copyright.html).
+* [Hit Charade: Meet the bald Norwegians and other unknowns who actually
+create the songs that top the charts](http://www.theatlantic.com/magazine/archive/2015/10/hit-charade/403192/).
+* [The Song Machine: Inside the Hit Factory Hardcover – October 5, 2015 by John Seabrook](http://www.amazon.com/The-Song-Machine-Inside-Factory/dp/0393241920).
 
 [leslie]: http://lottfischer.com/general.php?category=Resources&subhead=Articles&headline=+When+does+an+Editor%E2%80%99s+input+create+a+Joint+Work+of+Authorship "When Does Creative Input Become Joint Authorship?"
 [ccnv]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=109+S.Ct.+2166&appflag=67.12 "Community For Creative Non-Violence v. Reid"
