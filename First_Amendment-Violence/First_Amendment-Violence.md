@@ -57,7 +57,7 @@ Or shall we allow civil liability in the form of lawsuits
 against content providers who publish material 
 that arguably amounts to incitement to violence? 
 
-In *Ginsberg v. New York* (discussed below), 
+In [*Ginsberg v. New York*][ginsberg] (discussed below), 
 the Supreme Court upheld a New York statute 
 that regulated obscenity-for-minors, 
 prohibiting the sale of *sexual* material that, 
@@ -102,14 +102,17 @@ Respondents, representing the video-game and software industries,
 brought a preenforcement challenge to the Act 
 in the United States District Court for the Northern District of California. 
 That court concluded that the Act violated the First Amendment 
-and permanently enjoined its enforcement. [*Video Software Dealers Assn. v. Schwarzenegger*](http://scholar.google.com/scholar_case?case=18016190414381938126) &hellip; 
+and permanently enjoined its enforcement. [*Video Software Dealers Assn. v. Schwarzenegger,*](http://scholar.google.com/scholar_case?case=18016190414381938126) &hellip; 
 The Court of Appeals affirmed, [*Video Software Dealers Assn. v. Schwarzenegger,* (9th Cir. 2009),](http://scholar.google.com/scholar_case?case=18016190414381938126) and we granted certiorari &hellip; 
 
 ### II
 
-California correctly acknowledges that video games qualify for First Amendment protection. 
-The Free Speech Clause exists principally to protect discourse on public matters, 
-but we have long recognized that it is difficult to distinguish politics from entertainment, 
+California correctly acknowledges 
+that video games qualify for First Amendment protection. 
+The Free Speech Clause exists principally 
+to protect discourse on public matters, 
+but we have long recognized 
+that it is difficult to distinguish politics from entertainment, 
 and dangerous to try. 
 "Everyone is familiar with instances of propaganda through fiction. 
 What is one man's amusement, teaches another's doctrine." [*Winters v. New York,* (S.Ct. 1948)](http://scholar.google.com/scholar_case?case=16314089118204976902). 
@@ -121,7 +124,7 @@ That suffices to confer First Amendment protection.
 Under our Constitution, "aesthetic and moral judgments 
 about art and literature &hellip; are for the individual to make, 
 not for the Government to decree, even with the mandate or approval of a majority." 
-[*United States v. Playboy Entertainment Group, Inc.,* (S.Ct. 2000)](http://scholar.google.com/scholar_case?case=11989907166283121695). 
+[*United States v. Playboy Entertainment Group, Inc.* (S.Ct. 2000)](http://scholar.google.com/scholar_case?case=11989907166283121695). 
 And whatever the challenges of applying the Constitution to ever-advancing technology, 
 "the basic principles of freedom of speech and the press, 
 like the First Amendment's command, do not vary" 
