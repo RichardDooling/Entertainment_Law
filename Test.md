@@ -67,3 +67,9 @@ Is *syntax highlighting* for the code searching spiders???
 
 ## adding another test sentence
 
+<<<<<<< HEAD
+=======
+New test sentence.
+
+ANother new test sentence. 9/24/2015
+>>>>>>> 92cad56cbdbd84ebb1c87ad65aaa33b9e673515a
