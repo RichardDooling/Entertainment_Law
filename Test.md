@@ -17,3 +17,5 @@ Test - Katie
 New test sentence.
 
 ANother new test sentence. 9/24/2015
+
+Sentence number three to test GUI
