@@ -75,3 +75,5 @@ chapter: Sources
 [USPTO]: http://www.uspto.gov/
 [Wiki]: http://en.wikipedia.org/
 [WIPO]: http://www.wipo.int/
+
+Note for Alexis. 25 Sept 2015
