@@ -72,4 +72,9 @@ Is *syntax highlighting* for the code searching spiders???
 New test sentence.
 
 ANother new test sentence. 9/24/2015
+<<<<<<< HEAD
 >>>>>>> 92cad56cbdbd84ebb1c87ad65aaa33b9e673515a
+=======
+
+Sentence number three to test GUI
+>>>>>>> 6ee3c8646a401a63be3fc0f54e8443c46c2d5d9a
