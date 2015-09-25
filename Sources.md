@@ -42,7 +42,7 @@ chapter: Sources
 * [Allmusic.com.][Allmusic]
 * [Broadcast Music, Inc. (BMI).][BMI]
 * [World Intellectual Property Organization.][WIPO]
-* [Wikipedia.][Wiki]
+* [Wikipedia][Wiki]
 
 ### Good Articles
 
