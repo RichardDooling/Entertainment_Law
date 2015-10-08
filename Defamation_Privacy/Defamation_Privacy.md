@@ -2345,13 +2345,27 @@ accordingly
 
 ##### 'American Hustle' Sparks $1 Million Libel Lawsuit 
 
-Former New Yorker writer and journalist, Paul Brodeur says his reputation was damaged by claims about microwaves that the film falsely attributes to him
+Former New Yorker writer and journalist, [Paul Brodeur says his reputation was damaged by claims about microwaves that the film falsely attributes to him.](http://www.hollywoodreporter.com/thr-esq/american-hustle-sparks-1-million-745296): 
 
-http://www.hollywoodreporter.com/thr-esq/american-hustle-sparks-1-million-745296
+> It's a very brief exchange in American Hustle: Jennifer Lawrence's character Roslyn tells her husband, Irving, played by Christian Bale, that microwaves take the nutrition out of food. "That's bullshit," Irving replies, and his wife shows him a magazine and says, "It's not bullshit. I read it in an article. Look, by Paul Brodeur."
 
-It's a very brief exchange in American Hustle: Jennifer Lawrence's character Roslyn tells her husband, Irving, played by Christian Bale, that microwaves take the nutrition out of food. "That's bullshit," Irving replies, and his wife shows him a magazine and says, "It's not bullshit. I read it in an article. Look, by Paul Brodeur."
+> The real Brodeur is a science journalist who was a staff writer at The New Yorker for nearly 40 years. He's even written books (such as The Zapping of America) about the dangers of microwave radiation. But he's never said that they take the nutrition out of food, he claims in a new lawsuit.
 
-The real Brodeur is a science journalist who was a staff writer at The New Yorker for nearly 40 years. He's even written books (such as The Zapping of America) about the dangers of microwave radiation. But he's never said that they take the nutrition out of food, he claims in a new lawsuit.
+[A judge is allowing Paul Brodeur to proceed with claims](http://www.hollywoodreporter.com/thr-esq/how-jennifer-lawrences-ditzy-character-784884) that in the film, 
+he was harmfully named as the source of information that
+microwaves take nutrition out of food.
+
+##### "Wolf of Wall Street" Defamation Lawsuit
+
+[Paramount (Almost) Beats 'Wolf of Wall Street' Defamation Lawsuit](http://www.hollywoodreporter.com/thr-esq/paramount-almost-beats-wolf-wall-829096)
+
+> Andrew Greene, who was on the board of directors at Stratton Oakmont when Jordan Belfort resigned after a federal law enforcement crackdown, filed the lawsuit in February 2014.
+
+> According to his complaint, he was the basis for the toupee-wearing character of Nicky "Rugrat" Koskoff, played by actor P.J. Byrne, who memorably was the subject of mean comments from others including Leonardo DiCaprio's Belfort, who remarked, "Swear to God, I want to choke him to death."
+
+> Greene says the film changed his nickname from "Wigwam" to "Rugrat," but that his likeness was unmistakable and that the film "portrayed [him] as a criminal, drug user, degenerate, depraved, and/or devoid of any morality or ethics."
+
+##### More
 
 * [*The People Versus Larry Flynt*][flynt] (stars Woody Harrelson and Courtney Love). This is a love song to the First Amendment directed by Czech director Milos Forman telling the tale of preacher Jerry Falwell's [landmark Supreme Court case][falwell] against Larry Flynt, the publisher of *Hustler Magazine* (on reserve in Schmid Library).
 * Amy J. Field, [A Curtain Call for Docudrama-Defamation Actions: A Clear Standard Takes a Bow](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr). Casenote discussing *Davis v. Costa-Gavaras* (SDNY 1987).

@@ -1176,6 +1176,14 @@ The judgment of the Court of Appeals is accordingly
 
 *Reversed.*
 
+#### Son of Sam Laws
+
+> In high-profile cases and cases that are closely tied to national security, namely convictions for terrorism and espionage, a Son of Sam clause is often worked into any plea bargain. This had been the case in the convictions of John Walker Lindh and Harold James Nicholson. As a result of their plea bargains, any and all profits made from book deals or movie rights would be handed over to the U.S. Treasury. Neither the convicts nor their families would be able to profit. As of 2010, neither Lindh nor Nicholson have had their crime cases publicized.
+
+> With the advent of the Internet and online sales, many Son of Sam laws are now targeting the sale of so-called "murderabilia". The constitutionality of many of these new laws is mostly untested at this point.
+
+> [Wikipedia: Son of Sam Law](https://en.wikipedia.org/wiki/Son_of_Sam_law).
+
 ## Transformation
 
 ### *Comedy III Productions v. Gary Saderup, Inc.*
