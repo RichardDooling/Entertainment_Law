@@ -70,7 +70,7 @@ We saw it in class. It bears rewatching.
 
 Artists invest time, talent, and money to produce intellectual property, 
 which consumers then presumably purchase the right to enjoy. Simply purchasing a copyrighted work (say, a book), however, does not grant the buyer all of the same rights held by the copyright owner.
-But artists may also wish to share their under various alternative licensing schemes: 
+But artists may also wish to share their work under various alternative licensing schemes: 
 [Copyleft](http://en.wikipedia.org/wiki/Copyleft), 
 [MIT license](http://opensource.org/licenses/MIT), 
 [Creative Commons](https://creativecommons.org/), and so on. Copyrights may also be transferred. 
@@ -177,12 +177,14 @@ in a particular sequence alongside audio,
 the Court found it met the requisite level of Copyright. 
 
 Even five distinctive musical notes are copyrightable. 
-Watch this video clip from 
-[*Close Encounters Of The Third Kind*](http://www.youtube.com/watch?v=mYCBgSRNjk0). 
-Beginning at the 5:00 mark, 
-the five second tones played to make contact with the alien ship 
-were created by famed movie composer John Williams 
-and a copyright successfully registered to protect them.
+In *Close Encounters Of The Third Kind*,
+a sci-fi movie from the 1970s by Steven Spielberg,
+humans seek to communicate with approaching alien spaceships 
+by using a distinctive series of five musical notes.
+Famed movie composer John Williams and the filmmakers 
+successfully registered a copyright to protect them.
+If you'd like to hear the notes, TURN DOWN THE VOLUME on your computer.
+It's a bit loud: [*Close Encounters Of The Third Kind* - five-note sequence](https://www.youtube.com/watch?v=kpsEqINeMS4). 
  
 ### Fixation
 
