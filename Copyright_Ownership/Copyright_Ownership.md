@@ -148,7 +148,7 @@ when it carefully draws the bounds of "joint authorship"
 so as to protect the legitimate claims 
 of both sole authors and coauthors.&hellip; 
 
-[T]he prevailing view strikes an appropriate balance 
+The prevailing view strikes an appropriate balance 
 in the domains of both copyright and contract law. 
 In the absence of contract, 
 the copyright remains with the one or more persons 
@@ -322,7 +322,14 @@ In the words of Francois La Rochefoucauld:
 Please read this case in its entirety by [downloading from Westlaw][ccnv], 
 or [reading at Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012). 
 
-This case is an important United States Supreme Court case decided on its facts and on a careful reading of the work for hire provisions of the Copyright Act. It has major implications in many areas of the law (contract, employment, intellectual property, torts), because it addresses the crucial status of an artist as either empolyee or independent contractor. 
+This case is an important United States Supreme Court case 
+decided on its facts 
+and on a careful reading 
+of the work for hire provisions of the Copyright Act. 
+It has major implications in many areas of the law 
+(contract, employment, intellectual property, torts), 
+because it addresses the crucial status of an artist 
+as either employee or independent contractor. 
 
 ## Licensing
 
