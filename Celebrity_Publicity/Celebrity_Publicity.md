@@ -1464,6 +1464,35 @@ holder.
 
 The judgment of the Court of Appeal is affirmed.
 
+### Davis v. Electronic Arts, Inc.
+
+###### Appeal from 9th Circuit Court of Appeals
+
+http://medialaw.bna.com/medw/display/link_res.adp?lt=email&fname=A0H4F2T4F5&lf=eml&emc=medw:medw:119
+
+Oct. 15 — A petition for Supreme Court review was filed Oct. 5 in a right of publicity case involving former National Football League players who sued Electronic Arts for including their likenesses in its Madden NFL video game without their permission (Elec. Arts Inc. v. Davis, U.S., No. 15-424, review sought 10/5/15).
+
+The U.S. Court of Appeals for the Ninth Circuit dismissed EA's transformative-use defense to the claims in January. Davis v. Elec. Arts Inc., , 43 Med.L.Rptr. 1073, 9th Cir., No. 12-15737, 1/6/15.
+
+In the Ninth Circuit, a person's right of publicity is not violated if their likeness is used in a transformative way—that is, if significant creative elements are added that transform the use into something more than just a celebrity likeness or imitation.
+
+However, the Ninth Circuit ruled that EA's use of the players' likenesses “in the performance of the same activity for which they are known in real life—playing football for an NFL team”—was not transformative.
+EA argued in the Supreme Court petition that the transformative-use test is “constitutionally perverse,” giving First Amendment protection “only to fanciful or distorted portrayals, not accurate or realistic ones.”
+The case would be only the second right of publicity case ever considered by the Supreme Court, after Zacchini v. Scripps-Howard Broadcasting Co., 433 U.S. 562, 2 Med.L.Rptr. 2089 (1977), in which the court ruled that a local news station had infringed a performer's publicity rights by broadcasting the entirety of his 15 second “human cannonball” routine without his permission.
+EA said that Zacchini “offers little to no guidance in cases involving mere depictions of individuals, as opposed to appropriation of their actual performances in full.”
+
+Right of publicity law currently exists under a patchwork of state laws and court decisions—and in some states, this right is not recognized at all. EA said the Supreme Court's review is “urgently needed to resolve conflicting authority” about the right of publicity and the First Amendment.
+The transformative-use test is utilized by the Third and Ninth Circuits, while four other circuits have held—under what is called the Rogers test—that the right of publicity is only violated if the use of a likeness amounts to an unauthorized commercial endorsement.
+EA said the Rogers test is more appropriate because it “confines the right of publicity to circumstances where its application does not violate the First Amendment.”
+
+EA argued that the transformative-use test should be subject to strict scrutiny because it “penalizes fully protected and valuable speech based on its content,” by restricting protected speech because it includes the likeness of another person.
+
+The question presented in the petition for writ of certiorari is “[w]hether the First Amendment protects a speaker against a state-law right-of-publicity claim that challenges the realistic portrayal of a person in an expressive work.”
+
+To contact the reporter on this story: Blake Brittain in Washington at bbrittain@bna.com
+
+To contact the editor responsible for this story: Mike Wilczek at mwilczek@bna.com
+
 ### Cases Mentioned In Class ##
 
 #### *Parks v. LaFace Records*
