@@ -46,7 +46,9 @@ The Copyright Act defines a "joint work" as:
 In [All You Need to Know About the Music Business][passman], 
 Donald Passman uses the following simple example:
 
-> Suppose you and your cousin Louis write a brilliant work together.&hellip; 
+> Suppose you and your cousin Louis write a brilliant song together. 
+> Which one of you owns it? 
+
 > [Section 201(a)][201] of the Copyright Act &hellip; 
 > says that you and Louis have created a **joint work**, 
 > meaning it was created jointly by the efforts of two or more people. 
@@ -61,11 +63,9 @@ Donald Passman uses the following simple example:
 > And Louie can do the same.
 
 What if you write only the music and Louie writes only the lyrics? 
-Can you take back your music, cut out Louis, 
+Can you take back your music, cut out Louie, 
 and ask somebody else to write new lyrics?
 No. Passman compares creating a joint work to adding water to a ball of clay and squishing it. Or scrambling the white and the yolk of an egg. 
-
-Passman puts it this way:
 
 > The law says that, 
 > even if two people create separate, distinct parts of a work, 
@@ -75,6 +75,8 @@ Passman puts it this way:
 > You can't just pick up and leave each other. 
 > Even if you add new lyrics, 
 > Louis has a percentage of the song.
+
+[All You Need to Know About the Music Business][passman].
 
 ### Copyrightable Contributions
 
