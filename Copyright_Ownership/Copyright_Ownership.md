@@ -76,7 +76,7 @@ No. Passman compares creating a joint work to adding water to a ball of clay and
 > Even if you add new lyrics, 
 > Louis has a percentage of the song.
 
-[All You Need to Know About the Music Business][passman].
+[All You Need to Know About the Music Business][passman], by Donald Passman.
 
 ### Copyrightable Contributions
 
@@ -1311,7 +1311,7 @@ no opinion on its applicability to these facts.
 
 ### Good Copy Bad Copy
 
-Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](http://blip.tv/good-copy-bad-copy/good-copy-bad-copy-full-feature-364089), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
+Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](https://www.youtube.com/watch?v=WEKl5I_Q044), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
 
 * [Why Hasn't The Recording Industry Sued Girl Talk?](https://www.techdirt.com/articles/20090707/0237205466.shtml)
 * [Why The Music Industry Isn’t Suing Mashup Star ‘Girl Talk’](https://gigaom.com/2010/11/16/419-why-the-music-industry-isnt-suing-mashup-star-girl-talk/)
