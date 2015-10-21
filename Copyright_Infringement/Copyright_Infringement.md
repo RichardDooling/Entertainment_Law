@@ -1464,6 +1464,8 @@ The Court found that "this last factor is undoubtedly the single most important 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=16686162998040575773)
 * [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=510us569&appflag=67.12).
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Campbell_v._Acuff-Rose_Music,_Inc.). 
+* [Listen to Roy Orbison's "Pretty Woman"](https://www.youtube.com/watch?v=mHPgco6GQk8).
+* [Listen to Two Live Crew's parody of "Pretty Woman"](https://www.youtube.com/watch?v=65GQ70Rf_8Y).
 
 JUSTICE SOUTER delivered the opinion of the Court.
 

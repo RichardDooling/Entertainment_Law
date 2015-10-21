@@ -39,6 +39,47 @@ The Copyright Act defines a "joint work" as:
 > be merged into inseparable or interdependent parts 
 > of a unitary whole.
 
+[§ 101 - Definitions][101]
+
+### Who Controls the Copyright?
+
+In [All You Need to Know About the Music Business][passman], 
+Donald Passman uses the following simple example:
+
+> Suppose you and your cousin Louis write a brilliant song together. 
+> Which one of you owns it? 
+
+> [Section 201(a)][201] of the Copyright Act &hellip; 
+> says that you and Louis have created a **joint work**, 
+> meaning it was created jointly by the efforts of two or more people. 
+> When you have a joint work, 
+> either of the authors/owners can deal *non-exclusively* 
+> with the *entire* composition, 
+> subject to the obligation to pay the other person 
+> his or her share of the proceeds. 
+> That means you can give all the non-exclusive licenses you want 
+> to record companies, film companies, etc., 
+> subject to paying Louie for his share of the song. 
+> And Louie can do the same.
+
+What if you write only the music and Louie writes only the lyrics? 
+Can you take back your music, cut out Louie, 
+and ask somebody else to write new lyrics?
+No. Passman compares creating a joint work to adding water to a ball of clay and squishing it. Or scrambling the white and the yolk of an egg. 
+
+> The law says that, 
+> even if two people create separate, distinct parts of a work, 
+> they each own an interest in the *whole copyright*, 
+> not just their own contribution. 
+> Thus, Louie owns half the music and half the lyrics, and so do you. 
+> You can't just pick up and leave each other. 
+> Even if you add new lyrics, 
+> Louis has a percentage of the song.
+
+[All You Need to Know About the Music Business][passman], by Donald Passman.
+
+### Copyrightable Contributions
+
 To be considered joint authors, each author must:
 
 1. Contribute *copyrightable* elements to the joint work, and
@@ -48,7 +89,7 @@ These rules govern WHO OWNS THE COPYRIGHT at the outset.
 As always, the parties are free to adjust ownership 
 by making deals for partial ownership of the copyright. 
 
-> [T]he person with noncopyrightable material 
+> The person with noncopyrightable material 
 > who proposes to join forces with a skilled writer
 > to produce a copyrightable work 
 > is free to make a contract to disclose his or her material 
@@ -148,7 +189,7 @@ when it carefully draws the bounds of "joint authorship"
 so as to protect the legitimate claims 
 of both sole authors and coauthors.&hellip; 
 
-[T]he prevailing view strikes an appropriate balance 
+The prevailing view strikes an appropriate balance 
 in the domains of both copyright and contract law. 
 In the absence of contract, 
 the copyright remains with the one or more persons 
@@ -322,7 +363,14 @@ In the words of Francois La Rochefoucauld:
 Please read this case in its entirety by [downloading from Westlaw][ccnv], 
 or [reading at Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012). 
 
-This case is an important United States Supreme Court case decided on its facts and on a careful reading of the work for hire provisions of the Copyright Act. It has major implications in many areas of the law (contract, employment, intellectual property, torts), because it addresses the crucial status of an artist as either empolyee or independent contractor. 
+This case is an important United States Supreme Court case 
+decided on its facts 
+and on a careful reading 
+of the work for hire provisions of the Copyright Act. 
+It has major implications in many areas of the law 
+(contract, employment, intellectual property, torts), 
+because it addresses the crucial status of an artist 
+as either employee or independent contractor. 
 
 ## Licensing
 
@@ -1263,7 +1311,7 @@ no opinion on its applicability to these facts.
 
 ### Good Copy Bad Copy
 
-Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](http://blip.tv/good-copy-bad-copy/good-copy-bad-copy-full-feature-364089), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
+Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](https://www.youtube.com/watch?v=WEKl5I_Q044), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
 
 * [Why Hasn't The Recording Industry Sued Girl Talk?](https://www.techdirt.com/articles/20090707/0237205466.shtml)
 * [Why The Music Industry Isn’t Suing Mashup Star ‘Girl Talk’](https://gigaom.com/2010/11/16/419-why-the-music-industry-isnt-suing-mashup-star-girl-talk/)
@@ -1387,3 +1435,4 @@ create the songs that top the charts](http://www.theatlantic.com/magazine/archiv
 [106]: http://www.copyright.gov/title17/92chap1.html#106 "Section 106: Exlusive rights in copyrighted works"
 [201]: http://www.copyright.gov/title17/92chap2.html#201 "Section 201: Ownership of Copyright"
 [beastie]: https://www.youtube.com/watch?v=KARQOgivaGA
+[passman]: http://www.amazon.com/Need-Know-About-Music-Business/dp/1451682468/inscape-20 "Donald Passman, All You Need To Know About The Music Business"
