@@ -817,6 +817,8 @@ copyright in the underlying musical composition.
 ###### United States Court of Appeals Ninth Circuit (2003)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=7229536370368292204)
+* [James Newton: Choir](http://www.dailymotion.com/video/x7vqs7_james-newton-choir_music)
+* [Beastie Boys: Pass The Mic](https://www.youtube.com/watch?v=NpsvBvwRuf0)
 
 Opinion by Chief Judge SCHROEDER. Dissent by Judge GRABER.
 
