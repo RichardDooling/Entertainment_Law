@@ -1,7 +1,8 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Lawyers For The Talent
+subtitle: Entertainment Law
+chapter: Trademark
 ---
 
 ## Trademark 

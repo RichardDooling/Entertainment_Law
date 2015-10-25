@@ -1,7 +1,8 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Lawyers For The Talent 
+subtitle: Entertainment Law
+chapter: Idea Protection
 ---
 
 ## Idea Protection
@@ -585,9 +586,8 @@ respectfully dissent.
 ##### Totally Optional Reading & Viewing
 
 * [Pitch the idea? Or just write it and be done?](https://www.youtube.com/watch?v=8ExFYpzso8g)
-* *Passman*, Chapter 18, Songwriter Deals, Creative Control & Moral Rights (pgs. 296-297).  
+* *Passman*, Chapter 18, Songwriter Deals, Creative Control & Moral Rights (pgs. 296-297). 
 * [Ninth Circuit Revives California Idea Submission Claims](http://www.lexology.com/library/detail.aspx?g=352aeccb-2f72-413a-8c12-881b1a1e3d9c), by Anna R. Buono.
-
 
 
 <!-- BEGIN COMMENT -->
