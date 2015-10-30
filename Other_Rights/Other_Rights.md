@@ -371,7 +371,7 @@ Indeed, in cases of alleged copyright infringement it has long been
 appropriate to examine the quantitative and qualitative degree to which
 the allegedly infringed work has been borrowed from, and not
 simply the proportion of the allegedly infringing work that is made up
-of the copyrighted material. *See* [*Harper & Row v. Nation Enterprises*, (Sct. 1985)][harper].&hellip; Accordingly, the propriety of the "based  upon" credit
+of the copyrighted material. *See* [*Harper & Row v. Nation Enterprises* (Sct. 1985)][harper].&hellip; Accordingly, the propriety of the "based  upon" credit
 should have been evaluated with less emphasis on the proportion of the
 film attributable to the Short Story, and with more emphasis on the
 proportion, in quantitative and qualitative terms, of the Short Story
@@ -487,8 +487,8 @@ permission to use the Smithee name.
 
 ###### United States Court of Appeals 9th Circuit (1998)
 
-[Google Scholar link](https://scholar.google.com/scholar_case?q=160+F.3d+537&hl=en&as_sdt=6,28&case=5597275936661640474&scilh=0)
-[Lexis link](https://advance.lexis.com/api/permalink/0a5d77e8-5a72-441d-9348-37b0c39e8b5d/?context=1000516)
+* [Google Scholar link](https://scholar.google.com/scholar_case?q=160+F.3d+537&hl=en&as_sdt=6,28&case=5597275936661640474&scilh=0)
+* [Lexis link](https://advance.lexis.com/api/permalink/0a5d77e8-5a72-441d-9348-37b0c39e8b5d/?context=1000516)
 
 KOZINSKI, Circuit Judge:
 

@@ -1228,6 +1228,7 @@ The price may vary greatly, but it must be negotiated up front at the time the o
 ### More on Movie Options
 
 * See [Would My Book Make A Good Movie?](http://dooling.com/index.php/2006/02/23/would-my-book-make-a-good-movie/) by Richard Dooling.
+* [Pitch scene from Sunset Blvd](http://www.tcm.com/mediaroom/video/376364/Sunset-Blvd-Movie-Clip-Ty-Power-As-A-Shortstop.html.html), why "free" options are a bad idea.
 
 
 [goldseal]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=286+P.2d+954&appflag=67.12 "Gold Seal v. RKO"

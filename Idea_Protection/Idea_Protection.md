@@ -7,7 +7,12 @@ chapter: Idea Protection
 
 ## Idea Protection
 
-If the screenwriter has not yet written the screenplay she has in mind, she is unable to rely on copyright law to protect her idea. But she wants to tell a producer about her idea in case the producer wants to hire her to write it. How can you prevent the producer from stealing the idea and developing it with someone else?
+If the screenwriter has not yet written the screenplay she has in mind, 
+she is unable to rely on copyright law to protect her idea. 
+But what if she wants to tell a producer about her idea, 
+in case the producer wants to hire her to write it? 
+How can she prevent the producer from stealing the idea 
+and developing it with someone else?
 
 ## *Desny v. Wilder,* (CA. 1956).
 
@@ -59,7 +64,7 @@ Here, as conceded by defendants for purposes of their summary judgment motion, p
 
 ## *Montz v. Pilgrim Films & Television, Inc.*
 
-###### United States Courts of Appeal Ninth Circuit (2011)
+###### United States Court of Appeals Ninth Circuit (2011)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=3302514421955048097)
 
@@ -69,16 +74,17 @@ In Hollywood,
 writers commonly submit copyrighted scripts to producers
 with the understanding that if the script is used, 
 the producer must compensate the writer for the use of the copyrighted material. 
-But what happens when the producer uses the idea or concept embodied in the
-script, but doesn't pay? The Supreme Court of California, in 1956,
-answered this question by recognizing an implied contractual right to
-compensation when a writer submits material to a producer with the
-understanding that the writer will be paid if the producer uses the
-concept. [*Desny v. Wilder* (S.Ct. 1956)](http://scholar.google.com/scholar_case?case=3141417353271271191).
+But what happens when the producer 
+uses the idea or concept embodied in the script, but doesn't pay? 
+The Supreme Court of California, in 1956,
+answered this question by recognizing an implied contractual right 
+to compensation when a writer submits material to a producer 
+with the understanding that the writer will be paid 
+if the producer uses the concept. [*Desny v. Wilder* (CA 1956)][desny]
 
 A so-called "*Desny* claim" 
 has remained viable under California law for over fifty years. 
-This court applied that California law in [*Grosso v. Miramax Film Corp.* (9th Cir. 2004),](http://scholar.google.com/scholar_case?case=9970479884551762667) where we held that such an implied contractual claim is not preempted by federal copyright law. We
+This court applied that California law in [*Grosso v. Miramax Film Corp.* (9th Cir. 2004),][grosso] where we held that such an implied contractual claim is not preempted by federal copyright law. We
 explained that the contractual claim requires that there be an
 expectation on both sides that use of the idea requires compensation,
 and that such bilateral understanding of payment constitutes an
@@ -95,28 +101,36 @@ Players, Inc.,* (9th Cir. 1986)](http://scholar.google.com/scholar_case?case=999
 
 We recently followed *Grosso* in [*Benay v. Warner Bros. Entm't, Inc.,*
 (9th Cir. 2010),](http://scholar.google.com/scholar_case?case=1156296074793113648)
-and held a contractual claim was not preempted. We said that "[c]ontract
-law, whether through express or implied-in-fact contracts, is the most
-significant remaining state-law protection for literary or artistic
-ideas." *Id.* at 629. The three judge panel in this case, however, found
+and held a contractual claim was not preempted. 
+We said that "contract law, 
+whether through express or implied-in-fact contracts, 
+is the most significant remaining state-law protection for literary or artistic
+ideas." *Id.* The three judge panel in this case, however, found
 a similar claim preempted.
 
-We again hold that copyright law does not preempt a contract claim where
-plaintiff alleges a bilateral expectation that he would be compensated
-for use of the idea, the essential element of a *Desny* claim that
-separates it from preempted claims for the use of copyrighted material.
-We see no meaningful difference between the conditioning of use on
-payment in *Grosso* and conditioning use in this case on the granting of
-a partnership interest in the proceeds of the production. Montz, as did
-the plaintiffs in *Desny* and *Grosso,* has alleged he revealed his
-concept to defendants reasonably expecting to be compensated, if his
-concept was used. We conclude that the district court's judgment
+We again hold that copyright law does not preempt a contract claim 
+where plaintiff alleges a bilateral expectation 
+that he would be compensated for use of the idea, 
+the essential element of a *Desny* claim 
+that separates it from preempted claims 
+for the use of copyrighted material.
+We see no meaningful difference 
+between the conditioning of use on payment in *Grosso* 
+and conditioning use in this case 
+on the granting of a partnership interest in the proceeds of the production. 
+Montz, as did the plaintiffs in *Desny* and *Grosso,* 
+has alleged he revealed his concept to defendants 
+reasonably expecting to be compensated, 
+if his concept was used.
+We conclude that the district court's judgment
 dismissing the contractual claim as preempted must be reversed.
 
-Plaintiffs' complaint also alleged a claim under California law for
-breach of confidence. The district court dismissed it as preempted, as
-well, and the panel affirmed. We also reverse the judgment dismissing
-that claim and remand both for further proceedings.
+Plaintiffs' complaint also alleged a claim under California law 
+for breach of confidence. 
+The district court dismissed it as preempted, as well, 
+and the panel affirmed. 
+We also reverse the judgment dismissing that claim 
+and remand both for further proceedings.
 
 ### I. Factual Background
 
@@ -145,9 +159,9 @@ Sci-Fi Channel based on the plaintiffs' materials. The show, called
 *Ghost Hunters,* starred Hawes as the leader of a team of investigators
 who travel across the country to study paranormal activity.
 
-Plaintiffs' complaint specifically alleged that defendants breached an
-implied-in-fact contract. The complaint described the terms of the
-agreement:
+Plaintiffs' complaint specifically alleged 
+that defendants breached an implied-in-fact contract. 
+The complaint described the terms of the agreement:
 
 > Plaintiffs communicated their ideas and creative concepts for the
 > "Ghost Hunters" 
@@ -172,7 +186,7 @@ expected to receive a share of the profits derived from any use of the
 idea:
 
 > The Plaintiffs presented their ideas for the "Ghost Hunter" Concept to
-> the Defendants' [sic] in confidence, pursuant to the custom and
+> the Defendants in confidence, pursuant to the custom and
 > practice of the entertainment industry, for the express purpose of
 > offering to partner with the Defendants in the production, broadcast
 > and distribution of the Concept. Accordingly, the Plaintiffs
@@ -191,13 +205,15 @@ under California law of breach of confidence.
 
 ### II. Procedural Background
 
-Defendants moved to dismiss the complaint under Federal Rule of Civil
-Procedure 12(b)(6) &hellip; The district court granted in part and denied in part the
-defendants' motion. The court concluded that the complaint alleged facts
-sufficient to state a federal copyright claim, but that federal
-copyright law preempted the plaintiffs' state-law claims. The court
-dismissed the state-law claims with prejudice and without leave to
-amend.
+Defendants moved to dismiss the complaint 
+under Federal Rule of Civil Procedure 12(b)(6) &hellip; 
+The district court granted in part and denied in part 
+the defendants' motion. 
+The court concluded that the complaint alleged facts
+sufficient to state a federal copyright claim, 
+but that federal copyright law preempted the plaintiffs' state-law claims. 
+The court dismissed the state-law claims with prejudice 
+and without leave to amend.
 
 Plaintiffs amended their copyright claim and added Universal Television
 Networks as a defendant. Subsequently, the parties stipulated to the
@@ -215,52 +231,61 @@ majority of active judges.
 
 ### III. California Implied-in-Fact Contract Law
 
-Writers in the Hollywood film industry often submit scripts to producers, 
-or set up meetings with them, in the hope of selling them scripts and concepts for movies. 
+Writers in the Hollywood film industry 
+often submit scripts to producers, 
+or set up meetings with them, 
+in the hope of selling them scripts and concepts for movies. 
 The practice has carried over into television. 
-Since the writer is looking for someone to turn the written work into an
-entertainment production, writers often pitch scripts or concepts to
-producers with the understanding that the writer will be paid if the
-material is used. Since an idea cannot be copyrighted, a concept for a
-film or television show cannot be protected by a copyright. But the concept can still be stolen if the studio violates an implied contract to pay the writer for using it.
+Since the writer is looking for someone to turn the written work 
+into an entertainment production, 
+writers often pitch scripts or concepts to producers 
+with the understanding that the writer will be paid 
+if the material is used. 
+Since an idea cannot be copyrighted, 
+a concept for a film or television show cannot be protected by a copyright. 
+But the concept can still be stolen 
+if the studio violates an implied contract to pay the writer for using it.
 
-In *Desny,* the California Supreme Court recognized that a writer and
-producer form an implied contract under circumstances where both
-understand that the writer is disclosing his idea on the condition that
-he will be compensated if it is used. [*Desny*](http://scholar.google.com/scholar_case?case=3141417353271271191).
-There, defendant Billy Wilder, famed director of *Sunset Boulevard* and
-*Witness for the Prosecution,* allegedly entered into an implied
-contractual arrangement that was initiated when the plaintiff telephoned
-Wilder's office and pitched a movie idea to Wilder's secretary who,
+In *Desny,* the California Supreme Court recognized 
+that a writer and producer form an implied contract 
+under circumstances where both understand 
+that the writer is disclosing his idea on the condition 
+that he will be compensated if it is used. [*Desny*][desny]. 
+There, defendant Billy Wilder, 
+famed director of *Sunset Boulevard* and *Witness for the Prosecution,* 
+allegedly entered into an implied contractual arrangement 
+that was initiated when the plaintiff telephoned Wilder's office 
+and pitched a movie idea to Wilder's secretary who,
 along with Wilder, understood Wilder was to pay if he used the story.
-*Id.* at 273-74. Wilder produced a film, *Ace in the Hole,* allegedly
+*Id.* Wilder produced a film, *Ace in the Hole,* allegedly
 based on the idea plaintiff had pitched for a movie inspired by the
 "life story of Floyd Collins who was trapped [in a cave] and made
-sensational news for two weeks." *Id.* at 262. Wilder allegedly failed
+sensational news for two weeks." *Id.* Wilder allegedly failed
 to compensate the plaintiff, and the California Supreme Court held that,
 given the entertainment industry norms, the plaintiff had sufficiently
-pled the breach of an implied contract to pay for use of his idea. The
+plead the breach of an implied contract to pay for use of his idea. The
 issue here is whether copyright law now preempts such claims.
 
 ### IV. Copyright Preemption
 
 The Copyright Act of 1976 expressly preempts state claims where the
-plaintiff's work "come[s] within the subject matter of copyright" and
+plaintiff's work "comes within the subject matter of copyright" and
 the state law grants "legal or equitable rights that are equivalent to
 any of the exclusive rights within the general scope of copyright."
-&hellip;[T]he scope of copyright subject matter does not extend to
+&hellip; T he scope of copyright subject matter does not extend to
 ideas that are not within a fixed medium. Section 301(b) specifically
 excludes non-fixed ideas from the Copyright Act's scope; the statute
 describes "works of authorship not fixed in any tangible medium of
 expression" as "subject matter that does not come within the subject
-matter of copyright." 17 U.S.C. § 301(b). Ideas that are still purely
-airborne are thus not even within the subject matter of copyright. Once
-an idea has been written down or otherwise recorded, however, we have
-recognized that it satisfies the Copyright Act's writing requirement
+matter of copyright." 17 U.S.C. § 301(b). 
+Ideas that are still purely airborne 
+are thus not even within the subject matter of copyright. 
+Once an idea has been written down or otherwise recorded, however, 
+we have recognized that it satisfies the Copyright Act's writing requirement
 because it is fixed in a tangible medium. 
 
 For preemption purposes, ideas and concepts that are fixed in a tangible
-medium fall within the scope of copyright. &hellip;[F]ixed ideas falls
+medium fall within the scope of copyright. &hellip; Fixed ideas falls
 within the subject matter of copyright and thus satisfies the first
 prong of the statutory preemption test, despite the exclusion of fixed
 ideas from the scope of actual federal copyright protection.
@@ -273,7 +298,9 @@ are qualitatively different from the rights protected by copyright. In
 *Grosso,* we held that the rights created under California law emanating
 from *Desny* were qualitatively different from the rights protected by
 federal copyright law because a *Desny* claim includes an added element:
-an agreement to pay for use of the disclosed ideas. Contract claims generally survive preemption because they require proof of such an extra element. 
+an agreement to pay for use of the disclosed ideas. 
+Contract claims generally survive preemption 
+because they require proof of such an extra element. 
 
 The California Courts of Appeal have uniformly concluded that *Desny*
 claims are not preempted because they flow from agreements and
@@ -282,32 +309,28 @@ The California decisions focus on the personal nature of the
 relationship formed in idea submission cases: "The creation of an
 implied-in-fact contract between an author, on the one hand, and an
 agent, producer, or director, on the other hand, is of such a personal
-nature that it is effective only between the contracting parties."
-[*Rokos,* 182 Cal.App.3d at 617, 227 Cal.Rptr.
-480](http://scholar.google.com/scholar_case?case=11352233580490761830)
-(citing [*Chandler v. Roach,* 156 Cal.App.2d 435, 441, 319 P.2d 776
-(1957)](http://scholar.google.com/scholar_case?case=12795840117616573798)).
-Thus, it is unlike a copyright that is a public monopoly. The rights protected
-under federal copyright law are not the same as the rights asserted in a
-*Desny* claim, and the California state courts have recognized this
+nature that it is effective only between the contracting parties." &hellip; 
+Thus, it is unlike a copyright that is a public monopoly. 
+The rights protected under federal copyright law 
+are not the same as the rights asserted in a *Desny* claim, 
+and the California state courts have recognized this
 consistently over the decades.
 
 In recent years, litigation has, not surprisingly, moved to the federal
 courts where defendants have hoped for greater success in pressing for
-copyright preemption&hellip;
+copyright preemption.&hellip;
 
-In a later case, however, a district court held that an implied-in-fact
-contract claim survived Copyright Act preemption because it was
-substantively different from a copyright claim: "[T]he whole purpose of
-the contract was to protect Plaintiff's rights to his ideas beyond those
-already  protected by
-the Copyright Act. . . ." [*Groubert v. Spyglass Entm't Group,* (C.D.Cal. July 23, 2002)](http://scholar.google.com/scholar_case?about=5654145615804941089).
-Nimmer expressly approved this decision. We
-agreed with this assessment when we decided in *Grosso* that copyright
-law does not preempt an implied contractual claim to compensation for
-use of a submitted idea. We reaffirm that rule today.
-
-\* \* \*
+In a later case, however, a district court held 
+that an implied-in-fact contract claim survived Copyright Act preemption 
+because it was substantively different from a copyright claim: 
+"The whole purpose of the contract 
+was to protect Plaintiff's rights to his ideas 
+beyond those already protected by the Copyright Act.&hellip;" [*Groubert v. Spyglass Entm't Group,* (C.D.Cal. 2002)](http://scholar.google.com/scholar_case?about=5654145615804941089).
+Nimmer expressly approved this decision. 
+We agreed with this assessment 
+when we decided in *Grosso* 
+that copyright law does not preempt an implied contractual claim to compensation for
+use of a submitted idea. We reaffirm that rule today.&hellip; 
 
 Plaintiffs' claim for breach of confidence also survives copyright
 preemption. The claim protects the duty of trust or confidential
@@ -340,22 +363,23 @@ for further proceedings on plaintiffs' remaining claims.
 O'SCANNLAIN, Circuit Judge, Joined by GOULD, TALLMAN and BEA, Circuit
 Judges, dissenting:
 
-Montz does not claim to have sold his rights as a copyright owner. To
-the contrary, he alleges that he retained those rights, and that Pilgrim
-implicitly promised 
-*not* to use or to disclose his ideas *without his consent.* As the
-district court properly held, an action to enforce a promise not to use
+Montz does not claim to have sold his rights as a copyright owner. 
+To the contrary, he alleges that he retained those rights, 
+and that Pilgrim implicitly promised 
+*not* to use or to disclose his ideas *without his consent.* 
+As the district court properly held, 
+an action to enforce a promise not to use
 or to disclose ideas embodied in copyrighted material without
 authorization asserts rights equivalent to those protected by the
 Copyright Act. Accordingly, the district court's determination that the
 Copyright Act preempts Montz's claims should be affirmed. I respectfully
-dissent from the Court's opinion to the contrary.
+dissent from the Court's opinion to the contrary.&hellip; 
 
 ### I
 
- &hellip;
-
-I shall address only the second prong [of the preemption analysis]: whether Montz's claims are "equivalent" to the exclusive rights afforded to copyright owners by section 106.
+I shall address only the second prong [of the preemption analysis]: 
+whether Montz's claims are "equivalent" 
+to the exclusive rights afforded to copyright owners by section 106.
 
 #### A
 
@@ -371,10 +395,10 @@ concepts without compensation and *without obtaining the Plaintiffs'
 consent,*" (3) "the Plaintiffs justifiably expected to receive a share
 of any profits and credit that might be derived from the exploitation of
 [their] ideas and concepts," and (4) "by producing and broadcasting the
-Concept," "[t]he Defendants breached their implied agreement not to
+Concept," "the Defendants breached their implied agreement not to
 disclose, divulge or exploit the Plaintiffs' ideas and concepts *without
 the express consent of the Plaintiffs,* and to share with the Plaintiffs
-. . . the profits and credit for their idea and concepts." (emphasis
+&hellip; the profits and credit for their idea and concepts." (emphasis
 added).
 
 To distinguish itself from a copyright claim, a state law claim "must
@@ -382,9 +406,8 @@ protect rights which are qualitatively different from the copyright
 rights." [*Laws* at
 1143](http://scholar.google.com/scholar_case?case=16156934007444564709)
 (internal quotation marks omitted). This requires that the state claim
-have an "extra element which transforms the nature of the action." *Id.*
-(internal quotation marks omitted). Montz's breach-of-implied-contract
-claim fails this test.
+have an "extra element which transforms the nature of the action." *Id.* 
+Montz's breach-of-implied-contract claim fails this test.
 
 Under section 106, a copyright owner has the exclusive rights to
 reproduce, to distribute, and to display the copyrighted work, as well
@@ -392,13 +415,13 @@ as to prepare derivative works based on the copyrighted work. 17 U.S.C.
 § 106. Section 106 also provides a copyright owner with the exclusive
 rights  to authorize
 such reproduction, distribution, display, and preparation. *Id.* Montz
-alleges that "by producing and broadcasting" *Ghost Hunters,* "[t]he
+alleges that "by producing and broadcasting" *Ghost Hunters,* "the
 Defendants breached their implied agreement not to disclose, divulge or
-exploit the Plaintiffs' ideas and concepts without the[ir] express
+exploit the Plaintiffs' ideas and concepts without their express
 consent." In other words, Montz asserts that Pilgrim produced and
 broadcast a television program derived from Montz's screenplays, video,
 and other materials *without authorization.* These rights are equivalent
-to the rights of copyright owners under section 106—namely, the
+to the rights of copyright owners under section 106---namely, the
 exclusive rights to authorize reproduction, distribution, and display of
 original works, and to authorize preparation of derivative works. 
 
@@ -407,18 +430,20 @@ original works, and to authorize preparation of derivative works.
 With respect, I suggest the majority does not appreciate the
 significance of Montz's refusal to authorize Pilgrim to use the ideas
 embodied in his materials. This is not the same as
-authorizing Pilgrim to use his ideas so long as it pays him. A copyright
-is not just the right to receive money upon the use of a work; it is
-"the right to control the work, including the decision to make the work
+authorizing Pilgrim to use his ideas so long as it pays him. 
+A copyright is not just the right to receive money upon the use of a work; 
+it is "the right to control the work, 
+including the decision to make the work
 available to or withhold it from the public." [*Laws* at
-1137](http://scholar.google.com/scholar_case?case=16156934007444564709). Indeed, because a
-copyright gives its owner a property right—not merely a liability
-right—injunctive relief for copyright infringement is provided for by
+1137](http://scholar.google.com/scholar_case?case=16156934007444564709). 
+Indeed, because a copyright gives its owner 
+a property right---not merely a liability right---injunctive relief 
+for copyright infringement is provided for by
 Congress, and is routinely granted by courts. 
 
 To be sure, many copyright owners choose to sell the right to control
-their work. But a copyright holder may turn down money—or accept less
-money—in exchange for retaining more control over, and more involvement
+their work. But a copyright holder may turn down money---or accept less
+money---in exchange for retaining more control over, and more involvement
 with, his work. For instance, Matt Damon and Ben Affleck famously
 refused to sell the rights to *Good Will Hunting* until they were
 promised starring roles in the film. Such is
@@ -430,32 +455,32 @@ materials without his consent.
 
 Thus, Montz does not claim to have sold the rights to the ideas embodied
 in his materials, as did the plaintiff in [*Grosso v. Miramax Film
-Corp.,* (9th Cir.2004)](http://scholar.google.com/scholar_case?case=9970479884551762667).
+Corp.,* (9th Cir. 2004)][grosso].
 *Grosso* involved a particular type of breach-of-implied-contract claim,
 the elements of which the California Supreme Court elucidated in [*Desny
-v. Wilder,* (1956)](http://scholar.google.com/scholar_case?case=3141417353271271191).
+v. Wilder,* (1956)][desny]
 To state a *Desny* claim, the plaintiff must plead that he "prepared the
 work, disclosed the work to the offeree for sale, and did so under
 circumstances from which it could be concluded that the offeree
 voluntarily accepted the disclosure knowing the conditions on which it
 was tendered and the reasonable value of the work." [*Grosso,* at
-967](http://scholar.google.com/scholar_case?case=9970479884551762667).
+967][grosso].
 
 "[M]irror[ing] the requirements of *Desny,*" the complaint in *Grosso*
 alleged the plaintiff had submitted a movie script to the defendants
-"with the understanding and expectation . . . that [he] would be
-reasonably compensated for its use by Defendants." *Id.* (internal
-quotation marks omitted). We concluded that the defendants' "implied
+"with the understanding and expectation &hellip; that [he] would be
+reasonably compensated for its use by Defendants." *Id.* 
+We concluded that the defendants' "implied
 promise to pay" for use of the idea embodied in the script constituted
-"an \`extra element' for preemption purposes." *Id.* at 968. The subject
+"an 'extra element' for preemption purposes." *Id.* at 968. The subject
 of the implied contract, then, was the sale of the plaintiff's idea. The
 plaintiff asserted that he had "disclosed [his] work to the offeree for
 sale," and that, by using the ideas embodied in his work, the offeree
 had implicitly agreed to pay for it. *Id.* at 967.
 
 By contrast, Montz alleges that he retained his rights as a copyright
-owner. Montz "presented [his] ideas for the \`Ghost Hunter' Concept to
-the Defendants[ ] . . . for the express purpose of offering to partner
+owner. Montz "presented [his] ideas for the 'Ghost Hunter' Concept to
+the Defendants &hellip; for the express purpose of offering to partner
 with the Defendants in the production, broadcast and distribution of the
 Concept." Pilgrim rejected the offer but allegedly promised implicitly
 not to use Montz's ideas "without [his] consent." Therefore, according
@@ -477,12 +502,12 @@ ideas were ever used. But this fact alone is not sufficient to
 "transform the nature of the action." [*Laws* at
 1144](http://scholar.google.com/scholar_case?case=16156934007444564709).
 Montz expected to receive compensation and credit for use of his work
-only because he also expected—as any copyright owner would—that his work
+only because he also expected---as any copyright owner would---that his work
 would not be used without authorization. Far from being
 "transformative," entitlement to compensation and credit under the
 implied contract was merely the result of the contract's prohibition
 against unauthorized use of Montz's work. There is thus nothing in the
-complaint that "qualitatively distinguish[es]" the
+complaint that "qualitatively distinguishes" the
 breach-of-implied-contract claim from a copyright claim.
 *Id.*
 
@@ -493,7 +518,7 @@ those who authorize the use of their work in exchange for consideration,
 "the dissent misses the point." But it is not clear
 just what point I am missing. If the point is to fill "the gap that
 would otherwise exist between state contract law and copyright law,"
-*id.* at 981, then I suggest that a focus on authorization is entirely
+*Id.* at 981, then I suggest that a focus on authorization is entirely
 appropriate. Where a copyright owner authorizes the use of his work, but
 does not receive the consideration he was promised, he has a contract
 claim; where a copyright owner does not authorize the use of his work,
@@ -514,14 +539,15 @@ Copyright Act does (i.e., to protect the unauthorized use of copyrighted
 materials). The only difference is that Montz's implied contract claim
 would protect those rights more broadly because California implied
 contract law does not require as strict a showing of substantial
-similarity as federal copyright law. But the "fact that the state-created right is . . . broader . . . than its federal counterpart will not save it from pre-emption." 
+similarity as federal copyright law. 
+But the "fact that the state-created right is &hellip; broader &hellip; than its federal counterpart will not save it from pre-emption." 
 
 ### II
 
 Montz's breach-of-confidence claim also asserts rights equivalent to the
 rights protected by the Copyright Act. The complaint states that "the
 Plaintiffs' disclosure of their ideas and concepts [was] strictly
-confidential," and that "[b]y taking the Plaintiffs' novel ideas and
+confidential," and that "by taking the Plaintiffs' novel ideas and
 concepts, exploiting those ideas and concepts, and profiting therefrom
 to the Plaintiffs' exclusion, the Defendants breached their confidential
 relationship with the Plaintiffs." Such claim simply echoes the
@@ -535,14 +561,14 @@ in Montz's breach-of-confidence claim from the rights protected by the
 Copyright Act. First, the breach-of-confidence claim requires Montz to
 show that Pilgrim disclosed confidential material (i.e., the ideas
 embodied in  Montz's
-materials) to third parties. Maj. op. at 981-82. But a copyright affords
+materials) to third parties. But a copyright affords
 its owner the same right: the right against unauthorized disclosure of
 copyrighted work. 
 Second, the breach-of-confidence claim requires that Montz show Pilgrim
-breached a confidential relationship or entrustment. Maj. op. at 981-82.
-Yet a breach of a relationship of trust does not, by itself, transform
-the nature of an action. The
-breach-of-confidence claim still asserts rights protected by the
+breached a confidential relationship or entrustment. 
+Yet a breach of a relationship of trust 
+does not, by itself, transform the nature of an action. 
+The breach-of-confidence claim still asserts rights protected by the
 Copyright Act; the only difference is that the rights are asserted
 against a particular person (i.e., someone with whom the copyright
 holder had a confidential relationship). But the right against
@@ -589,6 +615,8 @@ respectfully dissent.
 * *Passman*, Chapter 18, Songwriter Deals, Creative Control & Moral Rights (pgs. 296-297). 
 * [Ninth Circuit Revives California Idea Submission Claims](http://www.lexology.com/library/detail.aspx?g=352aeccb-2f72-413a-8c12-881b1a1e3d9c), by Anna R. Buono.
 
+[desny]:   http://scholar.google.com/scholar_case?case=3141417353271271191   "Desny v. Wilder"
+[grosso]:   http://scholar.google.com/scholar_case?case=9970479884551762667   "Grosso v. Miramax"
 
 <!-- BEGIN COMMENT -->
 

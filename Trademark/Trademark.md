@@ -113,7 +113,7 @@ provides in pertinent part:
 
 *Id.* The Lanham Act's prohibition of false designations or
 representations reaches either goods or services sold in interstate
-commerce. [*Smith v. Montoro,*](http://scholar.google.com/scholar_case?case=9210493150407072428)(9th Cir. 1981).
+commerce. [*Smith v. Montoro* (9th Cir. 1981)](http://scholar.google.com/scholar_case?case=9210493150407072428) 
 It has been applied to motion picture representations, *id.,* and the
 defendants cite no case holding that it does not similarly reach musical
 compositions. We also note that "[t]o recover for a violation of
@@ -721,7 +721,7 @@ varnish, Kodak pianos, Bulova gowns, and so forth."
 
 There is very little likelihood that Henson's parody will weaken the
 association between the mark SPAM and Hormel's luncheon meat. Instead,
-like other spoofs, Henson's parody will "\'tend to increase public
+like other spoofs, Henson's parody will "'tend to increase public
 identification'" of Hormel's mark with Hormel.&hellip;
 
 This conclusion is strengthened when we consider that Henson's parody
