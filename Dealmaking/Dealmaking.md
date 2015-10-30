@@ -96,12 +96,34 @@ the egos, the treachery, and the feuds.
 If somebody appeals, 
 the dispute may be writ in the caselaw and memorialized for the ages. 
 
+There are two concepts to keep in mind when marching through the possible pitfalls along the way to getting a Hollywood deal done. Both the stages of film production and the requirements for a valid contract shape this discussion.
+
+### 5 Stages of Film Production
+
+1. Development —The script is written and drafted into a workable blueprint for a film.
+2. Pre-production —Preparations are made for the shoot, in which cast and crew are hired, locations are selected, and sets are built.
+3. Production — The raw elements for the finished film are recorded.  (First Day of Principal Photography!)
+4. Post-Production — The film is edited; production sound (dialogue) is concurrently (but separately) edited, music tracks (and songs) are composed, performed and recorded
+5. Sales and distribution — The film is screened for potential buyers (distributors), is picked up by a distributor and reaches its cinema and/or home media audience.
+
+###In order to have a valid contract with all of the following elements:
+
+- An *offer* that is *accepted*
+- *terms* that are definite and specific, not vague or ambiguous
+- *consideration* - something that each party gives or gets for entering into the contract
+- *legal capacity* 
+- *legal purpose* - can't contract to do anything illegal
+
+#Offer and acceptance
+---
+
 ## *Mainline v. Basinger*
 
 ###### Court of Appeal, California (1994)
  
 * [Case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1994+WL+814244&appflag=67.12) 1994 WL 814244 (Cal.Ct.App.2d 1994)(not officially published).
 * [*Los Angeles Times* on *Basinger* case.][basinger_latimes]
+* [SAG strict nudity clause extends to TV](http://nypost.com/2012/01/23/damsels-in-undress/)
 
 GRIGNON, Judge.
 
@@ -306,12 +328,6 @@ judgment was entered against Basinger and/or Mighty Wind.
 * Did your client promise to act in a music video next Wednesday, but never settled on for how much? 
 * And now she has a chance to be in the next *Hunger Games* and wants out?
 
-At common law, [contracts require three elements:](http://en.wikipedia.org/wiki/Contract#Elements)
-
-- offer and acceptance, “a meeting of the minds”
-- an intention to be legally bound
-- consideration (something of value given in exchange for something of value)
-
 Deals get made and deals go bad, 
 and rarely do parties pursue the nuclear option and sue each other. 
 But if they do sue each other for breach of contract, 
@@ -364,7 +380,7 @@ That's what happened when singer Aretha Franklin
 promised to perform in a Broadway musical 
 and then backed out at the last minute. 
 
-## *Elvin Associates v. Aretha Franklin,* 
+## *Elvin Associates v. Aretha Franklin* 
 
 ###### United States District Court SDNY (1990) 
 
@@ -477,7 +493,7 @@ Voila. Promissory estoppel. It requires:
 * B is "injured" (loses money, suffers other damages) 
 when A fails to keep the promise.
 
-#### Excerpts from *Elvin Associates v. Aretha Franklin,* 
+#### Excerpts from *Elvin Associates v. Aretha Franklin* 
 
 The central issue pertaining to Springer's claim for breach of contract
 is whether &hellip; the parties to that proposed contract &hellip; 
@@ -593,7 +609,33 @@ reserved for a later trial on damages.
 
 [The court awarded Springer $209,364.07 to compensate his losses in preparing for the production of *Mahalia*.]
 
-## Contract Formation
+### Oral Deals With Unsigned Writings
+
+The Second Circuit has a famous four-prong test it uses to "help determine whether the parties intended to be bound in the absence of a document executed by both sides." 
+
+The court is to consider:
+
+1. whether there has been an express reservation of the right not to be bound in the absence of a writing; 
+2. whether there has been partial performance of the contract;
+3. whether all of the terms of the alleged contract have been agreed upon; and
+4. whether the agreement at issue is the type of contract that is usually committed to writing.
+
+No single factor is decisive, but each provides significant guidance.
+
+[Winston v. Mediafare Entertainment,](http://scholar.google.co.uk/scholar_case?case=10113667255714066099) 777 F.2d 78 (2nd Cir. 1985).
+
+#### Restatement 2nd of Contracts § 27 
+
+###### Existence of Contract Where Written Memorial is Contemplated
+
+> Manifestations of assent that are in themselves sufficient to conclude a contract will not be prevented from so operating by the fact that the parties also manifest an intention to prepare and adopt a written memorial thereof; but the circumstances may show that the agreements are preliminary negotiations. 
+
+These circumstances may be shown by "oral testimony or by correspondence or other preliminary or partially complete writings." 
+
+[Restatement (2nd) Contracts § 27](https://a.next.westlaw.com/Document/Ib0b48de2da5e11e2aa340000837bc6dd/View/FullText.html)
+
+# Definite terms
+---
 
 The eternal ambiguity. The parties shake hands (or trade emails) and say: 
 
@@ -659,7 +701,7 @@ a change in management occurred at RKO.
 In February, 1951, RKO told Skirball the deal was off. 
 Skirball tried to sell rights elsewhere 
 but was unable to because RKO's advertisements, 
-followed by their cancelling the deal, 
+followed by their canceling the deal, 
 made other studios and directors leery of getting involved with an iffy deal.
 
 Skirball sued RKO for breach of their ORAL CONTRACT. 
@@ -667,7 +709,7 @@ The trial court entered judgment for Skirball to the tune of $397,486.
 
 On appeal, RKO argued that the alleged agreement of May 16th 
 left many important terms open 
-and also that the parties had explicity said 
+and also that the parties had explicitly said 
 that they did not intend to be bound until they each signed a **written contract.** 
 Unsettled terms included: The starting date, the budget, the director, and principal cast, and minor script revisions.
 
@@ -721,39 +763,14 @@ In *Mancuso v. Krackov,* it was said: "It is not necessary that each term [of an
 
 > The rule is well established and uniformly followed that when the respective parties orally agree upon all the terms and conditions of a contract with the mutual intention that it shall thereupon become binding, the mere fact that a formal written agreement to the same effect is to be thereafter prepared and signed does not alter the binding validity of the original contract. &hellip;  The question as to whether an oral agreement, including all the essential terms and conditions thereof, which according to the mutual understanding of the parties is to be subsequently reduced to writing, shall take effect forthwith as a completed contract depends on the intention of the parties, to be determined by the surrounding facts and circumstances of a particular case. &hellip; 
 
-> The significance of shaking hands, under such circumstances and following the conversation hereinbefore mentioned, and at the same time saying ‘We have a deal,’ was material. The intention of the persons who shook hands and used those words, under such circumstances, was material. The testimony of both persons, with respect to intention, was to the same effect—that they intended to close the deal.
+> The significance of shaking hands, under such circumstances and following the conversation herein before mentioned, and at the same time saying ‘We have a deal,’ was material. The intention of the persons who shook hands and used those words, under such circumstances, was material. The testimony of both persons, with respect to intention, was to the same effect—that they intended to close the deal.
 
 [The court ultimately decided that on May 16th the parties entered into an oral contract and that they intended it to be legally binding.
 
 Two drafts incorporated those terms and the parties orally agreed to them. Skirball conceded that there were other points to be decided, but the parties had stated they would be handled according to the terms of the deal he for the other movie he had going at RKO.]
 
-### Oral Deals With Unsigned Writings
-
-The Second Circuit has a famous four-prong test it uses to "help determine whether the parties intended to be bound in the absence of a document executed by both sides." 
-
-The court is to consider:
-
-1. whether there has been an express reservation of the right not to be bound in the absence of a writing; 
-2. whether there has been partial performance of the contract;
-3. whether all of the terms of the alleged contract have been agreed upon; and
-4. whether the agreement at issue is the type of contract that is usually committed to writing.
-
-No single factor is decisive, but each provides significant guidance.
-
-[Winston v. Mediafare Entertainment,](http://scholar.google.co.uk/scholar_case?case=10113667255714066099) 777 F.2d 78 (2nd Cir. 1985).
-
-#### Restatement 2nd of Contracts § 27 
-
-###### Existence of Contract Where Written Memorial is Contemplated
-
-> Manifestations of assent that are in themselves sufficient to conclude a contract will not be prevented from so operating by the fact that the parties also manifest an intention to prepare and adopt a written memorial thereof; but the circumstances may show that the agreements are preliminary negotiations. 
-
-These circumstances may be shown by "oral testimony or by correspondence or other preliminary or partially complete writings." 
-
-[Restatement (2nd) Contracts § 27](https://a.next.westlaw.com/Document/Ib0b48de2da5e11e2aa340000837bc6dd/View/FullText.html)
-
-
-#### Consideration and Mutuality
+# Consideration and Mutuality
+---
 
 As we know, "consideration" is anything of value promised to another when making a contract. It can take the form of money, physical objects, services, promised actions, abstinence from a future action, and much more. 
 
@@ -768,6 +785,8 @@ Must both sides assume some detriment or obligation?
 
 ###### New York (1917)
 
+- [Case on Google Scholar](http://scholar.google.com/scholar_case?about=17497756576520329824)
+
 We all recall from first-year contracts, the famous case.
 
 * Fashion designer Lady Duff-Gordon gives Wood the exclusive rights to market her designs.
@@ -780,7 +799,7 @@ Judge Cardozo famously found that the agreement contained an implied promise:
 
 > The law has outgrown its primitive stage of formalism when the precise word was the sovereign talisman, and every slip was fatal. It takes a broader view to-day. A promise may be lacking, and yet the whole writing may be "instinct with an obligation," imperfectly expressed. If that is so, there is a contract.
 
-## Bonner v. Westbound Records 
+## *Bonner v. Westbound Records* 
 
 ###### Illinois Court of Appeals (1979)
 
@@ -1090,9 +1109,18 @@ On appeal, the court holds that the existence of consideration may be establishe
 
 Court looks beyond the four corners of the contract for an implied promise, promissory estoppel, detrimental reliance, parol evidence
 
-### Minority
+# Legal capacity
+---
 
-* [*Scott Eden Management v. Kavovit,*][kavovit] 563 NYS2d 1001 (NY 1990).
+Consider the stories of Shirley Temple and Macauley Culkin. Both starting their acting carriers at age 4 and had huge Hollywood hits in just years Temple was Hollywood's biggest star in the '30s and '40s and has made more than 50 movies. Culkin made more than [$23 million](http://www.celebritynetworth.com/richest-celebrities/actors/macaulay-culkin-net-worth/), plus percentages of gross revenues. Both were managed by their parents and both faced hardships due to the money made while each was a minor. When Temple got married shortly after WWII, she was shocked to find out that she had very little money left from her years of box office stardom. Thankfully, statutorily based safeguards protected Culkin's over $40 million trust fund for when he emancipated from his parents to gain sole control over his contracting and spending rights. Yet the Culkins whole family was embroiled in litigation over custody of Culkin himself and gaining access to the his funds to maintain the lifestyle of which they were accustomed. 
+
+* For a nice discussion on the statutory safeguards in place and how they can be improved:
+[A Matter of Trust for Rising Stars: Protecting Minors' Earnings in California and New York](https://advance.lexis.com/api/permalink/e38281fb-e388-4427-a87c-0e37ad03170a/?context=1000516)
+
+But there are issues that the studios and other contracting parties must consider when dealing with minors as well&hellip;
+
+##[*Scott Eden Management v. Kavovit*][kavovit] 
+######563 NYS2d 1001 (NY 1990)
 
 #### Facts
 
@@ -1103,6 +1131,9 @@ From the opinion of the court:
 > An infant's contract is voidable and the infant has an absolute right to disaffirm.&hellip; After disaffirmance, the infant is not entitled to be put in a position superior to such a one as he would have occupied if he had never entered into his voidable agreement. He is not entitled to retain an advantage from a transaction which he repudiates. ‘The privilege of infancy is to be used as a shield and not as a sword.’ &hellip; 
 
 While Kavovit was allowed to disaffirm the contract, he was required to pay Eden all commissions Eden would have been due over the course of the contract.
+
+#Duration
+---
 
 ## De Havilland v. Warner Bros.
 
@@ -1228,7 +1259,6 @@ The price may vary greatly, but it must be negotiated up front at the time the o
 ### More on Movie Options
 
 * See [Would My Book Make A Good Movie?](http://dooling.com/index.php/2006/02/23/would-my-book-make-a-good-movie/) by Richard Dooling.
-* [Pitch scene from Sunset Blvd](http://www.tcm.com/mediaroom/video/376364/Sunset-Blvd-Movie-Clip-Ty-Power-As-A-Shortstop.html.html), why "free" options are a bad idea.
 
 
 [goldseal]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=286+P.2d+954&appflag=67.12 "Gold Seal v. RKO"
