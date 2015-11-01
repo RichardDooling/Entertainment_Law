@@ -1,15 +1,13 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Lawyers For The Talent
+subtitle: Entertainment Law
 chapter: Dealmaking
 ---
 
-# Lawyers For The Talent
+# Doing Deals
 
 ###### by Richard Dooling
-
-## Doing Deals 
 
 Dealmaking in the publishing industry 
 has always been a civilized sport with
@@ -48,7 +46,7 @@ The entertainment industries move too fast
 and involve too many players and contingent deals 
 to wait for lawyers fuss over contract language and obtain signatures. 
 Usually the bargains struck work out fine. 
-Blockbusters and tentpoles get made, 
+Blockbusters and [tent poles][] get made, 
 and the players compromise on any terms that weren't
 included in the conversations surrounding the original deal.
 
@@ -83,7 +81,7 @@ a judge or jury comes along
 and asks almost metaphysical questions about what happened: 
 Did the parties agree? 
 Or did they just agree to agree later, 
-some indefinite length of time? 
+after some indefinite length of time? 
 Did they "agree to agree" only after some uncertain event? 
 For example, "Yes, we agreed to make this deal, 
 but only if Spielberg directs and Daniel Craig plays the hero." 
@@ -94,30 +92,30 @@ If it actually goes to trial,
 the tabloids and trades chronicle 
 the egos, the treachery, and the feuds. 
 If somebody appeals, 
-the dispute may be writ in the caselaw and memorialized for the ages. 
+the dispute may be writ in the case law and memorialized for the ages. 
 
-There are two concepts to keep in mind when marching through the possible pitfalls along the way to getting a Hollywood deal done. Both the stages of film production and the requirements for a valid contract shape this discussion.
+Movie deals get done during one or more of the five stages of film production, 
+during which the players make a series of offers and counter-offers, which may or may not satisfy the requirements for a valid contract.
 
 ### 5 Stages of Film Production
 
-1. Development —The script is written and drafted into a workable blueprint for a film.
-2. Pre-production —Preparations are made for the shoot, in which cast and crew are hired, locations are selected, and sets are built.
-3. Production — The raw elements for the finished film are recorded.  (First Day of Principal Photography!)
-4. Post-Production — The film is edited; production sound (dialogue) is concurrently (but separately) edited, music tracks (and songs) are composed, performed and recorded
-5. Sales and distribution — The film is screened for potential buyers (distributors), is picked up by a distributor and reaches its cinema and/or home media audience.
+1. Development: The script is written and drafted into a workable blueprint for a film.
+2. Pre-production: Preparations are made for the shoot, in which cast and crew are hired, locations are selected, and sets are built.
+3. Production: The raw elements for the finished film are recorded.  (First Day of Principal Photography!)
+4. Post-Production: The film is edited; production sound (dialogue) is concurrently (but separately) edited, music tracks (and songs) are composed, performed and recorded
+5. Sales and distribution: The film is screened for potential buyers (distributors), is picked up by a distributor and reaches its cinema and/or home media audience.
 
-###In order to have a valid contract with all of the following elements:
+### A Deal (Contract) Contains All Of The Following:
 
-- An *offer* that is *accepted*
-- *terms* that are definite and specific, not vague or ambiguous
-- *consideration* - something that each party gives or gets for entering into the contract
-- *legal capacity* 
-- *legal purpose* - can't contract to do anything illegal
+- An *offer* that is *accepted*.
+- *Terms* that are definite and specific, not vague or ambiguous.
+- *Consideration* - something that each party gives or gets for entering into the contract.
+- *Legal capacity* - the parties are all of legal age and competent to contract. 
+- *Legal purpose* - can't contract to do anything illegal.
 
-#Offer and acceptance
----
+## Offer and acceptance
 
-## *Mainline v. Basinger*
+### *Mainline v. Basinger*
 
 ###### Court of Appeal, California (1994)
  
@@ -136,7 +134,7 @@ relating to production of the movie “Boxing Helena.”
 (A “loan-out” corporation is a personal service corporation 
 which lends the services of an artist to a production company.)&hellip; 
 
-### FACTS
+#### FACTS
 
 In December 1990, 
 Main Line sent a copy of the screenplay of “Boxing Helena” to Basinger. 
@@ -302,7 +300,7 @@ included in this document.
 On June 10, 1991, Main Line learned that Basinger was not going
 to act in “Boxing Helena.”
 
-### PROCEDURAL BACKGROUND
+#### PROCEDURAL BACKGROUND
 
 On June 21, 1991, Main Line filed a complaint naming as defendants
 Basinger and Mighty Wind. The complaint alleged that defendants breached
@@ -345,7 +343,7 @@ At a minimum, oral and written contracts must usually answer the following quest
 - Where?
 - How much?
 
-#### Statute of Frauds
+## Statute of Frauds
 
 Contracts may be oral or written, implied or explicit. 
 For centuries, the common law had required 
@@ -360,7 +358,7 @@ or courts will not enforce them.
 
 In the entertainment business, 
 the most common statute of frauds issue arises 
-when an an artist promises to perform services for MORE THAN ONE YEAR. 
+when an artist promises to perform services for MORE THAN ONE YEAR. 
 Usually such contracts must be in writing, 
 or courts will not enforce them. 
 But what about contracts that COULD last more than a year? 
@@ -368,7 +366,7 @@ Must those contracts be in writing?
 In general, contracts of indefinite duration 
 don't require a writing no matter how long they may take.
 
-#### Promissory Estoppel
+## Promissory Estoppel
 
 > "The law is simply expediency wearing a long white dress." --Quentin Crisp
 
@@ -380,14 +378,14 @@ That's what happened when singer Aretha Franklin
 promised to perform in a Broadway musical 
 and then backed out at the last minute. 
 
-## *Elvin Associates v. Aretha Franklin* 
+### *Elvin Associates v. Aretha Franklin* 
 
 ###### United States District Court SDNY (1990) 
 
 * [Case on Westlaw][aretha_westlaw] 
 * [Case on Google Scholar][aretha_scholar]
 
-In early 1984, broadway producer Ashton Springer 
+In early 1984, Broadway producer Ashton Springer 
 wanted to make a Broadway musical 
 about gospel singer Mahalia Jackson, 
 her life and her music. 
@@ -421,13 +419,13 @@ with various investors to finance the *Mahalia* production
 and spoke with promoters and theaters in other cities to reserve dates. 
 In discussions with several promoters, 
 Springer learned for the first time 
-that Aretha Franklin had cancelled several recent performances 
+that Aretha Franklin had canceled several recent performances 
 because of a fear of flying. 
 
 Springer called Aretha's agents 
-and asked about the cancelled performances. 
+and asked about the canceled performances. 
 The agents told Springer not to worry, 
-that the cancelled engagements had been made by other agents 
+that the canceled engagements had been made by other agents 
 without Aretha's approval, 
 and that there were no such problems with this deal.
 
@@ -453,7 +451,7 @@ The contract draft began:
 More drafts circulated, 
 all of them had the same "when countersigned by you" language, 
 all of them quibbling over details. 
-Meanwhile, Springer hired set, lighting and constume designers, 
+Meanwhile, Springer hired set, lighting and costume designers, 
 stage and crew, reserved dance studios, 
 and did everything necessary to begin rehearsals. 
 
@@ -466,7 +464,7 @@ When Springer's lawyer called Aretha's agents
 they reported that Franklin would not fly to New York. 
 
 Springer paid off the cast, 
-cancelled production and sued Aretha Franklin. 
+canceled production and sued Aretha Franklin. 
 
 Springer's problem? 
 The letter his lawyer wrote plainly said 
@@ -634,8 +632,7 @@ These circumstances may be shown by "oral testimony or by correspondence or othe
 
 [Restatement (2nd) Contracts § 27](https://a.next.westlaw.com/Document/Ib0b48de2da5e11e2aa340000837bc6dd/View/FullText.html)
 
-# Definite terms
----
+## Definite terms
 
 The eternal ambiguity. The parties shake hands (or trade emails) and say: 
 
@@ -644,7 +641,7 @@ The eternal ambiguity. The parties shake hands (or trade emails) and say:
 Do they mean: We have a deal NOW? 
 Or do they mean we WILL have a deal, once we sign contracts?
 
-## *Gold Seal v. RKO* 
+### *Gold Seal v. RKO* 
 
 ###### District Court of Appeal California (1955)
 
@@ -719,7 +716,7 @@ RKO argued that the words "we have a deal" were ambiguous:
 
 > [the words] meant that the parties had agreed upon the basic points (story, star and money) and that other points were details as to which, it was anticipated, the parties could agree without difficulty; but that a formal agreement would be prepared.
 
-### Excerpts from *Gold Seal v. RKO*
+#### Excerpts from *Gold Seal v. RKO*
 
 RKO contends, as above stated, 
 that the evidence was insufficient to support the finding that the parties entered into a contract. It concedes that the basic terms of such a contract, namely the story, leading actor and money consideration, were agreed upon. It argues, however, that the alleged agreement of May 16 left various terms of the final contract open for future agreement; and the parties did not intend to be bound until a written contract was signed. Some of the terms which, appellant asserts, were left open were: the starting date; budget; director and principal cast; minor revisions of the script; assignment of television, radio, and stageplay rights to the novel &hellip; With reference to those terms, which allegedly were left open, appellant refers to the Gwenaud contract (the pattern of which allegedly was to be followed herein) and states in effect that provisions therein, regarding terms allegedly left open herein, manifestly were not applicable to the present case by reason of different dates, names, amounts, etc., and therefore that the parties in the present case must have contemplated further agreement as to those matters.
@@ -769,10 +766,9 @@ In *Mancuso v. Krackov,* it was said: "It is not necessary that each term [of an
 
 Two drafts incorporated those terms and the parties orally agreed to them. Skirball conceded that there were other points to be decided, but the parties had stated they would be handled according to the terms of the deal he for the other movie he had going at RKO.]
 
-# Consideration and Mutuality
----
+## Consideration and Mutuality
 
-As we know, "consideration" is anything of value promised to another when making a contract. It can take the form of money, physical objects, services, promised actions, abstinence from a future action, and much more. 
+"Consideration" is anything of value promised to another when making a contract. It can take the form of money, physical objects, services, promised actions, abstinence from a future action, and much more. 
 
 Consideration fulfills at least two functions in entertainment law contracts:
 
@@ -799,7 +795,7 @@ Judge Cardozo famously found that the agreement contained an implied promise:
 
 > The law has outgrown its primitive stage of formalism when the precise word was the sovereign talisman, and every slip was fatal. It takes a broader view to-day. A promise may be lacking, and yet the whole writing may be "instinct with an obligation," imperfectly expressed. If that is so, there is a contract.
 
-## *Bonner v. Westbound Records* 
+### *Bonner v. Westbound Records* 
 
 ###### Illinois Court of Appeals (1979)
 
@@ -898,7 +894,7 @@ compelled by the rule that the law implies mutual promises to use good
 faith in interpreting an agreement and good faith and fair dealing in
 carrying out its purposes.
 
-In [*Wood v.  Lucy*](http://scholar.google.com/scholar_case?about=17497756576520329824)*,* an often-cited decision, the plaintiff, a dress manufacturer, obtained exclusive rights to market dresses designed by the defendant, a prominent designer, in return for the plaintiff's agreement to pay the designer one-half of its profits. The designer endorsed fabrics and dresses of plaintiff's competitors, and defended the plaintiff's suit for damages by contending, as the plaintiffs in this case argue, that the contract lacked mutuality because it did not require the plaintiff to do anything. Mr. Justice Cardozo, speaking for the New York Court of Appeals, rejected this argument, saying:
+In [*Wood v. Lucy*](http://scholar.google.com/scholar_case?about=17497756576520329824)*,* an often-cited decision, the plaintiff, a dress manufacturer, obtained exclusive rights to market dresses designed by the defendant, a prominent designer, in return for the plaintiff's agreement to pay the designer one-half of its profits. The designer endorsed fabrics and dresses of plaintiff's competitors, and defended the plaintiff's suit for damages by contending, as the plaintiffs in this case argue, that the contract lacked mutuality because it did not require the plaintiff to do anything. Mr. Justice Cardozo, speaking for the New York Court of Appeals, rejected this argument, saying:
 
 > "[The defendant insists] that the plaintiff does not bind himself to
 > anything. *It is true that he does not promise in so many words that
@@ -1109,18 +1105,32 @@ On appeal, the court holds that the existence of consideration may be establishe
 
 Court looks beyond the four corners of the contract for an implied promise, promissory estoppel, detrimental reliance, parol evidence
 
-# Legal capacity
----
+## Legal capacity
 
-Consider the stories of Shirley Temple and Macauley Culkin. Both starting their acting carriers at age 4 and had huge Hollywood hits in just years Temple was Hollywood's biggest star in the '30s and '40s and has made more than 50 movies. Culkin made more than [$23 million](http://www.celebritynetworth.com/richest-celebrities/actors/macaulay-culkin-net-worth/), plus percentages of gross revenues. Both were managed by their parents and both faced hardships due to the money made while each was a minor. When Temple got married shortly after WWII, she was shocked to find out that she had very little money left from her years of box office stardom. Thankfully, statutorily based safeguards protected Culkin's over $40 million trust fund for when he emancipated from his parents to gain sole control over his contracting and spending rights. Yet the Culkins whole family was embroiled in litigation over custody of Culkin himself and gaining access to the his funds to maintain the lifestyle of which they were accustomed. 
+Consider the stories of Shirley Temple and Macauley Culkin. 
+Both started their acting carriers at age 4 and had huge, early Hollywood hits. 
+Shirley Temple was Hollywood's biggest star in the '30s and '40s 
+and has made more than 50 movies. 
+Culkin made more than [$23 million](http://www.celebritynetworth.com/richest-celebrities/actors/macaulay-culkin-net-worth/), 
+plus percentages of gross revenues. 
+Both were managed by their parents, 
+and both faced hardships due to the money made while each was a minor. 
+When Temple got married shortly after World War II, 
+she was shocked to find out that she had very little money left from her years of box office stardom. 
+Statutory safeguards protected Culkin's $40 million trust fund, 
+until he emancipated from his parents and gained sole control over his contracting and spending rights. 
+Yet the Culkin family was embroiled in litigation over custody of Culkin himself and gaining access to the his funds to maintain the lifestyle of which they were accustomed. 
 
 * For a nice discussion on the statutory safeguards in place and how they can be improved:
 [A Matter of Trust for Rising Stars: Protecting Minors' Earnings in California and New York](https://advance.lexis.com/api/permalink/e38281fb-e388-4427-a87c-0e37ad03170a/?context=1000516)
 
-But there are issues that the studios and other contracting parties must consider when dealing with minors as well&hellip;
+When dealing with minors, the studios and other contracting parties must consider other issues, as well.&hellip;
 
-##[*Scott Eden Management v. Kavovit*][kavovit] 
-######563 NYS2d 1001 (NY 1990)
+### *Scott Eden Management v. Kavovit*
+
+###### 563 NYS2d 1001 (NY 1990)
+
+- [Case at Westlaw][kavovit]
 
 #### Facts
 
@@ -1132,10 +1142,9 @@ From the opinion of the court:
 
 While Kavovit was allowed to disaffirm the contract, he was required to pay Eden all commissions Eden would have been due over the course of the contract.
 
-#Duration
----
+## Duration
 
-## De Havilland v. Warner Bros.
+### De Havilland v. Warner Bros.
 
 * [The De Havilland Law](http://en.wikipedia.org/wiki/De_Havilland_Law)
 
@@ -1173,7 +1182,7 @@ but the same theory has been used right up to the present day,
 and will likely be deployed in a major dispute between two 
 talent titans (CAA vs. UTA).
 
-##### [CAA vs. UTA, Corporate Raiding and the Ghost of Ed Limato (Analysis)](http://www.hollywoodreporter.com/thr-esq/caa-uta-corporate-raiding-ghost-785655)
+#### [CAA vs. UTA, Corporate Raiding and the Ghost of Ed Limato (Analysis)](http://www.hollywoodreporter.com/thr-esq/caa-uta-corporate-raiding-ghost-785655)
 
 > Consider the case of the late legendary agent, 
 > who spent most of his career at ICM 
@@ -1269,3 +1278,4 @@ The price may vary greatly, but it must be negotiated up front at the time the o
 [aretha_westlaw]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=735+F.Supp.+1177&appflag=67.12 "Elvin Associates v. Aretha Franklin"
 [aretha_scholar]: https://scholar.google.com/scholar_case?case=18444995163017745133& 
 [basinger_latimes]: http://articles.latimes.com/1993-03-01/entertainment/ca-150_1_boxing-helena-lawsuit
+[tent poles]: https://en.wikipedia.org/wiki/Tent-pole_(entertainment) "definition of tent poles"
