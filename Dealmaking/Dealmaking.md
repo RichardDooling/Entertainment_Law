@@ -94,8 +94,10 @@ the egos, the treachery, and the feuds.
 If somebody appeals, 
 the dispute may be writ in the case law and memorialized for the ages. 
 
-Movie deals get done during one or more of the five stages of film production, 
-during which the players make a series of offers and counter-offers, which may or may not satisfy the requirements for a valid contract.
+Movie deals get done during one or more of the five stages of film production.
+As the story rights and talent deals fall into place, 
+the players make a series of offers and counter-offers, 
+some of which lead to enforceable contracts; others not.
 
 ### 5 Stages of Film Production
 
