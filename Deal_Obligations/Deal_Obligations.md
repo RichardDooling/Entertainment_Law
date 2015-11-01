@@ -1,4 +1,4 @@
----
+fran---
 author: Richard Dooling
 title: Law & Business For Artists
 subtitle: ArtBizLaw Class
@@ -171,7 +171,7 @@ Factors used to test for materiality:
 ###### California Court of Appeals (1931)
 
 * [Case on Westlaw][goudal]. 
-* [Jetta Goudal's career at Wikipedia](http://en.wikipedia.org/wiki/Jetta_Goudal#Career).
+* [Jetta Goudal's career](http://en.wikipedia.org/wiki/Jetta_Goudal#Career).
 
 Another oldie but goodie, this one about a famous lawsuit 
 between a famous actress and the famous director who wanted to control her. 
@@ -454,7 +454,7 @@ and then the collaborators compromise.
 > while children are present. 
 
 > [Morals Clause Law & Legal Definition](http://definitions.uslegal.com/m/morals-clause/)
-> [Morals Clauses at Wikipedia][morals].
+> [Morals Clauses][morals].
 
 In 1921 and 1922, American silent film actor, comedian, director, and screenwriter, [Roscoe "Fatty" Arbunkle](http://en.wikipedia.org/wiki/Fatty_Arbuckle) endured three widely publicized trials for the rape and manslaughter of actress Virginia Rappe. Rappe had fallen ill at a party hosted by Arbuckle at the St. Francis Hotel in San Francisco in September 1921; she died four days later. Arbuckle was accused by Rappe's acquaintance of raping and accidentally killing Rappe. After the first two trials, which resulted in hung juries, Arbuckle was acquitted in the third trial and received a formal written apology from the jury.
 
@@ -483,7 +483,7 @@ a Hollywood screenwriter, blacklisted during the 1950s:
 
 The following case dramatizes the blacklisting of another screenwriter, Lester Cole, one of the infamous Hollywood Ten, along with Dalton Trumbo.
 
-### *Loew's, Inc. v. Cole,* 
+### *Loew's, Inc. v. Cole* 
 
 ###### United States Court of Appeals Ninth Circuit (1950).
 
@@ -504,7 +504,7 @@ MGM appealed and the Ninth Circuit Court of Appeals reversed, holding that Cole 
 
 > A film company might well continue indefinitely the employment of an actor whose private personal immorality is know to his employer, and yet be fully justified in discharging him when he so conducts himself as to make the same misconduct notorious.
 
-* [Morals Clauses at Wikipedia][morals].
+* [Morals Clauses][morals].
 * [Hold That Tiger: After Woods Scandal, More Lawyers Teeing Up "Morals Clauses"][tiger_morals]
 
 Blacklisting of the Hollywood 10, 
@@ -567,10 +567,10 @@ NBC declined to comment, and Barnett didn’t get back to us.
 > a fact that music mogul David Geffen 
 > apparently didn’t take into consideration 
 > when he signed Young to a deal 
-> with his new company in the early ’80s. 
+> with his new company in the early '80s. 
 > Young’s first effort for Geffen was ‘Trans,’ 
 > a disastrous foray into electronic music. 
-> Young then turned in ‘Everybody’s Rockin’,’ 
+> Young then turned in ‘Everybody’s Rockin’, 
 > a rockabilly collection. 
 > Geffen filed suit against Young on Dec. 1, 1983, 
 > arguing that the albums he had delivered 
@@ -585,7 +585,7 @@ NBC declined to comment, and Barnett didn’t get back to us.
 
 > [Geffen Records vs. Neil Young – Infamous Rock Lawsuits](http://ultimateclassicrock.com/neil-young-geffen-records-infamous-rock-lawsuits/?trackback=tsmclip)
 
-Arguably Geffen sued Neil Young because Young refused to ["be himself"](http://lateralaction.com/articles/neil-young/), and this lawsuit is just one of many suits brought by artists who are committed by contract to certain record companies, but those companies tend to demand that the artist stick to the formulae that sold on the first few albums. *Newsweek* magazine described another conflict between Geffen and the grunge rock band Nirvana:
+Arguably Geffen sued Neil Young because Young refused to ["be himself"](http://lateralaction.com/articles/neil-young/), and this lawsuit is just one of many suits brought by artists who are committed by contract to certain record companies, but those companies tend to demand that the artist stick to the formula that sold on the first few albums. *Newsweek* magazine described another conflict between Geffen and the grunge rock band Nirvana:
 
 > Alternative rock and big business are strange bedfellows, and it seems they've finally woken up and stared each other in the face. Late last month the Chicago Tribune reported on rumors that the world's pre-eminent post-punk band, Nirvana, had returned from the studio with an abrasive uncompromising album-an album that Geffen Records found "unreleasable." Both the label and Nirvana's management company, Gold Mountain, insist that the Geffen staff hasn't even heard the album. But sources confirm the Tribune's story. And Nirvana has now agreed to commission a hit-making engineer named Andy Wallace to tinker with the band's tapes and give them a more commercial sheen. Geffen Records faces a possible lawsuit from the record's producer, Steve Albini. Nirvana, whose success inspired a generation of alternative bands to migrate to major labels, faces a chorus of "Say it ain't so."
 
@@ -842,7 +842,7 @@ As I have already described, Oscar Collier had received from Hill some
 general negative comments, which he conveyed to Shadegg and which were
 in turn conveyed to Goldwater.
 
-There is a letter dated November 14, 1977 to Hill from Lisa Collier
+There is a letter dated November 14, 1977, to Hill from Lisa Collier
 indicating that comments had been passed on and that work was going
 forward.
 
@@ -865,7 +865,7 @@ the material there might be a better chance of getting some editorial
 work from Hill. Also it was hoped that the production of a substantial
 part of the book would encourage some progress with the publisher.
 
-The Goldwater letter of July 13, 1978 concludes with the following:
+The Goldwater letter of July 13, 1978, concludes with the following:
 
 > If you have any suggestions or would like to make some we could arrange to meet in Arizona at your convenience, in Washington or even New York.  Let me know your honest opinion of what has been done so far and let me have any suggestions as soon as possible that might be incorporated in further writing.
 
@@ -1050,7 +1050,7 @@ material is so hopeless that editorial work might be fruitless. It is
 difficult to imagine such a situation occurring but I suppose it is
 conceivable. But this was far from the case here.
 
-I note that the publisher claims that there were no relevations of fact,
+I note that the publisher claims that there were no revelations of fact,
 no "revelatory material" as the term has been used. It is difficult to
 even comprehend that claim. The book as it was published is full of
 facts. It is full of conversations with illustrious personages. It is
@@ -1069,7 +1069,7 @@ He edited the manuscript in the normal way and produced a successful
 book.
 
 Consequently, I conclude that HBJ breached its contract with Shadegg and
-Goldwater by wilfully failing to engage in any rudimentary editorial
+Goldwater by willfully failing to engage in any rudimentary editorial
 work or effort. Consequently, HBJ cannot rely on the concept that the
 manuscript was unsatisfactory in form and content and can be rejected.
 HBJ had no right under its contract to reject that manuscript&hellip;
@@ -1108,7 +1108,7 @@ Remember, the first piece of advice
 (also sometimes the hardest piece of advice) 
 you can give your client? FINISH THE BOOK! 
 
-It’s similar in one respect to the *Elvin v. Aretha Franklin* case, 
+It’s similar in one respect to the [*Elvin v. Aretha Franklin*](https://github.com/RichardDooling/Entertainment_Law/blob/master/Dealmaking/Dealmaking.md#elvin-associates-v-aretha-franklin) case, 
 namely, 
 the talent is having unusual conversations with the producers (publishers/editors) 
 that the talent should not be having. 
@@ -1375,15 +1375,15 @@ litigation.
 Invoking the diversity jurisdiction of the federal courts, Doubleday
 filed a complaint on April 3, 1983 in the United States District Court
 for the Southern District of New York, claiming Curtis breached the 1977
-contract and seeking recovery of its \$50,000 advance. Curtis, in turn,
-counterclaimed for breach of the agreement, and sought \$150,000. Curtis
+contract and seeking recovery of its $50,000 advance. Curtis, in turn,
+counterclaimed for breach of the agreement, and sought $150,000. Curtis
 alleged, both as a counterclaim and as an affirmative defense, that
 Doubleday's failure to provide adequate editorial services — a duty
 derived from its implied obligation to perform in good faith — prevented
 him from completing a satisfactory manuscript. He contended that had
 Doubleday followed "the usual and customary editorial process,"
 *Starstruck* would have been published and he would have received a
-second \$50,000 advance, as well as fifty percent of the \$200,000
+second $50,000 advance, as well as fifty percent of the $200,000
 reprint sale to NAL.&hellip;
 
 At trial, as in a prior
@@ -1427,7 +1427,7 @@ summarily dismissed as contrary to the relevant provisions of the 1976
 and 1977 contracts.
 
 Finally, the court dismissed Doubleday's claim seeking recovery of the
-\$50,000 advance. Judge Sweet held that Doubleday had waived the "time
+$50,000 advance. Judge Sweet held that Doubleday had waived the "time
 of the essence" clause by accepting Curtis's manuscript
  nearly eighteen months
 after the original deadline had passed. Moreover, the court found that
@@ -1592,12 +1592,12 @@ spirit of fairness embodied in the Federal Rules of Civil Procedure.
 Accordingly, we affirm the district court's dismissal of Curtis's
 counterclaims. We reverse the judgment of the district court dismissing
 Doubleday's complaint and remand the cause with instructions to enter
-judgment in favor of Doubleday for recovery of its \$50,000 advance,
+judgment in favor of Doubleday for recovery of its $50,000 advance,
 plus interest.
 
 #### Notes on  *Doubleday v. Tony Curtis* 
 
-Famous actor and part time novelist Tony Curtis ("Curtis" signed a book contract to provide two novels to the publisher Doubleday & Co., Inc. ("Doubleday"). The parties used a standard industry form that required Doubleday to pay royalties on hardcover sales and a share of the proceeds of the sale of paperback rights if Curtis delivered manuscripts "satisfactory" to Doubleday in content and form. 
+Famous actor and part time novelist Tony Curtis ("Curtis") signed a book contract to provide two novels to the publisher Doubleday & Co., Inc. ("Doubleday"). The parties used a standard industry form that required Doubleday to pay royalties on hardcover sales and a share of the proceeds of the sale of paperback rights if Curtis delivered manuscripts "satisfactory" to Doubleday in content and form. 
 
 The publisher published the first novel and renegotiated the deal on the second novel to give Curtis a $100,000 advance, half on signing and half on acceptance by Doubleday of a "complete satisfactory manuscript."
 
@@ -1629,7 +1629,7 @@ Doubleday is selling the rights to the paperback.
 
 What about publisher obligations to market and promote an author's book? That's yet another case.
 
-### Zilg v. Prentice-Hall, Inc.
+### *Zilg v. Prentice-Hall, Inc.*
 
 ###### Second Circuit Court of Appeals (1983)
 
@@ -1709,15 +1709,15 @@ readership composed largely of business executives, did choose it as a
 selection.
 
 A committee of various P-H department representatives, including the
-book's editor, met on March 28, 1974 to discuss production plans. The
+book's editor, met on March 28, 1974, to discuss production plans. The
 sales estimates of committee members varied from 12 to 15 thousand
 copies for the first year although by May two members were predicting
 sales of only 10 thousand. Estimates of from 15 to 20 thousand sales
 over a five year period were also made. Cavin, an ardent supporter of
 the book, made estimates of 20 to 25 thousand in the first year and 25
 to 35 thousand over five years. The committee decided on a first
-printing of 15,000 copies at a retail price of \$12.95 per copy. At a
-later meeting, the committee decided to devote roughly \$15,000 to
+printing of 15,000 copies at a retail price of $12.95 per copy. At a
+later meeting, the committee decided to devote roughly $15,000 to
 advertising.
 
 Although the literary or scholarly merits of the book are not our
@@ -2122,7 +2122,7 @@ and attempt to recoup their investment.
 
 ## Royalties & Profits
 
-[From Wikipedia: Hollywood Accounting: ](http://en.wikipedia.org/wiki/Hollywood_accounting)
+[Hollywood Accounting:](http://en.wikipedia.org/wiki/Hollywood_accounting)
 
 Winston Groom's price for the screenplay rights to his novel *Forrest Gump* included a 3% share of the profits; however, due to Hollywood accounting, the film's commercial success was converted into a net loss, and Groom received only $350,000 for the rights and an additional $250,000 from the studio.
 
@@ -2149,7 +2149,7 @@ brought a lawsuit against New Line Cinema after "an audit &hellip; on part of th
 
 According to Lucasfilm, Return of the Jedi despite having earned $475 million at the box-office against a budget of $32.5 million, "has never gone into profit".
 
-[From Wikipedia: Hollywood Accounting: ](http://en.wikipedia.org/wiki/Hollywood_accounting)
+[Hollywood Accounting: ](http://en.wikipedia.org/wiki/Hollywood_accounting)
 
 ### *Buchwald v. Paramount Pictures*
 
@@ -2198,7 +2198,7 @@ How to defend against this nonsense?
 
 One way is to say that your client’s share of net profits participation shall be calculated using the SAME FORMULA as ALL other net profits participants. The other way is to simply advise the talent that these clauses are meaningless and almost never result in any "new money."
 
-* *Buchwald v. Paramount Pictures,* (Cal. App. 1992)([read about examples of Hollywood Accounting at Wikipedia](http://en.wikipedia.org/wiki/Hollywood_accounting).
+* *Buchwald v. Paramount Pictures,* (Cal. App. 1992)([read about examples of Hollywood Accounting](http://en.wikipedia.org/wiki/Hollywood_accounting).
 * [*Buchwald v. Paramount Pictures,*][net_profits] 1992 WL 1462910 (Cal. App. 1992).
 * [LA Times on Buchwald suit](http://articles.latimes.com/1992-03-17/local/me-3895_1_net-profit)
 
