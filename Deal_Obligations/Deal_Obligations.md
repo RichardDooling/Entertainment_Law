@@ -1,7 +1,7 @@
-fran---
+---
 author: Richard Dooling
-title: Law & Business For Artists
-subtitle: ArtBizLaw Class
+title: Lawyers For The Talent
+subtitle: Entertainment Law
 chapter: Deal Obligations
 ---
 
@@ -49,7 +49,8 @@ industry customs and usage.
 How have the parties dealt with each other in the past? 
 Yes, but also how the industry as a whole deal with these matters.
 
-As the Restatement of Contracts 2nd puts in section 202 "Rules in Aid of Interpretation:"
+As the Restatement of Contracts 2nd puts in section 202 
+"Rules in Aid of Interpretation":
 
 > Where an agreement involves repeated occasions for performance 
 > by either party with knowledge of the nature of the performance 
@@ -92,7 +93,7 @@ Other stars,
 like Randy Quaid, 
 agreed to star in the film, accepted low salaries, 
 and secured no share of movie profits, 
-because the producers told him that *Brokeback* 
+because the producers told these minor players that *Brokeback* 
 would be a small, arthouse movie. 
 When *Brokeback* was a box office hit, 
 Quaid sued, later withdrawing and possibly settling, 
@@ -106,7 +107,9 @@ the lawsuit. As described in the *New York Times*:
 
 With a budget of roughly $14 million, *Brokeback Mountain* has since grossed $175 million worldwide, $83 million in the USA alone. It won three Oscars.
 
-Despite what transpires from the time contracts are signed to opening day and beyond,
+Despite what transpires 
+from the time contracts are signed 
+to opening day and beyond:
 
 > In interpreting the words and conduct of the parties to a contract, 
 > a court seeks to put itself in the position they occupied 
@@ -114,7 +117,9 @@ Despite what transpires from the time contracts are signed to opening day and be
 
 > [Restatement 2d Contracts § 202][202]
 
-Moviemaking is an uncertain business to say the least, where most projects don't earn back the money the studios spend on them. And a few mega hits pay the freight for many other failures.
+Moviemaking is an uncertain business to say the least, 
+where most projects don't earn back the money the studios spend on them. 
+And a few mega hits pay the freight for many other failures.
 
 ### Interpretation of Ambiguous Terms ###
 
@@ -208,7 +213,8 @@ in the lawsuit excerpted below.
 
 #### Case Excerpts *Goudal v. DeMille*
 
-(In these excerpts, appellant has been changed to DeMille Pictures; and respondent has been changed to Goudal)
+(In these excerpts, appellant has been changed to DeMille Pictures; 
+and respondent has been changed to Goudal)
 
 FRICKE, Justice pro tem.
 
@@ -230,7 +236,8 @@ acts of the Goudal violative of the terms of the contract. The trial
 court found that Goudal had not violated the contract, and that her
 discharge was not justified.&hellip; 
 
-The claim that Goudal failed or refused to perform her parts as requested is based upon many incidents
+The claim that Goudal failed or refused to perform her parts 
+as requested is based upon many incidents
 set forth in detail in the record. They relate to occasions when the
 Goudal, instead of unquestioningly performing as directed by the
 director in charge, called attention to inconsistencies, inaccuracies,
@@ -560,7 +567,6 @@ NBC declined to comment, and Barnett didn’t get back to us.
 ## Studio-Publisher Obligations ##
 
 ### Satisfactory Work Product & The Recording Industry
-
 
 > Neil Young has always followed his restless muse 
 > into whatever project caught his fancy---
