@@ -155,7 +155,7 @@ and can be very stressful for the filmmakers.
 Creative disagreements and arguments about the budget or filming schedules are common. 
 When do these disputes ripen into breaches of contracts?
 
-Under the California Labor Code, section 2924, 
+Under the [California Labor Code, section 2924](http://codes.findlaw.com/ca/labor-code/lab-sect-2924.html), 
 an employer can fire an employee at any time for willful breach 
 or “in case of his habitual neglect of his duty or continued incapacity to perform.&hellip;”
 
@@ -399,7 +399,7 @@ stipulated in the contract here before us.&hellip;
 
 The judgment is affirmed.
 
-### Notes on *Goudal v. DeMille* 
+#### Notes on *Goudal v. DeMille* 
 
 Goudal made a deal with DeMille pictures.
 Demille exercised an annual option to renew the deal. Twice! 
@@ -443,7 +443,7 @@ the writer is expected to politely push back
 and offer her own ideas 
 and then the collaborators compromise. 
 
-#### Morals Clauses ####
+### Morals Clauses ###
 
 > A morals clause is a provision in a contract or official document 
 > that prohibits certain behavior in a person's private life. 
@@ -496,10 +496,36 @@ The following case dramatizes the blacklisting of another screenwriter, Lester C
 
 * [Case on Westlaw][loews].
 
+In 1947, the Committee on Un-American Activities (HUAC) 
+of the House of Representatives 
+conducted a public hearing, at Washington, 
+for the purpose of inquiring 
+into alleged Communist infiltration into the motion picture industry. 
+Among dozens of witnesses called, 
+beginning October 20, and concluding October 30, 
+were Lester Cole (a screenwriter), 
+and a number of the executives of the appellant, Loew's, Incorporated, 
+a Delaware Corporation, engaged, 
+under the trade name of Metro-Goldwyn-Mayer, 
+in the production and distribution of motion pictures. 
+Cole had been employed by Loew's as a writer of screenplays since 1945. 
 
-In 1947, the Committee on Un-American Activities (HUAC) of the House of Representatives conducted a public hearing, at Washington, for the purpose of inquiring into alleged Communist infiltration into the motion picture industry. Among dozens of witnesses called, beginning October 20, and concluding October 30, were Lester Cole (a screenwriter), and a number of the executives of the appellant, Loew's, Incorporated, a Delaware Corporation, engaged, under the trade name of Metro-Goldwyn-Mayer, in the production and distribution of motion pictures. Cole had been employed by Loew's as a writer of screenplays since 1945. 
-
-At the hearing Cole, and some nine other screenwriters, who came to be known in the current newspaper accounts of the hearing (which had extremely wide notice in the press and on the radio) as the ten "unfriendly" witnesses, were accompanied by counsel who challenged the validity of the investigation and the power of the Committee to conduct the inquiry or to issue the subpoenas served, by a so-called motion to "quash the subpoenas". When Cole was called to the stand he was asked "Are you now or have you ever been a member of the Communist Party?" The statement he then made was interpreted by the committee as a refusal to answer, and he was cited on November 24, 1947, by the House of Representatives for contempt, and was thereafter indicted for contempt of Congress.
+At the hearing Cole, and some nine other screenwriters, 
+who came to be known in the current newspaper accounts of the hearing 
+(which had extremely wide notice in the press and on the radio) 
+as the ten "unfriendly" witnesses, 
+were accompanied by counsel 
+who challenged the validity of the investigation 
+and the power of the Committee to conduct the inquiry 
+or to issue the subpoenas served, 
+by a so-called motion to "quash the subpoenas". 
+When Cole was called to the stand he was asked 
+"Are you now or have you ever been a member of the Communist Party?" 
+The statement he then made 
+was interpreted by the committee as a refusal to answer, 
+and he was cited on November 24, 1947, 
+by the House of Representatives for contempt, 
+and was thereafter indicted for contempt of Congress.
 
 Shortly thereafter, MGM informed Cole that he would have to return to testify before HUAC that he was not now a member of the Communist party. When Cole refused, MGM fired him under the standard morals clause of his personal service contract, which was almost identical to the clause found in Fatty Arbuckle's contract:
 
@@ -509,7 +535,9 @@ Cole filed suit in federal district court for wrongful dismissal. The trial cour
 
 MGM appealed and the Ninth Circuit Court of Appeals reversed, holding that Cole should have heeded his employer's command to return to HUAC and testify truthfully about his membership or lack of it in the Communist Party:
 
-> A film company might well continue indefinitely the employment of an actor whose private personal immorality is know to his employer, and yet be fully justified in discharging him when he so conducts himself as to make the same misconduct notorious.
+> A film company might well continue indefinitely the employment of an actor whose private personal immorality is known to his employer, and yet be fully justified in discharging him when he so conducts himself as to make the same misconduct notorious.
+
+#### More On Morals Clauses
 
 * [Morals Clauses][morals].
 * [Hold That Tiger: After Woods Scandal, More Lawyers Teeing Up "Morals Clauses"][tiger_morals]
@@ -518,13 +546,14 @@ Blacklisting of the Hollywood 10,
 including such prominent writers as Dalton Trumbo and Ring Lardner, 
 and the infamous witch-hunts 
 conducted by the House Un-American Activities Committee (HUAC)
-(one of whose members was a newly elected congressman named Richard Nixon) were dark periods in our nation's history 
+(one of whose members was a newly elected congressman named Richard Nixon) 
+were dark periods in our nation's history 
 and in the entertainment industry. 
 
 If you have trouble believing that writers could be blacklisted,
 hauled before Congress, 
 and asked about their party affiliations in the United States of America, 
-try imaging Ronald Reagan as a liberal Democrat 
+try imagining Ronald Reagan as a liberal Democrat 
 and president of the screen actors guild 
 (both of which he was at the time).
 
@@ -532,7 +561,10 @@ As to Senator Joseph McCarthy's "Red Scare" demagoguery,
 the studios took the position that HUAC's hearings were nonsense 
 and that they were not going to penalize talent 
 for refusing to answer questions about their political affiliations. 
-But when public pressure started to build in the form of boycotts by the American Legion and other politically powerful groups, the box office was threatened, and the studios caved. 
+But when public pressure started to build 
+in the form of boycotts by the American Legion 
+and other politically powerful groups, 
+the box office was threatened, and the studios caved. 
 
 #### NBC's Brian Williams
 
@@ -639,7 +671,14 @@ and then to the author's lawyer
 (if the author has one)
 who takes another 5% ($2,000).
 
+| $120k advance | Agent | Lawyer| Author |
+| :--------- | :----: | :----: | ----: |
+| 1/3 ($40k) signing | 15% - $6k | 5% - $2k | $32k |
+| 1/3 ($40k) delivery | 15% - $6k | 5% - $2k | $32k | 
+| 1/3 ($40k) publication | 15% - $6k | 5% - $2k | $32k | 
+
 **Now the question:** 
+
 What happens if, after the first portion or portions of the advance are paid, 
 the author turns in a manuscript which the publisher does not care for? 
 
@@ -2128,9 +2167,35 @@ and attempt to recoup their investment.
 
 ## Royalties & Profits
 
+### Book Royalties
+
+Using the same hypothetical book advance of $120,000 from above, 
+in which Author signs a book contract 
+and agrees to a 15% royalty 
+with a $120k advance payable as follows:
+
+* 1/3 ($40k) on signing.
+* 1/3 ($40k) on delivery of the manuscript.
+* 1/3 ($40k) on publication.
+
+If the book is published with a cover price is $20, the Author receives 15% of the cover price ($3.00) for each book sold. If the book sells 50,000 copies:
+
+$3.00 x $50,000 = $150,000 gross royalties
+
+$150,000 - $120,000 (advance) = $30,000.
+
+On next royalty statement, author will earn $30,000.
+
+### Hollywood Accounting
+
 [Hollywood Accounting:](http://en.wikipedia.org/wiki/Hollywood_accounting)
 
-Winston Groom's price for the screenplay rights to his novel *Forrest Gump* included a 3% share of the profits; however, due to Hollywood accounting, the film's commercial success was converted into a net loss, and Groom received only $350,000 for the rights and an additional $250,000 from the studio.
+Winston Groom's price for the screenplay rights to his novel *Forrest Gump* 
+included a 3% share of the profits; 
+however, due to Hollywood accounting, 
+the film's commercial success was converted into a net loss, 
+and Groom received only $350,000 for the rights 
+and an additional $250,000 from the studio.
 
 Stan Lee, co-creator of the character Spider-Man, 
 had a contract awarding him 10% of the net profits of anything based on his characters. 
@@ -2147,7 +2212,8 @@ yet according to the studio, the film lost money.
 Accordingly, the cast (with the exception of Nia Vardalos who had a separate deal) 
 sued the studio for their part of the profits. 
 The original producers of the film have sued Gold Circle Films due to Hollywood accounting practices because the studio has claimed the film, 
-which cost less than $6 million to make and made over $350 million at the box office, lost $20 million.
+which cost less than $6 million to make 
+and made over $350 million at the box office, lost $20 million.
 
 Peter Jackson, director of The Lord of the Rings, 
 and his studio Wingnut Films, 
@@ -2177,9 +2243,13 @@ sued Paramount for failure to pay 19% of “net profits”
 of the Eddie Murphy comedy. 
 
 At trial, Paramount maintained that they were 
-$18 million short of net profits, even though the film had actually earned $350 million in world wide box office receipts. Now what?
+$18 million short of net profits, 
+even though the film had actually earned $350 million 
+in world wide box office receipts. Now what?
 
-Buchwald and Bernheim argued that this was "unconscionable" and a contract of adhesion, because they had no bargaining power to fight the "net profits" formula.
+Buchwald and Bernheim argued that this was "unconscionable" 
+and a contract of adhesion, 
+because they had no bargaining power to fight the "net profits" formula.
 
 Paramount countered that it had paid 
 more that $150 million in net profits 
@@ -2202,7 +2272,11 @@ Everybody knows what "net profits" mean in Hollywood.
 
 How to defend against this nonsense?
 
-One way is to say that your client’s share of net profits participation shall be calculated using the SAME FORMULA as ALL other net profits participants. The other way is to simply advise the talent that these clauses are meaningless and almost never result in any "new money."
+One way is to be sure that the talent's share of net profits participation 
+shall be calculated using the SAME FORMULA as ALL other net profits participants. 
+The other way is to simply advise the talent 
+that these clauses are meaningless 
+and almost never result in any "new money."
 
 * *Buchwald v. Paramount Pictures,* (Cal. App. 1992)([read about examples of Hollywood Accounting](http://en.wikipedia.org/wiki/Hollywood_accounting).
 * [*Buchwald v. Paramount Pictures,*][net_profits] 1992 WL 1462910 (Cal. App. 1992).

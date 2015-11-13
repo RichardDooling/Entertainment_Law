@@ -317,6 +317,14 @@ another 5% ($6,000) comes out for legal fees.
 Like agents, talent and publishing lawyers 
 are often paid a certain percentage of any publishing or movie deals made on behalf of their clients. 
 
+As structured payments, the amounts look this way:
+
+| $120k advance | Agent | Lawyer| Author |
+| :--------- | :----: | :----: | ----: |
+| 1/3 ($40k) signing | 15% - $6k | 5% - $2k | $32k |
+| 1/3 ($40k) delivery | 15% - $6k | 5% - $2k | $32k | 
+| 1/3 ($40k) publication | 15% - $6k | 5% - $2k | $32k | 
+
 The book gets published and the cover price is $20, so every book sold gets your client $3.00 (15% of $20).
 
 Let’s say the book sells 50,000 copies:
@@ -324,8 +332,9 @@ Let’s say the book sells 50,000 copies:
 * $3.00 x $50,000 = $150,000 gross royalties
 * $150,000 - $120,000 (advance) = $30,000.
 
-On next royalty statement, your client will earn $30,000, 
+On the next royalty statement, Author will earn $30,000, 
 the literary agent will take $4,500 and the lawyer will take $1,500.
+
 ### Option Clauses
 
 #### A Sample Option Clause
@@ -414,6 +423,26 @@ Subsidiary rights are usually licensed to third parties and then the publisher w
 > Make sure you are fairly compensated for any subsidiary rights granted. Reputable publishers will pay you at least 50% of the proceeds earned from licensing certain categories of rights, much higher for others.
 
 [Authors Guild: Improving Your Book Contract](http://www.authorsguild.org/member-benefits/legal-services/improving-your-book-contract/)
+
+#### When Literary Agent Sells Sub Rights
+
+Hanser, a German publisher, agrees to purchase the right to publish German language rights for $100k. If Author's literary agent sells those rights, the payments look like this:
+
+| German rights | Foreign Agent | Literary Agent | Lawyer | Author |
+| :--------- | :----: | :----: | :----: | :----: |
+| 100%  | 10% | 10% | 5% | 75% |
+| $100,000 | $10k | $10k | $5k | $75k |
+
+When the publisher insists on selling "world rights" instead of letting the Author's literary agent do it, the commissions usually go up, resulting in less money for Author.
+
+#### When Publisher Sells Sub Rights
+
+| German rights | American Publisher | Literary Agent | Lawyer | Author |
+| :--------- | :----: | :----: | :----: | :----: |
+| 100% | 25% | 15% | 5% | 55% |
+| $100,000 | $25k | $15k | $5k | $55k |
+
+A big difference, because the commission essentially doubles. The publisher takes its commission for selling rights, as does Author's agent.
 
 ### E-Book Rights ###
 
