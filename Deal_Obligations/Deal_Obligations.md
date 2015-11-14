@@ -1412,7 +1412,7 @@ approached Lazar and suggested that Curtis submit the manuscript to a
 *Starstruck.* When Lazar demurred, Doubleday finally admitted defeat. It
 cancelled the reprint deal with NAL, formally terminated the September
 1977 agreement with Curtis and demanded repayment of the original
-\$50,000 advance. When Curtis  refused, Doubleday commenced this
+$50,000 advance. When Curtis  refused, Doubleday commenced this
 litigation.
 
 #### *Proceedings in the District Court*

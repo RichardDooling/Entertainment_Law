@@ -43,7 +43,8 @@ An author with a great agent often doesn't need a lawyer;
 that's why finding an agent is the brass ring. The hardest part. 
 It can take years, sometimes decades. 
 Real literary agents know what sells, 
-and they are picky when it comes to represneting new authors.
+and they are picky when it comes to representing new authors.
+Talent reps are especially interested in representing clients who are hard-working professionals, as well as being talented artists.
 
 As Stephen King put it:
 
@@ -55,8 +56,8 @@ As Stephen King put it:
 > a constant process of honing.
 
 So it's a happy day when an agent calls with the good news: 
-They'd love to represent your work. 
-Before the agent can represent the author, 
+They'd love to represent the artist! 
+Before the agent can represent the author or artist, 
 there may be an agency agreement to sign. 
 At this point in the author-agent relationship, 
 the author needs legal advice before signing the agency agreement.
@@ -131,15 +132,14 @@ For example,
 the Hollywood talent agent who sells film rights 
 to the author's novel will go for top dollar, 
 but what if the talent agent is selling those rights to a producer 
-who also happens to be represented by your large talent agency? 
+who also happens to be represented by the same large talent agency? 
+There's at least a potential for conflict.
 The big agencies will often provide a second opinion, 
 a disinterested review of the terms to guard against conflicts of interest.
-
 
 #### The Interminable Agency Clause
 
 * [Description of clause](http://accrispin.blogspot.com/2011/04/interminable-agency-clause.html)
-* [Authors Guild Warning](http://www.ninc.com/writers_resources/interminable.asp)
 
 ### *Peter Lampack Agency, Inc. v. Martha Grimes*
 
@@ -377,11 +377,11 @@ Among the contracts PLA procured for Grimes was a four-book publishing agreement
 
 That 2005 agreement contained an option clause, similar to option clauses found in many publishing agreements, in effect giving the publisher the right of "first look" at the author's next work:
 
-> [T]he Author hereby grants to the Publisher the exclusive right and option to publish . . . her next book-length work of fiction . . . . The Publisher shall have a period of thirty (30) days after receipt by the Publisher of the notification from the Author or her agent of the Author's desire to commence negotiation concerning such next book-length work of fiction within which to notify the Author whether it desires to publish such work and to negotiate the terms and conditions of such publication.
+> [T]he Author hereby grants to the Publisher the exclusive right and option to publish &hellip; her next book-length work of fiction.&hellip; The Publisher shall have a period of thirty (30) days after receipt by the Publisher of the notification from the Author or her agent of the Author's desire to commence negotiation concerning such next book-length work of fiction within which to notify the Author whether it desires to publish such work and to negotiate the terms and conditions of such publication.
 
 The 2005 Penguin agreement also contained an agency commission clause, providing that:
 
-> The Author hereby appoints [PLA] irrevocably as the Agent in all matters pertaining to or arising from this Agreement . . . . Such Agent is hereby fully empowered to act on behalf of the Author in all matters in any way arising out of this Agreement . . . . All sums of money due the Author under this Agreement shall be paid to and in the name of said Agent . . . . The Author does also irrevocably assign and transfer to [PLA], as an agency coupled with an interest, and [PLA] shall retain a sum equal to fifteen percent (15%) of all gross monies due and payable to the account of the Author under this Agreement.
+> The Author hereby appoints [PLA] irrevocably as the Agent in all matters pertaining to or arising from this Agreement.&hellip; Such Agent is hereby fully empowered to act on behalf of the Author in all matters in any way arising out of this Agreement.&hellip; All sums of money due the Author under this Agreement shall be paid to and in the name of said Agent.&hellip; The Author does also irrevocably assign and transfer to [PLA], as an agency coupled with an interest, and [PLA] shall retain a sum equal to fifteen percent (15%) of all gross monies due and payable to the account of the Author under this Agreement.
 
 In or about May 2007, Grimes notified PLA that she would no longer be using PLA as her
 literary agent and retained a new representative.
@@ -449,7 +449,6 @@ Because PLA did not have a property interest in Grimes' literary works, its agen
 #### The Interminable Agency Clause
 
 * [Description of clause](http://accrispin.blogspot.com/2011/04/interminable-agency-clause.html)
-* [Authors Guild Warning](http://www.ninc.com/writers_resources/interminable.asp)
 
 ## Hollywood Representation
 
@@ -464,11 +463,11 @@ Even with suitcases of talent
 it's a long march to earn a living wage 
 in the entertainment industry. 
 New talents looking for work often assume 
-that any representation is better than no represenation 
+that any representation is better than no representation 
 and sign on with agents or managers 
 who may do little in the way of finding their clients work. 
 In defense of the agents, 
-it's not their job to find you work.
+it's not their job to find their clients' work.
 In my experience, good agents are superb 
 at extracting maximum terms from interested buyers. 
 The day is so filled with those negotiations 
@@ -924,7 +923,7 @@ in practice a talent agent's livelihood
 depends on cultivating valuable connections 
 on both sides of the artistic labor market. 
 Generally speaking, an agent's focus is on the deal: 
-on negotiating numerous shortterm,
+on negotiating many short-term,
 project-specific engagements between buyers and sellers.
 
 Agents are effectively subject to regulation by the various guilds 
@@ -1280,7 +1279,7 @@ of all fees paid by the artist and the forfeiture of all expenses
 advanced to the artist. If no fees have been paid, the Labor
 Commissioner is empowered to declare that no fees are due and owing,
 regardless of the services which the unlicensed talent agent may have
-performed on behalf of the artist.* [¶] These civil and administrative
+performed on behalf of the artist.* These civil and administrative
 remedies for violation of the Act continue to be available and should
 serve adequately to assure compliance with the Act." (Entertainment Com.
 Rep., *supra,* at pp. 17-18.) According to Blasi, this passage
@@ -1290,7 +1289,7 @@ because it adopted all of the commission's proposals when it amended the
 Act in 1986.
 
 We are not persuaded. The passage acknowledges what all parties
-recognize— that the Labor Commissioner has the "power" to void
+recognize that the Labor Commissioner has the "power" to void
 contracts, that she is "empowered" to deny all recovery for services
 where the Act has been violated, and that these remedies are
 "available." But the *power* to so rule does not suggest a *duty* to do
@@ -1514,11 +1513,12 @@ Meaning the TAA prohibits managers from procuring, offering, or promising employ
 
 But the *Wachs* court explained the music-manager exception this way:
 
-> A recording contract is an employment contract of a different nature from those in common usage in the industry involving personal services. The purpose of the contract is to produce a permanent and repayable showcase of the talents of the artist. In the recording industry, many successful artists retain personal managers to act as their intermediaries, and negotiations for a recording contract are commonly conducted by a personal manager, not a talent agent. Personal managers frequently contribute financial support for the living and business expenses of entertainers. They may act as a conduit between the artist and the recording company, offering suggestions about the use of the artist or the level of effort which the recording company is expending on behalf of the artist . . . . However, the problems of attempting to license or otherwise regulate this activity arise from the ambiguities, intangibles and imprecisions of the activity . . . . The majority of the Commission concluded that the industry would be best served by resolving these ambiguities on the side of preserving the exemption of this activity from the requirements of licensure." . . . . On the commission's recommendation, the exemption for those who procure recording contracts became permanent. 
+> A recording contract is an employment contract of a different nature from those in common usage in the industry involving personal services. The purpose of the contract is to produce a permanent and repayable showcase of the talents of the artist. In the recording industry, many successful artists retain personal managers to act as their intermediaries, and negotiations for a recording contract are commonly conducted by a personal manager, not a talent agent. Personal managers frequently contribute financial support for the living and business expenses of entertainers. They may act as a conduit between the artist and the recording company, offering suggestions about the use of the artist or the level of effort which the recording company is expending on behalf of the artist.&hellip; However, the problems of attempting to license or otherwise regulate this activity arise from the ambiguities, intangibles and imprecisions of the activity.&hellip; The majority of the Commission concluded that the industry would be best served by resolving these ambiguities on the side of preserving the exemption of this activity from the requirements of licensure".&hellip; On the commission's recommendation, the exemption for those who procure recording contracts became permanent. 
 
 > [*Wachs v. Curry,*](http://scholar.google.co.uk/scholar_case?case=5228204368502171794) (Cal.Ct.App. 1993).
 
-Many Hollywood talent managers don't buy this distinction and the regulations remain extremely controversial. *See, e.g.:*
+Many Hollywood talent managers don't buy this distinction 
+and the regulations remain extremely controversial. *See, e.g.:*
 
 * [Actors Union Introduces Voluntary Regulation of Talent Managers](http://www.hollywoodreporter.com/thr-esq/sag-aftra-introduces-voluntary-regulation-685773)
 * [Did the California Labor Commissioner Just Shake Up the Music Industry?](http://www.hollywoodreporter.com/thr-esq/did-california-labor-commissioner-just-724960)
@@ -1832,7 +1832,7 @@ Kurnit's relationship with the Croces controls.&hellip;
 Mrs. Croce contends that the contracts were unconscionable. An
 unconscionable contract "affronts the sense of decency," &hellip; 
 and usually involves gross onesidedness, lack of meaningful choice and
-susceptible clientele.&hellip;  A claim of unconscionability "requires some showing of 'an
+susceptible clientèle.&hellip;  A claim of unconscionability "requires some showing of 'an
 absence of meaningful choice on the part of one of the parties together
 with contract terms which are unreasonably favorable to the other
 party.'"&hellip; 
@@ -1882,7 +1882,7 @@ In considering procedural unconscionability this court notes that the
 instant situation lacks the elements of haste and high pressure tactics &hellip; ,
 and that the contracts did not provide for the sole benefit of the
 defendants, &hellip; 
-Indeed, they benefitted the Croces by millions of dollars. Thus Kurnit's
+Indeed, they benefited the Croces by millions of dollars. Thus Kurnit's
 actions do not rise to the level of procedural unconscionability.
 Kurnit, however, as a lawyer and principal, failed to advise the Croces
 to retain independent counsel and proceeded to give legal advice to the
