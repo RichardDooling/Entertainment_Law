@@ -2265,7 +2265,7 @@ Everybody knows what "net profits" mean in Hollywood.
 
 #### Two Accounting Methods
 
-[Hollywood Accounting](http://en.wikipedia.org/wiki/Hollywood_accounting) typically involves to sets of books: 
+[Hollywood Accounting](http://en.wikipedia.org/wiki/Hollywood_accounting) typically involves two sets of books: 
 
 * One for calculating profits to shareholders.
 * One for calculating performer share of profits.
