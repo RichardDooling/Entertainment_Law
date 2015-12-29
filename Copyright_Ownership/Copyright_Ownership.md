@@ -1347,15 +1347,17 @@ In general, there are 3 ways music is acquired for a film: (1) the filmmaker lic
     * [ASCAP title search](https://www.ascap.com/home/ace-title-search/index.aspx)
     * [BMI repertoire search](http://repertoire.bmi.com/startpage.asp)
 
-####Music Licensing Agreements
+#### Music Licensing Agreements
+
 Once a copyright owner agrees to let a filmmaker license their song for a film, best practice requires drawing up an official licensing contract. This license will usually be nonexclusive, meaning that the owner can allow anyone else they want to use the song as well (exclusive licenses are rarer and, understandably, harder to negotiate). A good licensing agreement will set forward **where the license applies** (the one receiving the license will want this to be broad as possible -- "the world", for example; but it will cost less to license for local use -- say, for a local television ad), all **forms of media** where the song will be used (not just "film", but broadcast, cable, and satellite television, in-flight movies, DVD, etc. -- again, the filmmaker will want this to be as broad as possible), and the **license fee** (for popular songs, a license can run you tens of thousands of dollars, and some copyright owners will want royalties, as well). If the filmmaker will be modifying the song in any way, they will need to include this in the license agreement.
 
-####Re-recording and Sound-Alike Recordings
+#### Re-recording and Sound-Alike Recordings
+
 Some filmmakers choose to re-record a song in an effort to save some money on licensing fees. This option still requires obtaining licenses from the publishing company (you will still need a synchronization license, and performance and videogram licenses, if applicable). You will also need to hire musicians to do the new recording (which can have its own contracting foibles).
 
 But, could you hire a cover band that sounds exactly like the artist denying your request to re-record the song so that the audience will be fooled into thinking it's the original song (known as a "sound-alike recording")? Probably not, as this may violate the original artist's right of publicity (this falls under the laws of unfair competition).
 
-####Commissioning Music
+#### Commissioning Music
 
 Often, filmmakers want new music made specifically for their movie (think of the great movie composers, like John Williams or Hans Zimmer). Filmmakers will then negotiate a composer's service agreement that structures the relationship as a work made for hire. This solves the issue of ownership -- the rights to the recording and the composition itself will belong to the production company, not the composer.
 

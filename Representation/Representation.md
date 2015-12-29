@@ -1744,7 +1744,7 @@ The Estate was closed on September 27, 1977 and this action was
 initiated on July 21, 1978.
 
 During the period from 1968 to date the defendants received
-approximately \$6.9 million as a consequence of the performance of the
+approximately $6.9 million as a consequence of the performance of the
 contracts. The recording and entertainment career of Croce is not
 atypical, representing as it does, initially a famine, and ultimately a
 feast. No expert who testified claimed the prescience to determine in

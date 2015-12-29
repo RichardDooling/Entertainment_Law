@@ -369,7 +369,7 @@ If the author and her representatives cannot get rid of the clause, limit it:
 - Go for a “limited time right of first refusal” on terms “to be mutually agreed upon.”
 - Rather than agreeing to submit "the manuscript," agree to submit a "detailed proposal and sample chapters." Otherwise, the Author will be obligated to complete an entire manuscript before being allowed to seek an advance from this publisher or any other. 
 - Limit the time the publisher has to consider the manuscript or proposal. Sixty days is too long. Try for thirty days, and perhaps settle on 45 days. 
-- Do not let the publisher require publication of the first work before it is obliged to consider the second manuscript or proposal. Publication takes at last nine months and can take as long as 18 months. 
+- Do not let the publisher require publication of the first work before it is obliged to consider the second manuscript or proposal. Publication takes at least nine months and can take as long as 18 months or more. No author wants to wait two years before getting the deal for the next book going. 
 - Limit option only to similar books. At a minimum only fiction or nonfiction, as the case may be.
 
 If the publisher requires the Author to wait until publication, then it allows them to assess the success of the first Work, and also ties up the Author before he can submit elsewhere. 
