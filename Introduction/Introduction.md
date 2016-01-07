@@ -17,6 +17,25 @@ chapter: Introduction
 
 > --[Frank Zappa](http://en.wikipedia.org/wiki/Frank_Zappa)
 
+## Art vs. Commerce
+
+English novelist and poet Charlotte Bronte said, 
+"I'm going to write because I cannot help it." 
+Samuel Boswell author, essayist, 
+and father of the first Dictionary of the English language said, 
+"Nobody but a blockhead ever wrote except for money."
+Whether artists make music, art, and letters for fun is nobody's business 
+but the artists. 
+However, when artists want to turn their art into a trade or a professional business, all the rules of the marketplace and the courts apply. 
+
+Music, publishing, theater, film all are governed by laws.
+The businesses within these industries create products or content to sell to consumers. Those products---books, songs, films---
+are usually governed by copyright and other intellectual property laws.
+
+Most of the law we learn in this course is Entertainment Law, 
+which includes what might be called the law of publishing, the law of music, 
+copyright, the law of contracts, and so on.
+
 ## What is Entertainment Law?
 
 Entertainment law is law applied to the entertainment industry. 
