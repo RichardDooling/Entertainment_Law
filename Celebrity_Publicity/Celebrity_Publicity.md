@@ -1877,6 +1877,17 @@ Lanham Act § 43(a)
 * [*Hicks v. Casablanca Records,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=464fsupp426&appflag=67.12) 464 F.Supp. 426 (SDNY 1978).
 * [*Keenan v. Superior Court Los Angeles County,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=27+Cal.4th+413&appflag=67.12) 40 P.3d 718 (2002). [Reporters Committee For Freedom of the Press](http://www.rcfp.org/browse-media-law-resources/news/high-court-strikes-down-state-son-sam-law).
 
+##### Hurt Locker
+
+[The 9th Circuit rules that an Iraqi war veteran's lawsuit would violate the U.S. Constitution.][hurt_locker]
+
+On Wednesday, the 9th Circuit Court of Appeals handed down a big ruling that will make it easier for film and television studios to create stories ripped from the headlines.
+
+The case concerns The Hurt Locker, the 2010 Oscar winner directed by Kathryn Bigelow and written by Mark Boal, about an army bomb squad during the Iraq War.
+
+The film triggered a lawsuit by  Master Sgt. Jeffrey S. Sarver, an Iraqi war veteran who claimed that Boal's research on Sarver for an issue of Playboy ultimately became a film that infringed his publicity rights and defamed him. Sarver alleged that the main character of Will James was based on his life.
+
+
 #### Totally Optional Readings & Viewings
 
 * ['Call of Duty': Can Rudy Giuliani Beat Manuel Noriega, the Three Stooges and Gwen Stefani?](http://www.hollywoodreporter.com/thr-esq/call-duty-can-rudy-giuliani-734737)
@@ -1886,9 +1897,13 @@ Lanham Act § 43(a)
 * [James Franco Sued for Violating Film Rights to Charles Bukowski Novel](http://www.hollywoodreporter.com/thr-esq/james-franco-sued-violating-film-699013)
 * Bing Crosby's First Wife Denied Value of His [Publicity Rights](http://www.hollywoodreporter.com/thr-esq/bing-crosbys-first-wife-denied-675755): Are likeness rights community property in a marriage? 
 
+
 [brandeis_article]: http://en.wikipedia.org/wiki/The_Right_to_Privacy_(article) "The Right of Privacy"
 [zacchini]: http://scholar.google.com/scholar_case?case=16238771870259020023 "Zacchini v. Scripps Broadcasting"
 [pavesich]: http://scholar.google.com/scholar_case?about=14399965817410541021 "Pavesich v. New England Life"
 [prosser]: http://www.californialawreview.org/assets/pdfs/misc/prosser_privacy.pdf "Prosser On Privacy Cal.Law.Rev. 1960"
 [hoffman]: http://heinonline.org/HOL/LandingPage?handle=hein.journals/jocoso28&div=12&id=&page= "Hoffman Limitations On The Right Of Publicity" 
+[hurt_locker]: https://www.hollywoodreporter.com/thr-esq/appeals-court-hurt-locker-is-866687 "Hurt Locker Publicity Rights Lawsuit"
+
+
 
