@@ -2159,6 +2159,9 @@ http://www.politico.com/story/2015/06/shepard-fairey-arrest-warrant-graffiti-119
 * [Woody Allen's Midnight In Paris: Copyright Infringement?](http://www.theguardian.com/film/2013/jul/19/midnight-in-paris-copyright-william-faulkner) (In the film, Owen Wilson's character says: "The past is not dead. Actually, it's not even past." In *Requiem for a Nun*, Faulkner wrote: "The past is never dead. It's not even past." Faulkner Literary Rights argued this amounted to copyright infringement, but Sony countered by claiming de minimis and "fair use").
 * [*Woods v. Universal*](http://www.leagle.com/decision/1996982920FSupp62_1966.xml/WOODS%20v.%20UNIVERSAL%20CITY%20STUDIOS,%20INC.) (SDNY 1996)(*12 Monkeys* scene featuring Bruce Willis being interrogated in a futuristic chair infringes on drawing called *Neomechanical Tower (Upper) Chamber*).
 * [Article about *Woods v. Universal.*](http://www.copyrightwebsite.com/Visual/Monkeys/Monkeys.aspx)
+*  [Did Led Zeppelin Steal ‘Stairway to Heaven’? A Jury Will Decide - The New York Times](http://www.nytimes.com/2016/04/13/arts/music/led-zeppelins-stairway-to-heaven-was-partly-stolen-lawsuit-says.html): 
+ 
+> The Led Zeppelin song “Stairway to Heaven” is one of the most ubiquitous (some might say overplayed) songs on classic rock radio. Next month, a jury will decide whether the song’s opening was stolen from another band. A federal judge in Los Angeles ruled that it will be up to the jurors to determine whether the song stole elements of “Taurus,” a track from the band Spirit. 
 
 #### More Totally Optional Reading & Viewing ###
 
