@@ -32,70 +32,6 @@ Invasion of privacy?
 Or investigative journalism 
 or some other species of reality entertainment?
 
-## "Life Story Rights" 
-
-Telling "based upon," nonfiction stories about others 
-often treads on what the industry calls "life story rights," 
-not a legal term, just a handy grab bag term for the rights involved. 
-The artist (filmmaker, storyteller, photographer, fine artist, 
-even songwriters) wants to tell a person's "life story" 
-or use their name, image or likeness without getting sued for it.
-
-These so-called life story rights 
-are different in every jurisdiction.
-Lawyers must watch out for international law, 
-American constitutional law (the First Amendment), 
-and a patchwork quilt of State laws.
-Some states (notably Alabama, Tennessee, and California) 
-zealously protect the inherited privacy rights of dead celebrities, 
-and allow the heirs of Martin Luther King, Elvis Presley, and the Three Stooges 
-to protect the rights of their famous dead former citizens. 
-Even dead celebrities sometimes have publicity rights,
-and their heirs can sue to protect those rights in state court. 
-But those celebrity rights many not tread 
-on the First Amendment rights of authors and artists.
-Authors are free to tell stories about dead people 
-by creating biographical works, history, film, fiction, news and the like.
-These works are protected speech under the First Amendment and the Copyright clause. 
-But celebrities have a different parallel right 
-to "commercial" exploitation of their names, image, and likeness. 
-
-More important than theoretical doctrinal hair-splitting
-of First Amendment theories and privacy rights 
-is to make sure that authors and filmmakers who want to tell fact-based stories
-about people living or dead get a "life rights" agreement,
-a collection of contract provisions dealing with story rights and waivers of liability.
-Again all of these rights are jurisdiction-specific 
-and depend on careful, 
-specific drafting of contract provisions . 
-
-#### Acquiring Life Story Rights
-
-If possible artist and living subject 
-execute a simple agreement, 
-wherein the subject promises not to sue 
-for defamation, invasion of privacy, use of name, image, or likeness, 
-and a number of other claims. 
-A nice description can be found in a passage called 
-["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) 
-from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. (2009), by Gunnar Erickson, Mark Halloran & Harris Tulchin. See also, [Purchasing Life Story Rights By: Mark Litwak](http://www.marklitwak.com/purchasing-life-story-rights.html).
-
-Here are some links to sample life story rights agreements and templates:
-
-- [Life Story Rights Agreement, courtesy of the Northern Kentucky University Chase College of Law.] (http://chaselaw.nku.edu/content/dam/chaselaw/docs/centersandinstitute/Law---Informatics/LifeStoryRightsAgreement.pdf)
-- [Done Deal: Life Rights Option Agreement.](https://www.donedealpro.com/members/details.aspx?object_id=280&content_type=1&section_id=13)
-- [Done Deal: Life Rights Agreement.](https://www.donedealpro.com/members/details.aspx?object_id=582&content_type=1&section_id=13)
-
-If an agreement can't be had, 
-storytellers and filmmakers may proceed, 
-but often the script or the nonfiction book 
-will be annotated. 
-All factual statements about living people and historical events, 
-will be annotated with sources. 
-
-
-## Defamation
-
 Stories, songs, movies, even photos about real people, 
 may defame them, 
 if those works of art contain or suggest false statements of fact. 
@@ -105,14 +41,14 @@ if those works of art contain or suggest false statements of fact.
 * [FreeAdvice: How to Prove Libel or Slander](http://injury-law.freeadvice.com/injury-law/libel_and_slander/prove-libel-and-slander.htm).
 * [Eric E. Johnson](http://www.ericejohnson.com/), [Defamation Flowchart](http://eejlaw.com/m/defamation_flowcharts.pdf).
 
-### Libel v. Slander
+## Libel v. Slander
 
 Two forms: Libel and slander.
 
 * Libel (mneumonic sounds like "label") is defamation in print; it's written or recorded, as in television or movies. 
 * Slander is defamation by way of the spoken word.
 
-#### Defamation Per Se
+### Defamation Per Se
 
 All states, 
 except Arizona, Arkansas, Missouri, and Tennessee, 
