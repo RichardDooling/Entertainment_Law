@@ -1279,7 +1279,7 @@ Blurred lines: Ninth Circuit applies same First Amendment protections to blogger
 [defamation]: http://www.nolo.com/legal-encyclopedia/defamation-law-made-simple-29718.html "What is Defamation? Answer at Nolo.com."
 [brandeis_article]: http://en.wikipedia.org/wiki/The_Right_to_Privacy_(article) "The Right of Privacy"
 [matthews]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=15f3d432&appflag=67.12 "Matthews v. Wozencraft" 
-[heed]: http://media.nara.gov/nr/docrights/Sect4cNYTAd_a.jpg "Heed Their Rising Voices"
+[heed]: http://www.archives.gov/exhibits/documented-rights/exhibit/section4/detail/heed-rising-voices.html "Heed Their Rising Voices"
 [heed_transcript]: http://www.archives.gov/exhibits/documented-rights/exhibit/section4/detail/heed-rising-voices-transcript.html "Transcript of Heed Their Rising Voices"
 [sullivan]: http://scholar.google.com/scholar_case?case=10183527771703896207 "New York Times v. Sullivan"
 [amant]: http://scholar.google.com/scholar_case?case=8635492247136926004 "St. Amant v. Thompson"
