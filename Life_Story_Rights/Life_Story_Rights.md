@@ -86,6 +86,13 @@ his or her name, image, likeness, or other unequivocal aspects of one's identity
 
 ###### (5th Cir. 1994)
 
+This case introduces us to what can happen 
+when there's no "life story rights" agreement.
+In *Matthews v. Wozencraft*, the Fifth Circuit Court of Appeals,
+applying Texas law, said that, at least in Texas, 
+there's no such thing as a property interest in one's "life story." 
+In passing, the Court distinguishes "life story rights" from  celebrity/publicity rights.
+
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=1997318397198235568)
 * [how cited Google Scholar](http://scholar.google.com/scholar_case?about=1997318397198235568)
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=15f3d432&appflag=67.12) 
@@ -408,7 +415,6 @@ fictionalized form. [*Douglass*](http://scholar.google.com/scholar_case?case=178
 Matthews has created no genuine issue of material fact under Texas law.
 Thus, we AFFIRM the district court's grant of summary judgment on all
 claims.
-
 
 
 [survival]: http://www.amazon.com/Independent-Film-Producers-Survival-Guide/dp/0825637236/ref=sr_1_1?ie=UTF8&qid=1375835406&sr=8-1&keywords=independent+producers+survival+guide "Independent Producers Survival Guide"
