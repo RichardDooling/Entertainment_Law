@@ -141,7 +141,7 @@ but the right of publicity took a different turn.
 An individual's name, image, and likeness 
 became a species of property to be licensed. 
 
-In [*Haelan Labs v. Topps Chewing Gum* (2d Cir. 1953](http://scholar.google.com/scholar_case?case=1821155283282557167), the Second Circuit officially named the new right:
+In [*Haelan Labs v. Topps Chewing Gum* (2d Cir. 1953)](http://scholar.google.com/scholar_case?case=1821155283282557167), the Second Circuit officially named the new right:
 
 > This right might be called a "right of publicity." 
 > For it is common knowledge that many prominent persons 
@@ -1255,7 +1255,7 @@ Saderup next contends that enforcement of the judgment against him violates his 
 
 As the trial court found, Saderup's portraits of The Three Stooges are expressive works and not an advertisement for or endorsement of a product. Although his work was done for financial gain, "[t]he First Amendment is not limited to those who publish without charge.... [An expressive activity] does not lose its constitutional protection because it is undertaken for profit." ([*Guglielmi v. Spelling-Goldberg Productions* (1979) (*Guglielmi*)](http://scholar.google.com/scholar_case?case=3956106467746132778).)
 
-The tension between the right of publicity and the First Amendment is highlighted by recalling the two distinct, commonly acknowledged purposes of the latter. First, "'to preserve an uninhibited marketplace of ideas' and to repel efforts to limit the '"uninhibited, robust and wideopen" debate on public issues.'" [*Guglielmi*](http://scholar.google.com/scholar_case?case=3956106467746132778).) Second, to foster a "fundamental respect for individual development and self-realization. The right to self-expression is inherent in any political system which respects individual dignity. Each speaker must be free of government restraint regardless of the nature or manner of the views expressed unless there is a compelling reason to the contrary."
+The tension between the right of publicity and the First Amendment is highlighted by recalling the two distinct, commonly acknowledged purposes of the latter. First, "'to preserve an uninhibited marketplace of ideas' and to repel efforts to limit the '"uninhibited, robust and wideopen" debate on public issues.'" [*Guglielmi*](http://scholar.google.com/scholar_case?case=3956106467746132778). Second, to foster a "fundamental respect for individual development and self-realization. The right to self-expression is inherent in any political system which respects individual dignity. Each speaker must be free of government restraint regardless of the nature or manner of the views expressed unless there is a compelling reason to the contrary."
 
 The right of publicity has a potential for frustrating the fulfillment of both these purposes. Because celebrities take on public meaning, the appropriation of their likenesses may have important uses in uninhibited debate on public issues, particularly debates about culture and values. And because celebrities take on personal meanings to many individuals in the society, the creative appropriation of celebrity images can be an important avenue of individual expression. As one commentator has stated: 
 
@@ -1360,7 +1360,7 @@ from the celebrity fan's viewpoint, good substitutes for conventional
 depictions of the celebrity and therefore do not generally threaten
 markets for celebrity memorabilia that the right of publicity is
 designed to protect. See [*Cardtoons, L.C v. Major League Baseball
-Players Association* (10th Cir. 1996)](http://scholar.google.com/scholar_case?case=16551870099624462955).)
+Players Association* (10th Cir. 1996)](http://scholar.google.com/scholar_case?case=16551870099624462955).
 Accordingly, First Amendment protection of such works outweighs whatever
 interest the state may have in enforcing the right of publicity. The
 right-of-publicity holder continues to enforce the right to monopolize
@@ -1427,7 +1427,7 @@ outweighed by the right of publicity. As is the case with fair use in
 the area of copyright law, an artist depicting a celebrity must
 contribute something more than a "merely trivial" variation, [but
 must create] something recognizably "his own" [*L. Batlin & Son,
-Inc. v. Snyder*](http://scholar.google.com/scholar_case?case=16845746302991569414)),
+Inc. v. Snyder*](http://scholar.google.com/scholar_case?case=16845746302991569414),
 in order to qualify for legal protection.
 
 On the other hand, we do not hold that all reproductions of celebrity portraits are unprotected by the First Amendment. The silkscreens of Andy Warhol, for example, have as their subjects the images of such celebrities as Marilyn Monroe, Elizabeth Taylor, and Elvis Presley.  Through distortion and the careful manipulation of context, Warhol was able to convey a message that went beyond the commercial exploitation of celebrity images and became a form of ironic social comment on the dehumanization of celebrity itself.&hellip; Such expression may well be entitled to First Amendment protection. Although the distinction between protected and unprotected expression will sometimes be subtle, it is no more so than other distinctions triers of fact are called on to make in First Amendment jurisprudence. See, e.g., [*Miller v. California* (1973)](http://scholar.google.com/scholar_case?case=287180442152313659) (requiring determination, in the context of work alleged to be obscene, of "whether the work, taken as a whole, lacks serious literary, artistic, political, or scientific value").

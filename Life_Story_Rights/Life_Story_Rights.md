@@ -261,7 +261,7 @@ freely to endorse commercial products, the value of his likeness would
 disappear. Creating artificial scarcity preserves the value to him, to
 advertisers who contract for the use of his likeness, and in the end, to
 consumers, who receive information from the knowledge that he is being
-paid to endorse the product. *See* [*Kimbrough v. Coca-Cola* (Tex.Civ.App. 1975](http://scholar.google.com/scholar_case?case=2288203517052278533) (in which former Texas A & M football star stated valid claim for misappropriation where his picture was used, over his objection, as part of an advertisement for Coca-Cola in a football game program).
+paid to endorse the product. *See* [*Kimbrough v. Coca-Cola* (Tex.Civ.App. 1975)](http://scholar.google.com/scholar_case?case=2288203517052278533) (in which former Texas A & M football star stated valid claim for misappropriation where his picture was used, over his objection, as part of an advertisement for Coca-Cola in a football game program).
 
 As Judge Posner writes,
 
