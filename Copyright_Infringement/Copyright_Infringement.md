@@ -1432,26 +1432,26 @@ on the author's publishing rights under &#167;106:
 
 The Court applied the four prongs of the &#167;107 fair use as follows:
 
-1. The purpose and character of the use:
+(1) The purpose and character of the use:
 
 The Court agreed with the Second Circuit 
 that The Nation's purpose in publishing the excerpts was ostensibly "news reporting," and that [§107][107] lists news reporting as one of the exemplary activities tending toward a finding of fair use. But the court insisted that the issue was not what constitutes "news," but whether a claim of newsreporting is a valid fair use defense to an infringement of *copyrightable expression*.”
 
 As for the *character* of The Nation's use, the trial court found that The Nation knowingly exploited a purloined manuscript. The Supreme Court said that: "Fair use presupposes ‘good faith’ and ‘fair dealing,’” which was decidedly lacking in The Nation's conduct.
 
-2. The nature of the copyrighted work:
+(2) The nature of the copyrighted work:
 
 The Court characterized "A Time to Heal" as an unpublished historical narrative or autobiography. The law generally recognizes a greater need to disseminate factual works than works of fiction or fantasy, but the Court again stressed: "The fact that a work is unpublished is a critical element of its 'nature.'"
 
 > The right of first publication encompasses not only the choice whether to publish at all, but also the choices of when, where, and in what form first to publish a work.
 
-3. Amount and Substantiality of the Portion Used. 
+(3) Amount and Substantiality of the Portion Used. 
 
 As the Court put it: 
 
 > In absolute terms, the words actually quoted were an insubstantial portion of “A Time to Heal.” The District Court, however, found that “[T]he Nation took what was essentially the heart of the book.”
 
-4. The effect of the use upon the potential market for or value of the copyrighted work.
+(4) The effect of the use upon the potential market for or value of the copyrighted work.
 
 The Court found that "this last factor is undoubtedly the single most important element of fair use." And The Nation's advanced publication of excerpts destroyed the market for first serial rights, because when Time Magazine learned of The Nation's publication it canceled the deal, and with good reason.
 
@@ -1464,7 +1464,7 @@ The Court found that "this last factor is undoubtedly the single most important 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=16686162998040575773)
 * [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=510us569&appflag=67.12).
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Campbell_v._Acuff-Rose_Music,_Inc.). 
-* [Listen to Roy Orbison's "Pretty Woman"](https://www.youtube.com/watch?v=mHPgco6GQk8).
+* [Listen to Roy Orbison's "Pretty Woman"](https://www.youtube.com/watch?v=_PLq0_7k1jk).
 * [Listen to Two Live Crew's parody of "Pretty Woman"](https://www.youtube.com/watch?v=65GQ70Rf_8Y).
 
 JUSTICE SOUTER delivered the opinion of the Court.
@@ -1823,7 +1823,7 @@ entitled to less indulgence under the first factor of the fair use
 enquiry than the sale of a parody for its own sake, let alone one
 performed a single time by students in school. 
 
-##  B
+## B
 
 The second statutory factor, "the nature of the copy-righted work," [§ 107(2)][107], draws on Justice Story's expression, the "value of the materials
 used." &hellip; This factor calls for recognition that some works are closer to the core
@@ -1936,7 +1936,7 @@ to permit evaluation of the amount taken, in light of the song's parodic
 purpose and character, its transformative elements, and considerations
 of the potential for market substitution sketched more fully below.
 
-##  D
+## D
 
 The fourth fair use factor is "the effect of the use upon the potential
 market for or value of the copyrighted work." [§ 107(4)][107]. It requires
@@ -2156,7 +2156,7 @@ taking fiction is less fair.
 * ['Hope' poster artist Shepard Fairey faces arrest in Detroit](
 http://www.politico.com/story/2015/06/shepard-fairey-arrest-warrant-graffiti-119413.html) By Nick Gass, 6/25/15 6:31 AM EDT.
 * [The New Yorker: Who Owns This Image?](http://www.newyorker.com/online/blogs/currency/2014/02/who-owns-this-image.html)
-* [Woody Allen's Midnight In Paris: Copyright Infringement?](http://www.theguardian.com/film/2013/jul/19/midnight-in-paris-copyright-william-faulkner) (In the film, Owen Wilson's character says: "The past is not dead. Actually, it's not even past." In *Requiem for a Nun*, Faulkner wrote: "The past is never dead. It's not even past." Faulkner Literary Rights argued this amounted to copyright infringement, but Sony countered by claiming de minimis and "fair use").
+* [Woody Allen's Midnight In Paris: Copyright Infringement?](http://www.theguardian.com/film/2013/jul/19/midnight-in-paris-copyright-william-faulkner) (In the film, Owen Wilson's character says: "The past is not dead. Actually, it's not even past." In *Requiem for a Nun*, Faulkner wrote: "The past is never dead. It's not even past." Faulkner Literary Rights argued this amounted to copyright infringement, but Sony countered by claiming de minimis and "fair use".)
 * [*Woods v. Universal*](http://www.leagle.com/decision/1996982920FSupp62_1966.xml/WOODS%20v.%20UNIVERSAL%20CITY%20STUDIOS,%20INC.) (SDNY 1996)(*12 Monkeys* scene featuring Bruce Willis being interrogated in a futuristic chair infringes on drawing called *Neomechanical Tower (Upper) Chamber*).
 * [Article about *Woods v. Universal.*](http://www.copyrightwebsite.com/Visual/Monkeys/Monkeys.aspx)
 *  [Did Led Zeppelin Steal ‘Stairway to Heaven’? A Jury Will Decide - The New York Times](http://www.nytimes.com/2016/04/13/arts/music/led-zeppelins-stairway-to-heaven-was-partly-stolen-lawsuit-says.html): 
