@@ -1069,7 +1069,7 @@ employment—any individual, any corporation, any manager—is a talent
 agency subject to regulation.&hellip; 
 Consequently, as the Courts of Appeal have unanimously held, a personal
 manager who solicits or procures employment for his artist-client is
-subject to and must abide by the Act. [*Park v. Deftones,*](http://scholar.google.com/scholar_case?case=14383445149997334293); [*Waisbren v. Peppercorn Productions, Inc.](http://scholar.google.com/scholar_case?case=823549855453847638)&hellip; 
+subject to and must abide by the Act. [*Park v. Deftones,*](http://scholar.google.com/scholar_case?case=14383445149997334293); [*Waisbren v. Peppercorn Productions, Inc.*](http://scholar.google.com/scholar_case?case=823549855453847638)&hellip; 
 The Labor Commissioner, whose interpretations of the
 Act we may look to for guidance &hellip; 
 has similarly uniformly applied the Act to personal managers. 

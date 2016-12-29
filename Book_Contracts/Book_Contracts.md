@@ -1,12 +1,18 @@
 ---
 author: Richard Dooling
 title: Lawyers For The Talent
-subtitle: Book Contracts
+abstract: Publishing Contracts.
 ---
 
-# Book Contracts
+# Law & Business For Creative Artists
 
-## Source Materials
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## Book Contracts
+
+### Source Materials
 
 * [Authors Guild Model Trade Book Contract and Guide][model] (sent to authors or their representatives when they join the Authors Guild; used by many professionals in the publishing industry).
 * [Authors Guild: Improving Your Book Contract - Negotiation Tips For Nine Typical Clauses][improving].
@@ -190,7 +196,7 @@ containing a specified number of words, for example: 80,000 words; or a range: 9
 
 If there are maps, photos, illustrations and the like, a description of these should also be included here, as well as who pays to obtain and prepare them (usually the author pays). Also, in the case of a nonfiction book, the publisher may require that the author prepare an index, or pay the publisher to have one prepared. These can be expensive, often a few hundred dollars or more. 
 
-#### Satisfactory Manuscript
+### Satisfactory Manuscript
 
 Most publishing contracts will contain a clause specifying that 
 "the manuscript must be satisfactory to the publisher in form and content." 
@@ -201,7 +207,6 @@ or use objective standards such as:
 If the publisher is not "satisfied" with the manuscript, 
 rejects it, and asks for return of the advance, 
 objective standards may allow the author to prove that she had performed under the contract, because another publisher is willing to publish, meaning that the manuscript was "professional" and "fit for publication."
-
 
 There is no sense fighting over whether to include a satisfactory manuscript clause, 
 because the real issue is what happens if the publisher no longer wishes to publish the book. 
@@ -235,105 +240,6 @@ Many authors are so excited about getting a book deal, they never consider that 
 
 Every publishing contract should specify a date certain or a time period during which the publisher must publish the book (eighteen (18) months after submission of the final manuscript seems fair). After that time, the author should be free to end the contract, regain all rights granted, and keep the advance. 
 
-## Definiteness
-
-## *Pinnacle Books v. Harlequin,* 
-
-###### United States District Court SDNY (1981).
-
-* [Case on Westlaw][pinnacle] 519 F.Supp 118 (SDNY 1981)(5 pages).
-
-In 1976, Pinnacle Books entered into a contract with Pendleton for the rights to publish books 29 through 38 in *The Executioner* series. Since 1969, Pendleton had written and Pinnacle had published 38 different action/adventure books in *The Executioner* series. Author Pendleton owned copyright in the series, which had sold approximately 20 million copies.
-
-The agreement provided that: 
-
-> Pendleton would not offer rights in the series to any other publisher until, **after extending their best efforts**, the parties were unable to agree on terms for a new contract.”
-
-In 1978-79, Pendleton and Pinnacle began negotiating for an extension of their agreement, when a dispute broke out over foreign royalties. It was settled eventually, and according to Pinnacle negotiations became more intense, but their differences could have been resolved if the parties had continued using **their best efforts.**
-
-But in January 1980, Harlequin Books began negotiating with Pendleton for rights to *The Executioner* series.
-
-On May 15, 1980, Pendleton signed with Harlequin.
-
-Pinnacle sued Harlequin and sought an injunction and damages against Harlequin for unlawful interference with the contractual relationship between Pinnacle and Don Pendleton (its most successful author).
-
-Now, for Pinnacle to succeed for unlawful interference with a contract, Pinnacle had to prove up a VALID contract. Pinnacle argued that it had an agreement with Pendleton that he would use **best efforts** to agree on new contract terms.
-
-Indeed if Pendleton had not negotiated at all, perhaps Pinnacle would have a good argument, but how is the court supposed to enforce a contract provision that says the parties must use their **best efforts?**
-
-The court said:
-
-> where the parties agreed only to negotiate and failed to state the standards by which their negotiation efforts were to be measured, it is impossible to determine whether Pinnacle used their "best efforts" to negotiate a new agreement.
-
-> There simply is no objective standard by which the court can determine whether Pinnacle's offer constituted its best efforts; nor can it decide whether Pendleton's participation in negotiations with Pinnacle for over a year were his best efforts. In short, the option clause is unenforceable due to the indefiniteness of its terms . . . 
-
-> “Best efforts” or similar clauses, like any other contractual agreement, must set forth in definite and certain terms every material element of the contemplated bargain. It is hornbook law that courts cannot and will not supply the material terms of a contract. Essential to the enforcement of a “best efforts” clause is a clear set of guidelines against which the parties' “best efforts” may be measured. 
-
-What Pinnacle really needed (and apparently was unable to bargain for) was an "option clause."
-
-#### Authors Guild on Option Clauses	
-
-To the Authors Guild, Option clauses are "Unacceptable Provisions."
-
-A typical option clause looks like this:
-
-> The Author grants Publisher the exclusive option to acquire the rights to the next full-length work of [fiction or non-fiction] to be written by the Author. Publisher shall be entitled to a period of sixty (60) days after submission of the next work in which to make an offer for that work, during which time the Author agrees not to solicit any third party offers, directly or indirectly.
-
-*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at paragraph 19.
-
-As the Authors Guild puts it: These clauses favor PUBLISHERS ONLY, not authors. An option clause gives your publisher the PRIVILEGE to publish your next book (but only if they want to).
-
-An book contract option clause binds the author to the publisher, even if the relationship has been unsatisfactory. The clause usually contains some or all of the terms you MUST accept for the optioned work.  Even “first refusal” clauses and “agreements to agree” impede the author’s freedom.  Some publishers will simply delete option clauses. Consider asking for an editor’s clause instead?
-
-What if your editor leaves? What if you get a better deal elsewhere? You may not want a provision hanging over your head that you MUST show your next book to your current publisher first. 
-
-If you cannot get rid of the clause, limit it: Avoid options on “the same terms” and “last refusal rights” (allowing publisher to match terms the author has received). Go for a “limited time right of first refusal” on terms “to be mutually agreed upon.” 
-
-Also limit the clause to a summary or proposal for the next book (not entire manuscript). Otherwise you may be unable to shop a query, proposal, or summary to another publisher until you finish the second book and show it to your original publisher. 
-
-Limit the time. And don’t let the publisher require publication of the first work. Limit option only to similar books (fiction, non-fiction, poetry). 
-
-*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at &para; 19.
-
-#### How Book Advances Work
-
-The author signs a book contract 
-and agrees to a standard 15% royalty 
-with a $120,000 advance payable as follows:
-
-* 1/3 ($40k) on signing.
-* 1/3 ($40k) on delivery of manuscript.
-* 1/3 ($40k) on publication.
-
-These payments go to the author's literary agent, 
-who deducts her 15% and sends the rest to the author 
-(or if a lawyer is involved, perhaps another 5% for her).
-
-On the entire $120,000, 
-the literary agent would take 15% ($18,000). 
-If an entertainment or publishing lawyer 
-represents the author in the deal, 
-another 5% ($6,000) comes out for legal fees.
-Like agents, talent and publishing lawyers 
-are often paid a certain percentage of any publishing or movie deals made on behalf of their clients. 
-
-As structured payments, the amounts look this way:
-
-| $120k advance | Agent | Lawyer| Author |
-| :--------- | :----: | :----: | ----: |
-| 1/3 ($40k) signing | 15% - $6k | 5% - $2k | $32k |
-| 1/3 ($40k) delivery | 15% - $6k | 5% - $2k | $32k | 
-| 1/3 ($40k) publication | 15% - $6k | 5% - $2k | $32k | 
-
-The book gets published and the cover price is $20, so every book sold gets your client $3.00 (15% of $20).
-
-Let’s say the book sells 50,000 copies:
-
-* $3.00 x $50,000 = $150,000 gross royalties
-* $150,000 - $120,000 (advance) = $30,000.
-
-On the next royalty statement, Author will earn $30,000, 
-the literary agent will take $4,500 and the lawyer will take $1,500.
 
 ### Option Clauses
 
@@ -387,6 +293,46 @@ Current copyright law does not require authors to formally register their copyri
 The publisher's advance against royalties are monies paid before publication and later deducted from royalties earned. 
 
 In the end, the publisher will market and promote the Work in the manner it deems best. Probably the only control the author and his representatives have is determined by the size of the advance. The larger the advance, the greater incentive the publisher has to publicize the work. 
+
+#### How Book Advances Work
+
+The author signs a book contract 
+and agrees to a standard 15% royalty 
+with a $120,000 advance payable as follows:
+
+* 1/3 ($40k) on signing.
+* 1/3 ($40k) on delivery of manuscript.
+* 1/3 ($40k) on publication.
+
+These payments go to the author's literary agent, 
+who deducts her 15% and sends the rest to the author 
+(or if a lawyer is involved, perhaps another 5% for her).
+
+On the entire $120,000, 
+the literary agent would take 15% ($18,000). 
+If an entertainment or publishing lawyer 
+represents the author in the deal, 
+another 5% ($6,000) comes out for legal fees.
+Like agents, talent and publishing lawyers 
+are often paid a certain percentage of any publishing or movie deals made on behalf of their clients. 
+
+As structured payments, the amounts look this way:
+
+| $120k advance | Agent | Lawyer| Author |
+| :--------- | :----: | :----: | ----: |
+| 1/3 ($40k) signing | 15% - $6k | 5% - $2k | $32k |
+| 1/3 ($40k) delivery | 15% - $6k | 5% - $2k | $32k | 
+| 1/3 ($40k) publication | 15% - $6k | 5% - $2k | $32k | 
+
+The book gets published and the cover price is $20, so every book sold gets your client $3.00 (15% of $20).
+
+Let’s say the book sells 50,000 copies:
+
+* $3.00 x $50,000 = $150,000 gross royalties
+* $150,000 - $120,000 (advance) = $30,000.
+
+On the next royalty statement, Author will earn $30,000, 
+the literary agent will take $4,500 and the lawyer will take $1,500.
 
 ### Out of Print ###
 
@@ -453,6 +399,66 @@ The author and her reps need to be certain that the definition of e-book rights 
 As noted under the termination provisions above, the contract should include a clause calling for a minimum number of sales or a dollar amount of royalties that must be generated for the book to still be considered "in print" under the contract. 
 
 If possible obtain a "renegotiation clause," which gives the author and the publisher the ability to renegotiate if the industry standard royalty amounts change in the future or the media used to transmit books changes. 
+
+## Definiteness
+
+### *Pinnacle Books v. Harlequin,* 
+
+###### United States District Court SDNY (1981).
+
+* [Case on Westlaw][pinnacle] 519 F.Supp 118 (SDNY 1981)(5 pages).
+
+In 1976, Pinnacle Books entered into a contract with Pendleton for the rights to publish books 29 through 38 in *The Executioner* series. Since 1969, Pendleton had written and Pinnacle had published 38 different action/adventure books in *The Executioner* series. Author Pendleton owned copyright in the series, which had sold approximately 20 million copies.
+
+The agreement provided that: 
+
+> Pendleton would not offer rights in the series to any other publisher until, **after extending their best efforts**, the parties were unable to agree on terms for a new contract.”
+
+In 1978-79, Pendleton and Pinnacle began negotiating for an extension of their agreement, when a dispute broke out over foreign royalties. It was settled eventually, and according to Pinnacle negotiations became more intense, but their differences could have been resolved if the parties had continued using **their best efforts.**
+
+But in January 1980, Harlequin Books began negotiating with Pendleton for rights to *The Executioner* series.
+
+On May 15, 1980, Pendleton signed with Harlequin.
+
+Pinnacle sued Harlequin and sought an injunction and damages against Harlequin for unlawful interference with the contractual relationship between Pinnacle and Don Pendleton (its most successful author).
+
+Now, for Pinnacle to succeed for unlawful interference with a contract, Pinnacle had to prove up a VALID contract. Pinnacle argued that it had an agreement with Pendleton that he would use **best efforts** to agree on new contract terms.
+
+Indeed if Pendleton had not negotiated at all, perhaps Pinnacle would have a good argument, but how is the court supposed to enforce a contract provision that says the parties must use their **best efforts?**
+
+The court said:
+
+> where the parties agreed only to negotiate and failed to state the standards by which their negotiation efforts were to be measured, it is impossible to determine whether Pinnacle used their "best efforts" to negotiate a new agreement.
+
+> There simply is no objective standard by which the court can determine whether Pinnacle's offer constituted its best efforts; nor can it decide whether Pendleton's participation in negotiations with Pinnacle for over a year were his best efforts. In short, the option clause is unenforceable due to the indefiniteness of its terms . . . 
+
+> “Best efforts” or similar clauses, like any other contractual agreement, must set forth in definite and certain terms every material element of the contemplated bargain. It is hornbook law that courts cannot and will not supply the material terms of a contract. Essential to the enforcement of a “best efforts” clause is a clear set of guidelines against which the parties' “best efforts” may be measured. 
+
+What Pinnacle really needed (and apparently was unable to bargain for) was an "option clause."
+
+#### Authors Guild on Option Clauses	
+
+To the Authors Guild, Option clauses are "Unacceptable Provisions."
+
+A typical option clause looks like this:
+
+> The Author grants Publisher the exclusive option to acquire the rights to the next full-length work of [fiction or non-fiction] to be written by the Author. Publisher shall be entitled to a period of sixty (60) days after submission of the next work in which to make an offer for that work, during which time the Author agrees not to solicit any third party offers, directly or indirectly.
+
+*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at paragraph 19.
+
+As the Authors Guild puts it: These clauses favor PUBLISHERS ONLY, not authors. An option clause gives your publisher the PRIVILEGE to publish your next book (but only if they want to).
+
+An book contract option clause binds the author to the publisher, even if the relationship has been unsatisfactory. The clause usually contains some or all of the terms you MUST accept for the optioned work.  Even “first refusal” clauses and “agreements to agree” impede the author’s freedom.  Some publishers will simply delete option clauses. Consider asking for an editor’s clause instead?
+
+What if your editor leaves? What if you get a better deal elsewhere? You may not want a provision hanging over your head that you MUST show your next book to your current publisher first. 
+
+If you cannot get rid of the clause, limit it: Avoid options on “the same terms” and “last refusal rights” (allowing publisher to match terms the author has received). Go for a “limited time right of first refusal” on terms “to be mutually agreed upon.” 
+
+Also limit the clause to a summary or proposal for the next book (not entire manuscript). Otherwise you may be unable to shop a query, proposal, or summary to another publisher until you finish the second book and show it to your original publisher. 
+
+Limit the time. And don’t let the publisher require publication of the first work. Limit option only to similar books (fiction, non-fiction, poetry). 
+
+*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at &para; 19.
 
 
 [model]:  https://www.authorsguild.org/member-benefits/legal-services/model-book-contract/
