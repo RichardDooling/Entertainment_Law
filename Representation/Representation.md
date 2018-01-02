@@ -771,7 +771,7 @@ insofar as they "solicit or procure employment" for their clients?
 In the course of addressing this issue, 
 the opinion becomes almost an essay about how Hollywood works.
 
-### Representation
+## Representation
 
 ## Marathon Entertainment, Inc. v. Blasi,
 
@@ -1458,7 +1458,7 @@ considered judgment.
 For the foregoing reasons, we affirm the Court of Appeal's judgment and
 remand this case for further proceedings consistent with this opinion.
 
-### *Wachs v. Curry,* (Cal.Ct.App.2d 1993).
+## *Wachs v. Curry,* (Cal.Ct.App.2d 1993).
 
 * [*Wachs v. Curry,*][wachs] 16 Cal.Rptr.2d 496 (Cal.Ct.App.2d 1993).
 

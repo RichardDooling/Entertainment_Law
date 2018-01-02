@@ -19,7 +19,7 @@ But as lawyers, agents and representatives working for artists,
 or as people who collaborate with and represent artists, 
 we are usually not concerned about establishing religions 
 or assembling to petition the government; 
-we are concerned about SPEECH. 
+we are concerned about *speech*. 
 So an edited version of the First Amendment 
 for those in the entertainment and publishing industries might go like this:
 
@@ -36,7 +36,7 @@ Then we add the Fourteenth Amendment, which says:
 > the equal protection of the laws.
 
 Read together, 
-the First and Fourteenth Amendments prohibit *GOVERNMENTS* 
+the First and Fourteenth Amendments prohibit *governments* 
 from making laws abridging the freedom of speech. 
 Private parties using private, lawful means 
 may "abridge" the speech of others without causing First Amendment problems 
@@ -44,7 +44,7 @@ may "abridge" the speech of others without causing First Amendment problems
 or slapping an NC-17 rating on their movies, 
 or an [ESRB][esrb] warning on their video games.) 
 
-So always look for *STATE ACTION* first 
+So always look for *state action* first 
 to determine if you have a First Amendment issue. 
 The easiest way to check for state action? 
 Look for a law (statute, ordinance, regulation), 
@@ -67,18 +67,18 @@ they naturally wonder:
 Is this the sort of speech the Founding Fathers 
 had in mind when they wrote the First Amendment?
 As far as we know, no framer of the Constitution asked the question:
-Yes, but what IS speech? 
+Yes, but what *is* speech? 
 Did the Founding Fathers mean to say 
 that public nudity, live sex acts, and bestiality are all speech, 
 and therefore Congress had no power to pass laws against such "expressive conduct"? 
 Did they believe that live sex acts are like flag burning or marching in the streets? 
 And did this mean that they believed Congress had no power to pass laws against obscenity, indecency, pornography, nude dancing and the like?
 
-The First Amendment obviously does not protect ALL speech. 
+The First Amendment obviously does not protect *all* speech. 
 Author Kurt Vonnegut once observed that: 
 "The First Amendment reads more like a dream than a law." 
 Indeed. So what speech does it protect? 
-Or is it easier to ask what speech is NOT protected by the First Amendment?
+Or is it easier to ask what speech is *not* protected by the First Amendment?
 
 If the First Amendment doesn't mean what it says, 
 then what does it mean? Some First Amendment absolutists ask: 
@@ -226,7 +226,7 @@ many states censored movies as a matter of course.
 The first time a case arguing that the "boards of censors" 
 interfered with the First Amendment rights of people 
 who displayed the films or wanted to see them, 
-the United States Supreme Court said: I beg your pardon? Movies are NOT speech.
+the United States Supreme Court said: I beg your pardon? Movies are *not* speech.
 
 ### *Mutual Film Corp. v. Industrial Commission of Ohio*
 
@@ -499,7 +499,7 @@ When it comes to the United States, consider this [nice summary of speech restri
 
 Child pornography and disclosing classified communications 
 in violation of the Espionage Act are good examples. 
-Both involve SPEECH, but the U.S. Supreme Court 
+Both involve *speech*, but the U.S. Supreme Court 
 says that these categories of speech are not protected by the First Amendment. 
 Child porn and disclosing classified information therefore are both categories of "unprotected speech," meaning the  government can fine you or send you to prison for engaging in them. [18 U.S. Code &sect; 2251 - Sexual exploitation of children](http://www.law.cornell.edu/uscode/text/18/2251)
 
@@ -511,7 +511,7 @@ Child porn and disclosing classified information therefore are both categories o
 * [*The Atlantic:* "The Most Powerful Dissent in American History"](http://www.theatlantic.com/national/archive/2013/08/the-most-powerful-dissent-in-american-history/278503/) (a book that reveals precisely how and why Oliver Wendell Holmes changed his mind about the first amendment).
 * [*The Atlantic:* "It's Time to Stop Using the 'Fire in a Crowded Theater' Quote"](http://www.theatlantic.com/national/archive/2012/11/its-time-to-stop-using-the-fire-in-a-crowded-theater-quote/264449/) (A nice take on the *US v. Schenk* and how it may have led to Holmes’ opinion in *Abrams*).
 * [*The Wall Street Journal:* Even Speech We Hate Should Be Free Those who want to limit freedom of speech are misusing Oliver Wendell Holmes's famous 1919 line about ‘shouting fire in a theater’](http://www.wsj.com/articles/even-speech-we-hate-should-be-free-1440165276) 
-* [*The Hell You Say: The new battles over free speech are fierce, but who is censoring whom?*](http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say), BY Kelefa Sanneh.
+* [*The Hell You Say: The new battles over free speech are fierce, but who is censoring whom?*](http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say), by Kelefa Sanneh.
 * [Fox Urges End to Broadcast Indecency Limits](http://www.hollywoodreporter.com/thr-esq/fox-urges-end-broadcast-indecency-572512)
 * [Highest criminal court in Texas strikes down "improper photography" statute](http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/09/18/texas-highest-criminal-court-strikes-down-improper-photography-statute/)
 
@@ -530,7 +530,7 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 
 ### Changelog
 
-* Version 1.1 - 28-Aug-2015 
+* Version 1.0 - 01-Jan-2018 
 
 <!--Cases -->
 

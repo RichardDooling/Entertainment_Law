@@ -1129,7 +1129,7 @@ was broken down as follows:
 
 * $65,000 on signing;
 * $75,000 on delivery of a SATISFACTORY manuscript; 
-* $60,000 dues on publication
+* $60,000 due on publication
 
 The HBJ contract also contained a clause that provided:
 
@@ -1147,11 +1147,12 @@ to arrive one day in the mail so they can congratulate themselves and the publis
 
 Instead they receive a tentative draft 
 from authors who sound uncertain about how to proceed. 
-How much to put in? How much to leave out? 
+How much to put in? 
+How much to leave out? 
 This is dealing from weakness. 
 Remember, the first piece of advice 
 (also sometimes the hardest piece of advice) 
-you can give your client? FINISH THE BOOK! 
+you can give your client? Finish the book! 
 
 It’s similar in one respect to the [*Elvin v. Aretha Franklin*](https://github.com/RichardDooling/Entertainment_Law/blob/master/Dealmaking/Dealmaking.md#elvin-associates-v-aretha-franklin) case, 
 namely, 

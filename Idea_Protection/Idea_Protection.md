@@ -272,7 +272,7 @@ The Copyright Act of 1976 expressly preempts state claims where the
 plaintiff's work "comes within the subject matter of copyright" and
 the state law grants "legal or equitable rights that are equivalent to
 any of the exclusive rights within the general scope of copyright."
-&hellip; T he scope of copyright subject matter does not extend to
+&hellip; The scope of copyright subject matter does not extend to
 ideas that are not within a fixed medium. Section 301(b) specifically
 excludes non-fixed ideas from the Copyright Act's scope; the statute
 describes "works of authorship not fixed in any tangible medium of
@@ -614,6 +614,7 @@ respectfully dissent.
 * [Pitch the idea? Or just write it and be done?](https://www.youtube.com/watch?v=8ExFYpzso8g)
 * *Passman*, Chapter 18, Songwriter Deals, Creative Control & Moral Rights (pgs. 296-297). 
 * [Ninth Circuit Revives California Idea Submission Claims](http://www.lexology.com/library/detail.aspx?g=352aeccb-2f72-413a-8c12-881b1a1e3d9c), by Anna R. Buono.
+* ['Leprechaun' Creator Sues Over 'Vamprechaun' Film | Hollywood Reporter](http://www.hollywoodreporter.com/thr-esq/leprechaun-creator-sues-vamprechaun-film-985180?utm_source=twitter&utm_source=Direct) (The legal drama behind the creation of a vampire-leprechaun hybrid film is almost as colorful as the creature itself.) 
 
 [desny]:   http://scholar.google.com/scholar_case?case=3141417353271271191   "Desny v. Wilder"
 [grosso]:   http://scholar.google.com/scholar_case?case=9970479884551762667   "Grosso v. Miramax"

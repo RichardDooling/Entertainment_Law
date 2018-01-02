@@ -840,7 +840,7 @@ Senator McCain.
 Presently before the Court is RNC's Motion to Dismiss for Failure to
 State a Claim. For the following reasons, the Court DENIES RNC's Motion.
 
-###II. FACTUAL BACKGROUND
+### II. FACTUAL BACKGROUND
 
 Plaintiff alleges the following facts:
 

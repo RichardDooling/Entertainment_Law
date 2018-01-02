@@ -39,10 +39,996 @@ No better example then 2 Live Crew's "Nasty As They Wanna Be."
 * [case at Wikipedia][navarro]
 * [The *Miller Test* at Wikipedia][miller_test]
 
-Please read the *Skyywalker* opinion in its entirety. 
-It's a great story (2 Live Crew versus the Broward County Sheriff's Office) 
-and an excellent tutorial on how the famous *Miller* test for obscenity 
-works in the real world. 
+GONZALEZ, District Judge.
+
+This is a case between two ancient enemies: Anything Goes and Enough
+Already.
+
+Justice Oliver Wendell Holmes, Jr. observed in [*Schenck v. United
+States,*  39 S.Ct. 247 (1919),](http://scholar.google.com/scholar_case?case=8474153321909160293&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+that the First Amendment is not absolute and that it does not permit one
+to yell "Fire" in a crowded theater. Today, this court decides whether
+the First Amendment absolutely permits one to yell another "F" word
+anywhere in the community when combined with graphic sexual
+descriptions.
+
+Two distinct and narrow issues are presented: whether the recording *As
+Nasty As They Wanna Be*(*Nasty*) is legally obscene; and second, whether
+the actions of the defendant Nicholas Navarro (Navarro), as Sheriff of
+Broward County, Florida, imposed an unconstitutional prior restaint upon
+the plaintiffs' right to free speech.
+
+It is before the court following a trial on the merits held May 14 and
+May 15, 1990. The court has considered the pleadings, exhibits, the
+testimony of the witnesses, plus argument of able counsel. By the
+stipulation of the parties, the trial record also includes all evidence
+and argument presented at the plaintiffs' preliminary injunction hearing
+held April 19, 1990.
+
+### THE PLAINTIFFS
+
+The plaintiff Skyywalker Records, Inc. (Skyywalker) is a Florida
+corporation headquartered in Miami, Florida. The plaintiffs Luther
+Campbell, Mark Ross, David Hobbs, and Chris Wongwon, constitute the
+group known as "2 Live Crew" whose recording, *As Nasty As They Wanna
+Be,* is the subject of this lawsuit. Luther Campbell is also the
+President, Secretary, sole shareholder, and sole director of Skyywalker.
+
+The plaintiffs have brought this action under section 1983, Title 42 of
+the United States Code, which provides a federal statutory remedy for
+unlawful deprivations of federal rights including those liberties
+guaranteed under the United States Constitution. The plaintiffs also
+seek a declaration of their legal rights, under the Federal Declaratory
+Judgment Act, 28 U.S.C. § 2201(a), and injunctive relief under section
+2202(b) thereof. This court has previously denied the plaintiffs' motion
+for a preliminary injunction by *ore tenus* order entered April 19,
+1990. There is no prayer for money damages.
+
+Because this is a civil action, the party with the burden of proof must
+prevail by a preponderance of the evidence. On the issue of obscenity,
+the defendant Navarro has the burden of proof. As to the prior restraint
+claim, however, the plaintiffs have the burden to prove, beyond a
+preponderance of the evidence, that the defendant's actions were
+unconstitutional.
+
+It must be emphasized at the outset that this decision does not
+criminalize the plaintiffs' conduct, nor does it charge anyone with a
+crime. That is a matter for the police and the criminal courts to
+determine. Whether the plaintiffs are guilty of a crime can only be
+decided if criminal charges are brought, a trial by jury conducted, and
+all other due process requirements have been met. Whether *As Nasty as
+They Wanna Be is criminally* obscene is left for the determination of
+another court on another day.
+
+### THE FACTS
+
+The recording *As Nasty As They Wanna Be* was released to the public by
+2 Live Crew in 1989. To date, public sales have totalled approximately
+1.7 million copies. The recording is available in various formats
+including phonograph records, cassette tapes, and compact discs. 2 Live
+Crew has also produced a recording entitled *As Clean As They Wanna Be*
+(*Clean*) which has sold approximately 250,000 copies. Although neither
+party introduced *Clean* into evidence, it apparently contains the same
+music as *Nasty* but without the explicit sexual lyrics.
+
+In mid-February 1990, the Broward County Sheriff's office began an
+investigation of the *Nasty* recording. The investigation began in
+response to complaints by South Florida residents.
+
+ Broward County Deputy Sheriff Mark Wichner was assigned to the
+case. On February 26, 1990, he traveled to Sound Warehouse, a Broward
+County retail music store, and purchased a cassette tape copy of the
+*Nasty* recording. The tape was purchased from an open display rack
+marked "Rap Music", easily accessible to all of Sound Warehouse's
+customers regardless of age.
+
+Deputy Wichner listened to the *Nasty* recording, had six of the
+eighteen songs transcribed, and prepared an affidavit detailing these
+facts requesting that the Broward County Circuit Court find probable
+cause that the *Nasty* recording was legally obscene. On February 28,
+1990, Deputy Wichner submitted the affidavit, an attached transcript of
+the six songs, and the tape cassette of the *Nasty* recording to the
+duty judge of the Broward County Circuit Court, the Honorable Mel
+Grossman. The communications between Deputy Wichner and Judge Grossman
+were limited to the filing of the affidavit, transcript, and tape
+cassette. Several days later, Judge Grossman's chambers contacted the
+deputy and requested further information concerning the location in
+Sound Warehouse of the *Nasty* recording and its accessibility to the
+public. Deputy Wichner communicated that information to the judge.
+
+On March 9, Judge Grossman issued an order after reviewing the *Nasty*
+recording "in its entirety." The judge explicitly found probable cause
+to believe this recording was obscene under section 847.011 of the
+Florida Statutes and under applicable case law.
+
+The Broward County Sheriff's office received and copied the order, and
+distributed it county wide to retail establishments that might be
+selling the *Nasty* recording. It decided to "warn the stores as a
+matter of courtesy" rather than make an initial arrest because,
+according to Deputy Wichner's testimony, such conduct would have been
+overaggressive. The Sheriff's office has not opened any investigations
+of other musical recordings because of the absence of citizen
+complaints.
+
+Thereafter, Deputy Wichner re-visited the store where he had purchased
+the original recording plus another Sound Warehouse outlet and a store
+called Uncle Sam's Records. On these visits, the deputy wore a jacket
+marked "Broward County Sheriff" and displayed his badge in plain view.
+He spoke with a manager in each of the three stores, provided them with
+a copy of Judge Grossman's order, and told them, in a friendly
+conversational tone, that they should refrain from selling the *Nasty*
+recording. The managers were warned that further sales would result in
+arrest and that if convicted, the penalty for selling to a minor was a
+felony, and a misdemeanor if sold to an adult. Between fifteen and
+twenty different Broward County stores were personally visited by the
+Sheriff's office, and the evidence indicates that each of the visits was
+conducted in the same manner as were Deputy Wichner's three stops.
+
+The Sheriff's office warnings were very effective. Within days, all
+retail stores in Broward County ceased offering the *Nasty* recording
+for sale. Those stores not directly visited by deputy sheriffs pulled
+the recording from their shelves after hearing about the visits from
+television and radio reports. Some stores continued to sell the *Clean*
+recording. *Nasty* was no longer sold even by stores having a policy of
+specially marking the recording with a warning, and of not selling it to
+minors. 2 Live Crew also includes a small statement on the front of the
+paper insert to their recording, as follows: "WARNING: EXPLICIT LANGUAGE
+CONTAINED".
+
+The Broward County Sheriff's office took no further action because there
+was no information that any store was selling the *Nasty* recording.
+
+On March 16, 1990, the plaintiffs filed this action in federal district
+court. On March 27, 1990, Sheriff Nicholas Navarro filed an *in rem*
+proceeding in Broward County Circuit Court against the *Nasty* recording
+seeking a judicial determination that it was obscene under state law.
+*See Navarro v. The Recording "As Nasty As They Wanna Be",* case number
+90-09324(12) (Reasbeck). There is no evidence  of the status of
+the state case including whether a trial date has been set. No criminal
+proceedings against either the recording or the group 2 Live Crew have
+been instituted.
+
+### OBSCENITY AND THE FIRST AMENDMENT
+
+The First Amendment to the United States Constitution provides that
+"Congress shall make no law ... abridging the freedom of speech." The
+Fourteenth Amendment declares that "[n]o State shall ... deprive any
+person of ... liberty ... without due process of law." It is now
+well-established that this "liberty" includes the right to free speech.
+*See* [*Chaplinsky v. New Hampshire,* 62 S.Ct. 766, 768-69 (1942)](http://scholar.google.com/scholar_case?case=124249671461500618&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0);
+[*Miller v. California,* 93 S.Ct. 2607, 2612 (1973)](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+Hence, neither the federal nor the state governments may abridge this
+Constitutional right.
+
+The First Amendment is one of our most sacred liberties since freedom of
+thought and speech are the key to the preservation of all other rights.
+Free speech plays a critical role in furthering self-government, in
+encouraging individual self-realization, and fostering society's search
+for truth via exposure to a "marketplace of ideas."
+
+To protect that sacred right, the judiciary carefully scrutinizes
+government regulation to determine if such regulation impermissibly
+infringes upon it. When legislative or executive action is directed at
+the content of one's speech, it will pass judicial review only upon a
+showing that the action is designed to further a compelling governmental
+interest by narrowly drawn means necessary to achieve the end. 
+
+The First Amendment's guaranty is not absolute, however. *See, e.g., Chaplinsky.*
+Although the amendment is unconditional on its face, the fact that there
+were accepted state limits on speech at the time it was ratified
+indicates that the "phrasing of the First Amendment was not intended to
+protect every utterance." 
+
+This is certainly true about speech on sexual subjects.
+
+Obscene speech has *no* protection under the First Amendment. 
+The rationale is simple: the message conveyed by obscene speech is of
+such slight social value that it is always outweighed by the compelling
+interests of society, as manifested in the laws enacted by its elected
+representatives. 
+
+Sex has been called "a great and mysterious motive force in human life".
+[*Roth,* 77 S.Ct. at 1310](http://scholar.google.com/scholar_case?case=14778925784015245625&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+Because of its power, both federal and state governments have chosen to
+regulate its abuse. For example, states have banned prostitution,
+incest, rape, and other sexually related conduct. These prohibitions are
+no different than a ban on obscenity. The distinction between
+regulations of conduct and speech does not invalidate obscenity laws. As
+noted in [*Miller v.
+California*](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)*,*
+"Sex and nudity many not be exploited without limit by films and
+pictures exhibited or sold in places of public accomodation any more
+than live sex and nudity can be exhibited or sold without limit in such
+public places." 
+
+The state may also have an important interest in protecting minors and
+unwilling or sensitive adults from exposure to obscene materials. *See*
+[*Miller,* 413 U.S. at 18-19, 93 S.Ct. at
+2611-12](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+
+ The plaintiffs attempt to diminish the state's interest by
+relying upon language in [*Butler v. Michigan,* 77 S.Ct.
+524 (1957),](http://scholar.google.com/scholar_case?case=8098803622147894006&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+that if materials that are only obscene as to minors are banned, a
+state's statute would "reduce the adult population ... to reading only
+what is fit for children." *Id.* at 383, 77 S.Ct. at 525. This decision
+only applies, however, to governmental regulations of materials which
+are not obscene as to adult audiences. Certainly it is not improper for
+a state to protect children from materials which are too lewd for even
+adult consumption.
+
+Words, including musical lyrics, are powerful. As noted in *Paris Adult
+Theatre I,*
+
+> [If there is a] well nigh universal belief that good books, plays, and
+> art lift the spirit, improve the mind, enrich the human personality,
+> and develop character, can we then say that a state legislature may
+> not act on the corollary assumption that commerce in obscene books, or
+> public exhibitions focused on obscene conduct, have a tendency to
+> exert a corrupting and debasing impact leading to antisocial behavior?
+> [ 93 S.Ct. at 2638](http://scholar.google.com/scholar_case?case=7437343063858529835&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+
+Even though there is no Constitutional protection for obscenity and
+there are potential governmental interests at stake, it does not
+necessarily mean that obscene speech is illegal. Indeed, state
+governments could legalize obscenity including use by consenting adults.
+
+The government must first criminalize obscenity before it is outlawed.
+Indeed, if there were no statutory bans enacted by the legislature,
+courts would not have to decide what is and what is not obscene.
+
+The Florida Legislature *has* acted, however. It has enacted a statutory
+scheme outlawing obscenity. It is apparent that this legislation is
+intended to regulate obscenity to the maximum extent allowed by the
+Constitution of the United States. Section 847.001(7), Florida Statutes,
+tracks the language of the controlling case of [*Miller v.
+California*](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+in defining obscenity for purposes of the state ban. 
+
+The Florida Legislature has enacted a comprehensive set of laws. The
+primary provision is section 847.011 of the Florida Statutes. Subsection
+(1)(a) *criminalizes* the distribution, sale, or production of any
+obscene thing including a "recording" which can be "transmuted into
+auditory ... representations." Subsection (2) similarly makes it a
+*crime* for a person to knowingly have an obscene thing, including
+musical recordings, in his possession. Section 847.06 and 847.07 make it
+*criminal* to transport obscenity into the state or to create, deliver,
+or publish obscenity. There are several provisions which specifically
+apply to child pornography. *See* FLA.STAT. ANN. §§ 847.012, .0125,
+.013, .0135, .0145 (Supp.1990). Finally, sections 847.201 and 847.202
+prohibit obscene programming on cable television during promotional
+periods and require ratings on video tapes rented and sold to the
+public.
+
+An argument underlying the plaintiffs' position is that the
+obscenity or non-obscenity of any material should not be a concern of
+the criminal law, but rather should be left to the free market of ideas.
+Let each individual member of the public decide whether they wish to buy
+the material. 2 Live Crew has labeled their work with an explicit
+warning. They claim this label allows adults who would object to the
+recording's contents to exercise the consumer's right of free choice to
+not buy the product. To use the example of television, if the viewer
+does not like what he sees on Channel X, he may switch to Channel Y or
+turn off the set. In the case of obscene music, people who do not want
+to listen to obscenity do not have to buy it.
+
+This is the argument of those absolutists who believe *all speech,
+regardless of its content,* is protected by the First Amendment. Such
+individuals label all regulation of speech as "censorship" and
+"paternalism". This absolutist view finds strength among those who
+believe rugged individualism is a valued virtue, if not a protected
+right that everyone should be permitted to "do their own thing."
+
+This is a facially appealing argument. The problem is that it is not the
+law.
+
+Florida has declared obscenity to be a crime. To repeat, violation of
+the laws against obscenity is as much against the law as assault, rape,
+kidnapping, robbery, or any other form of behavior which the legislature
+has declared criminal.
+
+The absolutists and other members of the party of Anything Goes should
+address their petitions to the Florida Legislature, not to this court.
+If they are sincere let them say what they actually mean—Lets' Legalize
+Obscenity!
+
+To be redundant, obscenity is not a protected form of speech under the
+U.S. Constitution, with or without voluntary labeling. *It is a crime.*
+If the people of Florida, want to legalize obscenity, they have every
+right to do so. It is much easier to criticize the law, however, than it
+is to work to repeal it. As the Supreme Court stated in *Paris Adult
+Theatre I:*
+
+> It is argued that individual "free will" must govern, even in
+> activities beyond the protection of the First Amendment and other
+> constitutional guarantees of privacy, and that government cannot
+> legitimately impede an individual's desire to see or acquire obscene
+> plays, movies, and books. We do indeed base our society on certain
+> assumptions that people have the capacity for free choice. Most
+> exercises of individual free choice—those in politics, religion, and
+> expression of ideas—are explicitly protected by the Constitution.
+> Totally unlimited play for free will, however, is not allowed in our
+> or any other society....
+
+> The States, of course, may follow ... a "laissez-faire" policy and
+> drop all controls on commercialized obscenity, if that is what they
+> prefer, just as they can ignore consumer protection in the
+> marketplace, but nothing in the Constitution *compels* the States to
+> do so with regard to matters falling within state jurisdiction. [413
+> U.S. at 63-64, 93 S.Ct. at
+> 2638](http://scholar.google.com/scholar_case?case=7437343063858529835&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+> (emphasis in original).
+
+This court's role is merely to interpret the law to determine whether
+the particular material is obscene. If the inquiry yields an affirmative
+response, judicial review is limited to whether the means chosen to
+implement the law are rationally related to the goal of the legislation.
+It is not the role of this court to sit as a Super-Legislature to
+second-guess whether the best possible law was passed. 
+This court must also refrain from substituting its own choice of the
+appropriate means to outlaw obscenity, for this is a matter of
+legislative discretion subject only to the boundaries of the
+Constitution and the conscience of the legislators. 
+And if a statute only regulates unprotected obscenity, mere rationality
+is sufficient to satisfy due process.
+
+In an era where the law and society are rightfully concerned with the
+rights of minorities, it should not be overlooked nor forgotten that
+majorities also have rights.
+
+ In our democratic form of government, citizens elect
+representatives to protect their interests and promote their welfare.
+State legislatures have the authority to exercise the governmental
+police power which reaches all manner of human conduct. As already seen,
+state regulation may reach some of the most intimate aspects of man's
+existence including sex. 
+When man enters into a society and becomes a member
+thereof, he necessarily submits to its laws and thereby must give up the
+unfettered liberty he would otherwise possess in his natural state.
+
+In sum, if persons subscribe to the view that obscenity should be
+legalized, they should take their petitions to Tallahassee, the Florida
+capital, not to the steps of the U.S. courthouse.
+
+The people of Florida have made obscenity a crime. Individuals are not
+free to disobey or disregard the law. The law is not a smorgasbord where
+people are free to pick and choose among which laws they will obey and
+which they will reject. Neither is it a channel selector available to
+every member of the public to use as they deem fit. As noted in the
+Pattern Instructions of the Eleventh Circuit, jurors in deciding the
+rights and liberties of their fellow citizens "must ... follow the law
+... whether.... [they] agree with that law or not."
+
+Men and women in good faith may agree or disagree as to whether
+obscenity should be prohibited. They can argue that the obscenity
+statutes should or should not be repealed. In the meantime, however, the
+law must be obeyed and the Sheriff has a duty to enforce it. Indeed,
+Florida's Legislature has mandated that all sheriffs in the state are to
+"vigorously enforce" the obscenity laws. *See* FLA.STAT.ANN. §
+847.011(9) (Supp.1990).
+
+### [THE MILLER V. CALIFORNIA](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0) TEST
+
+In deciding whether a specific work is or is not obscene, the court must
+apply the controlling test enunciated in [*Miller v. California,* 93 S.Ct. 2607(1973)](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+To be obscene, there must be proof of all three of the following
+factors: (1) the average person, applying contemporary community
+standards, would find that the work, taken as a whole, appeals to the
+prurient interest, (2) measured by contemporary community standards, the
+work depicts or describes, in a patently offensive way, sexual conduct
+specifically defined by the applicable state law, and (3) the work,
+taken as a whole, lacks serious literary, artistic, political, or
+scientific value. 
+
+### THE RELEVANT COMMUNITY
+
+Both the first and second elements of *Miller* require application of
+"contemporary community standards." The issues of the size of the
+appropriate community, its composition, and the view of the average
+person in that group are all questions of fact to be decided by the
+trier of fact, which is the court in this case. 
+
+Both parties Apparently assumed that the relevant community was only
+Broward County, Florida. Neither litigant presented any evidence to
+support this assumption, which was apparently based upon the
+jurisdiction of the Broward County Sheriff and the County lines.
+However, the boundaries of the relevant community under *Miller* are a
+matter for judicial, not legislative, determination. 
+
+This court finds that in assessing whether this work is
+obscene, the relevant community is the area of Palm Beach, Broward, and
+Dade Counties. 
+
+If the relevant community is Broward, Dade, and Palm Beach counties, the
+next step is to determine the composition of the citizens of this area.
+The court, as the finder of fact, must rely upon its own personal
+knowledge as the parties failed to present evidence on this point. In a
+word, this area is remarkable for its diversity. The three counties are
+a mecca for both the very young and the very old. Because of the beachs
+and the moderate year-round climate, this area includes young persons
+establishing homes and older residents retiring to enjoy life under the
+sun. There are both families and single individuals residing in the
+communities. Generally, the counties are heterogeneous in terms of
+religion, class, race, and gender.
+
+### THE AVERAGE PERSON STANDARD
+
+The next inquiry is more difficult because this court must determine
+what are the standards for determining prurient interest and patent
+offensiveness in Palm Beach, Dade, and Broward Counties. The fact that
+the state legislature has enacted laws prohibiting obscenity is
+certainly relevant and entitled to great weight. The state's
+anti-obscenity stance as a whole, however, is overinclusive because
+other communities outside the three counties are included in the
+majority who passed the legislation.
+
+In determining the views of the "average person" in this area, the court
+has *not* focused only on the views of the most tolerant or the most
+sensitive individuals. The "average person" does not
+necessarily represent any one segment of the community. It is a legal
+concept whereby a single perspective is derived from the aggregation or
+average of everyone's attitudes in the area including persons with
+differing degrees of tolerance (community under *Miller* is made up of all adults in the area including
+the most sensitive). The court has not considered minors in its
+considerations because there was not sufficient evidence adduced at
+trial that the music was targeted at such persons or that it actually
+reached children.
+
+This court finds that the relevant community standard reflects a *more*
+tolerant view of obscene speech than would other communities within the
+state. This finding of fact is based upon this court's personal
+knowledge of the community. The undersigned judge has resided in Broward
+County since 1958. As a practicing attorney, state prosecutor, state
+circuit judge, and currently, a federal district judge, the undersigned
+has traveled and worked in Dade, Broward, and Palm Beach. As a member of
+the community, he has personal knowledge of this area's demographics,
+culture, economics, and politics. He has attended public functions and
+events in all three counties and is aware of the community's concerns as
+reported in the media and by word of mouth. In almost fourteen years as
+a state circuit judge, the undersigned gained personal knowledge of the
+nature of obscenity in the community while viewing dozens, if not
+hundreds of allegedly obscene films and other publications seized by law
+enforcement.
+
+The court does not adopt the plaintiffs' position that these three
+counties can be labeled as "tolerant" per se as opposed to some degree
+thereof. Neither the trier of fact's personal knowledge nor the
+plaintiffs' evidence supports such a conclusion. The plaintiffs argue
+that the lack of written complaints in the *Nasty* investigation file
+created by the Broward Sheriff's office is evidence of a tolerant
+community standard. While this fact is entitled to some weight, it is
+far from significant. There may be many reasons why concerned citizens
+have not complained. For example, the *Nasty* recording was not released
+until 1989 and it takes time for even a popular musical release to reach
+the public consciousness. Although the Sheriff has the duty to enforce
+the obscenity laws regardless of community protest, Deputy Wichner's
+explanation of why this particular album was singled out can reasonably
+be linked to significant community discontent, whether communicated by
+telephone calls, anonymous messages, or letters to the police.
+Furthermore, the vast majority of complaints in the file, although not
+exclusively from Broward County, were residents of the relevant
+community.
+
+Further, the plaintiffs' reliance upon the admission of other sexually
+explicit works is also not entitled to great weight in determining
+community standards. First, the Supreme Court has recognized that this
+type of evidence does not even have to be considered even if the
+comparable works have been found to be nonobscene. 
+In this case, there is no evidence that the comparable materials are not
+themselves obscene. More importantly, most of the materials are simply
+irrelevant. This case involves the alleged obscenity of a musical
+recording. Evidence of depictions of sexual conduct in pictures, moving
+or still, is not substantially equivalent to musical lyrics.
+
+The most comparable works introduced are the sexually explicit writings
+in the various books and magazines, the audio tape entitled *Raw* by
+Eddie Murphy, and the double cassette tape recording by Andrew Dice
+Clay. All three of these works focus upon a verbal message analogous to
+the format in the *Nasty* recording. The court does give these
+particular works some weight.
+
+The plaintiffs also raise several collateral arguments as to why this
+court is allegedly unable to determine the community standards. They
+claim that the defendant's  failure to introduce evidence at the
+trial including expert testimony is fatal. The plaintiffs also allege
+that this court's opinion will only reflect the personal opinion of the
+undersigned judge, not the relevant community. They support this
+argument by pointing to the court's alleged refusal to empanel a jury in
+this case. [trial by jury arguments omitted].
+
+The plaintiffs' claim that this court cannot decide this case without
+expert testimony and the introduction of specific evidence on community
+standards is also without merit. The law does not require expert
+testimony in an obscenity case. The defendant introduced the *Nasty*
+recording into evidence. As noted by the Supreme Court in *Paris Adult
+Theatre I,* when the material in question is not directed to a "bizarre,
+deviant group" not within the experience of the average person, the best
+evidence is the material, which "can and does speak for itself." 
+
+In deciding this case, the court's decision is not based upon the
+undersigned judge's personal opinion as to the obscenity of the work,
+but is an application of the law to the facts based upon the trier of
+fact's personal knowledge of community standards. In other works, even
+if the undersigned judge would not find *As Nasty As They Wanna Be*
+obscene, he would be compelled to do so if the community's standards so
+required.
+
+The true basis of the plaintiffs' argument is that the legal standard of
+the "community" and the "average person" are too nebulous to apply to an
+issue of constitutional law. This position ignores the fact that the law
+does not require absolute certainty as to its determinations. The
+standard of proof is adjusted upward or downward to reflect the balance
+between the competing rights of individuals and society. In civil cases,
+the law gives effect to a determination based on a preponderance of the
+evidence. Even in criminal matters where a person can lose his liberty,
+property, and even his life, there is no requirement that the government
+prove guilt beyond all possible doubt. As noted in [*Hamling v. United
+States,* 94 S.Ct. 2887, 2899 (1974),](http://scholar.google.com/scholar_case?case=487349011929396754&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+"[I]t is common experience that different juries may reach different
+results ... This is one of the consequences we accept under our jury
+system." The same holds true when the court is the finder of fact in a
+bench trial. Application of the "community" and "average person"
+standards are no different than that of applying the standard of the
+"reasonable person" used in negligence and tort law. 
+
+### THE FIRST MILLER TEST: PRURIENT INTEREST
+
+This court finds, as a matter of fact, that the recording *As Nasty As
+They Wanna Be* appeals to the prurient interest. The Supreme Court has
+defined prurient as "material having a tendency to excite lustful
+thoughts." [*Roth,* 77 S.Ct. at 1310 n.
+20](http://scholar.google.com/scholar_case?case=14778925784015245625&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+Appeals only to "normal, healthy sexual desires" are not adequate to
+meet the test. [*Brockett v. Spokane Arcades, Inc.,* 105 S.Ct. 2794, 2798
+(1985)](http://scholar.google.com/scholar_case?case=975894151134542505&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+The material must exhibit a "shameful or morbid interest in nudity, sex,
+or excretion". *Id.* (readopting definition in [*Roth,* 77 S.Ct. at 1310 n.
+20](http://scholar.google.com/scholar_case?case=14778925784015245625&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)).
+
+*Nasty* appeals to the prurient interest for several reasons. First, its
+lyrics and the titles of its songs are replete with references to female
+and male genitalia, human sexual excretion, oral-anal contact, fellatio,
+group sex, specific sexual positions, sadomasochism, the turgid state of
+the male sexual organ, masturbation, cunnilingus, sexual intercourse,
+and the sounds of moaning. Florida's Legislature has provided a valuable
+source of evidence in the form of its obscenity statutes for determining
+what is sexual conduct. The initial provision is section 847.001(11),
+Florida Statutes, which defines "sexual conduct" to include "actual or
+simulated sexual intercourse, deviate sexual intercourse, ...
+masturbation, ... sadomasochistic abuse; [or] actual lewd exhibition of
+the genitals"." Section 847.001(2), Florida Statutes, defines deviate
+sexual intercourse as sexual conduct between unmarried persons involving
+contact between the penis and the anus, the mouth and the penis, or the
+mouth and the vulva. Section 847.001(8) defines sadomasochistic abuse as
+satisfaction from sadistic violence derived by inflicting harm upon
+another. These definitions cover most, if not all, of the sexual acts
+depicted in *As Nasty As They Wanna Be.*
+
+Furthermore, the frequency and graphic description of the sexual lyrics
+evinces a clear intention to lure hearers into this activity. The
+depictions of ultimate sexual acts are so vivid that they are hard to
+distinguish from seeing the same conduct described in the words of a
+book, or in pictures in periodicals or films.
+
+It is also noteworthy that the material here is music. It is true that
+it would be difficult, albeit not impossible, to find that mere sound
+without lyrics is obscene. Music is sufficiently subjective that
+reasonable persons could disagree as to its meaning. But, the focus of
+the *Nasty* recording is its lyrics. Based on the evidence at trial,
+music of the "rap" genre focuses upon verbal messages accentuated by a
+strong beat. 2 Live Crew itself testified that the *Nasty* recording was
+made to be listened and danced to. The evident goal of this particular
+recording is to reproduce the sexual act through musical lyrics. It is
+an appeal directed to "dirty" thoughts and the loins, not to the
+intellect and the mind.
+
+The court has also given some, but not great, weight to the plaintiffs'
+commercial motive. Of course, the fact that the plaintiffs made a profit
+from the public distribution of the *Nasty* recording is not relevant in
+determining obscenity. 
+However, the court can consider the manner in which the material was
+distributed and promoted to determine if the "leer of the sensualist"
+permeates the work. 
+In *Ginzburg,* the court found that publishers of certain
+magazines and books had directed their advertising in such a way as to
+commercially exploit erotica solely for the sake of their prurient
+appeal. For example, the advertisements
+sent to potential customers "stressed the sexual candor of the
+respective publications, and openly boasted that the publishers would
+take full advantage of what they regarded [as] an unrestricted license
+allowed by law in the expression of sex and sexual matters." 
+The Court went on to  note that, "the
+deliberate representation of petitioners' publications as erotically
+arousing, for example, stimulated the reader to accept them as prurient;
+he looks for titillation, not for saving intellectual content." 
+
+Consideration of the creator's intent to appeal to the prurient interest
+is still a valid consideration today, even after [*Miller v.
+California*](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+
+The record at trial indicates that the plaintiffs' commercial
+exploitation of this work was done in a manner calculated to make a
+salacious appeal. The title of the recording, *As Nasty As They Want To
+Be,* in addition to the names of many of the songs and the illustration
+on the recordings' insert certainly fit within the confines of the
+*Ginzburg* case for materials "look[ing] for titilation."
+
+One of the more interesting points suggested by the evidence at trial,
+but not dwelt on by the defendant, was that 2 Live Crew made two
+apparently identical albums with the only difference being the sexually
+explicit lyrics. The plaintiffs' own expert, John Leland, testified that
+the *Nasty* recording, without the salacious lyrics, would not have been
+expected to sell more than 500,000 copies nationwide. To date, the
+*Nasty* version has sold 1.7 million copies. The identical recording
+sans sexual lyrics (*Clean*) has sold only 250,000 copies. The
+difference between the actual sales of the two recordings can reasonably
+be found to have been motivated by the "leer of the sensualist". The
+plaintiffs cannot claim they needed the vulgar lyrics to promote their
+message since the plaintiffs' own experts testified that music from
+neither the "rap" or "hip-hop" genre does not require the use of such
+language.
+
+Finally, the plaintiffs rely upon testimony, both lay and expert, that
+the *Nasty* recording did not actually physically excite anyone who
+heard it and indeed, caused boredom after repeated play. However, based
+on the graphic deluge of sexual lyrics about nudity and sexual conduct,
+this court has no difficulty in finding that *As Nasty As They Wanna Be*
+appeals to a shameful and morbid interest in sex.
+
+### THE SECOND MILLER TEST: PATENTLY OFFENSIVE
+
+The court also finds that the second element of the *Miller* test is
+satisfied in that the *Nasty* recording is patently offensive. This is a
+question of fact, which must be measured by contemporary community
+standards. *See* [*Miller,* 93 S.Ct. at
+2618](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+
+It is quite true that not all speech with sex as its topic is obscene.
+*See* [*Roth,* 77 S.Ct. at
+1310](http://scholar.google.com/scholar_case?case=14778925784015245625&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+The *As Nasty As They Wanna Be* recording is another matter.
+
+The recording depicts sexual conduct in graphic detail. The specificity
+of the descriptions makes the audio message analogous to a camera with a
+zoom lens, focusing on the sights and sounds of various ultimate sex
+acts. Furthermore, the frequency of the sexual lyrics must also be
+considered. With the exception of part B on Side 1, the entire *Nasty*
+recording is replete with explicit sexual lyrics. This is not a case of
+subtle references or innuendo, nor is it just "one particular scurrilous
+epithet" as in [*Cohen v. California,* 91 S.Ct. 1780,
+1786 (1971)](http://scholar.google.com/scholar_case?case=7398433541275578772&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+
+As already noted, Florida's Legislature has defined obscene acts to
+include sadomasochistic sexual conduct, oral sex, and anal intercourse.
+In addition,
+Florida's obscenity statutes are intended to have the broadest,
+constitutional scope. 
+States may outlaw certain portrayals of sexual conduct and nudity if
+they constitute "hardcore pornography." *See* [*Jenkins v. Georgia,* 
+94 S.Ct. 2750 (1974)](http://scholar.google.com/scholar_case?case=10639986226512069424&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+In *Jenkins,* the Supreme Court reversed a conviction for distribution
+of the film "Carnal Knowledge" which contained scenes of a woman with a
+bare midriff and several lovemaking sessions. 
+This depiction was held by the Court to not be within the
+hardcore category. As noted by the Court,
+
+> While the subject matter of the picture is, in a broader sense, sex,
+> and there are scenes in which sexual conduct including "ultimate
+> sexual acts" is to be understood to be taking place, the camera does
+> not focus on the bodies of the actors at such times. There is no
+> exhibition whatever of the actors' genitals, lewd or otherwise, during
+> these scenes. There are occasional scenes of nudity, but nudity alone
+> is not enough to make material legally obscene under the *Miller*
+> standards. *Id.* at 161, 94 S.Ct. at 2755.
+
+In *Miller,* the Supreme Court gave two examples of the type of conduct
+subject to state regulation: "(a) Patently offensive representations or
+descriptions of ultimate sexual acts, normal or perverted, actual or
+simulated. (b) Patently offensive representation or descriptions of
+masturbation, excretory functions, and lewd exhibition of the genitals."
+*Id.,* [93 S.Ct. at 2615](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+The conduct described in the *Nasty* recording is certainly within the
+scope of the Florida statutes. The state law, of course, is not
+dispositive on the question of whether this particular community would
+be patently offended, but it is entitled to significant weight.
+
+While the above facts are sufficient to support a finding that this
+material is patently offensive, there are additional considerations that
+support such a finding. First, the *Nasty* lyrics contain what are
+commonly known as "dirty words" and depictions of female abuse and
+violence. It is likely that these offensive descriptions would not of
+themselves be sufficient to find the recording obscene. *See, e.g.,*
+[*American Booksellers Association, Inc. v. Hudnut,* 771 F.2d 323 (7th
+Cir.1985)](http://scholar.google.com/scholar_case?case=10304718398250731275&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+(sexual subordination of women); 
+[*New Jersey v. Rosenfeld,* 62 N.J.
+594](http://scholar.google.com/scholar_case?case=11560023856104849967&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0);
+303 A.2d 889 (Sup. Ct.1973) (after remand for reconsideration by U.S.
+Supreme Court in light of [*Cohen v.
+California*](http://scholar.google.com/scholar_case?case=7398433541275578772&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)*,*
+state court acknowledged that the use of public profanity, if not rising
+to the level of fighting words, was constitutionally protected). When
+these terms are used with explicit sexual descriptions, however, they
+may be considered on the issue of patent offensiveness. Secondly, the
+material here is music which can certainly be more intrusive to the
+unwilling listener than other forms of communication. Unlike a video
+tape, a book, or a periodical, music must be played to be experienced. A
+person can sit in public and look at an obscene magazine without unduly
+intruding upon another's privacy; but, even according to the plaintiffs'
+testimony, music is made to be played and listened to. A person laying
+on a public beach, sitting in a public park, walking down the street, or
+sitting in his automobile waiting for the light to change is, in a
+sense, a captive audience. While the law does require citizens to avert
+their ears when speech is merely offensive, they do not have an
+obligation to buy and use ear plugs in public if the state legislature
+has chosen to protect them from obscenity.
+
+Finally, in determining whether the *Nasty* recording is patently
+offensive, it is again proper to consider the plaintiffs' commercial
+exploitation of sex to promote sales. As noted by the Supreme Court in
+[*Ginzburg v. United States,* 86 S.Ct. 942, 947 (1966),](http://scholar.google.com/scholar_case?case=12404909807077661368&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+representations of a publication as erotically arousing "would tend to
+force public confrontation with the potentially offensive aspects of the
+work; the brazenness of such an appeal heightens the offensiveness of
+the publications to those who are offended by such material." Such is
+the case here, as already discussed. Again, while this factor has not
+been given great weight, it is entitled to consideration.
+
+### THE THIRD MILLER TEST: SOCIAL VALUE
+
+The final factor under *Miller* is whether the *Nasty* recording, taken
+as a whole, lacks serious literary, artistic, political, or scientific
+value. This factor is not measured by community standards. The proper
+inquiry is whether a reasonable person would find serious social value
+in the material at issue. 
+The plaintiffs correctly note that the value of a work can pass muster
+under *Miller* if it has serious merit, measured objectively, even if a
+majority of the community would not agree.
+
+As a preliminary matter, it is again important to note what this case is
+*not* about. Neither the "Rap" or "Hip-Hop" musical genres are on trial.
+The narrow issue before this court is whether the recording entitled *As
+Nasty As They Wanna Be* is legally obscene.
+
+This is also not a case about whether the group 2 Live Crew or any of
+its other music is obscene. The third element of the *Miller* test
+focuses upon the social value of the particular work, not its creators.
+The fact that individuals of whom we approve hold objectionable ideas or
+that people of whom we do not approve hold worthy ideas does not affect
+judicial review of the value of the ideas themselves.
+
+The Phillistines are not always wrong, nor are the guardians of the
+First Amendment always right.
+
+This court must examine the *Nasty* recording for its content; the
+inquiry is objective, not *ad hominem.*
+
+Finally, this court's role is not to serve as a censor or an art and
+music critic. If the *Nasty* recording has serious literary, artistic,
+political, or scientific value, it is irrelevant that the work is not
+stylish, tasteful, or even popular.
+
+The plaintiffs themselves testified that neither their music nor their
+lyrics were created to convey a political message.
+
+The only witness testifying at trial that there was political content in
+the *Nasty* recording was Carlton Long, who was qualified as an expert
+on the culture of black Americans. This witness first stated that the
+recording was political because the 2 Live Crew, as a group of black
+Americans, used this medium to express themselves. While it is doubtless
+true that *Nasty* is a product of the group's background, including
+their heritage as black Americans, this fact does not convert whatever
+they say, or sing, into political speech. Professor Long also testified
+that the following passages from the recording contained political
+content: a four sentence phrase in the song "Dirty Nursery Rhymes" about
+Abraham Lincoln, the word "man" in the Georgie Porgie portion of the
+same song, and the use of the device of "boasting" to stress one's
+manhood. Even giving these isolated lyrics the meaning attributed by the
+expert, they are not sufficient in number or significance to give the
+*Nasty* recording, as a whole, any serious political value.
+
+In terms of science, Professor Long also suggested that there is
+cultural content in 2 Live Crew's recording which rises to the level of
+serious sociological value. According to this witness, white Americans
+"hear" the *Nasty* recording in a different way than black Americans
+because of their different frames of references. Long identifies three
+cultural devices evident in the work here: "call and response", "doing
+the dozens", and "boasting". The court finds none of these arguments
+persuasive.
+
+The only examples of "call and response" in the *Nasty* recording are
+portions where males and females yell, in repetitive verse, "Tastes
+Great—Less Filling" and, in another song, assail campus Greek-letter
+group. The phrases alone have no significant artistic merit nor are they
+examples of black American culture. In the case of "Tastes Great—Less
+Filling", this is merely a phrase lifted from a beer commercial.
+
+The device of "doing the dozens" is a word game composed of a series of
+insults escalating in their satirical content. The "boasting" device is
+a way for persons to overstate their virtues such as sexual prowess.
+
+While this court does not doubt that both "boasting" and "doing the
+dozens" are found in the culture of black Americans, these devices are
+also found in other cultures. "Doing the dozens" is commonly seen in
+adolescents, especially boys, of all races. "Boasting" seems to be part
+of the universal human condition.
+
+Professor Long also cited to several different examples of literary
+devices such as  rhyme and allusion which appear in *Nasty,* and
+points to the song title "Dick Almighty" as an example of the literary
+device of personification. This, of course, is nonsense regardless of
+the expert's credentials. "A quotation from Voltaire in the fly leaf of
+a book", noted the Supreme Court in *Miller,* "will not constitutionally
+redeem an otherwise obscene publication." 
+
+Prior to *Miller,* the government had to demonstrate that a work was
+utterly without redeeming social value to be judged obscene. 
+The present test is less stringent, only requiring proof of an absence
+of serious social worth. This leads to the plaintiffs' strongest
+argument: that the *Nasty* recording has serious artistic value. This
+category of social worth is broad enough to include the value
+contributed by the political, literary, and cultural aspects of the
+particular work.
+
+The plaintiffs stress that the *Nasty* recording has value as comedy and
+satire. Certainly, people can and do laugh at obscenity. The plaintiffs
+point to the audience reaction at trial when the subject recording was
+played in open court. The audience giggled initially, but the court
+observed that after the initial titillation, it fell silent.
+
+In a society where obscenity is forbidden, it is human nature to want
+taste forbidden fruit. It is quite another thing to say that this aspect
+of humanity forms the basis for finding that *Nasty* has serious
+artistic value. Furthermore, laughter can express much more than
+enjoyment and entertainment. It is also a means of hiding embarrassment,
+concealing shame, and releasing tension. The fact that laughter was only
+heard at the time that the first song of the tape was played is
+probative on what the audience's outbursts really meant. It cannot be
+reasonably argued that the violence, perversion, abuse of women, graphic
+depictions of all forms of sexual conduct, and miscroscopic descriptions
+of human genitilia contained on this recording are comedic art.
+
+The *Nasty* recording is not comedy, but is first and foremost, music.
+Initially, it would appear very difficult to find a musical work
+obscene. As noted by the American Civil Liberties Union, the meaning of
+music is subjective and subject only to the limits of the listener's
+imagination. *See* ACLU Brief at 3.
+
+Music nevertheless is not exempt from a state's obscenity statutes.
+Musical works are obscene if they meet the *Miller* test. Certainly it
+would be possible to compose an obscene oratoro or opera and it has
+probably been done.
+
+The plaintiffs claim that this case is novel since it seeks to determine
+whether music can be obscene. The particular work here, although
+belonging to the general category of music, however, is to be
+distinguished from a purely instrumental work, or other more common
+recordings with a fairly equal emphasis on music and lyrics. The focus
+of the *Nasty* recording is predominately on the lyrics. Expert
+testimony at trial indicates that a central characteristic of "rap"
+music is its emphasis on the *verbal* message. Rhythm is stressed over
+melody, not for its own sake, but to accentuate the words of the song.
+The pounding beat and the presence of near continuous lyrics support
+this conclusion. 2 Live Crew's music is explicitly clear as to its
+message. Although music and lyrics must be considered jointly, it does
+not significantly alter the message of the *Nasty* recording to reduce
+it to a written transcription. The Supreme Court's decision in [*Kaplan
+v. California,* 93 S.Ct. 2680 (1973),](http://scholar.google.com/scholar_case?case=744658730748459277&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+is applicable here. The Court held that an expression by words alone,
+albeit in a written form, can be legally obscene even if there are no
+accompanying pictorial depictions. 
+The case at bar is an extension of the law to the extent that
+words, as lyrics in music, can be obscene.
+
+The key to judging the *Nasty* recording is to consider it as a whole. 2
+Live Crew has "borrowed" components called "riffs"  from other
+artists. Taking the work in its entirety, the several riffs do not lift
+*Nasty* to the level of a serious artistic work. Once the riffs are
+removed, all that remains is the rhythm and the explicit sexual lyrics
+which are utterly without any redeeming social value.
+
+Obscenity is not a required element for socially valuable "rap" or
+"hip-hop" music. 2 Live Crew itself proved this point by the creation of
+its *Clean* recording.
+
+The court is reminded of a story by Charles Baudelaire, a poet who also
+had problems with the civil authorities of his day. In *My Heart Laid
+Bare* (Vanguard Press 1951), at pages 203-04, he writes:
+
+> All the imbeciles of the Bourgeoisie who intentionally use the words,
+> "immoral", "immorality", "morality in art" and other such stupid
+> expressions remind me of Louise Villdieu, a five-franc whore who once
+> went with me to the Louvre. She has never been there before, and began
+> to blush and cover her face with her hands, repeatedly plucking at my
+> sleeve and asking me, as we stood before deathless statutes and
+> pictures, how such indecencies could be flaunted in public.
+
+One of the plaintiffs' expert witnesses testified at trial that material
+is art if it causes a reaction in the audience perceiving it. If that
+reaction is an appeal to the prurient interest in a patently offensive
+way, and if the material lacks serious literary, artistic, political or
+scientific, the law does not call that art—it calls it obscenity and
+when so proven beyond a reasonable doubt is a crime in Florida.
+
+### OBSCENITY? YES!
+
+The recording *As Nasty As They Wanna Be,* taken as a whole, is legally
+obscene.
+
+The court so finds by a preponderance of the evidence although the
+standard of proof presents no real issue.
+
+The court also finds *As Nasty As They Wanna Be* to be legally obscene
+under the *Miller* test by clear and convincing evidence, which standard
+the plaintiffs maintain is the correct burden of proof.
+
+### PRIOR RESTRAINT AND PROCEDURAL DUE PROCESS
+
+A prior restraint can be generally defined as any condition imposed by
+the government on the publication of speech. 
+Such a limitation can come in varying forms including permit
+requirements, licensing taxes, registration, prepublication submission
+of materials, seizures, and judicial injunctions. The distinguishing
+characteristic of a prior restraint is that the condition vests power in
+a nonjudicial official to make the final decision as to whether speech
+will be permitted at all or in what form. 
+
+Prior restraints are repugnant to the right of free speech. The First
+Amendment prohibits this type of regulation to minimize the risk of
+governmental censorship. Many forms of speech are of value because of
+the urgency and immediacy of the idea expressed. Even if a censor
+ultimately allows publication, significant delay in the decisionmaking
+process can destroy the fleeting value of the speech. 
+If speech is delayed or denied, the rights of both
+the speaker and his audience are impaired and society is the ultimate
+"loser." 
+Furthermore, if allowed, prior restraints necessarily legitimatize the
+existence of a censor. The danger is that officials, even if originally
+well-intentioned, may be driven to suppress an ever growing amount of
+speech.
+
+ For all of these reasons, the First Amendment casts a jaundiced
+eye on any form of prior restraint. But, as with the right of free
+speech itself, this prohibition is not absolute. A limitation on speech
+prior to its publication may withstand constitutional scrutiny in
+"exceptional cases." [*Near v. Minnesota,* 51
+S.Ct. 625 (1931)](http://scholar.google.com/scholar_case?case=10240616562166401834&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+Included within this category are all types of speech unprotected by the
+Constitution such as obscenity. 
+
+The fact that the government may prevent obscene materials from ever
+reaching their intended audience assumes that the issue of obscenity has
+already been decided. It is the courts and not nonjudicial officials who
+must decide whether a specific work is obscene. 
+Interpreting obscenity laws requires "appraisal of facts, the exercise
+of judgment, and the formation of an opinion"; in other words, the
+exercise of judicial power. 
+
+Because of this presumption, the state must follow constitutionally
+mandated procedures in seizing obscene works. The state may criminalize
+obscenity, but its regulation must comport with the minimum procedural
+safeguards required by due process. To trigger the Fourteenth
+Amendment's application, the state regulation must constitute a
+deprivation of a protected interest. Florida law provides that no
+property interest exists in obscene materials. 
+In essence, this state has made obscenity a form
+of contraband, the seizure of which would not normally implicate the
+Fourteenth Amendment. However, because free speech has an independent
+source of protection under the First Amendment as a constitutional
+"liberty", arguably obscene articles are not treated by the law like
+other contraband such as illegal drugs. 
+
+### ORDERED AND ADJUDGED as follows:
+
+1. The recording *As Nasty As They Wanna Be* created by the group 2
+Live Crew is hereby DECLARED obscene.
+
+2. The action of the Broward County Sheriff's office in threatening
+retail music stores with arrest for selling the *Nasty* recording and
+presenting them with a copy of a probable cause order is hereby DECLARED
+unconstitutional as an improper prior restraint of free speech in
+violation of the First and Fourteenth Amendments to the United States
+Constitution.
 
 ## Child Pornography 
 

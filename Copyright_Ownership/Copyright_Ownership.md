@@ -829,7 +829,7 @@ Master use rights can only be obtained from the owner of the master recording, u
 
 If you are distributing a video that includes music you don’t own or control, you may need a synchronization license. You will need to contact the publisher(s) directly to obtain these rights.
 
-Many publishers have an agreement with YouTube which permits many uses. For more information, click here.
+Many publishers have an agreement with YouTube which permits many uses. For more information, click [here](https://www.harryfox.com/license_music/youtube_license.html).
 
 If you are distributing a video for non-commercial use that includes music you don’t own or control, you may be able to obtain a synchronization license using eSynch.
 
@@ -1451,6 +1451,12 @@ Mainly how much? $50k, $100k, usually more.
 * [Hit Charade: Meet the bald Norwegians and other unknowns who actually
 create the songs that top the charts](http://www.theatlantic.com/magazine/archive/2015/10/hit-charade/403192/).
 * [The Song Machine: Inside the Hit Factory Hardcover – October 5, 2015 by John Seabrook](http://www.amazon.com/The-Song-Machine-Inside-Factory/dp/0393241920).
+
+##### Joint Authorship
+
+* [Judge Explores Boundaries of Authorship With Nods to 'Star Wars,' Spike Lee and 'Love Actually' | Hollywood Reporter](http://www.hollywoodreporter.com/thr-esq/judge-tests-boundaries-authorship-nods-star-wars-spike-lee-love-actually-1004811) (Modded video games get likened to movies in a tour de force of legal writing). 
+* ['Sully' Producers Face Airplane Consultant's Co-authorship Claim | Hollywood Reporter](http://www.hollywoodreporter.com/thr-esq/sully-producers-face-airplane-consultants-authorship-claim-1008439) (After selling producers a plane, Scott Heger is looking to establish the Clint Eastwood film depended on his creativity). 
+
 
 [leslie]: http://lottfischer.com/general.php?category=Resources&subhead=Articles&headline=+When+does+an+Editor%E2%80%99s+input+create+a+Joint+Work+of+Authorship "When Does Creative Input Become Joint Authorship?"
 [ccnv]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=109+S.Ct.+2166&appflag=67.12 "Community For Creative Non-Violence v. Reid"

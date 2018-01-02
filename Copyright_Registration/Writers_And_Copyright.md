@@ -37,7 +37,7 @@ called The Hundred Acre Wood.
 Not being a lawyer, 
 Amy tends to think of The Hundred Acre Wood 
 as something she either owns or doesn't own. 
-If she doesn't own it, maybe she rents it.  
+If she doesn't own it, maybe she rents it. 
 
 Amy's lawyer is trained to think of The Hundred Acre Wood 
 not just as a thing that Amy owns or doesn't own, 
@@ -74,7 +74,7 @@ Do the fracking company and the telecom company *own* The Hundred Acre Wood?
 No, but again they have paid Amy for various *rights* 
 to use or occupy her land. 
 
-What if somebody wants to buy the Hundred Acre Wood,  
+What if somebody wants to buy the Hundred Acre Wood, 
 but they don't want frackers or fiberoptic cable workers on their land?
 What sort of "license" did Amy give the frackers and the cable workers?
 
@@ -96,7 +96,7 @@ consisting of her writing and a bundle of rights protected by the U.S. copyright
 The first copyright law was the Statute of Anne, 
 created by an Act of Parliament passed in England in the year 1710. 
 
-In 1790, the Framers of the U.S. Constitution had the same idea in mind when they drafted Article I, section 8, which says:  
+In 1790, the Framers of the U.S. Constitution had the same idea in mind when they drafted Article I, section 8, which says: 
 
 > The Congress shall have power &hellip; 
 > To promote the Progress of Science and useful Arts, 
@@ -169,7 +169,7 @@ is considered the author of the copyrighted work.
 
 This also makes sense. 
 If a greeting card company pays a writer to create poems 
-to be printed on its greeding cards, 
+to be printed on its greeting cards, 
 then the company should own the copyrights to the poems, 
 unless the writer and the company have agreed otherwise in a signed writing.
 

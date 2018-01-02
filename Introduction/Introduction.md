@@ -26,11 +26,12 @@ and father of the first Dictionary of the English language said,
 "Nobody but a blockhead ever wrote except for money."
 Whether artists make music, art, and letters for fun is nobody's business 
 but the artists. 
-However, when artists want to turn their art into a trade or a professional business, all the rules of the marketplace and the courts apply. 
+However, when artists want to turn their art into a trade or a professional business, 
+all the rules of the marketplace and the courts apply. 
 
 Music, publishing, theater, film all are governed by laws.
-The businesses within these industries create products or content to sell to consumers. Those products---books, songs, films---
-are usually governed by copyright and other intellectual property laws.
+The businesses within these industries create products or content to sell to consumers. Those products---books, songs, films---are usually governed 
+by copyright and other intellectual property laws.
 
 Most of the law we learn in this course is Entertainment Law, 
 which includes what might be called the law of publishing, the law of music, 
@@ -56,7 +57,7 @@ but Weiler's text begins with a Prologue entitled "Speech For Fun And Profit,"
 which canvasses some of the reasons 
 the entertainment industry gets its own law school course. 
 
-First, entertainment (movies, television, music, publishing) are all SPEECH. 
+First, entertainment (movies, television, music, publishing) are all *speech*. 
 The First Amendment to the U.S. Constitution provides that: 
 "Congress shall make no law &hellip; abridging the freedom of speech." 
 But what if my movie features child pornography, 
@@ -68,15 +69,15 @@ because an artist's first amendment right to tell a story or write a song
 often collides with somebody else's right 
 to privacy, trademark, copyright, or contract rights. 
 
-Second, the modern entertainment industry runs on TECHNOLOGY and INTELLECTUAL PROPERTY, meaning the speech at issue is easier to create and disseminate (a good thing), but also easier to COPY and pirate (a bad thing). Again, more copyright, trademark, licensing and contract issues.
+Second, the modern entertainment industry runs on technology and intellectual property, meaning the speech at issue is easier to create and disseminate (a good thing), but also easier to copy and pirate (a bad thing). Again, more copyright, trademark, licensing and contract issues.
 
-The entertainment industry also thrives on COLLABORATION. Many different companies and artists come together, make oral or written agreements to create and distribute works of art, and then disperse, often leaving questions about who is owed what for personal services and who owns what rights in the final product. Oral contracts, handshake deals, and "napkin agreements" are quite common, even though there may be tens of millions of dollars at stake.
+The entertainment industry also thrives on collaboration. Many different companies and artists come together, make oral or written agreements to create and distribute works of art, and then disperse, often leaving questions about who is owed what for personal services and who owns what rights in the final product. Oral contracts, handshake deals, and "napkin agreements" are quite common, even though there may be tens of millions of dollars at stake.
 
 Finally, the economics and indeed the international economics of the industry quickly lead to complicated deals where everybody at the table has specialized legal needs. A lawyerless artist dealing with sharkish producers and media companies will quickly learn the old adage about the [patsy at the poker table][patsy] the hard way: "If after ten minutes at the poker table you do not know who the patsy is--you are the patsy." 
 
 * [Study: Global Media Industry Poised to Top $2 Trillion in 2016](http://www.hollywoodreporter.com/news/study-global-media-industry-poised-562694) describing the most recent [PriceWaterhouseCooper’s 2013 Entertainment Report](http://www.hollywoodreporter.com/sites/default/files/custom/Documents/PWC_chart_rev21012x5711px.pdf). 
 
-Some bad reasons for becoming an entertainment lawyer are because you want to hang out with celebrities. Sure entertainment lawyers typically love the arts and admire their clients, but at bottom they WORK long and hard for their clients, and the limelight is just a distraction.
+Some bad reasons for becoming an entertainment lawyer are because you want to hang out with celebrities. Sure entertainment lawyers typically love the arts and admire their clients, but at bottom they work long and hard for their clients, and the limelight is just a distraction.
 
 > Just like Frances Gumm became Judy Garland, and Thomas Mapother III became Tom Cruise, "entertainment law" is actually a more glamorized, fabricated name for contract law, copyright law, intellectual property law, licensing law, litigation, and working really hard just like every other lawyer out there . . . . Entertainment lawyers are merely copyright, contract, or IP lawyers who have clients in the entertainment business, just like sports lawyers have clients in the sports business.
 
@@ -235,14 +236,14 @@ defamation, clearance of rights, product placement, advertising, criminal law, t
 
 #### Power Lawyers
 
-Maybe the easiest way to get an idea of what entertainment lawyers actually DO is to read the thumbnail bios of [The Hollywood Reporter's Power Lawyers 2014: The Talent Lawyers](http://www.hollywoodreporter.com/gallery/photos-power-lawyers-2014-talent-699831) or [Power Lawyers 2015: Hollywood's Top 100 Attorneys Revealed](http://www.hollywoodreporter.com/thr-esq/power-lawyers-2015-hollywoods-top-792211).
+Maybe the easiest way to get an idea of what entertainment lawyers actually do is to read the thumbnail bios of [The Hollywood Reporter's Power Lawyers 2017: The Talent Lawyers](https://www.hollywoodreporter.com/gallery/power-lawyers-2017-top-entertainment-attorneys-gather-thr-breakfast-997872/1-patrick-whitesell-seth-krauss-and-matthew-belloni) or [Power Lawyers 2015: Hollywood's Top 100 Attorneys Revealed](http://www.hollywoodreporter.com/thr-esq/power-lawyers-2015-hollywoods-top-792211).
 
 ## Entertainment Law Resources 
 
 You should spend time getting to know the following resources. 
 
 * [*The Hollywood Reporter, Esq.*][thresq]. I often wonder about teaching an entire Entertainment Law course just by following the day's stories in [THR Esquire][thresq].
-* [*Deadline*](http://www.deadline.com/hollywood/), currently the website of choice for industry news and gossip, although *Deadline's* founder the feisty, in-your-face [Nikki Finke](http://en.wikipedia.org/wiki/Nikki_Finke) recently struck off on her own to start, what else? [NikkiFinke.com](http://nikkifinke.com). 
+* [*Deadline*](http://www.deadline.com/hollywood/), currently the website of choice for industry news and gossip. 
 * [Publishers Weekly](http://www.publishersweekly.com/).
 * [IMDB](http://www.imdb.com/). At some point during the course, you may wish to play with the IMDB-Pro subscription (which often provides contact information and identifies agents, managers, and lawyers for each artist). There is a two-week trial offer but you must remember to cancel after two weeks to avoid being charged. No worries if you don’t want to indulge, we’ll be perusing IMDB Pro live in class.
 * [AllMusic.com](http://allmusic.com). The near-equivalent to IMDB in the music world is Like IMDB it lists credits, albums, and songs of all musicians. But to my knowledge there is no "Pro" feature providing information about representation. The American Society of Composers, Authors and Publishers ([ASCAP](http://en.wikipedia.org/wiki/American_Society_of_Composers,_Authors_and_Publishers)) and Broadcast Music, Inc. ([BMI](the http://en.wikipedia.org/wiki/Broadcast_Music,_Inc.)) also provide databases where you can search for music by title or by artist and discover the publisher for each song:
