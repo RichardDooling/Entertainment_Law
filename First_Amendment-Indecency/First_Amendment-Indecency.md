@@ -34,6 +34,13 @@ during a prime time TV broadcast at the 2003 Golden Globe awards, is that obscen
 * [case at Westlaw][fox]
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012)).
 
+20-Jan-2018 - As I mentioned in class, just read about *Fox II*,
+so you know what happened, and we'll briefly discuss. 
+No need to consume the entire opinion.
+
+The main lessons are found in *Pacifica*.
+
+
 [7dirty]:	http://www.youtube.com/watch?v=vbZhpf3sQxQ	"George Carlin Seven Dirty Words"
 [fox]:		http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=132+S.Ct.+2307\&appflag=67.12	"FCC v. Fox"
 [pacifica]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=98sct3026\&appflag=67.12	"FCC v. Pacifica"

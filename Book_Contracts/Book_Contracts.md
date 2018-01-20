@@ -18,6 +18,7 @@ These materials are published under an [MIT license](https://github.com/RichardD
 * [Authors Guild: Improving Your Book Contract - Negotiation Tips For Nine Typical Clauses][improving].
 * [*A Writer's Guide To Contract Negotiations*,][balkin] by Richard Balkin, Writers Digest Books, 1985.
 * [*Negotiating A Book Contract,*][levine] by Mark L. Levine, Asphodel Press, 2009.
+* [*10 Common Pitfalls Every Author Should Know about Self-Publishing,*](https://www.linkedin.com/pulse/10-common-pitfalls-every-author-should-know-deborah-e-johnson-esq-/).
 
 ## Introduction
  

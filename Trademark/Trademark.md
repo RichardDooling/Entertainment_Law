@@ -28,9 +28,12 @@ or representations of goods or services.
 
 ### Trademark Basics
 
-Watch this video from the US Patent & Trademark Office
+Watch this video from the US Patent & Trademark Office: 
 
 [Basic Facts About Trademarks: What Every Small Business Should Know Now, Not Later](http://www.uspto.gov/trademarks-getting-started/trademark-basics).
+
+Read [What some companies get wrong about trademarks
+Can’t you just smell the Play-Doh?](https://medium.com/@alexandrajroberts/what-some-companies-get-wrong-about-trademarks-be023cb02422) by Prof. Alexandra J. Roberts @lexlanham.
 
 #### "Passing off," "Palming off," "Reverse passing off"
 
