@@ -78,6 +78,7 @@ who eventually took their case all the way to the United States Supreme Court.
 * [how cited at Google Scholar](http://scholar_case?about=12960598670321445636)
 * [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=131sct2729&appflag=67.12)
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Brown_v._Entertainment_Merchants_Association).
+* [case at Oyez](https://www.oyez.org/cases/2010/08-1448).
 
 Justice SCALIA delivered the opinion of the Court.
 
@@ -250,7 +251,7 @@ of specially restricting children's access to depictions of violence,
 but there is none. 
 Certainly the *books* we give children 
 to read---or read to them when they are younger---contain no shortage of gore. 
-Grimm's Fairy Tales, for example, are grim indeed. 
+*Grimm's Fairy Tales*, for example, are grim indeed. 
 As her just desserts for trying to poison Snow White, 
 the wicked queen is made to dance in red hot slippers 
 "till she fell dead on the floor, a sad example of envy and jealousy." 
@@ -266,10 +267,10 @@ and the blood flowed about the heated bar.
 And the breath of the flame singed his eyelids and brows all about, 
 as the ball of the eye burnt away, 
 and the roots thereof crackled in the flame"). 
-In the Inferno, Dante and Virgil watch corrupt politicians 
+In the *Inferno*, Dante and Virgil watch corrupt politicians 
 struggle to stay submerged beneath a lake of boiling pitch, 
 lest they be skewered by devils above the surface. 
-And Golding's Lord of the Flies recounts how a schoolboy called Piggy 
+And Golding's *Lord of the Flies* recounts how a schoolboy called Piggy 
 is savagely murdered *by other children* while marooned on an island.
 
 This is not to say 
@@ -286,8 +287,8 @@ the most dangerous of textbooks in the school for crime are drawing to a
 close &hellip; They say that the moving picture machine &hellip; tends even
 more than did the dime novel to turn the thoughts of the easily
 influenced to paths which sometimes lead to prison." Moving Pictures as
-Helps to Crime, N.Y. Times, Feb. 21, 1909, quoted in Brief for Cato
-Institute, at 8. For a time, our Court did permit broad censorship of
+Helps to Crime, *New York Times*, 21 Feb. 1909.
+For a time, our Court did permit broad censorship of
 movies because of their capacity to be "used for evil," 
 see [*Mutual Film Corp. v. Industrial Comm'n of Ohio,* (S.Ct. 1915),](http://scholar.google.com/scholar_case?case=7270078849202844362)
 but we eventually reversed course, [*Joseph Burstyn, Inc.,*](http://scholar.google.com/scholar_case?case=5628256980652867975);
@@ -450,7 +451,7 @@ inform consumers about the content of games. The system, implemented by
 the Entertainment Software Rating Board (ESRB), assigns age-specific
 ratings to each video game submitted: EC (Early Childhood); E
 (Everyone); E10 + (Everyone 10 and older); T (Teens); M (17 and older);
-and AO (Adults Only—18 and older). App. 86. The Video Software Dealers
+and AO (Adults Only—18 and older). The Video Software Dealers
 Association encourages retailers to prominently display information
 about the ESRB system in their stores; to refrain from renting or
 selling adults-only games to minors; and to rent or sell "M" rated games
