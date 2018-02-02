@@ -65,7 +65,7 @@ immoral.
 
 Defamation focuses on the damage to the plaintiff’s reputation in the community, while false light privacy concentrates on the psychological harm done to the plaintiff from objectionable misrepresentations.
 
-### Appropriation of Name or Likeness
+### 4. Appropriation of Name or Likeness
 
 One who appropriates to his own use or benefit the name or likeness of another is subject to liability to the other for invasion of his privacy.
 
