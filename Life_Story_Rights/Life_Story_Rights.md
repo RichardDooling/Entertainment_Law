@@ -51,15 +51,13 @@ execute a simple agreement,
 wherein the subject promises not to sue 
 for defamation, invasion of privacy, use of name, image, or likeness, 
 and a number of other claims. 
-A nice description can be found in a passage called 
-["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) 
-from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. (2009), by Gunnar Erickson, Mark Halloran & Harris Tulchin. See also, [Purchasing Life Story Rights By: Mark Litwak](http://www.marklitwak.com/purchasing-life-story-rights.html).
+
+* A nice description and good advice about how to do it: [Purchasing Life Story Rights By: Mark Litwak](http://www.marklitwak.com/purchasing-life-story-rights.html).
 
 Here are some links to sample life story rights agreements and templates:
 
-- [Life Story Rights Agreement, courtesy of the Northern Kentucky University Chase College of Law.] (http://chaselaw.nku.edu/content/dam/chaselaw/docs/centersandinstitute/Law---Informatics/LifeStoryRightsAgreement.pdf)
-- [Done Deal: Life Rights Option Agreement.](https://www.donedealpro.com/members/details.aspx?object_id=280&content_type=1&section_id=13)
 - [Done Deal: Life Rights Agreement.](https://www.donedealpro.com/members/details.aspx?object_id=582&content_type=1&section_id=13)
+- Also, see Life Story Rights Acquisition Agreements contained in the Life Story Rights Github folder.
 
 If an agreement can't be had, 
 storytellers and filmmakers may proceed, 
@@ -72,13 +70,11 @@ The next case introduces us to what happens when there's no "life story rights" 
 In *Matthews v. Wozencraft*, the Fifth Circuit Court of Appeals,
 applying Texas law, said that, at least in Texas, 
 there's no such thing as a property interest in one's life story. 
-In passing, the Court distinguishes "life story rights" from  celebrity/publicity rights.
-We don't read about those rights, 
+In passing, the Court distinguishes "life story rights" from  celebrity/publicity rights,
 also known by far too many other names 
-(personality rights, celebrity rights, publicity rights or the right of publicity, 
+(personality rights, celebrity rights, publicity rights, or the right of publicity, 
 appropriation of name or likeness), 
-until next week, but the Court discusses them while struggling 
-with the right of an individual 
+or the right of an individual 
 to control the commercial use of 
 his or her name, image, likeness, or other unequivocal aspects of one's identity. 
 
@@ -445,6 +441,12 @@ To ensure that true speech on matters of public concern is not deterred, we hold
 
 * [Reverse defamation, the Newsweek Bitcoin story, and Satoshi Nakamoto](
 http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/03/18/reverse-defamation-the-newsweek-bitcoin-story-and-satoshi-nakamoto/)
+
+
+A nice description can be found in a passage called 
+["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) 
+from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. (2009), by Gunnar Erickson, Mark Halloran & Harris Tulchin. 
+
 
 -->
 
