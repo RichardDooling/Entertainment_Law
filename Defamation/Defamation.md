@@ -1046,14 +1046,18 @@ contains the disclaimer, "ad parody — not to be taken seriously." The
 magazine's table of contents also lists the ad as "Fiction; Ad and
 Personality Parody."
 
-Soon after the November issue of Hustler became available to the public, Falwell sued Hustler Magazine and Larry Flynt to recover damages for libel, invasion of privacy, and
+Soon after the November issue of Hustler became available to the public, Falwell sued Hustler Magazine and Larry Flynt to recover damages for libel, invasion of privacy
+(celebrity/publicity rights), and
 intentional infliction of emotional distress. The case proceeded to
 trial. At the close of the evidence, the District Court
-granted a directed verdict for Flynt and Hustler on the invasion of privacy
-claim. The jury then found against Falwell on the libel claim,
+granted a directed verdict for Flynt and Hustler on the invasion of privacy (celebrity/publicity rights) claim. The jury then found against Falwell on the libel claim,
 specifically finding that the ad parody could not "reasonably be
 understood as describing actual facts about Falwell or actual
-events in which [he] participated." The jury found for Falwell on the intentional infliction of emotional distress claim, however, and stated that he should be awarded $100,000 in
+events in which he participated." 
+The jury found for Falwell on the intentional infliction of emotional distress claim, 
+however, and stated that he should be awarded $100,000 in compensatory damages, 
+as well as $50,000 each in punitive damages from petitioners. 
+Petitioners' motion for judgment notwithstanding the verdict was denied.
 
 On appeal, the United States Court of Appeals for the Fourth Circuit
 affirmed &hellip; rejecting Flynt and Hustler's argument that the "actual malice"
@@ -1270,7 +1274,7 @@ microwaves take nutrition out of food.
 
 ##### Who Are "The News Media?"
 
-Blurred lines: Ninth Circuit applies same First Amendment protections to bloggers as traditional media. [Bloggers enjoy same First Amendment Protections as Traditional Media.](http://www.lexology.com/library/detail.aspx?g=70eecbf8-59ac-46b1-8a8a-253e26d7b843&l=7KKVEH6).
+Blurred lines: Ninth Circuit applies same First Amendment protections to bloggers as traditional media. [Bloggers enjoy same First Amendment Protections as Traditional Media](http://www.lexology.com/library/detail.aspx?g=70eecbf8-59ac-46b1-8a8a-253e26d7b843&l=7KKVEH6).
 
 
 [survival]: http://www.amazon.com/Independent-Film-Producers-Survival-Guide/dp/0825637236/ref=sr_1_1?ie=UTF8&qid=1375835406&sr=8-1&keywords=independent+producers+survival+guide "Independent Producers Survival Guide"
