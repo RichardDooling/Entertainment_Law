@@ -380,8 +380,7 @@ allegedly defamatory statements so broadly as to invite defendants to
 commit, in effect, a further but privileged libel, by bringing to light
 every discreditable act that the plaintiff may have committed, in an
 effort to show that he is as "bad" as the defamatory statements depict
-him. This would strip people who had done bad things of any legal
-protection against being defamed; they would be defamation outlaws. The
+him. This would strip people who had done bad things of any legal protection against being defamed; they would be defamation outlaws. The
 true damaging facts must be closely related to the false ones. But that
  test is satisfied. Luther abandoned his children and was
 eventually jailed for doing so. These truths encompass and transcend
@@ -398,9 +397,8 @@ abandonment compounded by a bigamous marriage to a woman who herself had
 children. The allegedly false facts about Luther were variants of the
 true that did not paint him in a worse light. Corresponding to the
 "immaterial error[s]" of which the substantial-truth cases speak,
-[*Sivulich v. Howard Publications, Inc.,* 126 Ill.App.3d 129, 81 Ill.
-Dec. 416, 418, 466 N.E.2d 1218, 1220
-(1984),](http://scholar.google.com/scholar_case?case=15779388720675284227&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+[*Sivulich v. Howard Publications, Inc.,* 466 N.E.2d 1218, 1220
+(Ill. Ct. App. 1984),](http://scholar.google.com/scholar_case?case=15779388720675284227&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
 the alleged falsehoods were merely illustrations of undoubted truths
 about Luther Haynes's character at the time, illustrations that even if
 false in detail conveyed an accurate impression. They were therefore
@@ -420,7 +418,7 @@ Heritage Products, Inc.,* (GA 1982)](http://scholar.google.com/scholar_case?case
 [*Haelan Laboratories v. Topps Chewing Gum* (2d Cir. 1953)](http://scholar.google.com/scholar_case?case=18211552832825571674);
 [*Douglass v. Hustler Magazine, Inc.* (7th Cir. 1985)](http://scholar.google.com/scholar_case?case=17887957795289404111).
 Tapping someone's phone, or otherwise invading a person's private space.
-[*De May v. Roberts* (MI 1881)] (many citations omitted); 
+(many citations omitted). 
 
 Harassing a celebrity by following her too closely, albeit on a public street. Cf. [*Galella v. Onassis* (2d Cir. 1973)](http://scholar.google.com/scholar_case?case=1876391558280554729). Casting a person in a false light by publicizing details of the person's life that while true are so selected or highlighted as to convey a misleading impression of the person's character. [*Time, Inc. v. Hill* (S.Ct. 1967)](http://scholar.google.com/scholar_case?case=13178370409068522665).  Publicizing personal facts that while true and not misleading are so intimate that their disclosure to the public is deeply embarrassing to the person thus exposed and is perceived as gratuitous by the community (many citations omitted).
 
@@ -492,7 +490,7 @@ their appeal is not concerned with, and is not a proper surrogate for
 legal doctrines that are concerned with, the accuracy of the private
 facts revealed. It is concerned with the propriety of stripping away the
 veil of privacy with which we cover the embarrassing, the shameful, the
-tabooed, truths about us. [*Leidholdt v. L.F.P. Inc., supra,*](http://scholar.google.com/scholar_case?case=15529001075929717432).
+tabooed, truths about us. [*Leidholdt v. L.F.P. Inc., supra*](http://scholar.google.com/scholar_case?case=15529001075929717432).
 The revelations in the book are not about the intimate details of the
 Hayneses' life. They are about misconduct, in particular Luther's.
 (There is very little about Dorothy in the book, apart from the fact
