@@ -22,7 +22,8 @@ Crash Course on Copyright is also great for introduction and review:
 * [Copyright Basics: Crash Course Intellectual Property 2](https://www.youtube.com/watch?v=Tamoj84j64I&list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN&index=2)
 * [Copyright, Exceptions, and Fair Use: Crash Course Intellectual Property 3](https://www.youtube.com/watch?v=Q_9O8J9skL0)
 
-### History of Copyright
+
+### History of Copyright
 
 Essentially, a "copyright" grants authors and artists certain exclusive rights (see list below) to their intellectual property (the work they created). The constitution gives Congress the power to develop laws to protect and regulate intellectual property, 
 under Article I, Section 8, Clause 8:
