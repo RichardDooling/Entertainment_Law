@@ -24,12 +24,6 @@ Crash Course on Copyright is also great for introduction and review:
 
 ### History of Copyright
 
-> "Copyright turns the content of protected works into a private good 
-> whose authors can grant or withhold consent to others 
-> to use and distribute it." 
-
-> Paul Weiler, *Entertainment, Media and The Law*
-
 Essentially, a "copyright" grants authors and artists certain exclusive rights (see list below) to their intellectual property (the work they created). The constitution gives Congress the power to develop laws to protect and regulate intellectual property, 
 under Article I, Section 8, Clause 8:
 
@@ -39,6 +33,12 @@ under Article I, Section 8, Clause 8:
 
 And Congress has passed laws (copyright, trademark, patent) 
 in an attempt to achieve these ends. 
+
+> "Copyright turns the content of protected works into a private good 
+> whose authors can grant or withhold consent to others 
+> to use and distribute it." 
+
+> Paul Weiler, *Entertainment, Media and The Law*
 
 The courts then try to strike a delicate balance 
 between intellectual property rights and free speech rights.
@@ -679,5 +679,6 @@ instead of having to prove actual damages:
 
 ## Changelog
 
-* 25-Jan-2015 Edited and rewrote before merging with ArtBizLaw Copyright Basics.
+* 10-Feb-2018 fix header
 * 08-Feb-2015 More edits before merging with ABL
+* 25-Jan-2015 Edited and rewrote before merging with ArtBizLaw Copyright Basics.
