@@ -191,6 +191,12 @@ rather than a privacy tort.
 
 > Eugene Volokh, *Freedom of Speech and the Right of Publicity*, Houston Law Review 40 (2003)
 
+### Jennifer Rothman
+
+###### Right of Publicity Road Map
+
+[Prof. Jennifer Rothman's](http://www.lls.edu/faculty/facultylistl-r/rothmanjennifer/) indispensable [Road Map to the Right of Publicity](https://www.rightofpublicityroadmap.com/) gives the best breakdown of this area of the law, state by state, via an interactive map.
+
 ## Major Right Of Publicity Cases
 
 ### *ML King Jr. Center v. American Heritage Products*
@@ -1191,6 +1197,9 @@ The judgment of the Court of Appeals is accordingly
 
 ###### California Supreme Court (2001)
 
+* [case at Google Scholar](https://scholar.google.com/scholar_case?case=6376074772628774470&hl=en&as_sdt=6,28)
+
+
 MOSK, J.
 
 A California statute grants the *right of publicity* to specified successors in interest of deceased celebrities, prohibiting any other person from using a celebrity's name, voice, signature, photograph, or likeness for commercial purposes without the consent of such successors. &hellip; The United States Constitution prohibits the states from abridging, among other fundamental rights, freedom of speech. In the case at bar we resolve a conflict between these two provisions. The Court of Appeal concluded that the lithographs and silkscreened T-shirts in question here received no First Amendment protection simply because they were reproductions rather than original works of art. As will appear, this was error: reproductions are equally entitled to First Amendment protection. We formulate instead what is essentially a balancing test between the First Amendment and the right of publicity based on whether the work in question adds significant creative elements so as to be transformed into something more than a mere celebrity likeness or imitation. Applying this test to the present case, we conclude that there are no such creative elements here and that the right of publicity prevails. On this basis, we will affirm the judgment of the Court of Appeal.
@@ -1267,7 +1276,9 @@ As Madow further points out, the very importance of celebrities in society means
 
 For similar reasons, speech about public figures is accorded heightened First Amendment protection in defamation law. As the United States Supreme Court held in [*Gertz v. Robert Welch, Inc.* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202) public figures may prevail in a libel action only if they prove that the defendant's defamatory statements were made with actual malice, i.e., actual knowledge of falsehood or reckless disregard for the truth, whereas private figures need prove only negligence.&hellip; The rationale for such differential treatment is, first, that the public figure has greater access to the media and therefore greater opportunity to rebut defamatory statements, and second, that those who have become public figures have done so voluntarily and therefore "invite attention and comment." Giving broad scope to the right of publicity has the potential of allowing a celebrity to accomplish through the vigorous exercise of that right the censorship of unflattering commentary that cannot be constitutionally accomplished through defamation actions.
 
-[Even though Saderup's creations were for "entertaining rather than informing" and even though they consisted of "nonverbal, visual representation" on T-shirt the Court held that they were clearly protected expression under the First Amendment and indeed would be protected even if they conveyed "no discernable message."]
+[Even though Saderup's creations were for "entertaining rather than informing" and even though they consisted of "nonverbal, visual representation" on T-shirts,
+the Court held that they were clearly protected expression under the First Amendment 
+and indeed would be protected even if they conveyed "no discernible message."]
 
 But having recognized the high degree of First Amendment protection for noncommercial speech about celebrities, we need not conclude that all expression that trenches on the right of publicity receives such protection. The right of publicity, like copyright, protects a form of intellectual property that society deems to have some social utility. "Often considerable money, time and energy are needed to develop one's prominence in a particular field. Years of labor may be required before one's skill, reputation, notoriety or virtues are sufficiently developed to permit an economic return through some medium of commercial promotion.&hellip; For some, the investment may eventually create considerable commercial value in one's identity."
 [*Lugosi*](http://scholar.google.com/scholar_case?case=11171194144106283057).
