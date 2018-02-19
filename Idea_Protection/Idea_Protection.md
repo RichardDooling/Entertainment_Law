@@ -609,7 +609,241 @@ volatility—available to litigants who bring nebulous state law claims
 that in substance assert rights in the nature of copyright. Hence, I
 respectfully dissent.
 
-##### Totally Optional Reading & Viewing
+### *Quirk v. Sony* 
+
+###### United States District Court (N.D. CA 2013)
+
+* [case on Google Scholar](http://scholar.google.com/scholar_case?case=13241423897271288276) 
+* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2013+WL+1345075&appflag=67.12)
+
+Order granting motions for summary judgment.
+
+Richard Seeborg, District Judge.
+
+In 1998, plaintiff Joe Quirk published a novel entitled *Ultimate Rush,*
+about a San Francisco package delivery service messenger, who carried
+out athletic and daring feats on rollerblades, and became involved in
+perilous situations with criminals relating to the contents of packages
+he was delivering. Quirk considered the action novel well-suited for
+adaption into a movie, and secured an option contract from Warner
+Brothers to that end. Although Warner Brothers commissioned two separate
+screenplays to be written from the book, it ultimately never pursued the
+project, and its option lapsed.
+
+In 2010, Quirk heard from his publisher, friends and acquaintances that
+a movie entitled *Premium Rush* was in production. Set in New York,
+*Premium Rush* tells the story of a bicycle messenger pursued by a rogue
+cop, who is trying to obtain the mysterious contents of a package the
+messenger has been hired to deliver. Quirk concluded that *Premium Rush*
+represented an unauthorized adaptation of his novel, and brought this
+action for copyright infringement against the screenwriter and director,
+and various entities involved in the production of the movie. Quirk also
+asserted a so-called *Desny* claim, contending that
+defendants had breached an implied contract to pay for use of his work,
+regardless of whether their movie includes material that infringes his
+rights under copyright law.
+
+[The copyright infringement portions of this opinion are in the chapter on Copyright Infringement.]
+
+## B. *Desny claim*
+
+In 1956, the California Supreme Court recognized an implied contractual
+right to compensation when a writer submits material to a producer with
+the understanding that the writer will be paid if the producer uses the
+concept. [*Desny,*](http://scholar.google.com/scholar_case?case=3141417353271271191).
+The Ninth Circuit has reaffirmed that *Desny* claims remain viable and
+are not preempted by copyright law. [*Montz v. Pilgrim Films &
+Television, Inc.,* (9th Cir.  2011)](http://scholar.google.com/scholar_case?case=3302514421955048097). The *Montz* court described the essence of the claim as resting on "an expectation *on both sides* that use of the idea requires compensation."
+*Id.* at 976. Such a "bilateral understanding of payment" is critical,
+because it "constitutes an additional element that transforms a claim
+from one asserting a right exclusively protected by federal copyright
+law, to a contractual claim that is not preempted by copyright law."
+*Id.*
+
+The *Desny* court elaborated, "the idea purveyor cannot prevail in an
+action to recover compensation for an abstract idea unless (a) before or
+after disclosure he has obtained an express promise to pay, or (b) the
+circumstances preceding and attending disclosure, together with the
+conduct of the offeree acting with knowledge of the circumstances, show
+a promise of the type usually referred to as \`implied' or
+\`implied-in-fact.'" [*Desny*](http://scholar.google.com/scholar_case?case=3141417353271271191).
+Moreover, "the law will not imply a promise to pay for an idea from
+the mere facts that the idea has been conveyed, is valuable, and has
+been used for profit; this is true even though the conveyance has been
+made with the hope or expectation that some obligation will ensue."
+[*Id.*](http://scholar.google.com/scholar_case?case=3141417353271271191).
+
+At the pleading stage, Quirk was permitted to proceed with his *Desny*
+claim because he had alleged, albeit with a fair degree of speculation
+and uncertainty as to the details, that defendants had obtained his
+novel and/or one of the Warner Brothers screenplays under circumstances
+that might support a "bilateral expectation of payment." Quirk had
+speculated as to a large number of possible means of transmission of his
+work to defendants. Now, after discovery, Quirk asserts that the
+evidence supports a compelling inference that defendants somehow
+obtained the Warner Brothers scripts and a copy of the novel from CAA,
+which undisputedly retained those materials in its files. Specifically,
+Quirk insists it is a "virtual certainty" that defendant Koepp, who was
+also represented by CAA, obtained the *Ultimate Rush* material "through
+his agents at Creative Artists Agency."[^6]
+
+In support, Quirk relies on the absence of evidence to support any
+*other* method of transmission of either the book or the Warner Brothers
+scripts, the presence of those materials in the CAA library, CAA's
+representation of Koepp, and some indications that persons at CAA
+circulated materials relating to *Ultimate Rush* at a point in time long
+after Warner Brothers' efforts to develop the project had been
+abandoned. Quirk's argument also depends heavily on his premise that a
+comparison of the novel, the movie, and the intervening scripts, reveals
+clear signs of the "adaption process."
+
+There is a degree of circularity to Quirk's contentions. *If,* as he
+contends, the indications that *Premium Rush* was adapted from Quirks
+novel are unmistakable and undeniable across the various intervening
+scripts, *then* defendants necessarily had copies of at least the Warner
+Brothers scripts, and possibly the novel itself, when writing and making
+*Premium Rush. If* defendants indeed had those materials in hand, *then*
+perhaps the only reasonable inference is that they obtained them from
+CAA. Yet as Quirk's urging for application of the inverse ratio rule
+reveals, his argument that the works have similarities indicative of
+"copying" to some degree reflects an assumption that defendants had
+access in the first instance. The argument also relies on concluding
+that there are similarities across the various works that can only be
+explained if defendants worked with the book and/or the Warner Brothers
+scripts at the ready, a proposition that remains speculative.
+
+In any event, with the evidentiary record now developed, Quirk's *Desny*
+claim fails for each of the following independent reasons. First, even
+assuming a reasonable fact-finder could conclude that commonalities
+among elements found in the novel, the movie, and the intervening
+scripts demonstrate that *Premium Rush* was created by a process of
+adaptation from *Ultimate Rush,* Quirk still lacks evidence that
+defendants utilized any of his ideas under circumstances giving rise to
+a "bilateral expectation of payment." Quirk's "virtual certainty" that
+Koepp obtained materials from "his agents" at CAA is not only sheer
+speculation, it lacks any detail as to the precise circumstances,
+rendering it insufficient as a showing of conditions under which an
+implied contract might arise.
+
+Second, Quirk is relying primarily on the notion that any person
+obtaining a copy of either of the Warner Brother's scripts allegedly
+would have known and understood, from warnings on the scripts
+themselves, that they could not be used absent some contractual
+arrangement for payment. As noted in the prior order, a *Desny* claim
+for use of ideas embodied in a novel might be viable even where those
+ideas were transmitted to the defendants through the medium of an
+intervening derivative work. Nevertheless, at least part of Quirk's
+argument is that defendants' movie can be seen as an embodiment of ideas
+developed in those screenplays but not necessarily present in the same
+form in book. It is therefore unclear either that expectations relating
+to the conditions under which the *scripts* could be used are sufficient
+to support a *Desny* claim arising from the book, or that Quirk has any
+standing to bring a *Desny* claim arising from any use of the scripts.
+
+Third, and perhaps most fundamentally, regardless of the precise
+circumstances under which defendants may have obtained and used copies
+of the Warner Brothers scripts, the novel, or both, any *Desny* claim
+arising from use of ideas found in the book necessarily fails as a
+matter of law, given Quirk's voluntary wide public distribution of those
+ideas years before defendants ever began working on their movie. As the
+*Desny* decision itself states:
+
+> The idea man who blurts out his idea without having first made his
+> bargain has no one but himself to blame for the loss of his bargaining
+> power. The law will not in any event, from demands stated subsequent
+> to the unconditioned disclosure of an abstract idea, imply a promise
+> to pay for the idea, for its use, or for its previous disclosure.
+
+[*Desny*](http://scholar.google.com/scholar_case?case=3141417353271271191).
+
+Here, Quirk's publication of *Ultimate Rush* in the late 1990's was an
+"unconditioned disclosure" to the public at large of *all* of the ideas
+contained in the novel. From the outset of this litigation, Quirk has
+admitted that if defendants worked from a copy of his novel they
+purchased on the open market, he would have no viable *Desny* claim.
+There is no reason in law or logic that the result should be different
+even assuming defendants worked from a copy of the novel (and/or from
+the Warner scripts) obtained through CAA. Quirk is, in effect, claiming
+that the legends on the Warner scripts, and the other circumstances that
+necessarily would surround any transmission of the materials to
+defendants from CAA, are demands for payment that imply a promise by
+defendants to pay, upon any use by them of the ideas of the novel. Those
+"demands," however, were made many years *after* the ideas of the novel
+were unconditionally disclosed to the public, and therefore *cannot*
+"imply a promise to pay for the idea, for its use, or for its previous
+disclosure."
+
+While *Montz* does not purport to set out what must be pleaded or proved
+at a minimum to support a *Desny* claim, its description of the
+plaintiffs' allegations before it is instructive. The *Montz* plaintiffs
+had averred that the "disclosure of their ideas and concepts was
+strictly confidential" and that defendants impliedly agreed they "would
+not disclose, divulge or exploit the Plaintiffs' ideas and concepts
+without compensation and without obtaining the Plaintiffs' consent."
+[*Montz*](http://scholar.google.com/scholar_case?case=3302514421955048097).
+
+It may be that a plaintiff can pursue a *Desny* claim even where the
+subject ideas have not been treated with the utmost degree of secrecy
+and confidentiality, but *Montz* shows that the touchstone remains
+whether the plaintiff can be said to be disclosing something that is not
+otherwise freely available to the defendant. Indeed, it is the
+*disclosure* of ideas, not protectable under copyright law, but of
+potential value to the defendants, that serves as the consideration for
+the implied promise to pay. *See* [*Desny*](http://scholar.google.com/scholar_case?case=3141417353271271191).
+("The policy that precludes protection of an abstract idea by copyright
+does not prevent its protection by contract. Even though an idea is not
+property subject to exclusive ownership, its disclosure may be of
+substantial benefit to the person to whom it is disclosed. That
+disclosure may therefore be consideration for a promise to pay.")
+
+Quirk elected to disclose the ideas in his novel to the entire world
+without any conditions, other than those arising from copyright law, on
+the ability of persons to make whatever use of the ideas in the novel
+they wished. He cannot now claim defendants were nevertheless impliedly
+bound to pay for using the ideas, regardless of the precise
+circumstances under which they were exposed to the novel (if they were)
+years later. Accordingly, summary judgment must be granted in
+defendants' favor on the *Desny* claim.
+
+## V. CONCLUSION
+
+Defendants' motions for summary judgment are granted. A separate
+judgment will issue.
+
+IT IS SO ORDERED.
+
+[Footnotes: Gelfand offers examples of movies expressly presented as
+adaptations of underlying books, where the film differed greatly from
+the original work, but the original author still received credit and
+compensation. Such examples merely beg the question, however, as to
+whether one of those authors would have been entitled to compensation
+had there been no contract in place and the final film lacked
+substantial similarity of copyrightable expression. That filmmakers
+sometimes *do* acknowledge and compensate authors even where their films
+ultimately would not otherwise constitute infringing work does not
+create legal liability where a filmmaker uses only non-protectable ideas
+without attribution or compensation.]
+
+[In light of these conclusions, Quirk was given the
+opportunity to submit an analysis that was limited to comparing the
+final movie as made to his book. Without waiving his arguments that the
+intermediate scripts are relevant, Quirk did so.]
+
+[More precisely, Quirk only need show a triable issue of
+fact as to the existence of a somewhat lesser degree of similarity.]
+
+[Quirk's agent did pitch *Ultimate Rush* directly to
+defendant Columbia back in the late 90's. Although Quirk argues that
+Columbia can be held liable under various theories, he does not contend
+there is any evidence that Columbia made the movie as a result of
+anything it learned at that time, or that it had a copy of the book or
+other materials in its possession when *Premium Rush* was being
+developed. While Quirk contends the prior contact between Quirk's agent
+and Columbia is relevant, his *Desny* theory now rests solely on the
+allegation that defendants obtained possession of the Warner Brothers
+scripts and the novel through CAA.]
+
+#### Totally Optional Reading & Viewing
 
 * [Pitch the idea? Or just write it and be done?](https://www.youtube.com/watch?v=8ExFYpzso8g)
 * *Passman*, Chapter 18, Songwriter Deals, Creative Control & Moral Rights (pgs. 296-297). 
