@@ -226,11 +226,10 @@ The case settled before trial.
 
 #### Ideas
 
-The copyright laws DO NOT protect IDEAS. 
-[§ 102(b)][102] 
+The copyright laws *do not* protect *ideas*. [§ 102(b)][102] 
 Only the *expression of an idea* is protected, 
-and even then what's protected is the EXPRESSION, 
-not the IDEA expressed.
+and even then what's protected is the *expression*, 
+not the *idea* expressed.
 
 #### Research
 
@@ -561,7 +560,7 @@ argued with a straight face for copyright protection,
 if he were the first author to create a pirate who said "Arrrgh!" 
 and had an eyepatch, bandana, and hook for a hand. 
 But now these elements are not copyrightable. 
-Why? Because they are not ORIGINAL. 
+Why? Because they are not *original.* 
 
 #### Names, Titles, Short Phrases, Expressions
 
