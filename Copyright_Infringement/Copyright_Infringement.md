@@ -11,11 +11,10 @@ chapter: Copyright Infringement
 
 These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE).
 
-## Infringement & Fair Use
+## Infringement 
 
 ###### Copying, Substantial Similarity, Parody
 
-### Infringement
 
 Copyright is violated only if the prior, copyrighted work has actually been *copied.* 
 
@@ -45,7 +44,7 @@ To prove copyright infringement, the copyright holder must establish:
 
 [Feist Publications v. Rural Telephone Service Co.](http://scholar.google.com/scholar_case?case=1195336269698056315) (S.Ct. 1991)
 
-#### Access & Substantial Similarity
+### Access & Substantial Similarity
 
 Direct evidence of copying is rare, 
 so courts rely instead on circumstantial evidence to prove copying, 
@@ -1331,6 +1330,479 @@ SO ORDERED.
 
 * [*New York Times* on *Denker v. Uhry* case](http://www.nytimes.com/1992/12/10/style/chronicle-352892.html).
 
+## Screenplays and Substantial Similarity
+
+
+### *Quirk v. Sony* 
+
+###### United States District Court (N.D. CA 2013)
+
+* [case on Google Scholar](http://scholar.google.com/scholar_case?case=13241423897271288276) 
+* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2013+WL+1345075&appflag=67.12)
+
+Order granting motions for summary judgment.
+
+Richard Seeborg, District Judge.
+
+#### I. Introduction
+
+In 1998, plaintiff Joe Quirk published a novel entitled *Ultimate Rush,*
+about a San Francisco package delivery service messenger, who carried
+out athletic and daring feats on rollerblades, and became involved in
+perilous situations with criminals relating to the contents of packages
+he was delivering. Quirk considered the action novel well-suited for
+adaption into a movie, and secured an option contract from Warner
+Brothers to that end. Although Warner Brothers commissioned two separate
+screenplays to be written from the book, it ultimately never pursued the
+project, and its option lapsed.
+
+In 2010, Quirk heard from his publisher, friends and acquaintances that
+a movie entitled *Premium Rush* was in production. Set in New York,
+*Premium Rush* tells the story of a bicycle messenger pursued by a rogue
+cop, who is trying to obtain the mysterious contents of a package the
+messenger has been hired to deliver. Quirk concluded that *Premium Rush*
+represented an unauthorized adaptation of his novel, and brought this
+action for copyright infringement against the screenwriter and director,
+and various entities involved in the production of the movie. Quirk also
+asserted a so-called *Desny* claim,[^1] contending that
+defendants had breached an implied contract to pay for use of his work,
+regardless of whether their movie includes material that infringes his
+rights under copyright law.
+
+In two separate motions, defendants now seek summary judgment on the
+copyright and *Desny* claims. In Quirk's view, there are sufficient
+similarities between his novel and the movie, particularly if traced
+through the intervening screenplays, to give rise to a strong inference
+that defendants had his novel and/or the screenplays commissioned by
+Warner Brothers in hand when writing and making their movie. Quirk
+proceeds, however, from an incorrect underlying legal premise. He
+believes that if he can show that defendants "adapted" his book into the
+movie, liability in copyright and/or under *Desny* will follow, *a
+fortiori.* Copyright, however, protects expression, not ideas, and even
+assuming defendants used Quirk's novel as a starting point, and "copied"
+from it as they worked, the final film does not include substantial
+similarities to any copyrightable expressions of the novel. "Copying
+deleted or so disguised as to be unrecognizable is not copying." [*See
+v. Durang,* (9th Cir. 1983)](http://scholar.google.com/scholar_case?case=14363671654333117332).
+While a *Desny* claim does allow protection for ideas in narrow
+circumstances, even assuming defendants had a copy of Quirk's novel in
+hand, liability does not follow for a number of reasons explained below.
+Accordingly, defendants' motions will both be granted.
+
+#### III. Background
+
+Quirk wrote "The *Ultimate Rush*" between 1994 and 1997. He describes it
+as an "action-driven" novel, always intended for possible adaptation
+into a movie, "due to its highly-cinematic features." The novel was
+published in March of 1998 and released in paperback in October of 1998.
+Although the sales of the novel were modest, by Quirk's own admission,
+it was extensively reviewed and commented on in the media, and was
+widely available commercially.
+
+Prior to publication, Quirk retained an agent, Matthew Snyder of
+California Artists Agency ("CAA"), who distributed pre-release copies
+and synopses of the novel to various persons and entities throughout the
+movie industry, seeking a film development deal. Eventually, Warner
+Brothers bought an option. During the term of that option, Warner
+Brothers commissioned two separate writers to prepare screenplays from
+the novel. The project never went forward, however, and the option
+eventually expired. Warner Brothers is the copyright holder in the two
+scripts it commissioned, and is not a party to this action.
+
+The movie *Premium Rush* was written and directed by defendant David
+Koepps, and co-written by former defendant John Kamps. Koepps and Kamps
+allegedly both have "specialized" in adapting the works of other writers
+into feature films. Separately and jointly they have written screenplays
+for many well-known films that were adaptations of other works. *Premium
+Rush* was released in 2012, after this litigation was underway.
+
+#### IV. Discussion
+
+#### A. Copyright claims
+
+The complaint asserts four claims
+for relief sounding in copyright—direct infringement, contributory
+infringement, vicarious infringement, and declaratory relief. The sole
+basis of defendants' challenge to all four counts is their contention
+that, "plaintiff has failed to adduce sufficient evidence of
+substantial similarity of copyright-protected material between his novel
+and Defendants' motion picture."
+
+The analysis here is guided by the Ninth Circuit's opinion in [*Funky
+Films v. Time Warner,* (9th Cir. 2006)](http://scholar.google.com/scholar_case?case=11311670671390043431),
+in which the court upheld a summary judgment ruling that the HBO series
+"Six Feet Under" bore no "substantial similarity" to the plaintiff's
+screenplay for a proposed series called "The Funk Parlor," which had
+previously been provided to an HBO executive. As explained in *Funky
+Films,* a plaintiff bringing a claim for copyright infringement must
+demonstrate "(1) ownership of a valid copyright, and (2) copying of
+constituent elements of the work that are original." [*Feist Pubs., Inc.
+v. Rural Tel. Serv. Co.,* (Sct. 1991)](http://scholar.google.com/scholar_case?case=1195336269698056315).
+Here, as Quirk's ownership in the copyright of his novel is undisputed,
+he need only demonstrate a triable issue of fact whether the defendants
+"copied anything that was 'original' to" the work. *Id.*
+
+Except in cases with direct evidence of copying, "proof of infringement
+involves fact-based showings that the defendant had 'access' to the
+plaintiff's work and that the two works are 'substantially similar.'"
+[*Three Boys Music Corp. v. Bolton,* (9th Cir.
+2000)](http://scholar.google.com/scholar_case?case=12110552630017561844).
+For purposes of this motion, defendants have not challenged that they
+had access to Quirk's novel, so the only question presented is whether
+the two works are substantially similar.
+
+"When the issue is whether two works are substantially similar, summary
+judgment is appropriate if no reasonable juror could find substantial
+similarity of ideas and expression." [*Kouf v. Walt Disney Pictures &
+Television,* (9th Cir.
+1994)](http://scholar.google.com/scholar_case?case=14520876886135816173)
+
+While "summary judgment is
+not highly favored on the substantial similarity issue in copyright
+cases," [*Berkic v. Crichton,* (9th Cir.
+1985),](http://scholar.google.com/scholar_case?case=4645996206573075884)
+the question "may often be decided as a matter of law." [*Sid & Marty
+Krofft Television Prods., Inc. v. McDonald's Corp.,* (9th Cir.
+1977)](http://scholar.google.com/scholar_case?case=16740683432222862864).
+Indeed, the Ninth Circuit has "frequently affirmed summary judgment in
+favor of copyright defendants on the issue of substantial similarity."
+[*Shaw v. Lindheim,* (9th Cir.
+1990)](http://scholar.google.com/scholar_case?case=4721891391972530140).
+See [*Berkic,*](http://scholar.google.com/scholar_case?case=4645996206573075884)
+("we have frequently affirmed summary judgments in favor of copyright
+defendants on the substantial similarity issue") (citing cases); *see
+also* [*Kouf,*](http://scholar.google.com/scholar_case?case=14520876886135816173)
+(finding no substantial similarity as a matter of law). Thus, while
+Quirk quite reasonably stresses that summary judgment on substantial
+similarity is to be approached with caution, it plainly is available in
+appropriate circumstances.
+
+The substantial-similarity test contains an extrinsic and intrinsic
+component. At summary judgment, courts apply only the extrinsic test;
+the intrinsic test, which examines an ordinary person's subjective
+impressions of the similarities between two works, is exclusively the
+province of the jury. *See* [*Shaw,*](http://scholar.google.com/scholar_case?case=4721891391972530140).
+A "plaintiff who cannot satisfy the extrinsic test necessarily loses on
+summary judgment, because a jury may not find substantial similarity
+without evidence on both the extrinsic and intrinsic tests." [*Kouf,*](http://scholar.google.com/scholar_case?case=14520876886135816173).
+
+The extrinsic test is objective and "it depends not on the responses of
+the trier of fact, but on specific criteria which can be listed and
+analyzed." [*Krofft,*](http://scholar.google.com/scholar_case?case=16740683432222862864).
+The focus is on the presence or absence of "articulable similarities
+between the plot, themes, dialogue, mood, setting, pace, characters, and
+sequence of events" in the two works. [*Kouf,*](http://scholar.google.com/scholar_case?case=14520876886135816173)
+(citations omitted). In applying the extrinsic test, the court
+"compares, not the basic plot ideas for stories, but the actual concrete
+elements that make up the total sequence of events and the relationships
+between the major characters." [*Berkic,*](http://scholar.google.com/scholar_case?case=4645996206573075884).
+
+"Protectable expression includes the specific details of an author's
+rendering of ideas." [*Metcalf v. Bochco,* (9th Cir.
+2002)](http://scholar.google.com/scholar_case?case=17145440476223557523).
+Scenes à faire, however, which flow naturally from generic plot-lines,
+are not protectable. *See id.* The court "must take care to inquire only
+whether the protectable elements, standing alone, are substantially
+similar." [*Cavalier v. Random House,* (9th Cir.
+2002)](http://scholar.google.com/scholar_case?case=2651925426692695886)
+(citations omitted). In particular, the court must "filter out and
+disregard the non-protectable elements in making [the] substantial
+similarity determination." *Id.*
+
+#### 1. The adaptation process
+
+The central premise of Quirk's oppositions to these motions is that a
+comparison between his novel and defendants' movie reveals the latter to
+be an "adaptation" of the former. Quirk offers the expert declaration of
+Bruce Gelfand to explain the nature and extent of changes that
+screenwriters often make when adapting an underlying novel into a movie,
+and to provide an opinion that *Premium Rush* bears the hallmarks of
+having been created from *Ultimate Rush* through an entirely typical
+process of adaptation. The fundamental flaw in Quirk's analysis is that
+he effectively assumes he has a viable claim in copyright and/or under
+*Desny* as long as he can prove the movie is an "adaption" of the novel
+in the sense described by Gelfand.
+
+Gelfand defines adaptation as "a process of dramatic refinement of an
+underlying original work, to create an effective new work *utilizing the
+strengths of the original work.*" (Emphasis added). While Gelfand
+acknowledges that adaptation is itself a craft requiring skill and
+creativity, he repeatedly suggests that one advantage to creating movie
+scripts through adaptation rather than as wholly original works of
+authorship is to save time, money, and effort. Gelfand suggests that
+even where elements of a movie are radically different from an
+underlying novel, and perhaps are even improved, the adaptors still
+"stand on the shoulders" of the original author.
+
+However accurate Gelfand's description may be as to how movie scripts
+often are adapted from underlying novels, it does not reflect the
+appropriate legal standard for determining when a movie is a copy of
+(or, more precisely, a derivative work made from) an underlying novel
+within the meaning of copyright law. As he correctly notes at one point,
+"a piece of written work might have started as a copy of another work,
+but been changed so much that it can no longer be said to be
+substantially similar." Although Gelfand offers that concession only in
+the context of disputing defendants' claim that *Premium Rush* was
+"independently created," it demonstrates that in his analysis, a movie
+could be an "adaptation" of a novel while not retaining substantial
+similarities that would give rise to copyright liability. The law,
+however, is clear: "Copying deleted or so disguised as to be
+unrecognizable is not copying." [*See v. Durang,* (9th Cir.
+1983)](http://scholar.google.com/scholar_case?case=14363671654333117332).
+The law is also clear that "ideas contained in a copyrighted work may be
+freely used so long as the copyrighted expression is not wholly
+appropriated." [*Allen v. Academic Games League of America, Inc.* (9th Cir.
+1996)](http://scholar.google.com/scholar_case?case=6780333182212903082).
+
+By defining "adaptation" so broadly as to include a new work that merely
+utilizes "strengths" of the underlying work (rather than elements of
+protectable *expression*), and by considering new works with no
+substantial similarity to underlying novels as being within the meaning
+of "adaptation," Gelfand has offered an analysis that addresses the
+wrong factual question. If Gelfand's comparisons between the works are
+fair, and the conclusions he draws logically sound, then perhaps a
+reasonable inference could be drawn that the script of *Premium Rush*
+was developed through an "adaptation" process that began with Quirk's
+novel (and/or one or both of the Warner scripts) as a starting point.
+The process by which *Premium Rush* was written is, though, tangentially
+relevant, at best. It would, for instance, bear on *willfulness.* The
+threshold question, however, and one which Gelfand's mode of analysis is
+ill-designed to address, is whether the end product of the *Premium
+Rush* movie is "substantially similar" to Quirk's novel, as that term is
+used in copyright law.
+
+While Gelfand correctly states, "the goal of the analysis is to
+determine whether there are substantial similarities in the works," he
+goes on to assert that "in the context of a novel-to-film adaptation,
+the issue here is what kinds of similarities between a novel and a film
+would tend to show that the screenplay film was copied (including
+unpermitted adaptation)." Thus, Gelfand has abandoned the correct
+inquiry (is there substantial similarity?) in favor of attempting to
+show that defendants *used* Quirk's novel and/or the Warner screenplays
+as inspiration and as a shortcut around what would have been required by
+truly independent creation. Even assuming Gelfand is factually correct
+that *Premium Rush* was "adapted" from Quirk's novel in exactly the
+manner he believes occurred, and even assuming that the features he
+identifies as similarities are evidence of such an adaptation process,
+it simply does not automatically follow that there is liability under
+copyright law (or even under *Desny,* for reasons discussed
+below).[^3]
+
+#### 2. Intermediate scripts
+
+Quirk's original opposition, and Gelfand's analysis, both rely heavily
+on drawing comparisons between either or both of the two Warner Brothers
+scripts and *Premium Rush,* or, in many instances between those scripts
+and *early drafts* of the *Premium Rush* script. Such comparisons
+naturally further Quirk's interest in attempting to show that the movie
+was made through an adaptation process that began with the novel, and
+progressed through multiple scripts to a final product. Neither the
+Warner Brothers scripts nor any preliminary drafts of the *Premium Rush*
+script, however, are relevant to the issues presented by this motion.
+
+As noted in a prior order and not disputed by Quirk here, he lacks
+standing to pursue a copyright claim based on alleged infringement of
+any expression found in either of the Warner Brothers scripts that is
+not present in his novel. While Quirk does have standing to pursue
+copyright claims with respect to any protectable elements of expression
+in the Warner Brothers scripts *also* appearing in his novel, there is
+no reason for him to point to the scripts rather than directly to the
+novel.
+
+Preliminary draft scripts of *Premium Rush* are similarly irrelevant to
+this motion. Quirk has not pleaded a claim that draft scripts
+constituted infringing works, even assuming such a claim might
+theoretically be possible. To argue the drafts are relevant, Quirk
+relies on [*Sega Enters. Ltd. v. Accolade, Inc.,* (9th Cir.
+1992)](http://scholar.google.com/scholar_case?case=12221231553971530035)
+for the proposition that copyright law "does not distinguish between
+unauthorized copies of a copyrighted work on the basis of what stage of
+the alleged infringer's work the unauthorized copies represent." In so
+doing, he overlooks the fact that in *Sega* the legality of
+"intermediate copying" of computer code was directly at issue. The court
+expressly distinguished cases, like this one, involving alleged copying
+of books, scripts, or literary characters, where "the eventual lawsuit
+alleged infringement only as to the final work of the defendants." Quirk
+also points to [*Walker v. Time Life Films, Inc.,* (2d Cir.
+1986),](http://scholar.google.com/scholar_case?case=16443246039845209842)
+but as his own quotation from that case shows, preliminary drafts were
+potentially relevant only "to show that defendants had gained access to
+plaintiff's work, borrowed from it, and later made changes in order to
+conceal that borrowing." *Id.* at 52. Access is *not* at issue here, as
+discussed above.
+
+Additionally, even if defendants in this instance "borrowed and then
+made changes to conceal that borrowing," there is no liability in
+copyright unless they failed to make enough changes to conceal the
+borrowing. Once again, "[c]opying deleted or so disguised as to be
+unrecognizable is not copying." [*See v. Durang,* (9th Cir.
+1983)](http://scholar.google.com/scholar_case?case=14363671654333117332).
+In *Durang,* summary judgment had been granted for defendants based on
+lack of substantial similarity. On appeal, the plaintiff argued he
+should have been allowed further discovery to obtain "early drafts of
+defendant's play on the theory they might reflect copying from
+plaintiff's play that was disguised or deleted in later drafts." *Id.*
+at 142. The Ninth Circuit rejected that argument (and others) and
+affirmed. *Id.* Thus, even assuming the preliminary drafts of *Premium
+Rush* scripts would be admissible to show access, and that they include
+indications of copying that was later deleted or revised, the only
+relevant question at this juncture is whether the final movie as filmed,
+edited, and released contains matter substantially similar to
+protectable elements of Quirk's novel.[^4]
+
+#### 3. Inverse ratio
+
+Quirk contends that because defendants have not challenged access for
+purposes of this motion, he is entitled to the benefit of the so-called
+"inverse ratio rule." *See* [*Swirsky v. Carey,* (9th Cir. 2004)](http://scholar.google.com/scholar_case?case=5495147661516410669)
+(holding that the degree of similarity that a plaintiff must establish
+is reduced when there is evidence that a defendant had extensive access
+to the plaintiff's work). On reply, defendants argue that the inverse
+ratio rule should *not* be applied because Quirk has the burden to show
+access, and mere allegations in his complaint are not sufficient to
+raise a triable issue of fact on that point. Defendants fail to
+recognize that because they expressly disclaimed any challenge to that
+element of the claim, the burden never shifted to Quirk to come forward
+with evidence in support of his allegations. *See* [Celotex](http://scholar.google.com/scholar_case?case=774572446857633137)
+(moving party "always bears the initial responsibility of informing the
+district court of the basis for its motion, and identifying those
+portions of the pleadings and admissions on file, together with the
+affidavits, if any which it believes demonstrate the absence of a
+genuine issue of material fact.") Defendants' moving papers plainly
+state that they "are not moving for summary judgment on the issue of
+access at this time." Accordingly, Quirk has the better argument that
+the inverse ratio rule can and should be applied to his benefit for
+purposes of this motion, and that he need only show a somewhat lesser
+degree of similarity to prevail.[^5] As discussed below,
+however, even under a lower standard, there is an insufficient showing
+of substantial similarity.
+
+#### 4. Substantial similarity
+
+Quirk's novel tells the story of Chet, a rollerblading messenger in San
+Francisco who is wrongly suspected of murdering a fellow messenger and
+who is being pursued by members of a criminal enterprise. The murder
+took place after Chet and his fellow messenger had become involved in
+delivering packages as part of a sprawling insider trading conspiracy
+involving investment bankers, Chinese drug lords, Italian mafia, a
+corrupt police officer, and a courier dispatcher. The dispatcher was
+central to the scheme, and selected Chet to make the deliveries that led
+to his involvement in the peril.
+
+The novel includes elements such as Chet's use of computer hacking
+skills to uncover and expose the conspiracy, his psychological issues
+resulting from the traumatic death of his parents and his brother's drug
+addiction, his friendship with a disabled computer hacker roommate, and
+his romance with a bisexual punk musician skateboarder. The story
+unfolds over the course of many days in a linear narrative told from
+Chet's point of view. The book takes advantage of the unique settings of
+San Francisco, including scenes involving the city's hills, specific
+areas, cable cars, and the BART system. Quirk himself characterizes a
+dominant theme in the book as "the friction between the privileged and
+unempowered" which "is played out physically in the streets, [and] the
+unempowered win."
+
+*Premium Rush* presents one afternoon in the life of Wilee, a New York
+bicycle messenger, who is attempting to deliver a package that, unknown
+to him for much of the story, contains a "Hawala ticket." The ticket can
+be exchanged for cash, and is used among some in the Chinese community
+to transfer money that cannot be easily traced. A corrupt police officer
+learns about the ticket, and the delivery in progress, from Chinese
+gaming operators to whom he owes a large gambling debt. The officer
+determines to steal the ticket, and begins chasing Wilee through the
+streets of New York.
+
+The two works differ greatly in many large and small details as well as
+in their overall mood, style, and structure. In his supplemental
+comparison that focuses solely on the book and the final movie product,
+Quirk has nonetheless managed to set out some 35 pages of alleged
+substantial similarities. Review of that listing, however, reveals that
+Quirk is relying on subjective and often highly unfair
+*characterizations* of material in the book and the movie to create
+highly strained purported "similarities."
+
+Examples include Quirk's insistence that the dispatcher characters in
+the two works are highly similar, while pointing only to generalized
+traits and negative behaviors. Moreover, despite purporting to limit his
+comparison to the book and the final movie, Quirk's supplemental filing
+resorts to arguing that in earlier drafts of the film, the dispatcher
+had "near-identical personal habits" to the character in the book. Quirk
+contends that by the final film, the dispatcher "had become a more
+funny/less abrasive South Asian-American jerk, so that a well-known
+South Asian-American actor/comedian (Aasif Mandvi) could be used in the
+role." This is an admission that the dispatch character was *changed*
+from the character created by Quirk, and it again reveals Quirk's
+underlying premise that he can prevail merely by showing that the movie
+was adapted from the book. If the movie character evolved from one
+greatly resembling the book character into one with fewer commonalities,
+that might indeed support an inference that the book served as a source
+for the movie. It has no bearing, however, on whether the character in
+the final film is substantially similar to the character in the book,
+under principles applicable in copyright law.
+
+Another example arises in Quirk's contention that the presence of
+"Chinese gangsters" in both works represents a point of substantial
+similarity. Those elements, however, are far too generalized and generic
+to support an infringement claim. Quirk's characterizations
+notwithstanding, the "Chinese gangsters" also play very different roles
+in the two works. In the book, the gangsters are among the antagonists
+chasing the messenger hero and threatening his life. In the movie, the
+gangsters are antagonistic to the corrupt policeman who is chasing and
+threatening the messenger—they are not the messenger's enemy, but rather
+the enemy of his enemy.
+
+Quirks' comparisons also often misstate matters to create an exaggerated
+sense of the degree of similarity. Quirk describes the opening scenes of
+his book as including a depiction of Chet, maneuvering "through the city
+skillfully and brakeless, challenged by changing street lights," and he
+asserts that the beginning of the movie shows Wilee doing the same.
+Chet, however, is on rollerblades which are described as in fact
+*including* heel brakes, which Chet uses, and shows another character
+how to use. Chet's streetlight challenge at the outset involves him
+needing to time the start of his descent down a steep hill perfectly to
+catch all the green lights. His waiting for the precise moment to start
+is a significant part of the scene. Wilee faces no such challenge; he
+merely runs one red light. Thus the only real connection is the
+extremely broad similarity that both works have scenes near the
+beginning where the hero messenger maneuvers through the city
+"skillfully."
+
+Finally, in a particularly strained comparison, Quirk equates an
+incident in his book where the Chinese gangsters kidnap Chet's love
+interest and hold her hostage, with the fact that the movie depicts
+Wilee's bicycle being taken to a police impound lot while he is being
+transported to the hospital after an accident. Quirk asserts that the
+corrupt policeman "seized" the bike, when in fact it appeared to have
+been impounded as a matter of routine police procedure, carried out by
+other members of the police force. In any event, Quirk's description of
+these two very different events as both being "[a]ntagonists take a
+hostage as leverage with [Chet/Wilee]" is emblematic of how tortured the
+attempt to find substantial similarity between the works becomes. A
+bicycle impounded after an accident, even if done at the direction of a
+corrupt police officer who has been pursuing the hero, is simply not the
+same idea, much less the same expression, as the kidnapping of the
+hero's love interest by Chinese gangsters.
+
+Quirk's remaining points of comparison virtually all suffer from the
+same or similar flaws. Selective and/or distorted characterizations of
+any two things can, of course, produce points of similarities. A blue
+whale is much like a hamster with respect to all the mammalian features
+they share. Yet a hamster is more like a sparrow than a whale, if one
+focuses on size, or the likelihood of finding one in the ocean, rather
+than whether the creatures under comparison are both mammals. The fact
+that a hamster bears some important features in common with whales,
+others with sparrows, and yet others with both, does not necessarily
+make a hamster "substantially similar" to either a whale or a sparrow.
+
+Upon filtering out all the non-protectable elements and disregarding
+characterizations not fairly supported by the two works, Quirk simply
+has not pointed to sufficient commonalities of expression from which a
+reasonable fact-finder could conclude the movie and the book contain
+substantially similar protectable expression. Accordingly, summary
+judgment on the copyright claims is warranted.
+
+[The *Desny* claim raised by Quirk is reprinted in the Idea Protection chapter.]
+
 ## Fair Use ##
 
 * [Fair Use](http://www.copyright.gov/fls/fl102.html) (very short "official" explanation of fair use).
@@ -1339,7 +1811,7 @@ SO ORDERED.
 
 > *Pocket Lawyer For Filmmakers,* 2nd Edition, page 245.
 
-#### Copyright Statute
+### Copyright Statute
 
 ###### § 107 - Limitations on exclusive rights: Fair use
 

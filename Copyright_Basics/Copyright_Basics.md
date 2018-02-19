@@ -581,6 +581,7 @@ Why? Because they are not ORIGINAL.
 >  * Listings of ingredients, as in recipes, labels, or formulas. When a recipe or formula is accompanied by an explanation or directions, the text directions may be copyrightable, but the recipe or formula itself remains uncopyrightable. 
 
 * [Circular 34: Copyright Protection Not Available for Names, Titles, or Short Phrases](http://www.copyright.gov/circs/circ34.pdf)
+* [Taylor Swift Shakes Off Copyright Lawsuit](https://www.hollywoodreporter.com/thr-esq/taylor-swift-shakes-copyright-lawsuit-1084373): "The linchpin of this entire case is thus whether or not the lyrics 'Playas, they gonna play / And haters, they gonna hate' are eligible for protection under the Copyright Act," he writes. "By 2001, American popular culture was heavily steeped in the concepts of players, haters, and player haters. The concept of actors acting in accordance with their essential nature is not at all creative; it is banal."
 
 There may be some remedy under the laws of trademark or unfair competition for the use of business and product names created by another without their permission, but this does not fall under the purview of copyright.
 
