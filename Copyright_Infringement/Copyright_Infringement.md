@@ -2139,7 +2139,7 @@ transformative use is not absolutely necessary for a finding of fair
 use, [*Sony, supra,*](http://scholar.google.com/scholar_case?case=5876335373788447272), the goal of copyright, to promote science and the arts, is generally
 furthered by the creation of transformative works. Such works thus lie
 at the heart of the fair use doctrine's guarantee of breathing space
-within the confines of copyright, see, *e. g.,* [*Sony, supra,](http://scholar.google.com/scholar_case?case=5876335373788447272), and the more transformative the new work,
+within the confines of copyright, see, *e. g.,* [*Sony*, supra,](http://scholar.google.com/scholar_case?case=5876335373788447272), and the more transformative the new work,
 the less will be the significance of other factors, like commercialism,
 that may weigh against a finding of fair use.
 
@@ -2605,22 +2605,30 @@ proceedings consistent with this opinion.
     - Transformative uses "add something new, with a further purpose or different character, altering the first with new expression, meaning or message" (*Campbell*).
     - Transformative uses are more likely to be fair use, and the other three factors become less important (*Campbell*).
 
+![The Purpose and Character of the Use][purpose]
+
 2. Nature of the Work.
     - Spectrum of fact to fiction, where taking factual works is more fair 
 taking fiction is less fair.
     - A greater latitude to disseminate historical or biographical facts than works of fiction.
+
+![Nature of the Work][nature]
 
 3. Amount Taken
     - Some courts say that taking the entire work is presumptively unfair.
     - Taking the “heart of the work,” even if a small amount, usually isn’t fair.
     - Taking poems, song lyrics, etc. for a commercial use almost always unfair.
     - In book publishing, for nonfiction and novels, usually 250 words.
-    - In music, general rule: If you sample, you license. 
+    - In music, general rule: If you sample, you license.
+
+![Amount taken][amount]
 
 4. Market Effect
     - Often cited as THE most important factor (*Harper & Row*).
     - Whether unrestricted and widespread conduct like the defendant’s would substantively and adversely impact the market, and the harm to the market for derivative works. 
     - CAUTION: Increasing demand for the underlying work doesn’t mitigate harm to a derivative market (*Harper & Row*; *Campbell*).
+
+![Market Effect][market]
 
 #### Totally Optional Readings and Viewings ####
 
@@ -2655,3 +2663,8 @@ http://www.politico.com/story/2015/06/shepard-fairey-arrest-warrant-graffiti-119
 [106]: http://www.copyright.gov/title17/92chap1.html#106 "Section 106: Rights"
 [selle]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=420fsupp177&appflag=67.12 "Selle v. Gibb"
 [sony]: http://scholar.google.com/scholar_case?case=5876335373788447272 "Sony v. Universal (Sct. 1984)"
+[purpose]: images/purpose-character.png 
+[nature]: images/nature.png
+[amount]: images/amount.png
+[market]: images/market.png
+
