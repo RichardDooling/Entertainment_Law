@@ -15,12 +15,12 @@ Who owns the rights?
 
 #### § 201 . Ownership of copyright
 
-**(a) Initial Ownership.** --- 
+a. Initial Ownership. --- 
 Copyright in a work protected under this title 
 vests initially in the author or authors of the work. 
 The authors of a joint work are coowners of copyright in the work.
 
-**(b) Works Made for Hire.** --- 
+b. Works Made for Hire. --- 
 In the case of a work made for hire, 
 the employer or other person for whom the work was prepared 
 is considered the author for purposes of this title, 
@@ -46,11 +46,11 @@ The Copyright Act defines a "joint work" as:
 In [All You Need to Know About the Music Business][passman], 
 Donald Passman uses the following simple example:
 
-> Suppose you and your cousin Louis write a brilliant song together. 
+> Suppose you and your cousin Louie write a brilliant song together. 
 > Which one of you owns it? 
 
 > [Section 201(a)][201] of the Copyright Act &hellip; 
-> says that you and Louis have created a **joint work**, 
+> says that you and Louis have created a *joint work*, 
 > meaning it was created jointly by the efforts of two or more people. 
 > When you have a joint work, 
 > either of the authors/owners can deal *non-exclusively* 
@@ -85,7 +85,7 @@ To be considered joint authors, each author must:
 1. Contribute *copyrightable* elements to the joint work, and
 2. At the time the work was created, intend to merge their own contributions with the contributions of coauthors to form a unified whole. 
 
-These rules govern WHO OWNS THE COPYRIGHT at the outset. 
+These rules govern *who owns the copyright at the outset*.
 As always, the parties are free to adjust ownership 
 by making deals for partial ownership of the copyright. 
 
@@ -116,7 +116,7 @@ collecting her jokes, and reviewing library resources.
 In 1985, 
 Taylor contacted Alice Childress, 
 a professional playwright 
-who had won an [“Obie” award](http://en.wikipedia.org/wiki/Obie_Award) for her work 
+who had won an ["Obie" award](http://en.wikipedia.org/wiki/Obie_Award) for her work 
 and whose plays Taylor had acted in since the 1940s. 
 Taylor wanted to hire Childress to write the play about "Moms," 
 and Childress eventually agreed. 
@@ -135,7 +135,7 @@ Taylor argues however that she provided more that mere research to the project:
 
 Childress registered copyright in the play, and the two eventually had a falling out.
 
-The question became: **Who owned the copyright in the work?** Childress alone? Or, as Taylor argued, Childress and Taylor jointly? 
+The question became: *Who owned the copyright in the work?* Childress alone? Or, as Taylor argued, Childress and Taylor jointly? 
 
 The court rejected Taylor's claim of joint authorship 
 holding that a work qualifies as a “joint work” 
@@ -152,7 +152,7 @@ And there was not enough evidence
 that Childress had such an intent at the time she wrote "Moms." 
 
 The Court said that copyright law requires that 
-**the contributions of both authors to be independently copyrightable**, 
+*the contributions of both authors to be independently copyrightable*, 
 and that Taylor's contributions, 
 which consisted of ideas and research, 
 were NOT copyrightable. 
@@ -344,7 +344,7 @@ Under [§ 101][101] of the Copyright Act, a “work made for hire” is—
     - as a test, 
     - as answer material for a test, 
     - or as an atlas,
-    - **if** the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire.&hellip; 
+    - *if* the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire.&hellip; 
 
 In the next case, the United States Supreme Court applies these straightforward provisions to a messy set of facts. 
 
@@ -695,8 +695,8 @@ Paramount argued that the terms of Cohen's license
 were similar to agreements in two other early videocassette cases,
 in which an original grant of rights included videocassette rights, even though such rights did not exist at the time of the original deal. 
 
-1. A contract between *Platinum Record Co. v. LucasFilm* (DCNJ 1983) giving the right: "to exhibit, distribute, exploit, market and perform said motion picture, its air, screen and television trailers, **perpetually throughout the world by any means or methods now or hereafter known.**"
-2. A contract in *Rooney v. Columbia Pictures* (SDNY 1982) which licensed the right to exhibit the films: **by any present or future methods or means** and by **any other means now known or unknown**.
+1. A contract between *Platinum Record Co. v. LucasFilm* (DCNJ 1983) giving the right: "to exhibit, distribute, exploit, market and perform said motion picture, its air, screen and television trailers, *perpetually throughout the world by any means or methods now or hereafter known*."
+2. A contract in *Rooney v. Columbia Pictures* (SDNY 1982) which licensed the right to exhibit the films: *by any present or future methods or means* and by *any other means now known or unknown*.
  
 The court ruled that these two licenses indeed 
 included the right to make the work available on videocassette, 
@@ -749,7 +749,7 @@ unless Cohen paid Effects Associates the full contract price.
 
 The court ruled that Effects Associates 
 had not transfered copyright in the special effects footage 
-because transfers of copyright must be **IN WRITING.** 
+because transfers of copyright must be *in writing*. 
 Cohen argued that regardless of what the Copyright Act says, 
 the industry standard in the movie business 
 was to have oral agreements. 
@@ -758,7 +758,7 @@ Moviemakers do lunch, not contracts, Cohen argued.
 Moviemakers are too absorbed in developing “joint creative endeavors” 
 to “focus upon the legal niceties of copyright licenses." 
 The Court disagreed with this notion, 
-but noted that **nonexclusive licenses** need not be in writing 
+but noted that *nonexclusive licenses* need not be in writing 
 and may be implied by the behavior of the parties. 
 The Court found that since Effects made the footage to Cohen's specifications 
 and gave it to him, 
@@ -775,11 +775,83 @@ The court called copyright ownership "a bundle of rights":
 > Additionally, Effects may license, sell or give away for nothing 
 > its remaining rights in the special effects footage. 
 
-See for yourself! [YouTube: The Disputed Footage In *Cohen*](http://www.youtube.com/watch?v=1LnisuqGSsY).
+* See for yourself! [YouTube: The Disputed Footage In *Cohen*](http://www.youtube.com/watch?v=1LnisuqGSsY).
 
-[JUNE 29, 2015 9:53am PT by Eriq Gardner
-Appeals Court Rules Producer, Not Director, Gets Film Copyright](
-http://www.hollywoodreporter.com/thr-esq/appeals-court-rules-producer-not-805650)
+### *16 Casa Duse v. Merkin*
+
+###### United States Court of Appeals For the Second Circuit (2015)
+
+* [Case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=791+F.3d+247&appflag=67.12)
+
+The following is excerpted from [Loeb & Loeb LLP Publication and News](https://www.loeb.com/articles-ipentertainmentcaselawupdates-20150709-16casadusellcvmerkin).
+
+> In matter of first impression, 
+the Second Circuit affirmed a ruling that director does not own copyright interest in film that he directed, because his creative contributions were inseparable from and integrated into film.
+
+> Robert Krakovski, the principal of the film production company 16 Casa Duse, LLC, 
+purchased the rights to a screenplay titled *Heads Up* 
+and asked Alex Merkin to direct the film. 
+Krakovski then hired a cast and crew for the film, 
+and each cast and crew member (other than Merkin) 
+signed an Independent Contractor Agreement with Casa Duse. 
+Krakovski sent Merkin a work-for-hire agreement 
+providing that Casa Duse would own all rights in the film, 
+and although he asked Merkin several times to sign the agreement, 
+Merkin never did so. 
+Production of the film began, 
+notwithstanding the absence of a written agreement signed by Merkin. 
+After filming concluded, Krakovski gave Merkin a hard drive 
+containing the film’s raw footage 
+so Merkin could prepare an initial edit of the film. 
+At that point, Merkin signed a media agreement 
+under which he could edit the footage but could not license, 
+sell or copy the footage without Casa Duse’s permission.
+
+> Krakovski began submitting *Heads Up* to film festivals, 
+and scheduled a screening at the New York Film Academy (NYFA). 
+He also made a deposit of $1,956.58 at a restaurant 
+for a reception following the screening. 
+On the date of the screening, 
+the NYFA canceled the screening because Merkin’s attorney, 
+Maurice Reichman, had sent it a cease-and-desist notice. 
+Because the event was canceled, Krakovski lost his restaurant deposit.
+
+> Casa Duse sued Merkin and Reichman, seeking a judgment 
+declaring that it was not liable to Merkin for copyright infringement, 
+and that Merkin did not own a copyright interest in the film. 
+The district court granted a temporary restraining order 
+and preliminary injunction enjoining Merkin 
+from interfering with Casa Duse’s use of the film.
+
+> Casa Duse moved for summary judgment on its claims and its requests for fees and sanctions. Merkin cross-moved for summary judgment and asked the district court to vacate the preliminary injunction and strike Casa Duse’s fees and sanctions request. 
+The district court declined to vacate the injunction and granted summary judgment to Casa Duse on all claims, along with fees against Merkin and sanctions against Reichman.
+The district court entered final judgment, awarding Casa Duse (1) $1,956.58 in damages resulting from Merkin’s interference with the NYFA screening event; and (2) $185,579.65 in attorneys’ fees and costs, of which Merkin and Reichman would be jointly and severally liable for $175,634 and Reichman would be solely liable for the remaining $9,945.65. Merkin and Reichman appealed.
+
+> The Second Circuit noted that the case presented a question of first impression in the Circuit: 
+May a contributor to a creative work whose contributions are inseparable from and integrated into the work maintain a copyright interest in his or her contributions alone? 
+The court answered the question in the negative.
+
+> The court first addressed the competing copyright claims. 
+Merkin argued that the district court erred in concluding 
+that he could not copyright his creative contributions to the film, 
+and that he lacked a copyright ownership interest in the "raw film footage." 
+Casa Duse countered that the individual contributions to a film, 
+such as direction, are not themselves subject to copyright protection, 
+and that Casa Duse retained sole copyright ownership of the final film and the film’s raw footage. 
+The parties agreed that Merkin was not a “joint author” or “co-author” of the film under the Copyright Act, and that Merkin’s efforts could not be deemed a “work made for hire,” 
+which would have precluded Merkin’s copyright infringement claims.
+
+> The Second Circuit concluded that copyright protection does not subsist in creative contributions to a work that are inseparable from the work itself. The Copyright Act’s definitional terms and legislative history supported the conclusion that Merkin’s contributions to the film did not themselves constitute a “work of authorship” amenable to copyright protection. Although the Act does not define “works of authorship,” it does list examples of categories of “works of authorship,” which do not include non-freestanding constituent parts of a work. The court also relied upon the Ninth Circuit’s en banc decision in [*Garcia v. Google, Inc.*](https://scholar.google.com/scholar_case?case=11401250652439780302), which held that an actor did not own a copyright interest in her performance in a completed film, because such a theory of copyright law would result in a “legal morass” making “Swiss cheese of copyrights.” According to the Second Circuit, filmmaking is a collaborative process that typically involves artistic contributions from large numbers of people, including producers, directors, screenwriters, actors, designers and cinematographers. Although these various contributors can contribute original artistic expressions that are arguably fixed in the medium of film footage, this alone is not sufficient. Authors are not entitled to copyright protection except for the “works of authorship” they create and fix, which does not include non-freestanding contributions to an integrated work.
+
+> The Second Circuit next considered the parties’ competing copyright claims with respect to the raw film footage. It agreed with the district court that Casa Duse was the “dominant author” of the film, based on Casa Duse’s decision-making authority over production of the film, its purchase of the underlying screenplay, and its work-for-hire agreements with the cast and crew. The record did not reflect any developments that occurred between the creation of the raw film footage and Casa Duse’s attempts to create a finished product that would alter the analysis as to the raw footage. Therefore, Casa Duse, not Merkin, owned the copyright to the finished film and its prior versions.
+
+> Addressing Casa Duse’s claim for tortious interference with business relations under New York law, the Second Circuit disagreed with the district court, concluding that the undisputed material facts required judgment in Merkin’s favor. To support its claim, Casa Duse was required to show that Merkin’s conduct amounted to a crime or an independent tort, or that he engaged in the conduct solely for the purpose of inflicting intentional harm. Casa Duse failed to show that Merkin acted for a wrongful purpose, or used dishonest, unfair or improper means. The Second Circuit also rejected as insufficient Casa Duse’s argument that Merkin acted with a willful blindness to the factual and legal realities of his position.
+
+> Finally, the Second Circuit held that the district court did not err in awarding fees and costs to Casa Duse and imposing sanctions against Reichman.
+
+* [Loeb & Loeb LLP Publication and News](https://www.loeb.com/articles-ipentertainmentcaselawupdates-20150709-16casadusellcvmerkin)
+* [Appeals Court Rules Producer, Not Director, Gets Film Copyright](http://www.hollywoodreporter.com/thr-esq/appeals-court-rules-producer-not-805650), 29 June 2015, by Eriq Gardner
+
 
 ## Digital Sampling and Imaging
 
@@ -790,7 +862,7 @@ and entitled
 explains the difference, for copyright purposes, 
 between musical compositions and sound recordings.
 
-**A musical composition:** consists of music, 
+*A musical composition:* consists of music, 
 including any accompanying words, 
 and is normally registered as a work of the performing arts. 
 The author of a musical composition is generally the composer, 
@@ -803,7 +875,7 @@ Sending a musical composition in the form of a phonorecord
 does not necessarily mean 
 that there is a claim to copyright in the sound recording.
 
-**A sound recording:** results from the fixation of a series of musical, spoken or other sounds. 
+*A sound recording:* results from the fixation of a series of musical, spoken or other sounds. 
 The author of a sound recording 
 is the performer(s) whose performance is fixed, 
 or the record producer who processes the sounds 
@@ -1332,37 +1404,41 @@ no opinion on its applicability to these facts.
 
 ## Future of Sampling
 
-**"If you sample, you must license"** seems to be the rule following *Bridgeport*. But why? Why is this not subject to a simple fair use analysis?
+*"If you sample, you must license"* seems to be the rule following *Bridgeport*. But why? Why is this not subject to a simple fair use analysis?
 
 ### Good Copy Bad Copy
 
-Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](https://www.youtube.com/watch?v=WEKl5I_Q044), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
-
+* Please watch the first 14 minutes of [*GOOD COPY BAD COPY*][goodcopy],
+a documentary about the current state of copyright and culture, 
+featuring Girl Talk, Danger Mouse, and many others.
 * [Why Hasn't The Recording Industry Sued Girl Talk?](https://www.techdirt.com/articles/20090707/0237205466.shtml)
 * [Why The Music Industry Isn’t Suing Mashup Star ‘Girl Talk’](https://gigaom.com/2010/11/16/419-why-the-music-industry-isnt-suing-mashup-star-girl-talk/)
 
-
 ## How To Acquire Music For Films
 
-In general, there are 3 ways music is acquired for a film: (1) the filmmaker licenses music that already exists prior to filming, (2) the filmmaker hires an artist to re-record music for the film (usually used when you can't acquire a license), or (3) an artist or composer is hired to make new music specifically for the film being produced.
+In general, there are 3 ways music is acquired for a film: 
+
+1. the filmmaker licenses music that already exists prior to filming, 
+2. the filmmaker hires an artist to re-record music for the film (usually used when you can't acquire a license), or 
+3. an artist or composer is hired to make new music specifically for the film being produced.
 
 [From ASCAP.com](http://www.ascap.com/music-career/articles-advice/film-tv/how-to-acquire-music-for-films.aspx):
 
-**Frequently Asked Questions For Student and Independent Filmmakers**
+### *Frequently Asked Questions For Student and Independent Filmmakers*
 
-**Q:** What Licenses Must I Get To Use A Song In My Film?
+*Q:* What Licenses Must I Get To Use A Song In My Film?
 
-**A:** If you are using a pre-recorded song or another pre-recorded piece of music in your film, there are two rights you need to clear; that is to say, you need to get two different licenses to use the music.
+*A:* If you are using a pre-recorded song or another pre-recorded piece of music in your film, there are two rights you need to clear; that is to say, you need to get two different licenses to use the music:
 
-- **Synchronization License:** This is the right to synchronize a song or a piece of music with your visual image. It must be obtained from the copyright owner of the music, which is usually the publisher. You can find out who the publisher is by using ASCAP's Clearance Express (ACE) at www.ascap.com/ace. Songs that are not represented by ASCAP might be found at the National Music Publishers' Association "Songfile" website (www.nmpa.org).You will be provided with a contact at the publisher's Business Affairs or Licensing Department.
+- *Synchronization License:* This is the right to synchronize a song or a piece of music with your visual image. It must be obtained from the copyright owner of the music, which is usually the publisher. You can find out who the publisher is by using ASCAP's Clearance Express (ACE) at www.ascap.com/ace. Songs that are not represented by ASCAP might be found at the National Music Publishers' Association "Songfile" website (www.nmpa.org).You will be provided with a contact at the publisher's Business Affairs or Licensing Department.
 
-- **Master Use License:** This is the right to reproduce a specific recording of a song in your film. You clear this right with the record label who owns the specific recording you would like to use; see the liner notes of the recording to find out which company this is. Alternatively, you can get contact information for record labels by calling ASCAP's Film/TV Department. You will be provided with a contact at the record label's Business Affairs Department.
+- *Master Use License:* This is the right to reproduce a specific recording of a song in your film. You clear this right with the record label who owns the specific recording you would like to use; see the liner notes of the recording to find out which company this is. Alternatively, you can get contact information for record labels by calling ASCAP's Film/TV Department. You will be provided with a contact at the record label's Business Affairs Department.
 
-[Note: It's not a bad idea for filmmakers to also secure a **Performance License** and a **Videogram License**, which allows the film containing the song to be broadcast on television and copies of the film to be made and sold. Interestingly, in the United States, no special license is required to show the movie in a movie theater.]
+[Note: It's not a bad idea for filmmakers to also secure a *Performance License* and a *Videogram License*, which allows the film containing the song to be broadcast on television and copies of the film to be made and sold. Interestingly, in the United States, no special license is required to show the movie in a movie theater.]
 
-**Q:** Can I Use These Songs On My Soundtrack Album?
+*Q:* Can I Use These Songs On My Soundtrack Album?
 
-**A:** If you intend to use these songs on a soundtrack album, you will need to negotiate additional soundtrack rights with the publisher and record label as you negotiate the synch and master use rights for your film.
+*A:* If you intend to use these songs on a soundtrack album, you will need to negotiate additional soundtrack rights with the publisher and record label as you negotiate the synch and master use rights for your film.
 
 #### Find Out Who Owns Music Rights
 
@@ -1372,7 +1448,7 @@ In general, there are 3 ways music is acquired for a film: (1) the filmmaker lic
 
 #### Music Licensing Agreements
 
-Once a copyright owner agrees to let a filmmaker license their song for a film, best practice requires drawing up an official licensing contract. This license will usually be nonexclusive, meaning that the owner can allow anyone else they want to use the song as well (exclusive licenses are rarer and, understandably, harder to negotiate). A good licensing agreement will set forward **where the license applies** (the one receiving the license will want this to be broad as possible -- "the world", for example; but it will cost less to license for local use -- say, for a local television ad), all **forms of media** where the song will be used (not just "film", but broadcast, cable, and satellite television, in-flight movies, DVD, etc. -- again, the filmmaker will want this to be as broad as possible), and the **license fee** (for popular songs, a license can run you tens of thousands of dollars, and some copyright owners will want royalties, as well). If the filmmaker will be modifying the song in any way, they will need to include this in the license agreement.
+Once a copyright owner agrees to let a filmmaker license their song for a film, best practice requires drawing up an official licensing contract. This license will usually be nonexclusive, meaning that the owner can allow anyone else they want to use the song as well (exclusive licenses are rarer and, understandably, harder to negotiate). A good licensing agreement will set forward *where the license applies* (the one receiving the license will want this to be broad as possible -- "the world", for example; but it will cost less to license for local use -- say, for a local television ad), all *forms of media* where the song will be used (not just "film", but broadcast, cable, and satellite television, in-flight movies, DVD, etc. -- again, the filmmaker will want this to be as broad as possible), and the *license fee* (for popular songs, a license can run you tens of thousands of dollars, and some copyright owners will want royalties, as well). If the filmmaker will be modifying the song in any way, they will need to include this in the license agreement.
 
 #### Re-recording and Sound-Alike Recordings
 
@@ -1437,7 +1513,7 @@ Mainly how much? $50k, $100k, usually more.
 
 #### Totally Optional Reading & Viewing ###
 
-* [*GOOD COPY BAD COPY*](http://blip.tv/good-copy-bad-copy/good-copy-bad-copy-full-feature-364089), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
+* [*GOOD COPY BAD COPY*][goodcopy], a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
 * [*Copyright Criminals*](http://vimeo.com/9958864), a documentary that examines the creative and commercial value of sampling in music. Featuring Public Enemy, De La Soul, QBert and more.
 * [Are actors employees or independent contractors?](http://www.hollywoodreporter.com/thr-esq/google-warns-muslims-ruling-will-684425) (An actress sues Google to takedown the controversial "Innocence of Muslims" video claiming that she still owns the copyright to her performance.
 * [More on "Innocence of Muslims"](http://www.newyorker.com/online/blogs/elements/2014/03/a-controversial-youtube-video-haunts-free-speech-again.html)
@@ -1469,3 +1545,5 @@ create the songs that top the charts](http://www.theatlantic.com/magazine/archiv
 [201]: http://www.copyright.gov/title17/92chap2.html#201 "Section 201: Ownership of Copyright"
 [beastie]: https://www.youtube.com/watch?v=KARQOgivaGA
 [passman]: http://www.amazon.com/Need-Know-About-Music-Business/dp/1451682468/inscape-20 "Donald Passman, All You Need To Know About The Music Business"
+[goodcopy]: https://www.youtube.com/watch?v=WEKl5I_Q044 "A documentary featuring Girl Talk, Danger Mouse, and many others."
+
