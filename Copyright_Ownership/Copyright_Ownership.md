@@ -1406,6 +1406,62 @@ no opinion on its applicability to these facts.
 
 *"If you sample, you must license"* seems to be the rule following *Bridgeport*. But why? Why is this not subject to a simple fair use analysis?
 
+
+### *VMG Salsoul v. Ciccone*
+
+###### Court of Appeals For The Ninth Circuit (2016)
+
+* [Case on Google Scholar](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=824+F.3d+871&appflag=67.12)
+* [Case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=824+F.3d+871&appflag=67.12)
+
+The Ninth Circuit has explicitly broken with the Sixth Circuit and allowed *de minimis* exceptions to the if-you-sample-you-must-license rule. Excerpts below from, 
+[No Infringement for Trivial Copying of Sound Recording: Ninth Circuit](https://www.westlaw.com/w-002-5454?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), by Practical Law Intellectual Property & Technology.
+
+> On June 2, 2016, in *VMG Salsoul, LLC v. Ciccone*, 
+the US Court of Appeals for the Ninth Circuit held 
+there was no actionable copyright infringement 
+where a brief horn snippet was sampled in a song 
+because any actual copying was *de minimis*. 
+Disagreeing with the US Court of Appeals for the Sixth Circuit, 
+the court reasoned that Congress did not eliminate the *de minimis exception* 
+in 17 U.S.C. § 114(b) for claims alleging infringement of a sound recording.
+
+> In the early 1980s, Shep Pettibone recorded the song *Ooh I Love It (Love Break)*. In 1990, Madonna Louise Ciccone and Pettibone recorded and released the song *Vogue.* VMG Salsoul, LLC (VMG), the owner of the copyright in Love Break, alleged that when recording Vogue, Pettibone sampled a 0.23-second horn segment from Love Break and used a modified version of that snippet in Vogue. VMG claimed that such use separately infringed its copyrights in the:
+
+> - Composition of Love Break.
+> - Sound recording of Love Break.
+
+> On appeal, the Ninth Circuit noted that though it was settled Ninth Circuit law that the *de minimis* exception applies to claims of infringement of a copyrighted composition, the court had not yet established whether the exception applies to the practice of sampling and claims of infringement of a sound recording copyright. The court explained that, under the *de minimis* exception, an unauthorized use of a copyrighted work must be significant enough to constitute infringement.
+
+> Since VMG alleged both types of infringement, the Ninth Circuit considered:
+
+> - Whether the de minimis exception applies to alleged infringement of copyrighted sound recordings.
+> - Whether the alleged copying of the composition and the sound recording was *de minimis*.
+
+> In declining to follow the Sixth Circuit, the only circuit court to previously address the issue, the Ninth Circuit held 
+that Congress did not eliminate the *de minimis* exception 
+in 17 U.S.C. § 114(b) for claims alleging infringement of a sound recording.
+
+> The Sixth Circuit had reasoned in *Bridgeport Music* (2005)), that:
+
+> - A sound recording owner has the exclusive right to sample its work under Section 114(b).
+> - Any use of an identical copy of a portion of a copyrighted fixed sound recording would therefore be an infringement.
+
+> However, the Ninth Circuit's analysis 
+of the statutory text and legislative history 
+found that the statute was intended as a limitation 
+on copyright holders' rights in a sound recording, 
+and did not implicitly expand their rights 
+by eliminating the *de minimis* exception.
+
+> The Ninth Circuit also agreed with the district court that any copying from Love Break was de mimimis and not an infringement of either the copyrighted composition or the sound recording. The court explained that a general audience would not recognize the less-than-a-second snippets used in Vogue as originating from Love Break.
+Finally, on the issue of attorneys' fees, the Ninth Circuit:
+
+> - Reversed the district court's award of attorneys' fees.
+> - Held that it was reasonable for VMG to assert that Congress had eliminated the de minimis exception for sound recordings, since that was the analysis of the only circuit court to have considered the issue at the time. The fact that the Ninth Circuit ultimately disagreed with that conclusion did not warrant awarding attorneys' fees.
+
+[No Infringement for Trivial Copying of Sound Recording: Ninth Circuit](https://www.westlaw.com/w-002-5454?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), by Practical Law Intellectual Property & Technology
+
 ### Good Copy Bad Copy
 
 * Please watch the first 14 minutes of [*GOOD COPY BAD COPY*][goodcopy],
