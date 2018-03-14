@@ -29,7 +29,7 @@ That means you have a deal,
 and 99% of the time you DO have a deal. 
 The written parts of that deal might not come for months. 
 But eventually people in business affairs 
-cut, cull and paste those original messages into deal memos 
+cut, cull, and paste those original messages into deal memos 
 and letter agreements and proposed contract drafts that often say:
 
 > These contract terms are void and unenforceable 

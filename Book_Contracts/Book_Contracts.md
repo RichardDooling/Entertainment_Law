@@ -88,7 +88,7 @@ than an author could get from a lawyer with or without publishing experience.
 ### Lawyers & Book Contracts
 
 Most agents will insist 
-that the authors they represent do NOT need lawyers to review book contracts. 
+that the authors they represent do *not* need lawyers to review book contracts. 
 They are probably right. 
 And every agent can tell the tale of a lawyer 
 who got in the way of making a great book deal 
@@ -143,7 +143,7 @@ a short summary follows.
     * Literary agents who have placed work with established American publishers.
     * Attorneys and accountants who represent authors.
 
-Dues: First year dues are $90. (After the first year, dues are charged on a sliding scale, depending on your writing income. Most members continue to pay $90.)  [Application Form](https://www.authorsguild.net/services/join/).
+Dues: First year dues are $125. (After the first year, dues are charged on a sliding scale, depending on your writing income. Most members continue to pay $125.)  [Application Form](https://www.authorsguild.net/services/join/).
 
 #### Contract Reviews
 
@@ -265,7 +265,7 @@ An option clause potentially binds the author to the publisher,
 even if the relationship has been unsatisfactory.
 What if the author's editor leaves? What if the author gets a more attractive offer from another publisher?
 
-The clause typically contains some or all of the terms you MUST accept for the optioned work.
+The clause typically contains some or all of the terms you must accept for the optioned work.
 Even “first refusal” clauses and “agreements to agree” impede the author's freedom.
 
 Some publishers will simply delete this provision, but if they won't, consider trying to ask for an editor's clause instead. 
@@ -285,7 +285,7 @@ If the publisher requires the Author to wait until publication, then it allows t
 
 ### Copyright ###
 
-The publisher must agree to register the copyright **in the author's name** within three months of initial publication.
+The publisher must agree to register the copyright *in the author's name* within three months of initial publication.
 
 Current copyright law does not require authors to formally register their copyright in order to secure copyright protection. Copyright automatically arises in written works created in or after 1978. However, registration with the Copyright Office is a pre-requisite to infringement lawsuits and important benefits accrue when a work is registered within three months of initial publication.
 
@@ -361,11 +361,11 @@ An author represented by an agent or a good lawyer won't have to worry because t
 
 Generally all rights should be reserved to the author and her agents, except those traditionally granted to the publisher, which usually include print-related sub rights like book club and paperback reprint editions, publication of selections, condensations or abridgments in anthologies and textbooks, and first and second serial rights (i.e., publication in newspapers or magazines either before or after publication of the hardcover book).
 
-Usually the author does NOT want to grant NON-PRINT-RELATED sub rights to any publisher unless the publisher is specially qualified to license them. Non-print-related rights include motion picture, television, stage, audio, animation, merchandising, and electronic rights.
+Usually the author does *not* want to grant non-print-related sub rights to any publisher unless the publisher is specially qualified to license them. Non-print-related rights include motion picture, television, stage, audio, animation, merchandising, and electronic rights.
 
 Subsidiary rights are usually licensed to third parties and then the publisher will share licensing fees with the author in specified ratios, normally set forth in a table contained in the sub rights section of the contract. 
 
-> Beware of any overly inclusive language, such as **"in any format now known or hereafter developed,"** used to describe the scope of the subsidiary rights granted.
+> Beware of any overly inclusive language, such as *"in any format now known or hereafter developed,"* used to describe the scope of the subsidiary rights granted.
 
 > Make sure you are fairly compensated for any subsidiary rights granted. Reputable publishers will pay you at least 50% of the proceeds earned from licensing certain categories of rights, much higher for others.
 
@@ -395,7 +395,7 @@ A big difference, because the commission essentially doubles. The publisher take
 
 Obviously e-book rights are becoming as important as, if not more important than, traditional print rights. Also, the definition of an "e-book" is subject to change as publishers experiment with so-called "enhanced books," books featuring audio, animation, artwork, and the like.
 
-The author and her reps need to be certain that the definition of e-book rights includes a "text verbatim only" clause and explicity does NOT include interactive or multimedia rights. Such rights conflict with the dramatic and motion picture rights.
+The author and her reps need to be certain that the definition of e-book rights includes a "text verbatim only" clause and explicitly does *not* include interactive or multimedia rights. Such rights conflict with the dramatic and motion picture rights.
 
 As noted under the termination provisions above, the contract should include a clause calling for a minimum number of sales or a dollar amount of royalties that must be generated for the book to still be considered "in print" under the contract. 
 
@@ -423,7 +423,7 @@ On May 15, 1980, Pendleton signed with Harlequin.
 
 Pinnacle sued Harlequin and sought an injunction and damages against Harlequin for unlawful interference with the contractual relationship between Pinnacle and Don Pendleton (its most successful author).
 
-Now, for Pinnacle to succeed for unlawful interference with a contract, Pinnacle had to prove up a VALID contract. Pinnacle argued that it had an agreement with Pendleton that he would use **best efforts** to agree on new contract terms.
+Now, for Pinnacle to succeed for unlawful interference with a contract, Pinnacle had to prove up a valid contract. Pinnacle argued that it had an agreement with Pendleton that he would use **best efforts** to agree on new contract terms.
 
 Indeed if Pendleton had not negotiated at all, perhaps Pinnacle would have a good argument, but how is the court supposed to enforce a contract provision that says the parties must use their **best efforts?**
 
@@ -447,9 +447,9 @@ A typical option clause looks like this:
 
 *See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at paragraph 19.
 
-As the Authors Guild puts it: These clauses favor PUBLISHERS ONLY, not authors. An option clause gives your publisher the PRIVILEGE to publish your next book (but only if they want to).
+As the Authors Guild puts it: These clauses favor publishers only, not authors. An option clause gives your publisher the privilege to publish your next book (but only if they want to).
 
-An book contract option clause binds the author to the publisher, even if the relationship has been unsatisfactory. The clause usually contains some or all of the terms you MUST accept for the optioned work.  Even “first refusal” clauses and “agreements to agree” impede the author’s freedom.  Some publishers will simply delete option clauses. Consider asking for an editor’s clause instead?
+An book contract option clause binds the author to the publisher, even if the relationship has been unsatisfactory. The clause usually contains some or all of the terms you must accept for the optioned work.  Even “first refusal” clauses and “agreements to agree” impede the author’s freedom.  Some publishers will simply delete option clauses. Consider asking for an editor’s clause instead?
 
 What if your editor leaves? What if you get a better deal elsewhere? You may not want a provision hanging over your head that you MUST show your next book to your current publisher first. 
 
