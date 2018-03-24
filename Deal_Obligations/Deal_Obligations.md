@@ -40,14 +40,14 @@ Has a party breached the contract?
 
 When contracts deal with "fuzzy" obligations 
 like creative control or "moral behavior" 
-or satisfactory work product 
+or "satisfactory work product,"
 the language is often vague and speculative. 
 If called upon to interpret such language,
 courts often look to the course of performance
 between the parties under contract and 
 industry customs and usage. 
 How have the parties dealt with each other in the past? 
-Yes, but also how the industry as a whole deal with these matters.
+Yes, but also how have the entertainment and publishing industries dealt with these matters since time immemorial?
 
 As the Restatement of Contracts 2nd puts in section 202 
 "Rules in Aid of Interpretation":
@@ -92,8 +92,8 @@ directed by Ang Lee and starring Heath Ledger and Jake Gyllenhaal.
 Other stars, 
 like Randy Quaid, 
 agreed to star in the film, accepted low salaries, 
-and secured no share of movie profits, 
-because the producers told these minor players that *Brokeback* 
+and secured no share of movie profits. 
+The producers told these minor players that *Brokeback* 
 would be a small, arthouse movie. 
 When *Brokeback* was a box office hit, 
 Quaid sued, later withdrawing and possibly settling, 

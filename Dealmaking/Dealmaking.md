@@ -25,8 +25,8 @@ handshakes, napkin and iPad agreements.
 They haggle via texts and tweets and emails, 
 until somebody says the magic words "we are closed," 
 after which everybody makes friendly noises. 
-That means you have a deal, 
-and 99% of the time you DO have a deal. 
+That means they have a deal, 
+and 99% of the time they *do* have a deal. 
 The written parts of that deal might not come for months. 
 But eventually people in business affairs 
 cut, cull, and paste those original messages into deal memos 
@@ -85,7 +85,7 @@ after some indefinite length of time?
 Did they "agree to agree" only after some uncertain event? 
 For example, "Yes, we agreed to make this deal, 
 but only if Spielberg directs and Daniel Craig plays the hero." 
-Is this a deal? Or just a deal to make a deal IF---? 
+Is this a deal? Or just a deal to make a deal *if*---? 
 
 Rarely the dispute ends in litigation. 
 If it actually goes to trial, 
@@ -324,7 +324,7 @@ judgment was entered against Basinger and/or Mighty Wind.
 * Did your client make a deal? 
 * Did she just discuss terms? 
 * Did he agree on some terms but not on others? 
-* Did your client agree to pay a writer to do a screenplay for me, but never settled on WHEN the writer would do it? 
+* Did your client agree to pay a writer to do a screenplay for me, but never settled on *when* the writer would do it? 
 * Did your client promise to act in a music video next Wednesday, but never settled on for how much? 
 * And now she has a chance to be in the next *Hunger Games* and wants out?
 
@@ -349,7 +349,7 @@ At a minimum, oral and written contracts must usually answer the following quest
 
 Contracts may be oral or written, implied or explicit. 
 For centuries, the common law had required 
-that some contracts MUST BE in writing, 
+that some contracts *must be* in writing, 
 or courts will not enforce them. 
 
 * Contracts for the sale of land;
@@ -360,10 +360,10 @@ or courts will not enforce them.
 
 In the entertainment business, 
 the most common statute of frauds issue arises 
-when an artist promises to perform services for MORE THAN ONE YEAR. 
+when an artist promises to perform services for more than one year. 
 Usually such contracts must be in writing, 
 or courts will not enforce them. 
-But what about contracts that COULD last more than a year? 
+But what about contracts that *could* last more than a year? 
 Must those contracts be in writing? 
 In general, contracts of indefinite duration 
 don't require a writing no matter how long they may take.
@@ -548,7 +548,7 @@ in the real world the agreement was with her,
 and we find that she had 
 unequivocally and intentionally 
 committed herself to appear in the production 
-long before day on which it was intended 
+long before the day on which it was intended 
 that the finalized agreement with her corporation would be signed.
 
 First, 
@@ -640,14 +640,14 @@ The eternal ambiguity. The parties shake hands (or trade emails) and say:
 
 > "Hooray! We have a deal." 
 
-Do they mean: We have a deal NOW? 
-Or do they mean we WILL have a deal, once we sign contracts?
+Do they mean: We have a deal *now*? 
+Or do they mean we *will* have a deal, once we sign contracts?
 
 ### *Gold Seal v. RKO* 
 
 ###### District Court of Appeal California (1955)
 
-* [Case on Westlaw*][goldseal] 286 P.2d 954 (Cal.Ct.App.2d 1955)(17 pages);
+* [Case on Westlaw][goldseal] 286 P.2d 954 (Cal.Ct.App.2d 1955)(17 pages);
 
 An oldie but a goodie. 
 
@@ -684,7 +684,7 @@ RKO's legal department sent a deal memo to Skirball
 outlining the terms of the agreement. 
 A draft of the contract was then submitted to Skirball's attorney 
 with a letter that stated 
-**any enforceable agreement would be subject to the execution of a written contract.**
+*any enforceable agreement would be subject to the execution of a written contract.*
 
 On May 24th, Skirball met with an RKO attorney 
 and told him that the deal was satisfactory. 
@@ -703,13 +703,13 @@ but was unable to because RKO's advertisements,
 followed by their canceling the deal, 
 made other studios and directors leery of getting involved with an iffy deal.
 
-Skirball sued RKO for breach of their ORAL CONTRACT. 
+Skirball sued RKO for breach of their oral contract. 
 The trial court entered judgment for Skirball to the tune of $397,486.
 
 On appeal, RKO argued that the alleged agreement of May 16th 
 left many important terms open 
 and also that the parties had explicitly said 
-that they did not intend to be bound until they each signed a **written contract.** 
+that they did not intend to be bound until they each signed a *written contract.* 
 Unsettled terms included: The starting date, the budget, the director, and principal cast, and minor script revisions.
 
 RKO argued that the words "we have a deal" were ambiguous:
@@ -829,8 +829,8 @@ person.
 In the 21 months immediately following the execution of the recording
 agreement, The Ohio Players recorded four single records and two albums
 for Westbound. They were successfully distributed on a national basis,
-and one of the records, FUNKY WORM, was the recipient of a gold record,
-which in the record industry symbolizes sales in excess of \$1,000,000.
+and one of the records, *Funky Worm*, was the recipient of a gold record,
+which in the record industry symbolizes sales in excess of $1,000,000.
 During the months these recordings were being made, Westbound advanced
 \$59,390 for costs of recording sessions for The Ohio Players, artwork,
 travel expenses, and recording session wages paid to The Ohio Players.
@@ -1092,10 +1092,10 @@ Order vacated and cause remanded.
 #### Notes on *Bonner v. Westbound Records*
 
 * Ohio Players (OP) enter into a recording agreement with Westbound Records in 1972.
-* Contract requires OP to make records ONLY for Westbound for a 5-year period. 
+* Contract requires OP to make records *only* for Westbound for a 5-year period. 
 * In 1974 (two years later) OP signs a new deal to record exclusively for Phonogram.
 
-What is the consideration offered by Westbound? THERE ISN’T ANY. The contract is silent as to consideration.
+What is the consideration offered by Westbound? There isn't any. The contract is silent as to consideration.
 
 OP seeks a declaratory judgment.
 
@@ -1237,7 +1237,7 @@ In the movie biz, it works this way. A producer or a studio thinks that your nov
 
 Budgets for feature films average $70 million these days. Therefore if the producer were to buy the movie rights to your novel outright, she should pay roughly $1.5 to $2 million (1-3% of $70 million)(which leaves another 2% to pay the screenwriter). Nobody wants to spend that kind of money only to find out that a movie can't be made. And movies don't get made for many reasons: because they've paid three different screenwriters and still can't get a script they like, or they can't make deals with enough A-list talent, or dozens of other reasons from insurance to tax credits. The slip between cup and lip in Hollywood is a mile wide. Most projects don't get made.
 
-So instead of buying the rights outright and risking the full purchase price for the rights to your novel, the producer *rents* the rights. She buys the OPTION to purchase the movie rights to your novel, for a fixed time period, probably with an option to renew. How does that work?
+So instead of buying the rights outright and risking the full purchase price for the rights to your novel, the producer *rents* the rights. She buys the *option* OPTION to purchase the movie rights to your novel, for a fixed time period, probably with an option to renew. How does that work?
 
 #### Three  Essential Terms of any Option Agreement 
 
@@ -1255,7 +1255,7 @@ Usually measured in months, this is called the "Option Period." During this peri
 
 ##### 2. The Option Payment
 
-How much is the producer or studio willing to pay for the right to buy those rights? This is the option payment (the "small money," or "the rent"). It goes something like this: I will pay you $20,000 for the right to buy the movie rights to your novel for 18 months. If I decide to make the movie during those 18 months, the full purchase price will be $700,000 (minus the $20,000 I already paid). If I don't buy the rights; after 18 months go by, the option EXPIRES. You keep the option payment, and you are free to sell the movie rights to your novel to any willing buyer, or option them again.
+How much is the producer or studio willing to pay for the right to buy those rights? This is the option payment (the "small money," or "the rent"). It goes something like this: I will pay you $20,000 for the right to buy the movie rights to your novel for 18 months. If I decide to make the movie during those 18 months, the full purchase price will be $700,000 (minus the $20,000 I already paid). If I don't buy the rights; after 18 months go by, the option expires. You keep the option payment, and you are free to sell the movie rights to your novel to any willing buyer, or option them again.
 
 The option payment varies greatly (depending if you are J.K. Rowling or a minor Midwestern novelist). The rule of thumb is that the option payment should be in the neighborhood of 10% of purchase price.
 
