@@ -11,7 +11,7 @@ chapter: Deal Obligations
 
 ## Deal Obligations
 
-###### Entertainment Contract Obligations ######
+###### Entertainment Contract Obligations 
 
 Here we examine contract obligations, 
 especially in the publishing and film industries, 
@@ -22,7 +22,7 @@ Instead of asking: Did the parties make a deal?
 In the materials collected here we ask: 
 Has a party breached the contract? 
 
-##  Contract Obligations ##
+##  Contract Obligations 
 
 - For Rights
 - For Talent 
@@ -36,7 +36,7 @@ Has a party breached the contract?
 - What is is “best promotional efforts”?
 - How to calculate “net profits” or royalties?
 
-### Performer/Author Obligations ###
+### Performer/Author Obligations 
 
 When contracts deal with "fuzzy" obligations 
 like creative control or "moral behavior" 
@@ -121,7 +121,7 @@ Moviemaking is an uncertain business to say the least,
 where most projects don't earn back the money the studios spend on them. 
 And a few mega hits pay the freight for many other failures.
 
-### Interpretation of Ambiguous Terms ###
+### Interpretation of Ambiguous Terms 
 
 All else being equal, 
 courts will favor the non-drafting party’s 
@@ -129,7 +129,7 @@ interpretation of disputed contract provisions because:
 
 * Drafter is more likely to protect himself;
 * Drafter is more likely to know the term is vague or ambiguous;
-* Drafter may have deliberately been used obscure language (so she could decide at a later, more opportune time on the meaning of the term).
+* Drafter may have deliberately used obscure language (so she could decide at a later, more opportune time on the meaning of the term).
 
 We have seen the possible advantages of having unsettled contract terms,
 especially about something difficult to define, 
@@ -443,7 +443,7 @@ the writer is expected to politely push back
 and offer her own ideas 
 and then the collaborators compromise. 
 
-### Morals Clauses ###
+### Morals Clauses 
 
 > A morals clause is a provision in a contract or official document 
 > that prohibits certain behavior in a person's private life. 
@@ -481,7 +481,7 @@ What about unpopular political positions?
 During the ["Red Scare" of the 1950s](https://en.wikipedia.org/wiki/Red_Scare), when Congressional Committees investigated the motion picture industry for evidence that it had been infiltrated by Communists,
 Hollywood screenwriters and actors were "blacklisted" and prohibited from belonging to the Hollywood guilds and being paid by studios from practicing their craft. 
 
-This movie looks promising and tells the story of 
+In 2015, Bryan Cranston starred in *Trumbo*, a movie about 
 [Dalton Trumbo](https://en.wikipedia.org/wiki/Dalton_Trumbo), 
 a Hollywood screenwriter, blacklisted during the 1950s: 
 [Bryan Cranston Goes From Drug Lord to Communist in Blacklist Saga 'Trumbo': "A Socialist, But He Loved Being Rich"](http://www.hollywoodreporter.com/features/bryan-cranston-plays-communist-trumbo-819228)
@@ -596,7 +596,16 @@ before settling on the suspension.
 
 NBC declined to comment, and Barnett didn’t get back to us.
 
-## Studio-Publisher Obligations ##
+#### #MeToo Hits Movie Deals
+
+Sex abuse insurance? It could happen. 
+Broad language allowing stars and distributors to be dropped if accused of misconduct 
+is beginning to be included in negotiations 
+in the wake of the Harvey Weinstein and Kevin Spacey situations.
+
+[Studios Race to Add 'Morality Clauses' to Contracts](https://www.hollywoodreporter.com/news/metoo-hits-movie-deals-studios-race-add-morality-clauses-contracts-1082563)
+
+## Studio-Publisher Obligations 
 
 ### Satisfactory Work Product & The Recording Industry
 
