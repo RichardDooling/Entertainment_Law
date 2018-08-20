@@ -75,7 +75,7 @@ The entertainment industry also thrives on collaboration. Many different compani
 
 Finally, the economics and indeed the international economics of the industry quickly lead to complicated deals where everybody at the table has specialized legal needs. A lawyerless artist dealing with sharkish producers and media companies will quickly learn the old adage about the [patsy at the poker table][patsy] the hard way: "If after ten minutes at the poker table you do not know who the patsy is--you are the patsy." 
 
-* [Study: Global Media Industry Poised to Top $2 Trillion in 2016](http://www.hollywoodreporter.com/news/study-global-media-industry-poised-562694) describing the most recent [PriceWaterhouseCooper’s 2013 Entertainment Report](http://www.hollywoodreporter.com/sites/default/files/custom/Documents/PWC_chart_rev21012x5711px.pdf). 
+[Price Waterhouse Coopers' US edition: Global Entertainment & Media Outlook 2018-2022](https://www.pwc.com/us/en/industries/entertainment-media/publications/global-entertainment-media-outlook.html)
 
 Some bad reasons for becoming an entertainment lawyer are because you want to hang out with celebrities. Sure entertainment lawyers typically love the arts and admire their clients, but at bottom they work long and hard for their clients, and the limelight is just a distraction.
 
@@ -172,7 +172,8 @@ they may be represented by one or more of the following.
 * A [talent agent](http://en.wikipedia.org/wiki/Talent_agent) or [literary agent](http://en.wikipedia.org/wiki/Literary_agent) - a person or company who finds work, field offers of employment, supports and promotes the interests of their clients. A finder and maker of deals. Notable examples: [Creative Artists Agency (CAA)](http://en.wikipedia.org/wiki/Creative_Artists_Agency), [William Morris Endeavor (WME)](http://en.wikipedia.org/wiki/William_Morris_Endeavor), and [Paradigm](http://en.wikipedia.org/wiki/Paradigm_Talent_Agency).
 * A [talent manager](http://en.wikipedia.org/wiki/Talent_manager) - a person or company who guides the professional career of artists in the entertainment industry. Notable examples: [Brillstein Entertainment Partners](http://en.wikipedia.org/wiki/Brillstein_Entertainment_Partners), [Untitled Entertainment](http://en.wikipedia.org/wiki/Guy_Oseary#Untitled_Entertainment), and [Anonymous Content](http://en.wikipedia.org/wiki/Steve_Golin#Anonymous_Content).
 * A business manager (typically manages the talent's money).
-* An [entertainment lawyer](http://en.wikipedia.org/wiki/Entertainment_law). For notable examples see [The Hollywood Reporter's Power Lawyers 2014: The Talent Lawyers](http://www.hollywoodreporter.com/gallery/photos-power-lawyers-2014-talent-699831).
+* An [entertainment lawyer](http://en.wikipedia.org/wiki/Entertainment_law). For notable examples see
+[The Hollywood Reporter's Power Lawyers 2018: he Talent Lawyers](https://www.hollywoodreporter.com/lists/power-lawyers-2018-hollywoods-top-100-attorneys-1097287/item/karl-austen-power-lawyers-2018-1097283)
 * A [talent guild](http://en.wikipedia.org/wiki/Guild#North_America). Notable examples: [The Writers Guild Of America](http://www.wga.org), [The Screen Actors Guild of America](http://www.sag.org), and [The Directors Guild of America](http://www.dga.org). 
 
 Each of these representatives will have oral or written contracts with the talent. They are agents and fiduciaries to their clients. If all goes well they do deals on behalf of their clients and are usually paid commissions for their work. Agents, managers, and even entertainment lawyers don't make money unless their clients do, meaning everybody is in the talent-spotting business, because the talent lays the golden eggs of rights and personal services. 

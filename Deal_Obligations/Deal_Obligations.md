@@ -443,7 +443,7 @@ the writer is expected to politely push back
 and offer her own ideas 
 and then the collaborators compromise. 
 
-### Morals Clauses 
+## Morals Clauses 
 
 > A morals clause is a provision in a contract or official document 
 > that prohibits certain behavior in a person's private life. 
@@ -1521,9 +1521,9 @@ Full O'Nuts Corp.,* (1st Dep't
 for example, where payment to an advertiser was contingent upon the
 client's "satisfaction" with the completed promotional campaign, the
 court implied a requirement that the client terminate its arrangement
-only if motivated by "\`an honest dissatisfaction with the
-performance.'" [292 N.Y.S.2d at 62](http://scholar.google.com/scholar_case?case=2999253369158533514)
-(*quoting* 3A A. Corbin, *Contracts* § 647 at 104 (2d ed. 1960)).
+only if motivated by "'an honest dissatisfaction with the
+performance.'" 
+[292 N.Y.S.2d at 62](http://scholar.google.com/scholar_case?case=2999253369158533514).
 
 This principle — that a contract containing a "satisfaction clause" may
 be terminated only as a result of honest dissatisfaction — would seem
@@ -1669,7 +1669,7 @@ Held:  No.  Judgment reversed in part.
 Curtis never defended by arguing that his book is publishable as is, 
 rather he is arguing that Doubleday has a duty to perform skillful editing. 
 Never mind an implied obligation to edit, 
-Curtis seems to be arguing for an implied obligation to SKILLFULLY edit.
+Curtis seems to be arguing for an implied obligation to *skillfully* edit.
 
 The Second Circuit Court of Appeals held 
 that a publishing house need provide ONLY good faith editing, 
@@ -1679,7 +1679,7 @@ Curtis argues that this case is like the *Goldwater* case. But the court says
 not quite. In those cases the editors didn’t respond. 
 Here Zackheim offered to help. Curtiss was insulted. And then sued.
 
-Curtiss says that the REAL reason is the impending NAL pull out. 
+Curtiss says that the *real* reason is the impending NAL pull out. 
 Doubleday is selling the rights to the paperback.
 
 What about publisher obligations to market and promote an author's book? That's yet another case.

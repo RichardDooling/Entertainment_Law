@@ -281,6 +281,7 @@ If the author and her representatives cannot get rid of the clause, limit it:
 
 If the publisher requires the Author to wait until publication, then it allows them to assess the success of the first Work, and also ties up the Author before he can submit elsewhere. 
 
+* [Option Clauses Shouldn't Hold Authors Hostage](https://www.authorsguild.org/industry-advocacy/option-clauses-shouldnt-hold-authors-hostage/)
 * [Authors Guild: Improving Your Book Contract][improving]
 
 ### Copyright ###

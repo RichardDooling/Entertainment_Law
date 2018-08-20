@@ -61,10 +61,10 @@ Here are some links to sample life story rights agreements and templates:
 
 If an agreement can't be had, 
 storytellers and filmmakers may proceed, 
-but often the script or the nonfiction book 
-will be annotated. 
-All factual statements about living people and historical events, 
-will be annotated with sources. 
+but often lawyers for the producers or the studio will 
+ask the filmmakers to ``annotate'' the script and provide support for all factual references.
+All factual statements about living people and historical events 
+should be annotated with sources. 
 
 The next case introduces us to what happens when there's no "life story rights" agreement.
 In *Matthews v. Wozencraft*, the Fifth Circuit Court of Appeals,

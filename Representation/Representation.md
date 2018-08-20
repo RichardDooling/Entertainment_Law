@@ -117,7 +117,7 @@ the contract terms become more complex.
 The international rights issues are more arcane and complex. 
 Once Hollywood begins optioning an author's books, 
 the author probably would do well 
-at least meet with a few entertainment lawyers.
+to meet with a few entertainment lawyers.
 Hollywood deals involve multiple agents, managers, and lawyers 
 (film, literary, music) all get involved. 
 It's no place to be wandering around without a good lawyer 
@@ -1471,7 +1471,7 @@ Show* and screen credit they received as well.
 Manager Robert Wachs sued the Labor Commissioner and made the following arguments that the Talent Agencies Act (TAA) is unconstitutional:
 
 * The California legislature has "no rational basis" for exempting the recording industry from the provisions of the TAA. 
-* The TAA is unconstitutionally VAGUE. How does a manager know when he or she is *procuring* employment?
+* The TAA is unconstitutionally *vague*. How does a manager know when he or she is *procuring* employment?
 
 The court ruled in favor of Arsenio. 
 The court said that the provision 
@@ -1490,8 +1490,8 @@ may be made reasonably certain by reference to other definable sources. The Tale
 
 RULE: If the agent's employment procurement function constitutes a significant part
 of the agent's business as a whole, *then he/she is subject to the
-licensing requirement of the Act, EVEN IF procurement of employment was
-ONLY an incidental part of the agent's overall duties*
+licensing requirement of the Act, even if procurement of employment was
+only an incidental part of the agent's overall duties*
 
 Effect of *Wachs v. Curry*:
 
@@ -1500,7 +1500,6 @@ Effect of *Wachs v. Curry*:
 
 But as *Marathon* indicates prong two is no longer the law in California. Managers can get in trouble by soliciting or procuring employment for the clients, even if those activities constitute but a small portion of their overall business. All *Marathon* allows is the possibility of severance, i.e., that the court will allow the manager to charge for "legal" portions of the representation provided and sever the illegal ones.
 
-- [California's Talent Agencies Act: Don't Procure Employment Without A License](http://www.agentassociation.com/frontdoor/news_detail.cfm?id=306) 
 * For more information, see: [How to obtain a California Talent Agency License](http://www.dir.ca.gov/dlse/talent_agency_license.html).
 
 ### Music Industry Exception
@@ -1509,7 +1508,7 @@ Notice that California's regulation of agents contains an exception under the TA
 
 > . . . except that the activities of procuring, offering, or promising to procure recording contracts for an artist or artists shall not of itself subject a person or corporation to regulation and licensing under this chapter.
 
-Meaning the TAA prohibits managers from procuring, offering, or promising employment for their clients, EXCEPT for managers in the music business. This was a good portion of Manager Wachs argument, i.e., that this exemption for managers in the music business made no sense.
+Meaning the TAA prohibits managers from procuring, offering, or promising employment for their clients, except for managers in the music business. This was a good portion of Manager Wachs argument, i.e., that this exemption for managers in the music business made no sense.
 
 But the *Wachs* court explained the music-manager exception this way:
 

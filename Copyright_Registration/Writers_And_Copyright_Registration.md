@@ -27,8 +27,27 @@ If you need legal advice, *get a lawyer!* Please.
 
 Richard Dooling
 
+<!-- 18-Apr-2018 Redo this whole thing beginning with the difference between authors and owners and writers as workers for hire. -->
 
 ## Why Register the Copyright?
+
+Copyright protection attaches as soon as "original works of authorship" are ["fixed in any tangible medium of expression."](http://www.copyright.gov/title17/92chap1.html#102). Authors and writers 
+
+> You do not. There was a time when registration made a difference in whether a work was protected by US copyright, but current law is explicit that ["registration is not a condition of copyright protection."](http://www.copyright.gov/title17/92chap4.html#408). 
+
+In other words, your words are copyrighted as you write them down, whether they're in a notebook, a Microsoft Word file, a blog post, a forum posting, or even a Facebook comment. 
+
+### Copyright Statutory Damages
+
+> Normally, when someone infringes your copyright, you’re entitled only to “actual damages” and “profits of the infringer that are attributable to the infringement” [17 USC §504(b)](
+http://www.copyright.gov/title17/92chap5.html#504). This can be a burden that makes pursuing a legal remedy not worthwhile: How do you prove the profits that some random web site made from publishing your story without permission? And how do you prove what sales you might have lost because of the web site’s unauthorized publication of your story? Since the US operates under the "American Rule" where each party pays their own lawyers, you might not even be able to afford to pay a lawyer to stop the infringing activity.
+
+> But with timely registration, you get the option of electing statutory damages instead. [17 USC §504(c)](http://www.copyright.gov/title17/92chap5.html#504). This can be between $750 to $30,000 per work (and up to $150,000 per work if the infringement was willful). Plus, you may get attorney’s fees and costs at the court’s discretion, making it more likely that you can retain a lawyer on a contingency fee basis. [17 USC §505](http://www.copyright.gov/title17/92chap5.html#505). With these benefits, it may well make sense to pursue cases that otherwise you would not.
+
+> Ken Liu, [The Benefits Of Copyright Registration](http://www.sfwa.org/2013/02/the-benefits-of-copyright-registration/).
+
+
+
 
 ### The Book Business
 
@@ -56,37 +75,21 @@ And in the case of the "high concept" thriller?
 (You don't understand, this isn't just zombies, 
 it's *alien* zombies, with chainsaws for hands!) 
 The fear is that the idea will be stolen.
-It never fails to remind me 
+This fear never fails to remind me 
 of computing pioneer Howard Aiken's taunt to industry noobs: 
 
 > Don't worry about people stealing your idea. 
 If your idea is any good you'll have to ram it down their throats. 
 
-Publishing insiders slipping a loose galley of the latest Stephen King novel
-to a production company or a studio might be a problem, 
+If a publishing insider slips a manuscript copy of the latest Stephen King novel
+to a production company or a studio that might be a big legal problem, 
 but an unpublished first novel is probably safe. 
 If the author or her agent are concerned about infringement, 
 copyrighting a manuscript is simple and costs only $35.00. 
 It's easy to go ahead and do it, 
 if it makes an anxious author sleep easier.
+But most publishing people don't bother.
 
-Lawyer and programmer, [Ken Liu](http://kenliu.name/), 
-has a great explanation at the Science Fiction and Fantasty Writers of America site.
-
-> Do I have to register to get copyright protection?
-
-> You do not. There was a time when registration made a difference in whether a work was protected by US copyright, but current law is explicit that ["registration is not a condition of copyright protection."](http://www.copyright.gov/title17/92chap4.html#408). 
-
-Copyright attaches as soon as "original works of authorship" are ["fixed in any tangible medium of expression."](http://www.copyright.gov/title17/92chap1.html#102) In other words, your words are copyrighted as you write them down, whether they're in a notebook, a Microsoft Word file, a blog post, a forum posting, or even a Facebook comment. 
-
-### Copyright Statutory Damages
-
-> Normally, when someone infringes your copyright, you’re entitled only to “actual damages” and “profits of the infringer that are attributable to the infringement” [17 USC §504(b)](
-http://www.copyright.gov/title17/92chap5.html#504). This can be a burden that makes pursuing a legal remedy not worthwhile: How do you prove the profits that some random web site made from publishing your story without permission? And how do you prove what sales you might have lost because of the web site’s unauthorized publication of your story? Since the US operates under the "American Rule" where each party pays their own lawyers, you might not even be able to afford to pay a lawyer to stop the infringing activity.
-
-> But with timely registration, you get the option of electing statutory damages instead. [17 USC §504(c)](http://www.copyright.gov/title17/92chap5.html#504). This can be between $750 to $30,000 per work (and up to $150,000 per work if the infringement was willful). Plus, you may get attorney’s fees and costs at the court’s discretion, making it more likely that you can retain a lawyer on a contingency fee basis. [17 USC §505](http://www.copyright.gov/title17/92chap5.html#505). With these benefits, it may well make sense to pursue cases that otherwise you would not.
-
-> Ken Liu, [The Benefits Of Copyright Registration](http://www.sfwa.org/2013/02/the-benefits-of-copyright-registration/).
 
 So much for the publishing world. 
 Authors probably don't need to register their manuscripts before submission, 
@@ -139,13 +142,13 @@ the writers' efforts often come to naught.
 Selling a spec screenplay is like sailing the Atlantic in a bathtub. 
 It happens, but the odds of success are slim,
 especially if the screenwriter 
-is mailing it in to an agent or producer she's never met. 
+is mailing the script to an agent or producer she's never met. 
 
 Meanwhile, if the screenwriter 
 just registers the script with the Writers Guild,
 the screenplay may be time-and-date stamped courtesy of the WGA, 
 but under the copyright laws the work is in a vulnerable state: 
-It is an unpublished and usually unregistered work.
+It is an unpublished and unregistered work.
 
 Several years ago, [Larry Zerner](http://www.zernerlaw.com/about-the-firm), a Los Angeles, entertainment lawyer who specializes in copyright law, warned screenwriters and 
 other artists about not registering their works. 
@@ -173,12 +176,19 @@ For copyrights in spec screenplays, then, three dates are crucial:
 2. The date of publication of the work; 
 3. The date infringement commenced.
 
-We'll see that for spec screenwriters Section 412(1) of the U.S. Copyright Act 
+The writer of a spec screenplay usually does not "publish" the screenplay 
+or offer it for sale or distribution to the public. 
+
+Section 412(1) of the U.S. Copyright Act 
 means that in a lawsuit for 
 copyright infringement, 
 the screenwriter will receive neither attorney’s fees nor statutory damages, 
 unless they registered with the Copyright Office before the infringement commences.
 Unlikely for most scenarios.
+
+ If the work has not been published, which means it hasn't been offered for sale or distribution to the public, you cannot collect statutory damages or attorney's fees in the event of an infringement unless you have registered the unpublished work before that infringement began."
+
+ If the work has not been published, which means it hasn't been offered for sale or distribution to the public, you cannot collect statutory damages or attorney's fees in the event of an infringement unless you have registered the unpublished work before that infringement began."
 
 #### When is Commencement of Infringement?
 

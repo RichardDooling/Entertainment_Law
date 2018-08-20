@@ -695,6 +695,19 @@ The Second Circuit uses a four-factor inquiry, which focuses on plaintiff's part
 
 [*Lerman v. Flynt Distrib, Co.* (2d Cir. 1984)](http://scholar.google.com/scholar_case?case=18352275970631466991).
 
+Other circuits use a three-part test, 
+like the one the D.C. Circuit used most recently in *Kahn v. Bureau of National Affairs, Inc.* (2d Cir. 2017).
+To determine if Kahl, a tax protester, was a limited purpose public figure, 
+the D.C. Circuit said that:
+
+1. First, the court must identify the relevant controversy and determine whether it is a public controversy.
+2. Second, the plaintiff must have played a significant role in that controversy. 
+3. Third, the defamatory statement must be germane to the plaintiff’s participation in the controversy.
+
+DC Circuit Discusses “Limited Purpose” Public Figures
+By Anthony B. Cavender
+Posted May 16, 2017
+
 The plaintiff in *Street v. NBC* (below) is a textbook example of a public figure for a limited purpose. 
 
 #### Involuntary Public Figures
