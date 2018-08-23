@@ -7,6 +7,55 @@ chapter: First Amendment - Intro
 
 # First Amendment - Introduction
 
+I wrote a *Wall Street Journal* article last year 
+about the polarized debate surrounding the First Amendment 
+and who gets to say what. It makes for an introduction of sorts. 
+Please follow this link. 
+
+<https://www.wsj.com/articles/justice-holmess-free-speech-lesson-1507847318>
+
+I like the two monkeys, but if you hit a paywall, 
+please find the text below:
+
+## Justice Holmes's Free-Speech Lesson
+
+###### The more certain you are, the more you should resist the temptation to silence those who disagree.
+
+### By Richard Dooling
+
+###### Oct. 12, 2017 6:28 p.m. ET
+
+If you are absolutely certain that President Trump is or is not an idiot, that climate change is or is not the most pressing problem of our age, that abortion is or is not murder, that football players should or should not be allowed to kneel during the national anthem, that our nation needs more or fewer gun laws, welcome! Most of us feel the same way. Absolute certainty is common, as is the suspicion that anybody who is absolutely certain of the opposite view must be evil, ignorant or a gullible consumer of fake news.
+
+Along with absolute certainty comes the understandable impulse to regulate or ban the speech of your opponent. Why allow evil and ignorant people to infect others with falsehoods and dangerous ideas? Why not take away the licenses of broadcasters whose news departments have the wrong slant? Why not make hate speech illegal?
+
+Almost a century ago, Justice Oliver Wendell Holmes Jr., wrestled with similar questions in a pair of Espionage Act cases. Holmes was absolutely certain that in most cases individual rights are subordinate to the needs of the state, and that the First Amendment did not protect an American citizen named Charles Schenck from prosecution for printing and mailing circulars opposing the draft.
+
+In 1919 Holmes wrote to that effect for a unanimous Court in *Schenck v. U.S.*, famous for the misbegotten "fire in a crowded theater" analogy. *Schenck* also introduced the "clear and present danger" test, which most people think of as speech-protective, but according to Holmes and his colleagues was not enough to protect a man who merely advocated resisting the draft.
+
+Nine months later, in *Abrams v. U.S.*, Holmes changed his mind about the First Amendment. As described in Thomas Healy’s 2013 book, “The Great Dissent,” Holmes reconsidered his position after reading articles and books sent to him by Zechariah Chafee, Harold Laski and other prominent free-speech advocates.
+
+Holmes’s dissent in *Abrams* gave birth to modern First Amendment jurisprudence, with its veneration for the marketplace of ideas. He began by observing that it makes perfect sense to persecute people for their opinions: “If you have no doubt of your premises or your power and want a certain result with all your heart you naturally express your wishes in law and sweep away all opposition.” The problem, Holmes realized, is that we are almost always absolutely certain of our premises, but sometimes we are wrong.
+
+Consider the contemporary example of gay rights. The American Psychiatric Association publishes a reference guide, the Diagnostic and Statistical Manual of Mental Disorders, currently in its fifth edition. Originally published in 1952, the DSM listed homosexuality as a mental disorder of one kind or another until 1987. These days, some psychiatrists are pushing to have “homophobia” listed as a mental illness. If that happens, would the APA be announcing that a majority of its members were mentally ill until 1987?
+
+Fifty years ago, the majority of psychiatrists, and the majority of people, were absolutely certain that homosexuality was a mental disorder. If we could go back in time and ask them if gay people should be allowed to argue in public that homosexuality is not a mental disorder, many of them would say no. We already “know” it is a mental illness—even medical doctors and the Supreme Court agree.
+
+Holmes’s radical idea was that we are too often wrong. When we are wrong, the consequences can be dire. When we are not only absolutely certain but also right, what is the harm in allowing other views to be heard? The truth needs no protectors and will eventually win out, but nobody said it better than Holmes:
+
+> When men have realized that time has upset many fighting faiths, they may come to believe even more than they believe the very foundations of their own conduct that the ultimate good desired is better reached by free trade in ideas—that the best test of truth is the power of the thought to get itself accepted in the competition of the market, and that truth is the only ground upon which their wishes safely can be carried out. That at any rate is the theory of our Constitution. It is an experiment, as all life is an experiment. Every year if not every day we have to wager our salvation upon some prophecy based upon imperfect knowledge. While that experiment is part of our system I think that we should be eternally vigilant against attempts to check the expression of opinions that we loathe and believe to be fraught with death.
+
+Maybe you disagree with Justice Holmes. But thanks to the First Amendment, you are free to argue against him and let the best idea win.
+
+Mr. Dooling teaches at the University of Nebraska College of Law and has published seven books.
+
+Appeared in the October 13, 2017, print edition.
+
+<https://www.wsj.com/articles/justice-holmess-free-speech-lesson-1507847318>
+
+
+## What Do The Words Mean?
+
 The First Amendment says: 
 
 > Congress shall make no law respecting an establishment of religion, 
@@ -66,8 +115,8 @@ When courts try to decide whether speech is protected or unprotected
 they naturally wonder: 
 Is this the sort of speech the Founding Fathers 
 had in mind when they wrote the First Amendment?
-As far as we know, no framer of the Constitution asked the question:
-Yes, but what *is* speech? 
+As far as we know, no framer of the Constitution said, 
+"Yay, free speech, but what *is* speech? 
 Did the Founding Fathers mean to say 
 that public nudity, live sex acts, and bestiality are all speech, 
 and therefore Congress had no power to pass laws against such "expressive conduct"? 
@@ -92,20 +141,21 @@ when he's unprepared to teach the next case,
 but the question lurks in the background of many a Supreme Court opinion. 
 If not all speech is protected, 
 courts often consider what the Founders meant by the simple statement: 
-Congress shall make no law abridging the freedom of speech.
+
+> Congress shall make no law &hellip; abridging the freedom of speech.
 
 Why was the First Amendment added to the Constitution in 1791? 
 And if Congress meant what it said 
 about passing no laws abridging the freedom of speech, 
-then why seven years later (in 1798) 
-did Congress pass the [Alien and Sedition Acts](http://en.wikipedia.org/wiki/Alien_and_Sedition_Acts) 
+then why seven years later, in 1798, 
+did Congress pass the [Alien and Sedition Acts](http://en.wikipedia.org/wiki/Alien_and_Sedition_Acts), 
 which made it a crime for anyone to publish 
 "false, scandalous, and malicious writing against the government or its officials?"
 
 [Eugene Volokh](http://en.wikipedia.org/wiki/Eugene_Volokh) 
 argues that the problematic words are not "make no law," 
 but rather "the freedom of speech." 
-In speculating on what the Founders had in mind, Volokh has this to say.
+In speculating on what the Founders had in mind, Volokh had this to say.
 
 > But nearly everyone, as best I can tell, 
 > saw "freedom of speech" and "freedom of the press" 
@@ -166,23 +216,27 @@ first formulated by Justice Oliver Wendell Holmes, who wrote:
 
 > --[*Abrams v. United States*](https://scholar.google.com/scholar_case?case=14321466231676186426) (US 1919)
 
-To fans of the marketplace of ideas, Justice Holmes was announcing 
-a world where there's no such thing as good or bad speech, 
+To test the truth of what [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones) 
+or [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez) has to say, 
+let them fight it out in the marketplace and let's see whose idea wins.
+
+"Dissents speak to a future age," as Justice Ginsberg once said, 
+and, in *Abrams*, Holmes wrote the most influential dissent in the history of modern First Amendment jurisprudence. His marketplace was a radical idea, and it 
+won out the in the competition for how to think about speech. 
+Holmes imaged a marketplace where there's no such thing as good or bad speech, 
 only speech that competes in the Darwinian marketplace and lives or dies. 
 The Court's job is to strike down any attempts by the government 
 to regulate the marketplace of ideas. 
-Of course, there are the inevitable exceptions, 
-because Holmes was also the Justice who wrote: 
+So far, with limited well-defined exceptions, 
+the Supreme Court will strike down any law
+that purports to regulate or ban speech because of it's content or viewpoint. 
 
-> The most stringent protection of free speech 
-> would not protect a man falsely shouting fire in a theater 
-> and causing a panic.
-
-> --[*Schenck v. United States*](https://scholar.google.com/scholar_case?case=8474153321909160293) (US 1919)
+<!-- even when the government wants to say, "Wait, we aren't taking sides, we are just leveling the free speech playing field."  -->
 
 #### Civic Republicanism
 
-Justice Louis Brandeis offered a parallel and sometimes competing principle of First Amendment theory eight years later, when he described the purpose of the First Amendment:
+The second principle comes to us from Justice Louis Brandeis,
+who offered a parallel and sometimes competing principle of First Amendment theory eight years later, when he described the purpose of the First Amendment:
 
 > Those who won our independence &hellip; believed that freedom to think as you will and to speak as you think are means indispensable to the discovery and spread of political truth; that without free speech and assembly discussion would be futile. 
 
@@ -197,10 +251,16 @@ not because it's an absolute value or good for the soul,
 but because it's essential for democracy 
 and [civic republicanism](http://www.britannica.com/EBchecked/topic/1916872/civic-republicanism). Quite a different concern than Justice Holmes' marketplace 
 where ideas fight it out for survival of the fittest. 
-In fact, Holmes would probably say 
+After his First Amendment epiphany in *Abrams*, 
+Holmes would probably say 
 that there is no such thing as "political truth." 
 Truth is whatever the marketplace says it is. 
-If cat videos beat out President Obama's State of the Union address, so be it.
+If cat videos beat out the President's State of the Union address, so be it.
+
+Holmes did win out, but Supreme Court opinions still can't help suggesting on occasion that some speech is "low-value" speech, or less in need of protection than other speech. 
+When they do that, they are usually citing Justice Brandeis 
+and his view that we need speech to be good citizens and discuss politics, 
+not to create pornography.
 
 First Amendment cases in the United States Supreme Court are dramatic battles, 
 usually between speakers with unpopular or dangerous views 
@@ -216,7 +276,11 @@ creating, possessing, or distributing child pornography
 created by using real child actors? 
 
 But a film producer or a director or a screenwriter or author 
-needs an entertainment lawyer, not a con law scholar. 
+needs an entertainment lawyer, not a con law scholar, 
+so we try to be practical whenever possible.
+We are most concerned if our client's speech can be characterized 
+as "unprotected speech" because it's defamatory, or obscene, 
+invades someone's privacy, or is "indecent" because it's broadcast TV and its primetime.
 
 ## Are Movies Speech?
 
@@ -226,7 +290,8 @@ many states censored movies as a matter of course.
 The first time a case arguing that the "boards of censors" 
 interfered with the First Amendment rights of people 
 who displayed the films or wanted to see them, 
-the United States Supreme Court said: I beg your pardon? Movies are *not* speech.
+the United States Supreme Court said: I beg your pardon? 
+Movies are *not* speech.
 
 ### *Mutual Film Corp. v. Industrial Commission of Ohio*
 
@@ -275,6 +340,11 @@ the Code had three general principles:
 
 (From the Production Code, 1934)
 
+The Code also had plenty of particular proscriptions, including no exposed bosoms and no tommyguns, 
+best illustrated by the pic below.
+
+![Banned by the Code](banned_by_code.jpg)
+
 ### *Joseph Burstyn, Inc. v. Wilson*
 
 ######  U.S. Supreme Court (1952)
@@ -318,11 +388,9 @@ Joseph Burstyn, Inc., distributor of *The Miracle,* sued, first in New York cour
 *The Miracle* then went to the United States Supreme Court, where, in 1952, 
 thirty-two years after the Court had declared movies to be "a business pure and simple" and not speech protected by the First Amendment, the Court finally decided not only that movies were speech protected by the First Amendment, but that any Board of censors trying to define "sacrilegious" would be "set adrift upon a boundless sea amid a myriad of conflicting currents of religious views, with no charts but those provided by the most vocal and powerful orthodoxies, New York cannot vest such unlimited restraining control over motion pictures in a censor."
 
-The First Amendment sometimes "feels" powerful and protective enough to take for granted, but as Justice Oliver Wendell Holmes observered "We should be eternally vigilant against attempts to check the expression of opinions that we loathe." --Oliver Wendell Holmes
+#### Excerpts from the *Burstyn* opinion: 
 
 MR. JUSTICE CLARK delivered the opinion of the court.
-
-#### Excerpts from the *Burstyn* opinion: 
 
 In a series of decisions beginning with [*Gitlow* v. *New York,* 268 U.  S. 652 (1925),](http://scholar.google.com/scholar_case?case=5505973138575755803)
 this Court held that the liberty of speech and of the press which the
@@ -495,13 +563,20 @@ that is "degrading or dehumanizing" to women may be prohibited
 (see [R. v. Butler](http://en.wikipedia.org/wiki/R._v._Butler) 
 an analysis explicitly rejected by Judge Frank Easterbrook in [*American Booksellers v.  Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986), [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
 
-When it comes to the United States, consider this [nice summary of speech restrictions and unprotected speech categories](http://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States#Types_of_speech_restrictions). 
-
-Child pornography and disclosing classified communications 
-in violation of the Espionage Act are good examples. 
+In the United States, 
+child pornography and disclosing classified communications 
+in violation of the Espionage Act are good examples of unprotected speech. 
 Both involve *speech*, but the U.S. Supreme Court 
 says that these categories of speech are not protected by the First Amendment. 
 Child porn and disclosing classified information therefore are both categories of "unprotected speech," meaning the  government can fine you or send you to prison for engaging in them. [18 U.S. Code &sect; 2251 - Sexual exploitation of children](http://www.law.cornell.edu/uscode/text/18/2251)
+
+### The Opinions We Loathe
+
+The First Amendment sometimes "feels" powerful and protective enough to take for granted, but as Justice Oliver Wendell Holmes observered "We should be eternally vigilant against attempts to check the expression of opinions that we loathe." Indeed, for decades the Republican Right sought to criminalize the speech of liberals who made obscene music or burned American flags. Lately the Democratic Left seeks to ban hate speech 
+and "speech" containing directions for making 3D guns.
+Neither seems to realize that if their side can legally ban speech, 
+then after the next election the other side will inherit the same powers, 
+along with the support of precedent.
 
 #### Totally Optional Reading
 
@@ -549,59 +624,6 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 [skyywalker]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=739fsupp578\&appflag=67.12 "*Skyywalker Records v. Navarro* at Westlaw"
 [miller-w]: https://en.wikipedia.org/wiki/Miller_v._California "*Miller v. California* at Wikipedia."
 
-<!-- BEGIN COMMENT -->
-
-<!-- 
-
-BONEYARD SCRAPS
-
-The easiest way to see them in action is to look at some cases where the government has sued artists and tried to stop them from "speaking." In keeping with our intellectual property/oil well analogy, it's as if the government says: It's against the law for you to drill for certain kinds of speech, or make certain kinds of intellectual property. 
-
-Most artists hope to earn their living in the intellectual property business, so their lawyers must know the rules. Here is a [handy list of unprotected speech categories](http://en.wikipedia.org/wiki/United_States_free_speech_exceptions).
-
-### A Tendency To Deprave And Corrupt
-
-If the First Amendment plainly does not mean what it says, namely, that Congress shall make no law abridging speech, then it invites courts to consider what it SHOULD mean, or COULD mean, or what the Founding Fathers thought it meant.
-
-Seditious Libel
-
-John Peter Zenger
-http://historyempire.com/zenger-trial/
-
-http://www.ushistory.org/us/7c.asp
-
-But when courts try to decide whether speech is protected or unprotected they naturally wonder: Is this the sort of speech the Founding Fathers had in mind when they wrote the First Amendment?
-
-As far as we know, nobody asked the question: Yes, but what IS speech?
-When the Founding Fathers said that Congress shall make no law &hellip; abridging the freedom of speech. Did the Founding Fathers mean to say that public nudity, live sex acts, and bestiality are all speech, and therefore Congress had no power to pass laws against such "expressive conduct." Did they believe that live sex acts are like flag burning or marching in the streets? 
-And did this mean that they believed Congress had no power to pass laws against obscenity, indecency, pornography, nude dancing and the like.
-
-What is the purpose of Was this the sort of speech the Founding Fathers would for the next case. A professor might Sounds like a question the professor would pose
-
-The Supreme Court now holds that almost every provision of the Bill of Rights applies to both the federal government and the states.  http://en.wikipedia.org/wiki/Gitlow_v._New_York
-
-And how prosecutors then Eventually, the Court found its way to the famous *Miller* test for obscenity. No better way to see how that works, then to read about 2 Live Crew's battles wit 
-
-And The easiest way to see them in action is to look at some cases where the government has sued artists and tried to stop them from "speaking."
-
-*   [*New York v.  Ferber*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=458us747&appflag=67.12), 458 US 747 (1982). 
-
-The government expresses its misgivings about vulgar speech in the form of periodic enforcement actions filed by the Federal Communications Commission (FCC).  their application to various  Obscenity litigation occupied the Supreme Court's attention in the latter half of the last century, and still lingers in the form of the FCC's on-and-off obsession with "excretions" 
-
-The *Pacifica* footnotes on "excretions" are laughable these days when every other high-def ad on that huge TV screen is selling excretion-related product: Menstruation, incontence, BPH and frequency of urination, "regularity," and of course erectile dysfunction. 
-
-The word "excretory" occurs nine times in the *Pacifica* opinion, and each it's the FCC that appears obsessed. In each citation of FCC materials, the Commission is careful to note that it's descriptions of "sexual *and* excretory functions" that are problematic. Not since [Stanley Kubrick's *Dr. Strangelove,*](http://en.wikipedia.org/wiki/Dr._Strangelove) where United States Air Force Brigadier General Jack D. Ripper was obsessed with the safety of "our nation's precious bodily fluids" have government officials put their own peculiar obsessions on display with such OCD flair. The FCC seems find the words "shit" and "piss" to be particularly disturbing and at various times has taken the position that "fuck" ALWAYS connotes sex, even if it's used by a rapper saying, "Fuck the police!" Justice Harlan and a wiser Court disposed of these matters once and for all in *Cohen v. California* back in 1972
-
-In the latter half of the last century, the United States Supreme Court wrestled with obscenity statutes and definitions. 
-  . But the obscenity problem has been largely "solved" by the Internet. These days those who want obscenity can easily find it online, and only once in a great while do others accidentally happen upon porn on the Internet. The porn industry is huge. Its paradox from day one. It needs to be everywhere and easily accessible, but also invisible, so as not to antagonize religious conservatives or market is huge, but the industry also depends for its survival 
-
-the rest of the citizens of the Internet ever society d we know when we see it. Those who want to find it can easily do so, and the rest almost never accidentally see the stuff, so nobody cares. Hysterical If you want it, you can find it. On broadcast television here in 2014 it is a crime to say certain words. No major changes since *Pacifica*, just turf battles about how many times you can say fuck, or whether the person saying fuck is in a Steven Spielberg movie, where it's probably okay to say fuck, whereas if you were 
- Its content is regulated by the FCC if it is on broadcast television
-Can it also be outlawed if it is just too violent?
-
--->
-
-<!-- END COMMENT -->
 
 
 
