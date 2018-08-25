@@ -392,7 +392,7 @@ thirty-two years after the Court had declared movies to be "a business pure and 
 
 MR. JUSTICE CLARK delivered the opinion of the court.
 
-In a series of decisions beginning with [*Gitlow* v. *New York,* 268 U.  S. 652 (1925),](http://scholar.google.com/scholar_case?case=5505973138575755803)
+In a series of decisions beginning with [*Gitlow* v. *New York* (US 1925),](http://scholar.google.com/scholar_case?case=5505973138575755803)
 this Court held that the liberty of speech and of the press which the
 First Amendment guarantees against abridgment by the federal government
 is within the liberty safeguarded by the Due Process Clause of the
@@ -404,7 +404,7 @@ motion pictures are within the ambit of protection which the First
 Amendment, through the Fourteenth, secures to any form of "speech" or
 "the press."
 
-It cannot be doubted that motion pictures are a significant medium for the communication of ideas. They may affect public attitudes and behavior in a variety of ways, ranging from direct espousal of a political or social doctrine to the subtle shaping of thought which characterizes all artistic expression. The importance of motion pictures as an organ of public opinion is not lessened by the fact that they are designed to entertain as well as to inform. As was said in [*Winters* v. *New York,* 333 U. S. 507, 510 (1948)](http://scholar.google.com/scholar_case?case=16314089118204976902):
+It cannot be doubted that motion pictures are a significant medium for the communication of ideas. They may affect public attitudes and behavior in a variety of ways, ranging from direct espousal of a political or social doctrine to the subtle shaping of thought which characterizes all artistic expression. The importance of motion pictures as an organ of public opinion is not lessened by the fact that they are designed to entertain as well as to inform. As was said in [*Winters* v. *New York* (US 1948)](http://scholar.google.com/scholar_case?case=16314089118204976902):
 
 > The line between the informing and the entertaining is too elusive for the protection of that basic right [a free press]. Everyone is familiar with instances of propaganda through fiction. What is one man's amusement, teaches another's doctrine.
 
@@ -443,15 +443,15 @@ communicate ideas be obtained in advance from state officials who judge
 the content of the words and pictures sought to be communicated. This
 Court recognized many years ago that such a previous restraint is a form
 of infringement upon freedom of expression to be especially condemned.
-[*Near* v. *Minnesota ex rel. Olson,* 283 U.S. 697 (1931)](http://scholar.google.com/scholar_case?case=10240616562166401834).
+[*Near* v. *Minnesota,* (US 1931)](http://scholar.google.com/scholar_case?case=10240616562166401834).
 The Court there recounted the history which indicates that a major
 purpose of the First Amendment guaranty of a free press was to prevent
 prior restraints upon publication, although it was carefully pointed out
 that the liberty of the press is not limited to that
 protection. It was further stated that "the protection
 even as to previous restraint is not absolutely unlimited. But the
-limitation has been recognized only  in exceptional cases."
-*Id.,* at 716. In the light of the First Amendment's history and of the
+limitation has been recognized only in exceptional cases."
+In the light of the First Amendment's history and of the
 *Near* decision, the State has a heavy burden to demonstrate that the
 limitation challenged here presents such an exceptional case.
 
@@ -467,8 +467,7 @@ the New York courts, the censor is set adrift upon a boundless sea amid
 a myriad of conflicting currents of religious views, with no 
 charts but those provided by the most vocal and powerful orthodoxies.
 New York cannot vest such unlimited restraining control over motion
-pictures in a censor. Cf. [*Kunz* v. *New York,* 340 U. S. 290
-(1951)](http://scholar.google.com/scholar_case?case=9105752986676100521).
+pictures in a censor. Cf. [*Kunz* v. *New York* 290 (US 1951)](http://scholar.google.com/scholar_case?case=9105752986676100521).
 
 Under such a standard the most careful and tolerant censor would find it
 virtually impossible to avoid favoring one religion over another, and he
@@ -584,7 +583,7 @@ along with the support of precedent.
 * [Congress Shall Make No Law . . .][dooling_1sta], by Richard Dooling
 * [ACLU: Freedom of Expression in the Arts & Entertainment][aclu_1stA]
 * [*The Atlantic:* "The Most Powerful Dissent in American History"](http://www.theatlantic.com/national/archive/2013/08/the-most-powerful-dissent-in-american-history/278503/) (a book that reveals precisely how and why Oliver Wendell Holmes changed his mind about the first amendment).
-* [*The Atlantic:* "It's Time to Stop Using the 'Fire in a Crowded Theater' Quote"](http://www.theatlantic.com/national/archive/2012/11/its-time-to-stop-using-the-fire-in-a-crowded-theater-quote/264449/) (A nice take on the *US v. Schenk* and how it may have led to Holmes’ opinion in *Abrams*).
+* [*The Atlantic:* "It's Time to Stop Using the 'Fire in a Crowded Theater' Quote"](http://www.theatlantic.com/national/archive/2012/11/its-time-to-stop-using-the-fire-in-a-crowded-theater-quote/264449/) (A nice take on the *US v. Schenck* and how it may have led to Holmes’ opinion in *Abrams*).
 * [*The Wall Street Journal:* Even Speech We Hate Should Be Free Those who want to limit freedom of speech are misusing Oliver Wendell Holmes's famous 1919 line about ‘shouting fire in a theater’](http://www.wsj.com/articles/even-speech-we-hate-should-be-free-1440165276) 
 * [*The Hell You Say: The new battles over free speech are fierce, but who is censoring whom?*](http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say), by Kelefa Sanneh.
 * [Fox Urges End to Broadcast Indecency Limits](http://www.hollywoodreporter.com/thr-esq/fox-urges-end-broadcast-indecency-572512)
@@ -602,6 +601,7 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 * The [*Miller* test at Wikipedia][miller_test].
 * [*New York v.  Ferber*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=458us747&appflag=67.12), 458 US 747 (1982). [Wikipedia](http://en.wikipedia.org/wiki/New_York_v._Ferber).
 * [*American Booksellers v. Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986). [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
+* [*U.S. v. Schenck*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=249US47&appflag=67.12) (US 1919).
 
 ### Changelog
 
