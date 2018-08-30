@@ -74,7 +74,7 @@ The dissents in *Fox II* spell *Pacifica's* doom, as we observed last week in cl
 
 * [case at Google Scholar](https://scholar.google.com/scholar_case?case=6114044271141802936&q=556+U.S.+502&hl=en&as_sdt=3,28)
 * [case at Westlaw][fox]
-* [case at Wikipedia](https://en.wikipedia.org/wiki/FCC_v._Fox_Television_Stations,_Inc._(2009)
+* [case at Wikipedia](https://en.wikipedia.org/wiki/FCC_v._Fox_Television_Stations,_Inc._(2009))
 
 ## *FCC v. Fox Television Stations* (Fox II)
 

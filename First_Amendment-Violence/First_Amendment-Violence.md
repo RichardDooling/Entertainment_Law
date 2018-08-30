@@ -708,8 +708,6 @@ unconstitutional under the overbreadth doctrine.
 
 For these reasons, I respectfully dissent.
 
-[ferber]: http://scholar.google.com/scholar_case?case=1226851723986989726&q=united+states+v+stevens&hl=en&as_sdt=4,60)   "New York v. Ferber"
-[stevens]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=559+U.S.+460&appflag=67.12  "United States v. Stevens"
 
 ## Violent Video Games 
 
@@ -2939,3 +2937,5 @@ attacker's continued threats to the victim was again straightforward.
 [hitman]: http://users.telenet.be/sterf/texts/other/HitMan-Manual_for_Independent_Contractors.pdf "Hit Man A Manual For Independent Contractors"
 [ginsberg]:  http://scholar.google.com/scholar_case?case=8460647428333624773	"Ginsberg v. New York"
 [erz]:	http://scholar.google.com/scholar_case?case=7611920100258061680	"Erznoznik v. City of Jacksonville" 
+[ferber]: http://scholar.google.com/scholar_case?case=1226851723986989726&q=united+states+v+stevens&hl=en&as_sdt=4,60)   "New York v. Ferber"
+[stevens]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=559+U.S.+460&appflag=67.12  "United States v. Stevens"
