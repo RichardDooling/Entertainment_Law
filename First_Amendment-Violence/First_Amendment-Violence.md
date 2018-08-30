@@ -40,13 +40,13 @@ that Oliver Stone’s *Natural Born Killers*
 [inspired them to go on crime sprees of their own][nbk]. 
 
 What if somebody hires a videographer to make a documentary 
-about the production and sale of so-called ["crush videos"][stevens] 
+about the production and sale of so-called ["crush videos"][stevens-w] 
 wherein animals are brutally tortured and killed? 
 Do these cruel and sometimes deadly side effects of violent "speech" suggest 
 that extreme violence should be banned or regulated, 
 the way obscenity is banned and indecency is regulated?
 
-### A *Miller* Test For Violence?
+## A *Miller* Test For Violence?
 
 Do we need a [*Miller* test][miller_test] for violence? 
 If regulation is required, who should regulate? 
@@ -57,7 +57,663 @@ Or shall we allow civil liability in the form of lawsuits
 against content providers who publish material 
 that arguably amounts to incitement to violence? 
 
-In [*Ginsberg v. New York*][ginsberg] (discussed below), 
+Or perhaps the government could outlaw new categories of unprotected speech?
+How about violent dogfight videos? Protected or unprotected speech?
+How about so-called "crush videos," probably the most disgusting "speech" to come before the Court.
+
+## United States v. Stevens
+
+###### U.S. Supreme Court (2010)
+
+* [Case on Google Scholar](http://scholar.google.com/scholar_case?case=85657697512539256)
+* [Case at Westaw][stevens]
+* [Case at Wikipedia](http://en.wikipedia.org/wiki/United_States_v._Stevens)
+
+
+Chief Justice ROBERTS delivered the opinion of the Court.
+
+Congress enacted 18 U.S.C. § 48 to criminalize the commercial creation,
+sale, or possession of certain depictions of animal cruelty. The statute
+does not address underlying acts harmful to animals, but only portrayals
+of such conduct. The question presented is whether the prohibition in
+the statute is consistent with the freedom of speech guaranteed by the
+First Amendment.
+
+### I
+
+Section 48 establishes a criminal penalty of up to five years in prison
+for anyone who knowingly "creates, sells, or possesses a depiction of
+animal cruelty," if done "for commercial gain" in interstate or foreign
+commerce. &hellip; A depiction of
+"animal cruelty" is defined as one "in which a living animal is
+intentionally maimed, mutilated, tortured, wounded, or killed," if that
+conduct violates federal or state law where "the creation, sale, or
+possession takes place." § 48(c)(1). In what is referred to
+as the "exceptions clause," the law exempts from prohibition any depiction
+"that has serious religious, political, scientific, educational,
+journalistic, historical, or artistic value." § 48(b).
+
+The legislative background of § 48 focused primarily on the interstate
+market for "crush videos." According to the House Committee Report on
+the bill, such videos feature the intentional torture and killing of
+helpless animals, including cats, dogs, monkeys, mice, and hamsters.
+Crush videos often depict women slowly crushing animals to death "with their bare
+feet or while wearing high heeled shoes," sometimes while "talking to
+the animals in a kind of dominatrix patter" over "the cries and
+squeals of the animals, obviously in great pain." Apparently
+these depictions "appeal to persons with a very specific sexual fetish
+who find them sexually arousing or otherwise exciting." 
+The acts depicted in crush videos are typically prohibited by the animal
+cruelty laws enacted by all 50 States and the District of Columbia. 
+But crush videos
+rarely disclose the participants' identities, inhibiting prosecution of
+the underlying conduct. 
+
+This case, however, involves an application of § 48 to depictions of
+animal fighting. Dogfighting, for example, is unlawful in all 50 States
+and the District of Columbia &hellip; and has been restricted by federal law since 1976.
+Respondent Robert J. Stevens ran a business, "Dogs of Velvet and
+Steel," and an associated Web site, through which he sold videos of pit
+bulls engaging in dogfights and attacking other animals. Among these
+videos were Japan Pit Fights and Pick-A-Winna: A Pit Bull Documentary,
+which include contemporary footage of dogfights in Japan (where such
+conduct is allegedly legal) as well as footage of American dogfights
+from the 1960's and 1970's. A third
+video, Catch Dogs and Country Living, depicts the use of pit bulls to
+hunt wild boar, as well as a "gruesome" scene of a pit bull attacking a
+domestic farm pig. On the
+basis of these videos, Stevens was indicted on three counts of violating
+§ 48.
+
+Stevens moved to dismiss the indictment, arguing that § 48 is facially
+invalid under the First Amendment. The District Court denied the motion.
+It held that the depictions subject to § 48, like obscenity or child
+pornography, are categorically unprotected by the First Amendment.
+It went on to hold that § 48 is not substantially overbroad,
+because the exceptions clause sufficiently narrows the statute to
+constitutional applications. The jury convicted
+Stevens on all counts, and the District Court sentenced him to three
+concurrent sentences of 37 months' imprisonment, followed by three years
+of supervised release. 
+
+The en banc Third Circuit, over a three-judge dissent, declared § 48
+facially unconstitutional and vacated Stevens's conviction.
+The Court of Appeals first held that § 48 regulates speech that is
+protected by the First Amendment. The Court declined to recognize a new
+category of unprotected speech for depictions
+of animal cruelty, , and rejected the Government's
+analogy between animal cruelty depictions and child pornography.
+
+The Court of Appeals then held that § 48 could not survive strict
+scrutiny as a content-based regulation of protected speech.  It found that the statute lacked a compelling government interest
+and was neither narrowly tailored to preventing animal cruelty nor the
+least restrictive means of doing so. It therefore
+held § 48 facially invalid.
+
+In an extended footnote, the Third Circuit noted that § 48 "might also
+be unconstitutionally overbroad," because it "potentially covers a great
+deal of constitutionally protected speech" and "sweeps too widely"
+to be limited only by prosecutorial discretion. 
+But the Court of Appeals declined to rest its analysis on this ground.
+
+We granted certiorari. 
+
+## II
+
+The Government's primary submission is that § 48 necessarily complies
+with the Constitution because the banned depictions of animal cruelty,
+as a class, are categorically unprotected by the First Amendment. We
+disagree.
+
+The First Amendment provides that "Congress shall make no law . . .
+abridging the freedom of speech." "As a general matter, the First
+Amendment means that government has no power to restrict expression
+because of its message, its ideas, its subject matter, or its content."
+[*Ashcroft v. ACLU*](http://scholar.google.com/scholar_case?case=8027362013479204062&q=united+states+v+stevens&hl=en&as_sdt=4,60) (US 2002). Section 48 explicitly regulates
+expression based on content: The statute restricts "visual and
+auditory depiction," such as photographs, videos, or sound
+recordings, depending on whether they depict conduct in which a living
+animal is intentionally harmed. As such, § 48 is presumptively
+invalid, and the Government bears the burden to rebut that
+presumption. 
+
+"From 1791 to the present," however, the First Amendment has "permitted
+restrictions upon the content of speech in a few limited areas," and has
+never "included a freedom to disregard these traditional
+limitations." [*R.A.V. v. St. Paul*](http://scholar.google.com/scholar_case?case=14621372290934958371&q=united+states+v+stevens&hl=en&as_sdt=4,60).
+These "historic and traditional categories long familiar to the bar,"
+including
+obscenity, defamation, fraud, incitement, and speech integral to criminal conduct, are
+"well-defined and narrowly limited classes of speech, the prevention and
+punishment of which have never been thought to raise any Constitutional
+problem." [*Chaplinsky*](http://scholar.google.com/scholar_case?case=124249671461500618&q=united+states+v+stevens&hl=en&as_sdt=4,60) (US 1942).
+
+The
+Government argues that "depictions of animal cruelty" should be added to
+the list. It contends that depictions of "illegal acts of animal
+cruelty" that are "made, sold, or possessed for commercial gain"
+necessarily "lack expressive value," and may accordingly "be regulated
+as *unprotected* speech." 
+The claim is not just that Congress may regulate depictions of animal
+cruelty subject to the First Amendment, but that these depictions are
+outside the reach of that Amendment altogether---that they fall into a
+"First Amendment Free Zone." 
+
+As the Government notes, the prohibition of animal cruelty itself has a
+long history in American law, starting with the early settlement of the
+Colonies. But we are unaware of any similar
+tradition excluding *depictions* of animal cruelty from "the freedom of
+speech" codified in the First Amendment, and the Government points us to
+none.
+
+The Government contends that "historical evidence" about the reach of
+the First Amendment is not "a necessary prerequisite for regulation
+today," and that categories of speech may be
+exempted from the First Amendment's protection without any long-settled
+tradition of subjecting that speech to regulation. Instead, the
+Government points to Congress's "legislative judgment that &hellip;
+depictions of animals being intentionally tortured and killed are of
+such minimal redeeming value as to render them unworthy of First
+Amendment protection," 
+and asks the Court to uphold the ban on
+the same basis. The Government thus proposes that a claim of categorical
+exclusion should be considered under a simple balancing test: "Whether a
+given category of speech enjoys First Amendment protection depends upon
+a categorical balancing of the value of the speech against its societal
+costs." 
+
+As a free-floating test for First Amendment coverage, that sentence is
+startling and dangerous. The First Amendment's guarantee of free speech
+does not extend only to categories of speech that survive an ad hoc
+balancing of relative social costs and benefits. The First Amendment
+itself reflects a judgment by the American people that the benefits of
+its restrictions on the Government outweigh the costs. Our Constitution
+forecloses any attempt to revise that judgment simply on the basis that
+some speech is not worth it. The Constitution is not a document
+"prescribing limits, and declaring that those limits may be passed at
+pleasure." [*Marbury v. Madison*](http://scholar.google.com/scholar_case?case=9834052745083343188&q=united+states+v+stevens&hl=en&as_sdt=4,60) (US 1803).
+
+To be fair to the Government, its view did not emerge from a vacuum. As
+the Government correctly notes, this Court has often *described*
+historically unprotected categories of speech as being "of such slight
+social value as a step to truth that any benefit that may be derived
+from them is clearly outweighed by the social interest in order and
+morality." [*R.A.V.*](http://scholar.google.com/scholar_case?case=14621372290934958371&q=united+states+v+stevens&hl=en&as_sdt=4,60)
+(quoting [*Chaplinsky*](http://scholar.google.com/scholar_case?case=124249671461500618&q=united+states+v+stevens&hl=en&as_sdt=4,60)).
+
+In [*New York v. Ferber,*][ferber] (US 1982),
+we noted that within these categories of unprotected speech, "the evil to be
+restricted so overwhelmingly outweighs the expressive interests, if any,
+at stake, that no process of case-by-case adjudication is required,"
+because "the balance of competing interests is clearly struck.
+The Government derives its proposed test from these descriptions in our
+precedents. 
+
+But such descriptions are just that---descriptive. They do not set forth
+a test that may be applied as a general matter to permit the Government
+to imprison any speaker so long as his speech is deemed valueless or
+unnecessary, or so long as an ad hoc calculus of costs and benefits
+tilts in a statute's favor.
+
+When we have identified categories of speech as fully outside the
+protection of the First Amendment, it has not been on the basis of a
+simple cost-benefit analysis. In [*Ferber*][ferber], for example, we classified
+child pornography as such a category.
+We noted that the State of New York had a compelling interest in
+protecting children from abuse, and that the value of using children in
+these works (as opposed to simulated conduct or adult actors) was *de
+minimis.* 
+But our decision did not rest on this "balance of competing interests"
+alone. 
+We made clear that *Ferber* presented a special case: The market for
+child pornography was "intrinsically related" to the underlying abuse,
+and was therefore "an integral part of the production of such materials,
+an activity illegal throughout the Nation." 
+As we noted, "it rarely has been suggested that the constitutional
+freedom for speech and press extends its immunity to speech or writing
+used as an integral part of conduct in violation of a valid criminal
+statute." 
+
+*Ferber* thus grounded its analysis in a previously recognized, 
+long-established category of unprotected speech, 
+and our subsequent decisions have shared this understanding. 
+See [*Osborne v. Ohio*](http://scholar.google.com/scholar_case?case=4775063558409617777&q=united+states+v+stevens&hl=en&as_sdt=4,60) (US 1990) (describing *Ferber* as finding "persuasive" the argument that the advertising and sale of child pornography was "an integral part" of its unlawful production. [*Ashcroft v. Free Speech Coalition*](http://scholar.google.com/scholar_case?case=4016009721484982910&q=united+states+v+stevens&hl=en&as_sdt=4,60) (US 2002) (noting that distribution and sale "were intrinsically related to the sexual abuse of children," giving the speech at issue "a proximate link to the crime from which it came.)"
+
+Our decisions in *Ferber* and other cases cannot be taken as
+establishing a freewheeling authority to declare new categories of
+speech outside the scope of the First Amendment. Maybe there are some
+categories of speech that have been historically unprotected, but have
+not yet been specifically identified or discussed as such in our case
+law. But if so, there is no evidence that "depictions of animal cruelty"
+is among them. We need not foreclose the future recognition of such
+additional categories to reject the Government's highly manipulable
+balancing test as a means of identifying them.
+
+## III
+
+Because we decline to carve out from the First Amendment any novel
+exception for § 48, we review Stevens's First Amendment challenge under
+our existing doctrine.
+
+## A
+
+Stevens challenged § 48 on its face, arguing that any conviction secured
+under the statute would be unconstitutional. The court below decided the case
+on that basis, and we granted the Solicitor
+General's petition for certiorari to determine "whether 18 U.S.C. 48 is
+facially invalid under the Free Speech Clause of the First Amendment."
+
+To succeed in a typical facial attack, Stevens would have to establish
+"that no set of circumstances exists under which § 48 would be
+valid," or that the statute lacks any "plainly legitimate sweep." 
+
+Which standard applies in a typical
+case is a matter of dispute that we need not and do not address &hellip; 
+
+Here the Government
+asserts that Stevens cannot prevail because § 48 is plainly legitimate
+as applied to crush videos and animal fighting depictions. Deciding this
+case through a traditional facial analysis would require us to resolve
+whether these applications of § 48 are in fact consistent with the
+Constitution.
+
+In the First Amendment context, however, this Court recognizes "a second
+type of facial challenge," whereby a law may be invalidated as overbroad
+if "a substantial number of its applications are unconstitutional,
+judged in relation to the statute's plainly legitimate sweep."
+
+Stevens argues that § 48 applies to
+common depictions of ordinary and lawful activities, and that these
+depictions constitute the vast majority of materials subject to the
+statute. 
+
+The Government makes no effort to
+defend such a broad ban as constitutional. Instead, the Government's
+entire defense of § 48 rests on interpreting the statute as narrowly
+limited to specific types of "extreme" material.
+
+As the parties have presented the issue, therefore, the
+constitutionality of § 48 hinges on how broadly it is construed. It is
+to that question that we now turn.
+
+## B
+
+As we explained two Terms ago, "the first step in overbreadth
+analysis is to construe the challenged statute; it is impossible to
+determine whether a statute reaches too far without first knowing what
+the statute covers." [*United States v. Williams*](http://scholar.google.com/scholar_case?case=187122396083589585&q=united+states+v+stevens&hl=en&as_sdt=4,60) (US 2008).
+Because § 48 is a federal statute, there is no need to defer to a
+state court's authority to interpret its own law.
+
+We read § 48 to create a criminal prohibition of alarming breadth. To
+begin with, the text of the statute's ban on a "depiction of animal
+cruelty" nowhere requires that the depicted conduct be cruel. That text
+applies to "any &hellip; depiction" in which "a living animal is
+intentionally maimed, mutilated, tortured, wounded, or killed." §
+48(c)(1). "Maimed, mutilated, and tortured" convey cruelty, but
+"wounded" or "killed" do not suggest any such limitation.
+
+While not requiring cruelty, § 48 does require that the depicted conduct
+be "illegal." But this requirement does not limit § 48 along the lines
+the Government suggests. There are myriad federal and state laws
+concerning the proper treatment of animals, but many of them are not
+designed to guard against animal cruelty. Protections of endangered
+species, for example, restrict even the humane "wounding or
+killing" of "living animals." § 48(c)(1). Livestock regulations
+are often designed to protect the health of human beings, and hunting
+and fishing rules (seasons, licensure, bag limits, weight requirements)
+can be designed to raise revenue, preserve animal populations, or
+prevent accidents. The text of § 48(c) draws no distinction based on the
+reason the intentional killing of an animal is made illegal, and
+includes, for example, the humane slaughter of a stolen
+cow.
+
+What is more, the application of § 48 to depictions of illegal conduct
+extends to conduct that is illegal in only a single
+jurisdiction. Under subsection (c)(1), the depicted conduct need only be
+illegal in "the State in which the creation, sale, or possession takes
+place, regardless of whether the &hellip; wounding &hellip; or killing took
+place in that State." A depiction of entirely lawful conduct runs
+afoul of the ban if that depiction later finds its way into another
+State where the same conduct is unlawful. This provision greatly expands
+the scope of § 48, because although there may be "a broad societal
+consensus" against cruelty to animals, Brief for United States 2, there
+is substantial disagreement on what types of conduct are properly
+regarded as cruel. Both views about cruelty to animals and regulations
+having no connection to cruelty vary widely from place to place.
+
+Those seeking to comply with the law thus face a bewildering maze of
+regulations from at least 56 separate jurisdictions.
+
+
+## C
+
+The only thing standing between defendants who sell such depictions and
+five years in federal prison---other than the mercy of a prosecutor---is the
+statute's exceptions clause. Subsection (b) exempts from prohibition
+"any depiction that has serious religious, political, scientific,
+educational, journalistic, historical, or artistic value." The
+Government argues that this clause substantially narrows the statute's
+reach: News reports about animal cruelty have "journalistic" value;
+pictures of bullfights in Spain have "historical" value; and
+instructional hunting videos have "educational" value. 
+Thus, the Government argues, § 48 reaches only crush videos, depictions
+of animal fighting (other than Spanish bullfighting)
+and perhaps other depictions of "extreme acts of
+animal cruelty." 
+
+The Government's attempt to narrow the statutory ban, however, requires
+an unrealistically broad reading of the exceptions clause. As the
+Government reads the clause, any material with "redeeming societal
+value," "at least some minimal value," 
+or anything more than "scant social value," is excluded under § 48(b). But the text says
+"serious" value, and "serious" should be taken seriously. We decline the
+Government's invitation—advanced for the first time in this Court—to
+regard as "serious" anything that is not "scant." (Or, as the dissent
+puts it, "trifling." As the Government recognized
+below, "serious" ordinarily means a good bit more. The District Court's
+jury instructions required value that is "significant and of great
+import," and the Government defended these instructions as
+properly relying on "a commonly accepted meaning of the word
+'serious.'" 
+
+Quite apart from the requirement of "serious" value in § 48(b), the
+excepted speech must also fall within one of the enumerated categories.
+Much speech does not. Most hunting videos, for example, are not
+obviously instructional in nature, except in the sense that all life is
+a lesson. According to Safari Club International and the Congressional
+Sportsmen's Foundation, many popular videos "have primarily
+entertainment value" and are designed to "entertain the viewer,
+market hunting equipment, or increase the hunting community."
+
+The National Rifle Association agrees that "much of the content of hunting
+media &hellip; is merely *recreational* in nature." The
+Government offers no principled explanation why these depictions of
+hunting or depictions of Spanish bullfights would be *inherently*
+valuable while those of Japanese dogfights are not. The dissent contends
+that hunting depictions must have serious value because hunting has
+serious value, in a way that dogfights presumably do not. 
+
+But § 48(b) addresses the value of the *depictions,* not
+of the underlying activity. There is simply no adequate reading of the
+exceptions clause that results in the statute's banning only the
+depictions the Government would like to ban.
+
+The Government explains that the language of § 48(b) was largely drawn from
+our opinion in [*Miller v. California*](http://scholar.google.com/scholar_case?case=287180442152313659&q=united+states+v+stevens&hl=en&as_sdt=4,60) (US 1973), which excepted from its definition of obscenity any material with
+"serious literary, artistic, political, or scientific value."
+According to the
+Government, this incorporation of the *Miller* standard into § 48 is
+therefore surely enough to answer any First Amendment objection. 
+
+In *Miller* we held that "serious" value shields depictions of sex from
+Limiting *Miller*'s exception to "serious" value ensured that "a
+quotation from Voltaire in the flyleaf of a book would not
+constitutionally redeem an otherwise obscene publication.'" 
+We did not, however, determine that serious value could be used as a
+general precondition to protecting *other* types of speech in the first
+place. *Most* of what we say to one another lacks "religious, political,
+scientific, educational, journalistic, historical, or artistic value"
+(let alone serious value), but it is still sheltered from government
+regulation. Even "wholly neutral futilities . . . come under the
+protection of free speech as fully as do Keats' poems or Donne's
+sermons.'" [*Cohen v. California*](http://scholar.google.com/scholar_case?case=7398433541275578772&q=united+states+v+stevens&hl=en&as_sdt=4,60) (US 1971).
+
+Thus, the protection of the First Amendment presumptively extends to
+many forms of speech that do not qualify for the serious-value exception
+of § 48(b), but nonetheless fall within the broad reach of § 48(c).
+
+## D
+
+Not to worry, the Government says: The Executive Branch construes § 48
+to reach only "extreme" cruelty, , and it
+"neither has brought nor will bring a prosecution for anything less,"
+The Government hits this theme hard, invoking its
+prosecutorial discretion several times. 
+But the First Amendment protects against the Government; it does
+not leave us at the mercy of *noblesse oblige.* We would not uphold an
+unconstitutional statute merely because the Government promised to use
+it responsibly. 
+
+This prosecution is itself evidence of the danger in putting faith in
+government representations of prosecutorial restraint. When this
+legislation was enacted, the Executive Branch announced that it would
+interpret § 48 as covering only depictions "of wanton cruelty to animals
+designed to appeal to a prurient interest in sex."
+No one suggests that the videos in this
+case fit that description. The Government's assurance that it will apply
+§ 48 far more restrictively than its language provides is pertinent only
+as an implicit acknowledgment of the potential constitutional problems
+with a more natural reading.
+
+Nor can we rely upon the canon of construction that "ambiguous statutory
+language should be construed to avoid serious constitutional
+doubts." 
+
+"This Court may impose a limiting construction on a statute only if it is
+'readily susceptible' to such a construction." 
+We "will not rewrite a &hellip; law to conform it to constitutional
+requirements," for doing so would constitute a "serious invasion
+of the legislative domain," 
+and sharply diminish Congress's "incentive to draft a narrowly tailored
+law in the first place." 
+To read § 48 as the Government desires requires rewriting, not just
+reinterpretation.
+
+Our construction of § 48 decides the constitutional question; the
+Government makes no effort to defend the constitutionality of § 48 as
+applied beyond crush videos and depictions of animal fighting. It argues
+that those particular depictions are intrinsically related to criminal
+conduct or are analogous to obscenity (if not themselves obscene), and
+that the ban on such speech is narrowly tailored to reinforce
+restrictions on the underlying conduct, prevent additional crime arising
+from the depictions, or safeguard public mores. But the Government
+nowhere attempts to extend these arguments to depictions of any other
+activities—depictions that are presumptively protected by the First
+Amendment but that remain subject to the criminal sanctions of § 48.
+
+Nor does the Government seriously contest that the presumptively
+impermissible applications of § 48 (properly construed) far outnumber
+any permissible ones. However "growing" and "lucrative" the markets for
+crush videos and dogfighting depictions might be, 
+they are dwarfed by
+the market for other depictions, such as hunting magazines and videos,
+that we have determined to be within the scope of § 48.
+
+We therefore need not and do not decide whether a statute
+limited to crush videos or other depictions of extreme animal cruelty
+would be constitutional. We hold only that § 48 is not so limited but is
+instead substantially overbroad, and therefore invalid under the First
+Amendment.
+
+The judgment of the United States Court of Appeals for the Third Circuit
+is affirmed.
+
+*It is so ordered.*
+
+### Justice ALITO, dissenting.
+
+[Alito's overbreadth analysis omitted]
+
+Instead of applying the doctrine of overbreadth, I would vacate the
+decision below and instruct the Court of Appeals on remand to decide
+whether the videos that respondent sold are constitutionally protected.
+If the question of overbreadth is to be decided, however, I do not think
+the present record supports the Court's conclusion that § 48 bans a
+substantial quantity of protected speech.
+
+As the Court of Appeals recognized, "the primary conduct that Congress
+sought to address through its passage of § 48 was the creation,
+sale, or possession of 'crush videos.'" A sample crush video, which has been lodged with the Clerk,
+records the following event:
+
+> A kitten, secured to the ground, watches and shrieks in pain as a woman thrusts her high-heeled shoe into its body, slams her heel into the kitten's eye socket and mouth loudly fracturing its skull, and stomps repeatedly on the animal's head. The kitten hemorrhages blood, screams blindly in pain, and is ultimately left dead in a moist pile of blood-soaked hair and bone." Brief for Humane Society of United States as *Amicus Curiae* 2 (hereinafter Humane Society Brief)
+
+It is undisputed that the *conduct* depicted in crush videos may
+constitutionally be prohibited. All 50 States and the District of
+Columbia have enacted statutes prohibiting animal cruelty. 
+
+But before the
+enactment of § 48, the underlying conduct depicted in crush videos was
+nearly impossible to prosecute. These videos, which "often appeal to
+persons with a very specific sexual fetish," were made in
+secret, generally without a live audience, and "the faces of the women
+inflicting the torture in the material often were not shown, nor could
+the location of the place where the cruelty was being inflicted or the
+date of the activity be ascertained from the depiction." 
+Thus, law enforcement authorities often were not able to identify the
+parties responsible for the torture. 
+
+In the rare instances in which it was
+possible to identify and find the perpetrators, they "often were able to
+successfully assert as a defense that the State could not prove its
+jurisdiction over the place where the act occurred or that the actions
+depicted took place within the time specified in the State statute of
+limitations." 
+
+In light of the practical problems thwarting the prosecution of the
+creators of crush videos under state animal cruelty laws, Congress
+concluded that the only effective way of stopping the underlying
+criminal conduct was to prohibit the commercial exploitation of the
+videos of that conduct. 
+
+## 2
+
+The First Amendment protects freedom of speech, but it most certainly
+does not protect violent criminal conduct, even if
+engaged in for expressive purposes. Crush videos present a highly
+unusual free speech issue because they are so closely linked with
+violent criminal conduct. The videos record the commission of violent
+criminal acts, and it appears that these crimes are committed for the
+sole purpose of creating the videos. In addition, as noted above,
+Congress was presented with compelling evidence that the only way of
+preventing these crimes was to target the sale of the videos. Under
+these circumstances, I cannot believe that the First Amendment commands
+Congress to step aside and allow the underlying crimes to continue.
+
+The most relevant of our prior decisions is [*Ferber*](http://scholar.google.com/scholar_case?case=1226851723986989726&q=united+states+v+stevens&hl=en&as_sdt=4,60)
+which concerned child pornography. The Court there held that child
+pornography is not protected speech, and I believe that *Ferber*'s
+reasoning dictates a similar conclusion here.
+
+In *Ferber,* an important factor---I would say the most important
+factor---was that child pornography involves the commission of a crime
+that inflicts severe personal injury to the "children who are made to
+engage in sexual conduct for commercial purposes.'" 
+
+Second, *Ferber* emphasized the fact that these underlying crimes could
+not be effectively combated without targeting the distribution of child
+pornography. As the Court put it, "the distribution network for child
+pornography must be closed if the production of material which requires
+the sexual exploitation of children is to be effectively controlled."
+
+The Court added:
+
+> "There is no serious contention that the legislature was
+> unjustified in believing that it is difficult, if not impossible, to
+> halt the exploitation of children by pursuing only those who produce
+> the photographs and movies &hellip; The most expeditious if not the only
+> practical method of law enforcement may be to dry up the market for
+> this material by imposing severe criminal penalties on persons
+> selling, advertising, or otherwise promoting the product." 
+
+Third, the *Ferber* Court noted that the value of child pornography "is
+exceedingly modest, if not *de minimis,*" and that any such value was
+"overwhelmingly outweighed" by "the evil to be restricted."
+
+All three of these characteristics are shared by § 48, as applied to
+crush videos. First, the conduct depicted in crush videos is criminal in
+every State and the District of Columbia. Thus, any crush video made in
+this country records the actual commission of a criminal act that
+inflicts severe physical injury and excruciating pain and ultimately
+results in death. Those who
+record the underlying criminal acts are likely to be criminally
+culpable, either as aiders and abettors or conspirators. And in the
+tight and secretive market for these videos, some who sell the videos or
+possess them with the intent to make a profit may be similarly culpable.
+(For example, in some cases, crush videos were commissioned by
+purchasers who specified the details of the acts that they wanted to see
+performed. See H.R. Rep., at 3; Hearing on Depictions of Animal Cruelty
+27). To the extent that § 48 reaches such persons, it surely does not
+violate the First Amendment.
+
+Second, the criminal acts shown in crush videos cannot be prevented
+without targeting the conduct prohibited by § 48 — the creation, sale,
+and possession for sale of depictions of animal torture with the
+intention of realizing a commercial profit. The evidence presented to
+Congress posed a stark choice: Either ban the commercial exploitation of
+crush videos or tolerate a continuation of the criminal acts that they
+record. Faced with this evidence, Congress reasonably chose to target
+the lucrative crush video market.
+
+Finally, the harm caused by the underlying crimes vastly outweighs any
+minimal value that the depictions might conceivably be thought to
+possess. Section 48 reaches only the actual recording of acts of animal
+torture; the statute does not apply to verbal descriptions or to
+simulations. And, unlike the child pornography statute in *Ferber* or
+its federal counterpart § 48(b) provides an exception
+for depictions having any "serious religious, political, scientific,
+educational, journalistic, historical, or artistic value."
+
+It must be acknowledged that § 48 differs from a child pornography law
+in an important respect: preventing the abuse of children is certainly
+much more important than preventing the torture of the animals used in
+crush videos. It was largely for this reason that the Court of Appeals
+concluded that *Ferber* did not support the constitutionality of § 48.
+
+But while protecting children is unquestionably *more* important than
+protecting animals, the Government also has a compelling interest in
+preventing the torture depicted in crush videos.
+
+The animals used in crush videos are living creatures that experience
+excruciating pain. Our society has long banned such cruelty, which is
+illegal throughout the country. In *Ferber,* the Court noted that
+"virtually all of the States and the United States have passed
+legislation proscribing the production of or otherwise combating 'child
+pornography,'" and the Court declined to "second-guess that
+legislative judgment."
+
+Here, likewise, the Court of Appeals erred in second-guessing the
+legislative judgment about the importance of preventing cruelty to
+animals.
+
+Section 48's ban on trafficking in crush videos also helps to enforce
+the criminal 
+laws and to ensure that criminals do not profit from
+their crimes.  See [*Simon & Schuster, Inc. v. New York State Crime Victims Board*](http://scholar.google.com/scholar_case?case=988401867966498877&q=united+states+v+stevens&hl=en&as_sdt=4,60) (US 1991).
+
+In short, *Ferber* is the case that sheds the most light on the
+constitutionality of Congress' effort to halt the production of crush
+videos. Applying the principles set forth in *Ferber,* I would hold that
+crush videos are not protected by the First Amendment.
+
+## B
+
+Application of the *Ferber* framework also supports the
+constitutionality of § 48 as applied to depictions of brutal animal
+fights. 
+
+In sum, § 48 may validly be applied to at least two broad real-world
+categories of expression covered by the statute: crush videos and
+dogfighting videos. Thus, the statute has a substantial core of
+constitutionally permissible applications. Moreover, for the reasons set
+forth above, the record does not show that § 48, properly interpreted,
+bans a substantial amount of protected speech in absolute terms. *A
+fortiori,* respondent has not met his burden of demonstrating that any
+impermissible applications of the statute are "substantial" in relation
+to its "plainly legitimate sweep." [*Williams*](http://scholar.google.com/scholar_case?case=187122396083589585&q=united+states+v+stevens&hl=en&as_sdt=4,60).
+
+Accordingly, I would reject respondent's claim that § 48 is facially
+unconstitutional under the overbreadth doctrine.
+
+For these reasons, I respectfully dissent.
+
+[ferber]: http://scholar.google.com/scholar_case?case=1226851723986989726&q=united+states+v+stevens&hl=en&as_sdt=4,60)   "New York v. Ferber"
+[stevens]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=559+U.S.+460&appflag=67.12  "United States v. Stevens"
+
+## Violent Video Games 
+
+Recall that in [*Ginsberg v. New York*][ginsberg] (discussed below), 
 the Supreme Court upheld a New York statute 
 that regulated obscenity-for-minors, 
 prohibiting the sale of *sexual* material that, 
@@ -87,7 +743,7 @@ video games comports with the First Amendment.
 
 ### I
 
-[A California statute] prohibits the sale or rental of "violent video games" to minors, 
+A California statute prohibits the sale or rental of "violent video games" to minors, 
 and requires their packaging to be labeled "18." 
 The Act covers games 
 "in which the range of options available to a player 
@@ -116,7 +772,7 @@ but we have long recognized
 that it is difficult to distinguish politics from entertainment, 
 and dangerous to try. 
 "Everyone is familiar with instances of propaganda through fiction. 
-What is one man's amusement, teaches another's doctrine." [*Winters v. New York,* (S.Ct. 1948)](http://scholar.google.com/scholar_case?case=16314089118204976902). 
+What is one man's amusement, teaches another's doctrine." [*Winters v. New York,*](http://scholar.google.com/scholar_case?case=16314089118204976902) (US 1948).
 Like the protected books, plays, and movies that preceded them, 
 video games communicate ideas---and even social messages---through many familiar literary devices (such as characters, dialogue, plot, and music) 
 and through features distinctive to the medium 
@@ -125,24 +781,23 @@ That suffices to confer First Amendment protection.
 Under our Constitution, "aesthetic and moral judgments 
 about art and literature &hellip; are for the individual to make, 
 not for the Government to decree, even with the mandate or approval of a majority." 
-[*United States v. Playboy Entertainment Group, Inc.* (S.Ct. 2000)](http://scholar.google.com/scholar_case?case=11989907166283121695). 
+[*United States v. Playboy Entertainment Group, Inc.*](http://scholar.google.com/scholar_case?case=11989907166283121695) (US 2000).
 And whatever the challenges of applying the Constitution to ever-advancing technology, 
 "the basic principles of freedom of speech and the press, 
 like the First Amendment's command, do not vary" 
 when a new and different medium for communication appears. 
-[*Joseph Burstyn, Inc. v. Wilson,* (S.Ct. 1952)](http://scholar.google.com/scholar_case?case=5628256980652867975).
+[*Joseph Burstyn, Inc. v. Wilson,*](http://scholar.google.com/scholar_case?case=5628256980652867975) (US 1952).
  
 The most basic of those principles is this: 
 "[A]s a general matter &hellip; government has no power 
 to restrict expression because of its message, 
 its ideas, its subject matter, or its content." 
-[*Ashcroft v. American Civil Liberties Union,* (S.Ct. 2002)](http://scholar.google.com/scholar_case?case=8027362013479204062). 
+[*Ashcroft v. American Civil Liberties Union,*](http://scholar.google.com/scholar_case?case=8027362013479204062) (US 2002). 
 There are of course exceptions. 
 "'From 1791 to the present' &hellip; the First Amendment has 'permitted restrictions upon the content of speech in a few limited areas,' 
 and has never 'included a freedom to disregard these traditional limitations.'" 
-[*United States v. Stevens,* (S.Ct. 2010)](http://scholar.google.com/scholar_case?case=85657697512539256) (quoting [*R.A.V. v. St. Paul,* (S.Ct. 1992)](http://scholar.google.com/scholar_case?case=14621372290934958371)). 
-These limited areas—such as obscenity, [*Roth v. United States,* (S.Ct. 1957),](http://scholar.google.com/scholar_case?case=14778925784015245625) incitement, [*Brandenburg v. Ohio,* (S.Ct. 1969) *(per curiam)*](http://scholar.google.com/scholar_case?case=15538842772335942956)*,* and fighting words, [*Chaplinsky v. New Hampshire,* S.Ct. 1942)](http://scholar.google.com/scholar_case?case=124249671461500618)---represent "well-defined and narrowly limited classes of speech, the prevention and punishment of which have never been thought to raise any Constitutional
-problem." 
+[*United States v. Stevens,*](http://scholar.google.com/scholar_case?case=85657697512539256) 
+These limited areas—such as obscenity, [*Roth v. United States,*,](http://scholar.google.com/scholar_case?case=14778925784015245625) (US 1957), incitement, [*Brandenburg v. Ohio,* *(per curiam)*](http://scholar.google.com/scholar_case?case=15538842772335942956) (US 1969), and fighting words, [*Chaplinsky v. New Hampshire*](http://scholar.google.com/scholar_case?case=124249671461500618) (US 1942)---represent "well-defined and narrowly limited classes of speech, the prevention and punishment of which have never been thought to raise any Constitutional problem." 
 
 Last term, in *Stevens*, 
 we held that new categories of unprotected speech may not be added to the list 
@@ -154,8 +809,8 @@ The statute covered depictions
 if that harm to the animal was illegal 
 where the "the creation, sale, or possession took place," § 48(c)(1). 
 A saving clause largely borrowed from our obscenity jurisprudence, 
-see [*Miller v. California,* (Sct. 1973),](http://scholar.google.com/scholar_case?case=287180442152313659) exempted depictions 
-with "serious religious, political, scientific, educational, journalistic, historical, or artistic value," § 48(b). 
+see [*Miller v. California*](http://scholar.google.com/scholar_case?case=287180442152313659) (US 1973), 
+exempted depictions with "serious religious, political, scientific, educational, journalistic, historical, or artistic value," § 48(b). 
 We held that statute to be an impermissible content-based restriction on speech. 
 There was no American tradition of forbidding 
 the *depiction of* animal cruelty---though States have long had laws against *committing* it.
@@ -183,7 +838,7 @@ That does not suffice.
 Our cases have been clear 
 that the obscenity exception to the First Amendment 
 does not cover whatever a legislature finds shocking, 
-but only depictions of "sexual conduct," [*Miller, supra,*](http://scholar.google.com/scholar_case?case=287180442152313659). See also [*Cohen v. California,* (S.Ct. 1971)](http://scholar.google.com/scholar_case?case=7398433541275578772); [*Roth, supra,* at 487](http://scholar.google.com/scholar_case?case=14778925784015245625). 
+but only depictions of "sexual conduct," [*Miller, supra,*](http://scholar.google.com/scholar_case?case=287180442152313659). See also [*Cohen v. California*](http://scholar.google.com/scholar_case?case=7398433541275578772) (US 1971); [*Roth*](http://scholar.google.com/scholar_case?case=14778925784015245625). 
 
 *Stevens* was not the first time we have encountered 
 and rejected a State's attempt to shoehorn speech about violence into obscenity. 
@@ -208,7 +863,7 @@ The speech reached by the statute contained
 
 Because speech about violence is not obscene, 
 it is of no consequence that California's statute mimics the New York statute 
-regulating obscenity-for-minors that we upheld in [*Ginsberg v. New York,* (S.Ct. 1968)][ginsberg]). 
+regulating obscenity-for-minors that we upheld in [*Ginsberg v. New York,*][ginsberg] (US 1968). 
 That case approved a prohibition on the sale to minors of *sexual* material 
 that would be obscene from the perspective of a child. 
 We held that the legislature could 
@@ -237,13 +892,13 @@ That is unprecedented and mistaken.
 and only in relatively narrow and well-defined circumstances 
 may government bar public dissemination of protected materials to them." 
 [*Erznoznik v. Jacksonville,*][erz]. No doubt a State possesses legitimate power to protect children from harm, 
-[*Ginsberg, supra,*][ginsberg]; [*Prince v. Massachusetts,* (S.Ct. 1944),](http://scholar.google.com/scholar_case?case=3012582275354260465) 
+[*Ginsberg*][ginsberg]; 
 but that does not include a free-floating power 
 to restrict the ideas to which children may be exposed. 
 "Speech that is neither obscene as to youths 
 nor subject to some other legitimate proscription cannot be suppressed 
 solely to protect the young from ideas or images 
-that a legislative body thinks unsuitable for them." [*Erznoznik, supra,*][erz].
+that a legislative body thinks unsuitable for them." [*Erznoznik*][erz].
 
 California's argument would fare better 
 if there were a longstanding tradition in this country 
@@ -290,15 +945,14 @@ influenced to paths which sometimes lead to prison." Moving Pictures as
 Helps to Crime, *New York Times*, 21 Feb. 1909.
 For a time, our Court did permit broad censorship of
 movies because of their capacity to be "used for evil," 
-see [*Mutual Film Corp. v. Industrial Comm'n of Ohio,* (S.Ct. 1915),](http://scholar.google.com/scholar_case?case=7270078849202844362)
-but we eventually reversed course, [*Joseph Burstyn, Inc.,*](http://scholar.google.com/scholar_case?case=5628256980652867975);
-see also [*Erznoznik, supra,*][erz] 
+see [*Mutual Film Corp. v. Industrial Comm'n of Ohio*](http://scholar.google.com/scholar_case?case=7270078849202844362) (US 1915),
+but we eventually reversed course, [*Joseph Burstyn, Inc.*](http://scholar.google.com/scholar_case?case=5628256980652867975);
+see also [*Erznoznik*][erz] 
 (invalidating a drive-in movies restriction designed to protect children). 
 Radio dramas were next, and then came comic books. 
 Many in the late 1940's and early 1950's
 blamed comic books for fostering a "preoccupation with violence and
 horror" among the young, leading to a rising juvenile crime rate. 
-See Note, Regulation of Comic Books, 68 Harv. L. Rev. 489, 490 (1955). 
 But efforts to convince Congress to restrict comic books failed. 
 And, of course, after comic books came television and music lyrics.
 
@@ -323,7 +977,7 @@ As Judge Posner has observed, all literature is interactive:
 > invites him to judge them and quarrel with them, 
 > to experience their joys and sufferings as the reader's own." 
 
-[*American Amusement Machine Assn. v. Kendrick,* (7th Cir. 2001)](http://scholar.google.com/scholar_case?case=13025078069235542866) (striking down a similar restriction on violent video games).
+[*American Amusement Machine Assn. v. Kendrick*](http://scholar.google.com/scholar_case?case=13025078069235542866) (7th Cir. 2001) (striking down a similar restriction on violent video games).
 
 Justice ALITO has done considerable independent research 
 to identify &hellip; video games in which 
@@ -365,13 +1019,13 @@ will ever be permissible." [*Playboy, supra,* at 818](http://scholar.google.com/
 California cannot meet that standard. At the outset, it acknowledges
 that it cannot show a direct causal link between violent video games and
 harm to minors. Rather, relying upon our decision in [*Turner
-Broadcasting System, Inc. v. FCC,* (S.Ct. 1994),](http://scholar.google.com/scholar_case?case=5334675097720961353)
+Broadcasting System, Inc. v. FCC*](http://scholar.google.com/scholar_case?case=5334675097720961353) (US 1994),
 the State claims that it need not produce such proof because the
 legislature can make a predictive judgment that such a link exists,
 based on competing psychological studies. 
 But reliance on *Turner Broadcasting* is misplaced. 
 That decision applied *intermediate scrutiny* to a content-neutral regulation &hellip; California's burden is much higher, 
-and because it bears the risk of uncertainty, see [*Playboy, supra,*](http://scholar.google.com/scholar_case?case=11989907166283121695) ambiguous proof will not suffice.
+and because it bears the risk of uncertainty, see [*Playboy*](http://scholar.google.com/scholar_case?case=11989907166283121695) ambiguous proof will not suffice.
 
 The State's evidence is not compelling. 
 California relies primarily on the research of Dr. Craig Anderson 
@@ -415,8 +1069,6 @@ which in our view is alone enough to defeat it.
 Underinclusiveness raises serious doubts about whether the government is
 in fact pursuing the interest it invokes, 
 rather than disfavoring a particular speaker or viewpoint. 
-See [*City of Ladue v. Gilleo,* (S.Ct. 1994)](http://scholar.google.com/scholar_case?case=3859249994867287155);
-[*Florida Star v. B.J.F.,* (S.Ct. 1989)](http://scholar.google.com/scholar_case?case=11083261902857685106).
 Here, California has singled out the purveyors of video games for
 disfavored treatment---at least when compared to booksellers, cartoonists,
 and movie producers---and has given no persuasive reason why.
@@ -502,7 +1154,7 @@ California's legislation straddles the fence between
 Both ends are legitimate, but when they affect First Amendment
 rights they must be pursued by means that are neither seriously
 underinclusive, nor seriously overinclusive. See [*Church of
-Lukumi Babalu Aye, Inc. v. Hialeah,* (S.Ct. 1993)](http://scholar.google.com/scholar_case?case=975414503455261754). As a means of protecting children from portrayals of violence, the
+Lukumi Babalu Aye, Inc. v. Hialeah,*](http://scholar.google.com/scholar_case?case=975414503455261754) (US 1993). As a means of protecting children from portrayals of violence, the
 legislation is seriously underinclusive, not only because it excludes
 portrayals other than video games, but also because it permits a
 parental or avuncular veto. And as a means of assisting concerned
@@ -534,6 +1186,7 @@ We affirm the judgment below.
 > “That is the one case,” Kagan added, 
 > “where I kind of think I just don’t know. 
 > I just don’t know if that’s right.”
+
 
 ## True Threats
 
@@ -575,7 +1228,7 @@ and---if not---whether the First Amendment requires such a showing.
 #### A
 
 Anthony Douglas Elonis was an active user 
-of the social networking Web site Facebook&hellip; 
+of the social networking Web site Facebook &hellip; 
 In May 2010, Elonis's wife of nearly seven years left him, 
 taking with her their two young children. 
 Elonis began "listening to more violent music" 
@@ -793,14 +1446,14 @@ Elonis argues that the word "threat" itself in Section [875(c)][875]
 imposes such a requirement. 
 According to Elonis, every definition of "threat" or "threaten" 
 conveys the notion of an intent to inflict harm.
-See [*United States v. Jeffries,* (CA6 2012)](http://scholar.google.com/scholar_case?case=5838543687001663628).
+See [*United States v. Jeffries,* (CA6 2012)](http://scholar.google.com/scholar_case?case=5838543687001663628), 
+and for example: 
 
-*E.g.,* Oxford English Dictionary (1933) 
-("to declare (usually conditionally) one's intention of
-inflicting injury upon"); Webster's New International Dictionary 
-("*Law,* specif., an expression of an intention to inflict
-loss or harm on another by illegal means"); Black's Law Dictionary 1519
-(8th ed. 2004) ("A communicated intent to inflict harm or loss on
+* * Oxford English Dictionary ("to declare (usually conditionally) one's intention of
+inflicting injury upon"); 
+* Webster's New International Dictionary ("an expression of an intention to inflict
+loss or harm on another by illegal means"); 
+* Black's Law Dictionary ("A communicated intent to inflict harm or loss on
 another").
 
 These definitions, however, speak to what the statement conveys---not to
@@ -819,8 +1472,8 @@ to extort"); §875(d) (proscribing threats to property or reputation made
 "with intent to extort"). According to the Government, the express
 "intent to extort" requirements in Sections 875(b) and (d) should
 preclude courts from implying an unexpressed "intent to threaten"
-requirement in Section 875(c). See [*Russello* v. *United States*
-(S.Ct. 1983)](http://scholar.google.com/scholar_case?case=3958155902896689467)
+requirement in Section 875(c). 
+See [*Russello* v. *United States*](http://scholar.google.com/scholar_case?case=3958155902896689467) (US 1983)
 ("Where Congress includes particular language in one section of a
 statute but omits it in another section of the same Act, it is generally
 presumed that Congress acts intentionally and purposely in the disparate
@@ -848,9 +1501,9 @@ The fact that the statute does not specify any required mental state,
 however, does not mean that none exists. We have repeatedly held that
 "mere omission from a criminal enactment of any mention of criminal
 intent" should not be read "as dispensing with it." 
-[*Morissette United States* (S.Ct. 1952)](http://scholar.google.com/scholar_case?case=787130527265701764). 
+[*Morissette v. United States*](http://scholar.google.com/scholar_case?case=787130527265701764) (US 1952). 
 This rule of construction reflects the basic principle that "wrongdoing
-must be conscious to be criminal."&hellip;
+must be conscious to be criminal." &hellip;
 
 Although there are exceptions, 
 the "general rule" is that a guilty mind 
@@ -858,43 +1511,40 @@ is "a necessary element in the indictment and proof of every crime."
 We therefore generally "interpret criminal statutes to include
 broadly applicable scienter requirements, even where the statute by its
 terms does not contain them." [*United States* v. *X-Citement Video,
-Inc.,* (S.Ct. 1994)](http://scholar.google.com/scholar_case?case=199076989173199864). 
+Inc.*](http://scholar.google.com/scholar_case?case=199076989173199864) (US 1994). 
 
 This is not to say that a defendant must know that his conduct is
 illegal before he may be found guilty. The familiar maxim "ignorance of
 the law is no excuse" typically holds true. Instead, our cases have
 explained that a defendant generally must "know the facts that make his
 conduct fit the definition of the offense," [*Staples v. United
-States* (S.Ct. 1994),](http://scholar.google.com/scholar_case?case=9070596919144743522)
+States*](http://scholar.google.com/scholar_case?case=9070596919144743522) (US 1994),
 even if he does not know that those facts give rise to a crime.
-
-\* \* \*
 
 When interpreting federal criminal statutes 
 that are silent on the required mental state, 
 we read into the statute "only that *mens rea*
 which is necessary to separate wrongful conduct from \`otherwise
-innocent conduct.'" [*Carter v. United States* (2000)](http://scholar.google.com/scholar_case?case=7275088619612465258) 
-(quoting [*X-Citement Video*](http://scholar.google.com/scholar_case?case=199076989173199864)).
+innocent conduct.'" See [*Carter v. United States*](http://scholar.google.com/scholar_case?case=7275088619612465258) (US 2000). 
 In some cases, a general requirement that a defendant *act* knowingly is
 itself an adequate safeguard. For example, in *Carter,* we considered
-whether a conviction under 18 USC §2113(a), for taking "by force
+whether a conviction under [a statute] for taking "by force
 and violence" items of value belonging to or in the care of a bank,
-requires that a defendant have the intent to steal. [530 US at
-261](http://scholar.google.com/scholar_case?case=7275088619612465258).
+requires that a defendant have the intent to steal.
+
 We held that once the Government proves the defendant forcibly took the
 money, "the concerns underlying the presumption in favor of scienter are
 fully satisfied, for a forceful taking---even by a defendant who takes
-under a good-faith claim of right---falls outside the realm of . . .
-\`otherwise innocent'" conduct. In other instances,
+under a good-faith claim of right---falls outside the realm of &hellip; 
+'otherwise innocent'" conduct. In other instances,
 however, requiring only that the defendant act knowingly "would fail to
-protect the innocent actor." A statute similar to Section
-2113(a) that did not require a forcible taking or the intent to steal
+protect the innocent actor." A similar statute 
+that did not require a forcible taking or the intent to steal
 "would run the risk of punishing seemingly innocent conduct in the case
 of a defendant who peaceably takes money believing it to be his." 
 In such a case, the Court explained, 
 the statute "would need to be read to require &hellip; 
-that the defendant take the money with \`intent to steal or purloin.'"
+that the defendant take the money with 'intent to steal or purloin.'"
 
 #### C
 
@@ -903,7 +1553,7 @@ that a communication was transmitted
 and that it contained a threat. 
 The "presumption in favor of a scienter requirement 
 should apply to *each* of the statutory elements
-that criminalize otherwise innocent conduct." [*X-Citement Video,*](http://scholar.google.com/scholar_case?case=199076989173199864) (emphasis added). 
+that criminalize otherwise innocent conduct." [*X-Citement Video*](http://scholar.google.com/scholar_case?case=199076989173199864).
 The parties agree that a defendant under Section 875(c) 
 must know that he is transmitting a communication. 
 But communicating *something* is not what makes the conduct "wrongful." 
@@ -916,19 +1566,17 @@ Elonis's conviction, however, was premised solely on how his posts
 would be understood by a reasonable person. 
 Such a "reasonable person" standard is a familiar feature of civil liability in tort law, 
 but is inconsistent with "the conventional requirement for criminal conduct—
-*awareness* of some wrongdoing." [*Staples*](http://scholar.google.com/scholar_case?case=9070596919144743522).
+*awareness* of some wrongdoing." 
 Having liability turn on whether a "reasonable person"
 regards the communication as a threat---regardless of what the defendant
 thinks---"reduces culpability on the all-important element of the crime
-to negligence," [*Jeffries*](http://scholar.google.com/scholar_case?case=5838543687001663628)
-(Sutton, J., *dubitante*), and we "have long been reluctant to infer
-that a negligence standard was intended in criminal statutes." [*Rogers*
-v. *United States,* (S.Ct. 1975) (Marshall, J.,
-concurring)](http://scholar.google.com/scholar_case?case=2048750632248542584);
-[*Cochran* v. *United States* (S.Ct. 1895)](http://scholar.google.com/scholar_case?case=10487595760688789256)
+to negligence," 
+and we "have long been reluctant to infer
+that a negligence standard was intended in criminal statutes." 
+[*Cochran* v. *United States*](http://scholar.google.com/scholar_case?case=10487595760688789256) (US 1895)
 (defendant could face "liability in a civil action for negligence, 
 but he could only be held criminally for an evil intent actually existing in
-his mind"). Under these principles, "what \[Elonis\] thinks" does
+his mind"). Under these principles, "what Elonis thinks" does
 matter.
 
 The Government is at pains to characterize its position as something
@@ -940,8 +1588,6 @@ contents and context of his posts, and a reasonable person would have
 recognized that the posts would be read as genuine threats. That is a
 negligence standard.
 
-\* \* \*
-
 In light of the foregoing, Elonis's conviction cannot stand. The
 jury was instructed that the Government need prove only that a
 reasonable person would regard Elonis's communications as threats,
@@ -950,7 +1596,7 @@ solely on the results of an act without considering the defendant's
 mental state. That understanding "took deep and early root in American
 soil" and Congress left it intact here: Under Section 875(c),
 "wrongdoing must be conscious to be criminal." 
-[*Morissette,* 342 US at 252](http://scholar.google.com/scholar_case?case=787130527265701764).
+[*Morissette*](http://scholar.google.com/scholar_case?case=787130527265701764).
 
 There is no dispute that the mental state requirement in Section 875(c)
 is satisfied if the defendant transmits a communication for the purpose
@@ -959,12 +1605,9 @@ viewed as a threat. In response to a
 question at oral argument, Elonis stated that a finding of
 recklessness would not be sufficient. Neither
 Elonis nor the Government has briefed or argued that point, and we
-accordingly decline to address it. See [*Department of Treasury, IRS v.
-FLRA* (S.Ct. 1990)](http://scholar.google.com/scholar_case?case=531302628905511627)
-(this Court is "poorly situated" to address an argument the Court of
-Appeals did not consider, the parties did not brief, and counsel
-addressed in "only the most cursory fashion at oral argument"). Given
-our disposition, it is not necessary to consider any First Amendment
+accordingly decline to address it. 
+
+Given our disposition, it is not necessary to consider any First Amendment
 issues.
 
 The judgment of the United States Court of Appeals for the Third Circuit
@@ -973,9 +1616,7 @@ with this opinion.
 
 *It is so ordered.*
 
-### Dissenting & Concurring
-
-#### JUSTICE ALITO, concurring in part and dissenting in part.
+### JUSTICE ALITO, concurring in part and dissenting in part.
 
 In [*Marbury v. Madison,* (1803),](http://scholar.google.com/scholar_case?case=9834052745083343188) 
 the Court famously proclaimed: "It is emphatically the province and duty
@@ -998,8 +1639,8 @@ Elonis contends that it would.
 I would reject that argument.
 
 It is settled that the Constitution does not protect true threats. 
-See [*Virginia* v. *Black* (S.Ct. 2003)](http://scholar.google.com/scholar_case?case=2729037874515332053);
-[*R. A. V.* v. *St. Paul* (S.Ct. 1992)][rav]; [*Watts*][watts].
+See [*Virginia* v. *Black*](http://scholar.google.com/scholar_case?case=2729037874515332053) (US 2003);
+[*R. A. V.* v. *St. Paul*][rav] (US 1992); [*Watts*][watts].
 
 And there are good reasons for that rule: 
 True threats inflict great harm and have little if any social value. 
@@ -1065,12 +1706,12 @@ from all the little cuts.
 
 Or this: 
 
-> Fold up your \[protection from abuse order\] and put it in your pocket. Is it thick enough to
+> Fold up your [protection from abuse order] and put it in your pocket. Is it thick enough to
 stop a bullet?
 
 There was evidence that Elonis made sure his wife saw his posts. 
 And she testified that they made her feel "extremely afraid" 
-and "like \[she\] was being stalked." 
+and "like she was being stalked." 
 Considering the context, who could blame her? 
 Threats of violence and intimidation 
 are among the most favored weapons of domestic abusers, 
@@ -1087,19 +1728,18 @@ We have sometimes cautioned that it is necessary to
 "extend a measure of strategic protection"
 to otherwise unprotected false statements of fact 
 in order to ensure enough "breathing space" for protected speech. 
-[*Gertz* v. *Robert Welch, Inc.* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202&q=elonis&hl=en&as_sdt=6,28)
-(quoting [*NAACP* v. *Button* (S.Ct. 1963)](http://scholar.google.com/scholar_case?case=13147024771433949854)
+[*Gertz* v. *Robert Welch, Inc.*](http://scholar.google.com/scholar_case?case=7102507483896624202&q=elonis&hl=en&as_sdt=6,28) (US 1974)
+(quoting [*NAACP* v. *Button*](http://scholar.google.com/scholar_case?case=13147024771433949854) (US 1963).
 
 A similar argument might be made with respect to threats. 
 But we have also held that the law provides adequate breathing space 
 when it requires proof that false statements 
 were made with reckless disregard of their falsity. 
 See [*New York Times*](http://scholar.google.com/scholar_case?case=10183527771703896207&q=elonis&hl=en&as_sdt=6,28)
-(civil liability); [*Garrison,* 379 U. S., at
-74-75](http://scholar.google.com/scholar_case?case=6463657344879720774&q=elonis&hl=en&as_sdt=6,28) (criminal liability). Requiring proof of recklessness is similarly
+(civil liability); [*Garrison*](http://scholar.google.com/scholar_case?case=6463657344879720774&q=elonis&hl=en&as_sdt=6,28) (criminal liability). Requiring proof of recklessness is similarly
 sufficient here.&hellip; 
 
-#### JUSTICE THOMAS, dissenting.
+### JUSTICE THOMAS, dissenting.
 
 We granted certiorari to resolve a conflict in the lower courts over the
 appropriate mental state for threat prosecutions under 18 U. S. C.
@@ -1149,19 +1789,18 @@ To qualify as a true threat,
 a communication must be a serious expression of an intention 
 to commit unlawful physical violence, not merely "political hyperbole";
 "vehement, caustic, and sometimes unpleasantly sharp attacks"; or
-"vituperative, abusive, and inexact" statements. [*Watts* v. *United
-States,* (S.Ct. 1969) (*per curiam*)][watts]
+"vituperative, abusive, and inexact" statements. See [*Watts* v. *United States*][watts] (US 1969).
 It also cannot be determined solely
 by the reaction of the recipient, but must instead be "determined by the
 interpretation of a *reasonable* recipient familiar with the context of
-the communication," [*United States* v. *Darby* (4th Cir. 1994)](http://scholar.google.com/scholar_case?case=8979048315490359160&q=elonis&hl=en&as_sdt=6,28)
-(emphasis added), lest historically protected speech be suppressed at
-the will of an eggshell observer, cf. [*Cox* v. *Louisiana* (S.Ct. 1965)](http://scholar.google.com/scholar_case?case=7762480998218131446).&hellip; 
+the communication," 
+lest historically protected speech be suppressed at
+the will of an eggshell observer.
 
 There is thus no dispute that, at a minimum, §875(c) requires
 an objective showing: The communication must be one that "a reasonable
 observer would construe as a true threat to another." [*United States*
-v. *Jeffries* (6th Cir. 2012)](http://scholar.google.com/scholar_case?case=5838543687001663628).
+v. *Jeffries*](http://scholar.google.com/scholar_case?case=5838543687001663628) (6th Cir. 2012).
 And there is no dispute that the posts at issue here meet that objective
 standard.
 
@@ -1178,9 +1817,9 @@ machine gun, even if he intended the letter as a joke, cannot fairly be
 described as engaging in innocent conduct. 
 But see *ante* 
 (concluding that Elonis' conviction under §875(c) for discussing a
-plan to "\`initiate the most heinous school shooting ever imagined'"
-against "\`a Kindergarten class'" cannot stand without proof of some
-unspecified heightened mental state).&hellip; 
+plan to "'initiate the most heinous school shooting ever imagined'"
+against "'a Kindergarten class'" cannot stand without proof of some
+unspecified heightened mental state) &hellip; 
 
 ## II
 
@@ -1193,7 +1832,7 @@ threatening posts were nevertheless protected by the First Amendment.
 Elonis does not contend that threats are constitutionally protected
 speech, nor could he: "From 1791 to the present &hellip; our society . . .
 has permitted restrictions upon the content of speech in a few limited
-areas," true threats being one of them. [*R. A. V.* v. *St. Paul* (S.Ct. 1992)][rav]
+areas," true threats being one of them. [*RAV* v. *St. Paul*][rav]
 Instead, Elonis claims that only *intentional*
 threats fall within this particular historical exception.
 
@@ -1206,14 +1845,14 @@ doing so since the late 18th and early 19th centuries. (Long string cite of stat
 State practice
 thus provides at least some evidence of the original meaning of the
 phrase "freedom of speech" in the First Amendment. See [*Roth* v.
-*United States* (S.Ct. 1957)](http://scholar.google.com/scholar_case?case=14778925784015245625)
+*United States*](http://scholar.google.com/scholar_case?case=14778925784015245625)
 (engaging in a similar inquiry with respect to obscenity).&hellip; 
 
 ## B
 
 Elonis also insists that our precedents require a mental state of
 intent when it comes to threat prosecutions under §875(c), primarily
-relying on [*Watts*][watts] and [*Virginia* v. *Black* (S.Ct. 2003)](http://scholar.google.com/scholar_case?case=2729037874515332053).
+relying on [*Watts*][watts] and [*Virginia* v. *Black*](http://scholar.google.com/scholar_case?case=2729037874515332053) (US 2003).
 Neither of those decisions, however, addresses whether the First
 Amendment requires a particular mental state for threat prosecutions.
 
@@ -1229,25 +1868,17 @@ evaluating the mental requirement.
 The Court's fractured opinion in *Black* likewise says little about
 whether an intent-to-threaten requirement is constitutionally mandated
 here. *Black* concerned a Virginia cross-burning law that expressly
-required "\`an intent to intimidate a person or group of persons,'" [538
-U. S., at
-347](http://scholar.google.com/scholar_case?case=2729037874515332053)
-&hellip; and the Court thus had no
+required "'an intent to intimidate a person or group of persons,'" 
+and the Court thus had no
 occasion to decide whether such an element was necessary in threat
 provisions silent on the matter. Moreover, the focus of the *Black*
 decision was on the statutory presumption that "any cross burning
-\[w\]as prima facie evidence of intent to intimidate." [538 U. S., at
-347-348](http://scholar.google.com/scholar_case?case=2729037874515332053&q=elonis&hl=en&as_sdt=6,28).
+was prima facie evidence of intent to intimidate." 
+
 A majority of the Court concluded that this presumption failed to
 distinguish unprotected threats from protected speech because it might
 allow convictions "based solely on the fact of cross burning itself,"
-including cross burnings in a play or at a political rally.&hellip; 
-("The provision will thus tend
-to draw nonthreatening ideological expression within the ambit of the
-prohibition of intimidating expression"). The objective standard for
-threats under §875(c), however, helps to avoid this problem by
-"forc\[ing\] jurors to examine the circumstances in which a statement is
-made." [*Jeffries*](http://scholar.google.com/scholar_case?case=5838543687001663628).
+including cross burnings in a play or at a political rally. &hellip; 
 
 In addition to requiring a departure from our precedents, adopting
 Elonis' view would make threats one of the most protected categories
@@ -1255,10 +1886,10 @@ of unprotected speech, thereby sowing tension throughout our First
 Amendment doctrine. We generally have not required a heightened mental
 state under the First Amendment for historically unprotected categories
 of speech. For instance, the Court has indicated that a legislature may
-constitutionally prohibit "\`fighting words,' those personally abusive
+constitutionally prohibit "'fighting words,' those personally abusive
 epithets which, when addressed to the ordinary citizen, are, as a matter
 of common knowledge, inherently likely to provoke violent reaction,"
-[*Cohen* v. *California* (S.Ct. 1971)](http://scholar.google.com/scholar_case?case=7398433541275578772&q=elonis&hl=en&as_sdt=6,28)---without
+[*Cohen*](http://scholar.google.com/scholar_case?case=7398433541275578772&q=elonis&hl=en&as_sdt=6,28)---without
 proof of an intent to provoke a violent reaction. 
 Because the definition of "fighting words" 
 turns on how the "ordinary citizen" would react to
@@ -1266,15 +1897,15 @@ the language, this Court has observed that a defendant may be
 guilty of a breach of the peace if he "makes statements likely to
 provoke violence and disturbance of good order, even though no such
 eventuality be intended," and that the punishment of such statements "as
-a criminal act would raise no question under \[the Constitution\],"
-see also [*Chaplinsky* v. *New Hampshire* (S.Ct. 1942)](http://scholar.google.com/scholar_case?case=124249671461500618&q=elonis&hl=en&as_sdt=6,28)
+a criminal act would raise no question under [the Constitution],"
+see also [*Chaplinsky*](http://scholar.google.com/scholar_case?case=124249671461500618&q=elonis&hl=en&as_sdt=6,28)
 (rejecting a First Amendment challenge to a general-intent construction
-of a state statute punishing "\`fighting' words").&hellip; 
+of a state statute punishing "fighting' words"). &hellip; 
 
 And our precedents allow liability in tort for false statements about
 private persons on matters of private concern even if the speaker acted
 negligently with respect to the falsity of those statements. See
-[*Philadelphia Newspapers, Inc.* v. *Hepps* (S.Ct. 1986)](http://scholar.google.com/scholar_case?case=3066699330828671613&q=elonis&hl=en&as_sdt=6,28).
+[*Philadelphia Newspapers, Inc.* v. *Hepps*](http://scholar.google.com/scholar_case?case=3066699330828671613&q=elonis&hl=en&as_sdt=6,28) (US 1986).
 I see no reason why we should give threats pride of place among
 unprotected speech.
 
@@ -1329,7 +1960,7 @@ In April of 1992, Ronald Howard ("Howard") was driving a stolen automobile throu
 
 The Davidsons then brought this civil action &hellip; echoing several of the arguments made by Howard during his criminal trial. First, the Davidsons claim that the album *2Pacalypse Now* does not merit First Amendment protection because it: (1) is obscene, (2) contains "fighting words," (3) defames peace officers like Officer Davidson, and (4) tends to incite imminent illegal conduct on the part of individuals like Howard. Because the recording lacks constitutional protection, the Davidsons argue that Defendants are liable for producing violent music that proximately caused the death of Officer Davidson.
 
-The Supreme Court has narrowly defined the class of unprotected, “inciting” speech. To restrain 2Pacalypse Now in this case, the Court must find the recording (1) was directed or intended toward the goal of producing imminent lawless conduct and (2) was likely to produce such imminent illegal conduct. See [Hess v. Indiana (S.Ct. 1973)](http://scholar.google.com/scholar_case?case=404215965238624132). While the Davidsons may have shown that Shakur intended to produce imminent lawless conduct, the Davidsons cannot show that Howard's violent conduct was an imminent and likely result of listening to Shakur's songs.
+The Supreme Court has narrowly defined the class of unprotected, “inciting” speech. To restrain 2Pacalypse Now in this case, the Court must find the recording (1) was directed or intended toward the goal of producing imminent lawless conduct and (2) was likely to produce such imminent illegal conduct. See [Hess v. Indiana](http://scholar.google.com/scholar_case?case=404215965238624132) (US 1973). While the Davidsons may have shown that Shakur intended to produce imminent lawless conduct, the Davidsons cannot show that Howard's violent conduct was an imminent and likely result of listening to Shakur's songs.
 
 The Davidsons do not allege which song Howard was listening to at the time he brutally murdered Officer Davidson. As described later, the songs of *2Pacalypse Now* vary in their content and message. However, at least one song on the recording, "Crooked Ass Nigga," describes the commission of violence against police officers:
 
@@ -1640,7 +2271,7 @@ court that attaching tort liability to the effect that such ideas have
 on a criminal actor would raise significant constitutional problems
 under the First Amendment that ought to be avoided.&hellip; 
 
-Although the plaintiffs' contentions in this case do not concern the absolute proscription of the defendants' conduct, courts have made clear that attaching tort liability to protected speech can violate the First Amendment. *See* [*New York Times v. Sullivan,* (S.Ct. 1964)](http://scholar.google.com/scholar_case?case=10183527771703896207&q=james+meow&hl=en&as_sdt=6,28&scilh=0) ("Although this is a civil lawsuit between private parties, the Alabama courts have applied a state rule of law which petitioners claim to impose invalid restrictions on their constitutional freedoms of speech and press. It matters not that that law has been applied in a civil action and that it is common law only, though supplemented by statute.").
+Although the plaintiffs' contentions in this case do not concern the absolute proscription of the defendants' conduct, courts have made clear that attaching tort liability to protected speech can violate the First Amendment. *See* [*New York Times v. Sullivan,*](http://scholar.google.com/scholar_case?case=10183527771703896207&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (US 1964) ("Although this is a civil lawsuit between private parties, the Alabama courts have applied a state rule of law which petitioners claim to impose invalid restrictions on their constitutional freedoms of speech and press. It matters not that that law has been applied in a civil action and that it is common law only, though supplemented by statute.").
 
 [The court found that movies and video games are protected speech under the First Amendment.
 
@@ -1658,13 +2289,12 @@ children or, even more specifically, to Carneal. The protections of the
 First Amendment have always adapted to the audience intended for the
 speech. Specifically, we have recognized certain speech, while fully
 protected when directed to adults, may be restricted when directed
-towards minors. *See, e.g.,* [*Sable Communications v. FCC,* (S.Ct. 1989)](http://scholar.google.com/scholar_case?case=12959937071120946576);
-[*Connection Distrib. Co. v. Reno,* (6th Cir. 1998)](http://scholar.google.com/scholar_case?case=16910959375208847134). We have also required, however, that such regulations be narrowly
+towards minors. *See, e.g.,* [*Sable Communications v. FCC*](http://scholar.google.com/scholar_case?case=12959937071120946576) (US 1989);
+We have also required, however, that such regulations be narrowly
 tailored to protecting minors from speech that may improperly influence
 them and not effect an "unnecessarily broad suppression of speech"
-appropriate for adults. [*Reno v. American Civil Liberties Union,* (S.Ct. 1997)](http://scholar.google.com/scholar_case?case=1557224836887427725&q=james+meow&hl=en&as_sdt=6,28&scilh=0);
-[*United States v. Playboy Entm't Group, Inc.,* (S.Ct. 2000)](http://scholar.google.com/scholar_case?case=11989907166283121695&q=james+meow&hl=en&as_sdt=6,28&scilh=0);
-[*Connection Distrib.,*](http://scholar.google.com/scholar_case?case=16910959375208847134&q=james+meow&hl=en&as_sdt=6,28&scilh=0).
+appropriate for adults. [*Reno v. ACLU*](http://scholar.google.com/scholar_case?case=1557224836887427725&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (US 1997);
+[*United States v. Playboy Entm't Group, Inc.,*](http://scholar.google.com/scholar_case?case=11989907166283121695&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (US 2000).
 
 Of course, the measure here intended to protect minors from the improper
 influence of otherwise protected speech is quite different from the
@@ -1701,11 +2331,11 @@ regulation of protected speech should be directed in the first instance
 to the legislative and executive branches of state and federal
 governments, not the courts.
 
-Our concerns about adequately evaluating the narrow tailoring of regulations wane if the underlying expression is completely unprotected. Whether certain speech is not protected at all is a question that courts are regularly called upon to answer. James argues that to the extent that the content distributed by the defendants is at all expressive, it constitutes obscene material that is unprotected by the First Amendment. *See* [*Paris Adult Theatre I v. Slaton,* (S.Ct. 1973)](http://scholar.google.com/scholar_case?case=7437343063858529835&q=james+meow&hl=en&as_sdt=6,28&scilh=0). It would be novel to argue that the video games and *The Basketball Diaries* are obscene. As we understand James's complaint, he complains that the video games and the movie are excessively violent — yet we have generally applied our obscenity jurisprudence only to material of a sexual nature, appealing only to prurient interest and lacking any other socially redeeming value. *See* [*Miller v. California,* (S.Ct. 1973)](http://scholar.google.com/scholar_case?case=287180442152313659&q=james+meow&hl=en&as_sdt=6,28&scilh=0) ("We now confine the scope of [obscene material] to works which depict or describe sexual conduct."); [*United States v. Thoma,* (7th Cir. 1984)](http://scholar.google.com/scholar_case?case=6449473028065384946&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (holding that because depictions of violence are not sexual, obscenity jurisprudence does not apply).
+Our concerns about adequately evaluating the narrow tailoring of regulations wane if the underlying expression is completely unprotected. Whether certain speech is not protected at all is a question that courts are regularly called upon to answer. James argues that to the extent that the content distributed by the defendants is at all expressive, it constitutes obscene material that is unprotected by the First Amendment. *See* [*Paris Adult Theatre I v. Slaton,*](http://scholar.google.com/scholar_case?case=7437343063858529835&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (US 1973). It would be novel to argue that the video games and *The Basketball Diaries* are obscene. As we understand James's complaint, he complains that the video games and the movie are excessively violent — yet we have generally applied our obscenity jurisprudence only to material of a sexual nature, appealing only to prurient interest and lacking any other socially redeeming value. *See* [*Miller*](http://scholar.google.com/scholar_case?case=287180442152313659&q=james+meow&hl=en&as_sdt=6,28&scilh=0) ("We now confine the scope of [obscene material] to works which depict or describe sexual conduct."); [*United States v. Thoma,*](http://scholar.google.com/scholar_case?case=6449473028065384946&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (7th Cir. 1984) (holding that because depictions of violence are not sexual, obscenity jurisprudence does not apply).
 
 With the sexually-oriented internet defendants, James has an arguable basis to allege that the material is unprotected speech under our conventional obscenity jurisprudence. Nevertheless, where the First Amendment concerns wane the most with the possibility of obscenity, the foreseeability problems loom the largest. In his complaint, James contends that the sexual content displayed by the internet sites made "virtual sex pleasurable and attractive" for Carneal and caused him to undertake his violent actions. To us, however, James's allegations regarding his exposure to violence seem much closer to the mark. After all, James does not seek to hold the internet defendants responsible for a sexual crime: Carneal never endeavored sexually to abuse his victims, just to kill them. 
 
-With the movie and video game defendants, James contends that their material is excessively violent and constitutes obscene, non-protected speech. We decline to extend our obscenity jurisprudence to violent, instead of sexually explicit, material. Even if we were to consider such an expansion, James's arguments are not conceptually linked to our obscenity jurisprudence. The concept of obscenity was designed to permit the regulation of "offensive" material, that is, material that people find "disgusting" or "degrading." *See* [*American Amusement Mach. Ass'n v. Kendrick,* (7th Cir. 2001)](http://scholar.google.com/scholar_case?case=13025078069235542866). James's argument, on the other hand, is that the violent content of these video games and the movie shapes behavior and causes its consumers to commit violent acts. This is a different claim than the obscenity doctrine, which is a limit on the extent to which the community's sensibilities can be shocked by speech, not a protection against the behavior that the speech creates. *Id.* at 574-75 (holding that the law of obscenity does not apply to the argument that violence in video games causes players to commit violent acts). 
+With the movie and video game defendants, James contends that their material is excessively violent and constitutes obscene, non-protected speech. We decline to extend our obscenity jurisprudence to violent, instead of sexually explicit, material. Even if we were to consider such an expansion, James's arguments are not conceptually linked to our obscenity jurisprudence. The concept of obscenity was designed to permit the regulation of "offensive" material, that is, material that people find "disgusting" or "degrading." *See* [*American Amusement Mach. Ass'n v. Kendrick,*](http://scholar.google.com/scholar_case?case=13025078069235542866) (7th Cir. 2001). James's argument, on the other hand, is that the violent content of these video games and the movie shapes behavior and causes its consumers to commit violent acts. This is a different claim than the obscenity doctrine, which is a limit on the extent to which the community's sensibilities can be shocked by speech, not a protection against the behavior that the speech creates. *Id.* at 574-75 (holding that the law of obscenity does not apply to the argument that violence in video games causes players to commit violent acts). 
 
 This is not to say that protecting people from the violence that speech
 might incite is a completely impermissible purpose for regulating
@@ -1713,9 +2343,9 @@ speech. However, we have generally handled that endeavor under a
 different category of our First Amendment jurisprudence, excluding from
 constitutional protection those communicated ideas and images that
 incite others to violence. Speech that falls within this category of
-incitement is not entitled to First Amendment protection. *See* [*R.A.V. v. City of St. Paul,* (S.Ct. 1992)](http://scholar.google.com/scholar_case?case=14621372290934958371).
+incitement is not entitled to First Amendment protection. *See* [*RAV v. City of St. Paul*](http://scholar.google.com/scholar_case?case=14621372290934958371).
 The Court firmly set out the test for whether speech constitutes
-unprotected incitement to violence in [*Brandenburg v. Ohio,* (S.Ct. 1969)](http://scholar.google.com/scholar_case?case=15538842772335942956).
+unprotected incitement to violence in [*Brandenburg v. Ohio,*](http://scholar.google.com/scholar_case?case=15538842772335942956) (US 1969).
 In protecting against the propensity of expression to cause violence,
 states may only regulate that speech which is "*directed to* inciting or
 producing *imminent* lawless action and *is likely to incite* or produce
@@ -1726,7 +2356,7 @@ falls well short of this threshold. First, while the defendants in this
 case may not have exercised exquisite care regarding the persuasive
 power of the violent material that they disseminated, they certainly did
 not "intend" to produce violent actions by the consumers, as is required
-by the *Brandenburg* test. [*Hess v. Indiana,*](http://scholar.google.com/scholar_case?case=4042159652386241321) (requiring evidence that the speaker "intended" his words to produce
+by the *Brandenburg* test. [*Hess v. Indiana*](http://scholar.google.com/scholar_case?case=4042159652386241321) (requiring evidence that the speaker "intended" his words to produce
 violent conduct under the *Brandenburg* test). Second, the threat of a
 person like Carneal reacting to the violent content of the defendants'
 media was not "imminent." Even the theory of causation in this case is
@@ -1735,7 +2365,7 @@ Carneal's moral discomfort with violence to the point that he solved his
 social disputes with a gun. This glacial process of personality
 development is far from the temporal imminence that we have required to
 satisfy the *Brandenburg* test. [*Ashcroft v. Free Speech Coalition,*](http://scholar.google.com/scholar_case?case=4016009721484982910) ("The mere tendency of speech to encourage unlawful acts is not a sufficient reason for banning it absent some showing of a direct
-connection between the speech and imminent illegal conduct."); [*McCoy v. Stewart,* (9th Cir. 2002)](http://scholar.google.com/scholar_case?case=4786465207502783304&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (holding that incitement is not imminent if it risks third-party
+connection between the speech and imminent illegal conduct."); [*McCoy v. Stewart*](http://scholar.google.com/scholar_case?case=4786465207502783304&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (9th Cir. 2002) (holding that incitement is not imminent if it risks third-party
 violence at some "indefinite future time"). Third, it is a long
 leap from the proposition that Carneal's actions were foreseeable to the
 *Brandenburg* requirement that the violent content was "likely" to cause
@@ -2121,22 +2751,21 @@ amendment purposes and, analytically, can be no less important than the
 interest in reputation. The state's interest in this case is to protect
 the lives of adolescents who might be encouraged by pornographic
 publications and specifically instructed how to attempt life-threatening
-activities. In [*NAACP v. Claiborne Hardware Company,* (S.Ct. 1982),](http://scholar.google.com/scholar_case?case=7271075303659098319&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
+activities. In [*NAACP v. Claiborne Hardware Company,*](http://scholar.google.com/scholar_case?case=7271075303659098319&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0) (US 1982),
 the Supreme Court assumed that if violence had broken out as a result of
 Charles Evers' incendiary speech, both the mob and the speaker could
 have been subjected to damage claims by the victims. For similar
 reasons, "fighting words" have long been outside the sphere of first
-amendment protection. *See* [*Chaplinsky v. New Hampshire,* (S.Ct. 1942)](http://scholar.google.com/scholar_case?case=124249671461500618&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+amendment protection. *See* [*Chaplinsky*](http://scholar.google.com/scholar_case?case=124249671461500618&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
 The Supreme Court has also dealt favorably with state regulations
 designed to protect minors from performing sexual acts by prohibiting
-distribution of films containing such acts. [*New York v. Ferber,* (S.Ct. 1982)](http://scholar.google.com/scholar_case?case=1226851723986989726&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+distribution of films containing such acts. [*Ferber*](http://scholar.google.com/scholar_case?case=1226851723986989726&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
 There the Court found it "evident beyond the need for elaboration that a
-State's interest in \`safeguarding the physical and psychological
-wellbeing of a minor' is \`compelling'." [*Ferber*](http://scholar.google.com/scholar_case?case=1226851723986989726&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
-(quoting [*Globe Newspaper Co. v. Superior Court,* (S.Ct. 1982)](http://scholar.google.com/scholar_case?case=9138451588502129368&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)).
+State's interest in 'safeguarding the physical and psychological
+wellbeing of a minor' is 'compelling'." [*Ferber*](http://scholar.google.com/scholar_case?case=1226851723986989726&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
 The Court has even gone so far as to uphold an FCC regulation banning
 "indecent" speech from the airwaves at the times when children would be
-in the audience. [*F.C.C. v. Pacifica Foundation,* (S.Ct. 1978)](http://scholar.google.com/scholar_case?case=9738309099999149495&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+in the audience. [* Pacifica*](http://scholar.google.com/scholar_case?case=9738309099999149495&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
 States already regulate the distribution of pornography to minors, *see*
 Schauer, *supra* n. 9, at 196-97, and a remedy for the collateral
 consequences of unauthorized distribution, by way of a civil action for
@@ -2149,7 +2778,7 @@ important than the one weighed in [*Gertz*](http://scholar.google.com/scholar_ca
 While *Gertz* involved a libelous publication on a matter of public
 concern, the false information in *Dun & Bradstreet* was contained in a
 credit report distributed to merchants. The Court employed the test of
-content, form and context, best articulated in [*Connick v. Myers,* (S.Ct. 1983),](http://scholar.google.com/scholar_case?case=12292534138488546769&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
+content, form and context 
 to analyze whether the credit report was a matter of "public concern."
 Speech on matters of "private concern," the Court found, while not
 wholly unprotected, is not as substantial relative to important state
@@ -2173,7 +2802,7 @@ as the Court concluded in *Dun & Bradstreet,* "[t]here is simply no
 credible argument that this type of [speech] requires special protection
 to insure that 'debate on public issues [will] be uninhibited, robust,
 and wide-open.'" [*Dun & Bradstreet*](http://scholar.google.com/scholar_case?case=14343170427684392260&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0) quoting [*New York
-Times v. Sullivan,* (1967)](http://scholar.google.com/scholar_case?case=10183527771703896207&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+Times v. Sullivan*](http://scholar.google.com/scholar_case?case=10183527771703896207&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0) (1967).
 
 To place *Hustler* effectively on a par with *Dun & Bradstreet*'s
 "private speech" or with commercial speech, for purposes
@@ -2188,7 +2817,7 @@ Third, to the extent any chilling effect existed from the exposure to
 tort liability, this would, in my view, protect society from loss of
 life and limb, a legitimate, indeed compelling, state interest. Fourth,
 obscenity has been widely regulated by prior restraints for over a
-century. Before [*Roth v. United States,* (S.Ct. 1957),](http://scholar.google.com/scholar_case?case=14778925784015245625&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
+century. Before [*Roth*](http://scholar.google.com/scholar_case?case=14778925784015245625&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
 there was no *Hustler* magazine and it would probably have been banned.
 Despite such regulation, it does not appear that the pre-*Roth* era was
 a political dark age. Conversely, increasing leniency on pornography in
@@ -2284,11 +2913,11 @@ attacker's continued threats to the victim was again straightforward.
 
 ### Referenced Cases
 
-* [*U.S. v. Stevens*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=130+S.Ct.+1577\&appflag=67.12), 130 S.Ct. 1577 (2010). [Wikipedia](http://en.wikipedia.org/wiki/United_States_v._Stevens). 
-* [*Weirum v. RKO*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=539+P.2d+36&appflag=67.12), 539 P.2d 36 (1975). [Wikipedia](http://en.wikipedia.org/wiki/RKO_General#Notable_Legal_Case). 
-* [*Byers v. Edmundson*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=826+So.2d+551&appflag=67.12), 826 So.2d 551 (1st Cir. 2002). [Wikipedia list of copycat crimes committed by individuals allegedly influenced by the 1994 film *Natural Born Killers*](https://en.wikipedia.org/wiki/List_of_alleged_Natural_Born_Killers_copycat_crimes). 
+* [*U.S. v. Stevens*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=130+S.Ct.+1577\&appflag=67.12) (US 2010). [Wikipedia](http://en.wikipedia.org/wiki/United_States_v._Stevens). 
+* [*Weirum v. RKO*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=539+P.2d+36&appflag=67.12) (CA 1975). [Wikipedia](http://en.wikipedia.org/wiki/RKO_General#Notable_Legal_Case). 
+* [*Byers v. Edmundson*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=826+So.2d+551&appflag=67.12) (1st Cir. 2002). [Wikipedia list of copycat crimes committed by individuals allegedly influenced by the 1994 film *Natural Born Killers*](https://en.wikipedia.org/wiki/List_of_alleged_Natural_Born_Killers_copycat_crimes). 
 * [*Davidson v. Time Warner,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1997+WL+405907&appflag=67.12) 1997 WL 405907 (S.D.Tx 1997). [Case note on *Davidson v. Time-Warner*](http://tinyurl.com/ml5vvz8).
-* [*Miramax Films v. MPAA*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=560nys2d730&appflag=67.12), 560 N.Y.S.2d 730 (1990). 
+* [*Miramax Films v. MPAA*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=560nys2d730&appflag=67.12) (NY 1990). 
 * Trailer for [*This Film Is Not Yet Rated*](http://www.youtube.com/watch?v=UTL3XMDwY0c).
 
 ### Recommended
@@ -2298,15 +2927,15 @@ attacker's continued threats to the victim was again straightforward.
 * Trailer for [*This Film Is Not Yet Rated*](http://www.youtube.com/watch?v=UTL3XMDwY0c).
 
 [875]:	https://www.law.cornell.edu/uscode/text/18/875	"18 USC 875(c)"
-[watts]:	http://scholar.google.com/scholar_case?case=8610537150639053664	"Watts vs. US (US 1969)"
+[watts]:  http://scholar.google.com/scholar_case?case=8610537150639053664	"Watts vs. US (US 1969)"
 [rav]:	http://scholar.google.com/scholar_case?case=14621372290934958371	"R.A.V. v. St. Paul" 
 [miller_test]: http://en.wikipedia.org/wiki/Miller_test "The Miller Obscenity Test"
 [esrb]: http://www.esrb.org/index-js.jsp "ESRB"
-[stevens]: http://en.wikipedia.org/wiki/United_States_v._Stevens "U.S. v. Stevens"
+[stevens-w]: http://en.wikipedia.org/wiki/United_States_v._Stevens "U.S. v. Stevens"
 [nbk]: https://en.wikipedia.org/wiki/List_of_alleged_Natural_Born_Killers_copycat_crimes "Copycat Crimes & Natural Born Killers"
 [mpaa]: http://www.mpaa.org/ "MPAA"
 [2pac-made-me]: http://thediscography.org/discoDbDetail.php?req=942 "Cop Killer: '2pac Made Me Do It!'"
 [brown]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=131sct2729&appflag=67.12 "Brown v. Entertainment Merchants"
 [hitman]: http://users.telenet.be/sterf/texts/other/HitMan-Manual_for_Independent_Contractors.pdf "Hit Man A Manual For Independent Contractors"
-[ginsberg]:	http://scholar.google.com/scholar_case?case=8460647428333624773	"Ginsberg v. New York"
+[ginsberg]:  http://scholar.google.com/scholar_case?case=8460647428333624773	"Ginsberg v. New York"
 [erz]:	http://scholar.google.com/scholar_case?case=7611920100258061680	"Erznoznik v. City of Jacksonville" 
