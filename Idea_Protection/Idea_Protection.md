@@ -466,7 +466,7 @@ voluntarily accepted the disclosure knowing the conditions on which it
 was tendered and the reasonable value of the work." [*Grosso,* at
 967][grosso].
 
-"[M]irror[ing] the requirements of *Desny,*" the complaint in *Grosso*
+"Mirroring the requirements of *Desny,*" the complaint in *Grosso*
 alleged the plaintiff had submitted a movie script to the defendants
 "with the understanding and expectation &hellip; that [he] would be
 reasonably compensated for its use by Defendants." *Id.* 
@@ -856,8 +856,6 @@ scripts and the novel through CAA.]
 <!-- BEGIN COMMENT -->
 
 <!--
-
-
 
 -->
 

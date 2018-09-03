@@ -21,10 +21,9 @@ This is a public repository of the files I use to teach Entertainment Law. Since
 
 ### I Disclaim
 
-I am an author and sometimes a screenwriter. 
+I am an [author and sometimes a screenwriter](https://en.wikipedia.org/wiki/Richard_Dooling). 
 I'm also a lawyer, 
-and I teach Entertainment Law at the University of Nebraska College of Law, 
-but I am not YOUR lawyer, and the text you find here is NOT legal advice. 
+and [I teach Entertainment Law at the University of Nebraska College of Law](https://law.unl.edu/richard-dooling/), but I am not *your* lawyer, and the text you find here is *not* legal advice. 
 
 To paraphrase Hunter Thompson: 
 
@@ -34,7 +33,7 @@ To paraphrase Hunter Thompson:
 > and good men die like dogs.
 
 It's no place to be guessing about your legal rights. 
-If you need legal advice, GET A LAWYER! 
+If you need legal advice, please *get a lawyer.*
 
 These materials are published under an [MIT license](https://github.com/RichardDooling/Entertainment_Law/blob/master/LICENSE).
 

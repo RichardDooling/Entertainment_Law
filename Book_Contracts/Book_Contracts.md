@@ -4,11 +4,29 @@ title: Lawyers For The Talent
 abstract: Publishing Contracts.
 ---
 
-# Law & Business For Creative Artists
+## Lawyers For The Talent
 
 ###### by Richard Dooling &copy;
 
 These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+### I Disclaim
+
+I am an [author and sometimes a screenwriter](https://en.wikipedia.org/wiki/Richard_Dooling). 
+I'm also a lawyer, 
+and [I teach Entertainment Law at the University of Nebraska College of Law](https://law.unl.edu/richard-dooling/), but I am not *your* lawyer, and the text you find here is *not* legal advice. 
+
+To paraphrase Hunter Thompson: 
+
+> The entertainment industry 
+> is a cruel and shallow money trench &hellip; a long plastic 
+> hallway where thieves and pimps run free 
+> and good men die like dogs.
+
+It's no place to be guessing about your legal rights. 
+If you need legal advice, please *get a lawyer.*
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/Entertainment_Law/blob/master/LICENSE).
 
 ## Book Contracts
 
@@ -16,7 +34,7 @@ These materials are published under an [MIT license](https://github.com/RichardD
 
 * [Authors Guild Model Trade Book Contract and Guide][model] (sent to authors or their representatives when they join the Authors Guild; used by many professionals in the publishing industry).
 * [Authors Guild: Improving Your Book Contract - Negotiation Tips For Nine Typical Clauses][improving].
-* [*A Writer's Guide To Contract Negotiations*,][balkin] by Richard Balkin, Writers Digest Books, 1985.
+* [*A Writer's Guide To Contract Negotiations*][balkin], by Richard Balkin, Writers Digest Books, 1985.
 * [*Negotiating A Book Contract,*][levine] by Mark L. Levine, Asphodel Press, 2009.
 * [*10 Common Pitfalls Every Author Should Know about Self-Publishing,*](https://www.linkedin.com/pulse/10-common-pitfalls-every-author-should-know-deborah-e-johnson-esq-/).
 

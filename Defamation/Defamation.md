@@ -14,7 +14,7 @@ or write songs, or make movies,
 but what happens when those free speech rights 
 collide with the rights of others? 
 What if an author's bestselling memoir 
-names names, and defames others in the telling of his tale?
+names names and defames others in the telling of his tale?
 What if by telling her own story, 
 she invades the privacy of others? 
 "Steals" their "life story"? 
@@ -40,6 +40,10 @@ if those works of art contain or suggest false statements of fact.
 * [Defamation Law Made Simple at Nolo.com.][defamation]
 * [FreeAdvice: How to Prove Libel or Slander](http://injury-law.freeadvice.com/injury-law/libel_and_slander/prove-libel-and-slander.htm).
 * [Eric E. Johnson](http://www.ericejohnson.com/), [Defamation Flowchart](http://eejlaw.com/m/defamation_flowcharts.pdf).
+
+## What is defamation?
+
+<!-- Add bare essentials  -->
 
 ## Libel v. Slander
 
@@ -96,6 +100,8 @@ A plaintiff suing for defamation had to prove:
 * [NYTimes Editorial: The Uninhibited Press 50 Years Later](http://www.nytimes.com/2014/03/09/opinion/sunday/the-uninhibited-press-50-years-later.html).
 * [Image of "Heed Their Rising Voices" ad][heed]'
 * [Transcript of "Heed Their Rising Voices ad][heed_transcript] 
+
+![heed][heed]
 
 On March 29th, 1960, civil rights groups, including The Committee To Defend Martin Luther King and The Struggle For Freedom In The South ran a full-page advertisement in the New York Times. The ad, captioned ["Heed Their Rising Voices,"][heed], began:
 
