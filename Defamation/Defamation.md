@@ -5,52 +5,98 @@ subtitle: Entertainment Law
 chapter: Defamation 
 ---
 
-# Defamation 
+# Lawyers For The Talent
 
-###### by Richard Dooling
+###### by Richard Dooling &copy;
 
-Artists have First Amendment rights to tell stories, 
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## Defamation 
+
+Defamation is probably as old as the human race, 
+an ancient wrong made modern by new and pervasive forms of communication.
+False statements come in all guises in the law: 
+fraud, perjury, false advertising, unfair competition, and so on.
+A false statement of fact that harms a person's reputation is called defamation. 
+A tort.
+
+Artists and entertainers have First Amendment rights to tell stories, 
 or write songs, or make movies, 
 but what happens when those free speech rights 
 collide with the rights of others? 
 What if an author's bestselling memoir 
-names names and defames others in the telling of his tale?
+names names and defames others in the telling of her tale?
+What if character in a television docu-drama (*Wild Wild Country* or *Making A Murderer*)
+makes false statements about a living person 
+and harms their reputation?
+
 What if by telling her own story, 
-she invades the privacy of others? 
+an author invades the privacy of others? 
 "Steals" their "life story"? 
 Publicly discloses embarrassing private facts about their lives?
 
 Every major film attracts lawsuits, 
 and some plaintiffs sue 
 even though they are not mentioned by name. 
-Docu-dramas invite litigation. 
-Imagine documentary filmmakers wearing hidden microphones 
-and cameras making a documentary about a quack doctor 
+Docu-dramas invite litigation, 
+because they purport to dramatize "real" events. 
+
+What if documentary filmmakers wearing hidden microphones 
+and cameras make a documentary about a quack doctor 
 who is selling banned substances, 
 or unsafe herbal remedies? 
 Invasion of privacy? 
-Or investigative journalism 
-or some other species of reality entertainment?
+Or investigative journalism? 
+Or some other species of reality entertainment?
 
 Stories, songs, movies, even photos about real people, 
 may defame them, 
 if those works of art contain or suggest false statements of fact. 
 
-* ["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. 2009. 
-* [Defamation Law Made Simple at Nolo.com.][defamation]
-* [FreeAdvice: How to Prove Libel or Slander](http://injury-law.freeadvice.com/injury-law/libel_and_slander/prove-libel-and-slander.htm).
-* [Eric E. Johnson](http://www.ericejohnson.com/), [Defamation Flowchart](http://eejlaw.com/m/defamation_flowcharts.pdf).
-
-## What is defamation?
-
 <!-- Add bare essentials  -->
 
-## Libel v. Slander
+### Restatement 2nd Torts § 558 
 
-Two forms: Libel and slander.
+###### Elements of a Cause of Action for Defamation
 
-* Libel (mneumonic sounds like "label") is defamation in print; it's written or recorded, as in television or movies. 
+To create liability for defamation there must be:
+
+(a) a false and defamatory statement concerning another;
+(b) an unprivileged publication to a third party;
+(c) fault amounting at least to negligence on the part of the publisher; and
+(d) either actionability of the statement irrespective of special harm or the existence of special harm caused by the publication.
+
+[Restatement 2nd of Torts § 558 (1977)][r2t-558].
+
+### Libel v. Slander
+
+The common law origins of defamation lie in the torts of "slander" (a spoken harmful statement in a transient form, especially speech) and "libel", each of which gives a common law right of action. 
+
+Two forms: Libel and slander:
+
+* Libel (for a handy mnemonic, it sounds like "label") is defamation in print; it's written or recorded, as in television or movies. 
 * Slander is defamation by way of the spoken word.
+
+### Restatement 2nd Torts § 559 
+
+###### Defamatory Communication Defined
+
+A communication is defamatory if it tends so to harm the reputation of another 
+as to lower him in the estimation of the community 
+or to deter third persons from associating or dealing with him.
+
+[Restatement 2nd of Torts § 559 (1977)][r2t-559]
+
+### Pre-*New York Times v. Sullivan* 
+
+First let's look at the rules for stating a claim for defamation as they existed before [*New York Time v. Sullivan*][sullivan] (US 1968). 
+
+A plaintiff suing for defamation had to prove:
+
+1. A statement had been made about the plaintiff;
+2. The statement had been "published" to at least one other party;
+3. The statement was false (presumed at common law);
+4. The statement harmed the subject's reputation by lowering his or her standing in at least some part of the community. 
 
 ### Defamation Per Se
 
@@ -61,14 +107,12 @@ that they are considered to be *defamatory per se*.
 In the common law tradition, 
 damages for such false statements are presumed and do not have to be proven.
 
-Statements are defamatory per se where they falsely impute to the plaintiff one or more of the following:
+Statements are defamatory *per se* where they falsely impute to the plaintiff one or more of the following:
 
 1. Allegations or imputations "injurious to another in their trade, business, or profession"
 2. Allegations or imputations "of loathsome disease" (historically leprosy and sexually transmitted disease, now also includes mental illness)
 3. Allegations or imputations of "unchastity" (usually only in unmarried people and sometimes only in women)
 4. Allegations or imputations of criminal activity (sometimes only crimes of [moral turpitude](http://en.wikipedia.org/wiki/Moral_turpitude))
-
-[Wikipedia: Defamation Per Se](http://en.wikipedia.org/wiki/United_States_defamation_law#Defamation_per_se)
 
 ### Defamation Meets First Amendment
 
@@ -78,30 +122,18 @@ changed everything for public officials
 who don't like the way they are portrayed in the press. 
 It all started in Montgomery, Alabama and the civil rights movement in the South. 
 
-#### Elements
-
-First let's look at the rules for stating a claim for defamation as they existed before [*New York Time v. Sullivan*][sullivan]. 
-
-A plaintiff suing for defamation had to prove:
-
-1. A statement had been made about the plaintiff;
-2. The statement had been "published" to at least one other party;
-3. The statement was false (presumed at common law);
-4. The statement harmed the subject's reputation by lowering his or her standing in at least some part of the community. 
-
-[Restatement 2nd of Torts §559](http://tinyurl.com/ksezohp).
-
 ## *New York Times v. Sullivan*
 
 ###### US Supreme Court 1964
 
-* [*New York Times Co. v. Sullivan*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=376+us+254&appflag=67.12), 376 U.S. 254 (1964). 
+* [*New York Times Co. v. Sullivan*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=376+us+254&appflag=67.12) (US 1964). 
 * [Wikipedia](http://en.wikipedia.org/wiki/New_York_Times_Co._v._Sullivan).
 * [NYTimes Editorial: The Uninhibited Press 50 Years Later](http://www.nytimes.com/2014/03/09/opinion/sunday/the-uninhibited-press-50-years-later.html).
+
+![heed](https://www.archives.gov/exhibits/documented-rights/exhibit/section4/detail/images/heed-rising-voices.jpg)
+
 * [Image of "Heed Their Rising Voices" ad][heed]'
 * [Transcript of "Heed Their Rising Voices ad][heed_transcript] 
-
-![heed][heed]
 
 On March 29th, 1960, civil rights groups, including The Committee To Defend Martin Luther King and The Struggle For Freedom In The South ran a full-page advertisement in the New York Times. The ad, captioned ["Heed Their Rising Voices,"][heed], began:
 
@@ -137,7 +169,7 @@ in essence overruling Alabama's interpretation of its own defamation laws.
 The Court held that the First Amendment 
 required that in defamation actions brought by public officials, 
 the plaintiff official must prove 
-that the statement was made with "*actual malice*"--meaning it was made 
+that the statement was made with "*actual malice,*" meaning it was made 
 *with knowledge that the statement was false* 
 or *with reckeless disregard for the truth*. 
 
@@ -156,7 +188,7 @@ appellate court were charged with the duty
 to examine *the entire record* on review 
 to insure that a trial judgment did not tread on First Amendment freedoms. 
 
-#### Lawsuits Over False Statements of Fact
+### Lawsuits Over False Statements of Fact
 
 In the wake of [*New York Times v. Sullivan,*][sullivan] 
 the defamation rules changed 
@@ -169,15 +201,14 @@ and prospective plaintiffs were sorted into at least four different categories:
 
 If a public official or a public figure (celebrity) wishes to sue someone for defaming them they must prove [actual malice](http://en.wikipedia.org/wiki/Actual_malice).
 
-> One who publishes a false and defamatory communication 
-> concerning a public official or public figure 
-> in regard to his conduct, fitness or role in that capacity 
-> is subject to liability, if, but only if, he:
+### § 580A Defamation of Public Official or Public Figure
 
-> 1.  knows that the statement is false and that it defames the other person, or
-> 2.  acts in reckless disregard of these matters.
+One who publishes a false and defamatory communication concerning a public official or public figure in regard to his conduct, fitness or role in that capacity is subject to liability, if, but only if, he
 
-[§ 580A Restatement 2nd of Torts: Defamation of Public Official or Public Figure](http://tinyurl.com/kmvz6gy)
+(a) knows that the statement is false and that it defames the other person, or
+(b) acts in reckless disregard of these matters.
+
+### Actual Malice 
 
 Do not confuse *actual malice* with *legal malice*. 
 In defamation law, actual malice means 
@@ -188,7 +219,9 @@ Actual malice does not mean evil intent or evil purpose,
 it means the defendant knew the statement was false and made it anyway, 
 or had reckless disregard for the truth.
 
-#### Complexity
+[Restatement 2nd of Torts § 580A (1977)][r2t-580A](Defamation of Public Official or Public Figure).
+
+### Complexity
 
 Like the question of privacy rights, 
 defamation law is complex. How complex?
@@ -211,7 +244,7 @@ and instructed the jury that the plaintiff bore the burden of proving falsity:[�
 > that defamatory speech is false cannot stand 
 > when a plaintiff seeks damages against a media defendant.
 
-[*Philadelphia Newspapers, Inc. v. Hepps.* (S.Ct. 1986)][hepps]
+[*Philadelphia Newspapers, Inc. v. Hepps.*][hepps] (US 1986).
 
 And that's just state and federal law in the United States.
 
@@ -253,7 +286,7 @@ MILTON POLLACK, Senior District Judge.
 
 The defamation charged in the complaint is that in their film, "Missing," defendants (including Universal Studios) allegedly portrayed with actual malice that plaintiff, the Commander of the United States Military Group and Chief of the United States Mission to Chile at the time of the 1973 coup in Chile, ordered or approved a Chilean order to kill Charles Horman, an American residing in Chile.
 
-Actual malice is established in a public figure defamation litigation only where defendant publishes a statement "with knowledge that it was false or with reckless disregard of whether it was false or not." [*New York Times v. Sullivan,* (S.Ct. 1964) ][sullivan]. Reckless disregard in such a case means that a defendant published after he "in fact entertained serious doubts as to the truth of his publication." [*St. Amant v. Thompson* (S.Ct. 1968.)][amant]
+Actual malice is established in a public figure defamation litigation only where defendant publishes a statement "with knowledge that it was false or with reckless disregard of whether it was false or not." [*New York Times v. Sullivan,* (US 1964) ][sullivan]. Reckless disregard in such a case means that a defendant published after he "in fact entertained serious doubts as to the truth of his publication." [*St. Amant v. Thompson* (US 1968.)][amant]
 
 ### *Designated Evidence Offered by Plaintiff*
 
@@ -318,7 +351,7 @@ As a matter of law, to prevail on a defamation claim against a public
 official a plaintiff must do more than propound potential avenues of
 investigation that a defendant might have pursued. "[M]ere proof of
 failure to investigate, without more, cannot establish reckless
-disregard for the truth." [*Gertz v. Robert Welch* (S.Ct. 1974)][gertz], 
+disregard for the truth." [*Gertz v. Robert Welch*][gertz] (US 1974), 
 
 > Rather, a public figure defamation plaintiff must show either that the
 publisher actually entertained serious doubts about the veracity of the
@@ -382,7 +415,7 @@ Plaintiff argues that defendant's failure to consult plaintiff
 personally prior to presentation of the film is evidence of actual
 malice.
 
-However, plaintiff cannot prove actual malice merely by asserting that a publisher failed to contact the subject of his work. *See* [*Vandenburg v. Newsweek, Inc.* (5th Cir.1975)](http://scholar.google.com/scholar_case?case=6613184420209694118) (failure to verify story with plaintiff prior to publication insufficient evidence of actual malice.).
+However, plaintiff cannot prove actual malice merely by asserting that a publisher failed to contact the subject of his work. *See* [*Vandenburg v. Newsweek, Inc.* (5th Cir. 1975)](http://scholar.google.com/scholar_case?case=6613184420209694118) (failure to verify story with plaintiff prior to publication insufficient evidence of actual malice.).
 
 The actual malice standard cannot be satisfied by evidence of a
 failure to check with third parties prior to publication without proof
@@ -397,7 +430,7 @@ reporting standard, a reporter, without a 'high degree of awareness of
 their probable falsity,' may rely on statements made by a single source
 even though they reflect only one side of the story without fear of
 libel prosecution.&hellip;" [*New York Times v. Connor* (5th
-Cir.1966)](http://scholar.google.com/scholar_case?case=7290867114825816634). 
+Cir. 1966)](http://scholar.google.com/scholar_case?case=7290867114825816634). 
 
 Plaintiff has not designated specific facts suggesting an awareness or
 even suspicion by defendants of probable falsity of their source
@@ -494,8 +527,8 @@ dramatizations and does not demand literal truth in every episode
 depicted; publishing a dramatization is not of itself evidence of actual
 malice.
 
-In [*Street v. National Broadcasting Co.* (6th Cir.),](http://scholar.google.com/scholar_case?case=4559741824903610057), the
-Court of Appeals affirmed a ruling on a directed verdict that the
+In [*Street v. National Broadcasting Co.*](http://scholar.google.com/scholar_case?case=4559741824903610057), 
+(6th Cir. 1981), the Court of Appeals affirmed a ruling on a directed verdict that the
 dramatization embodied in defendant's broadcast program on the
 Scottsboro rape trial was protected by the [*New York Times v.
 Sullivan*][sullivan] standard, and not chargeable with actual malice. While the dramatization
@@ -504,16 +537,16 @@ statements and conversations &hellip; the movie was based "in all material respe
 Scottsboro trial. *Id.* at 1237. 
 
 > Such techniques do not rise to the constitutional level of clear and
-> convincing showing of reckless disregard.... [D]eviations from or
+> convincing showing of reckless disregard &hellip; Deviations from or
 > embellishments upon the information obtained from the primary sources
 > relied upon were miniscule and can be attributed to the leeway
 > afforded an author who attempts to recount and popularize an historic
 > event."
 
-[*Hotchner v. Castillo-Puche* (2d Cir. 1977)](http://scholar.google.com/scholar_case?case=15961362284476302575). Defendant published a book which purported to quote derogatory remarks
+[*Hotchner v. Castillo-Puche*](http://scholar.google.com/scholar_case?case=15961362284476302575) (2d Cir. 1977). Defendant published a book which purported to quote derogatory remarks
 by Ernest Hemingway about plaintiff. Defendant did not print the literal
 words used by Hemingway, and "was fictionalizing to some extent."
-[*Hotchner,* 551 F.2d at 914](http://scholar.google.com/scholar_case?case=15961362284476302575).
+[*Hotchner*](http://scholar.google.com/scholar_case?case=15961362284476302575).
 The Court of Appeals held that such fictionalization or dramatization
 does not satisfy the requirement of clear and convincing evidence from
 which a jury might reasonably find that defendant published the alleged
@@ -547,13 +580,13 @@ The complaint is dismissed, with costs.
 
 SO ORDERED.
 
-#### APPENDIX
+### APPENDIX
 
 The plaintiff has designated the following nine scenes in the film
 purportedly as the evidence he has that defendants published the film
 with actual malice.
 
-##### 1. *Initial Embassy Scene*
+#### 1. *Initial Embassy Scene*
 
 The scene depicts a meeting where it is reported that Tower and his
 staff have conducted interviews in the area where Charles was last seen.
@@ -566,7 +599,7 @@ about or statement by Ray Davis derived from Hauser's book. The book
 establishes that Ray Davis  was in charge of the American
 investigation into Charles Horman's disappearance.
 
-##### 2. *The Hotel Meeting*
+#### 2. *The Hotel Meeting*
 
 The film depicts a meeting at the Hormans' hotel at which Putnam, Clay,
 and Tower are present. Clay states that a fingerprint check made at all
@@ -579,7 +612,7 @@ fingerprints. *Execution* chronicles Ray Davis' statements that he made
 inquiries with friends in the Chilean military and was checking "all
 possible leads."
 
-##### 3. *The Stadium*
+#### 3. *The Stadium*
 
 In this scene the language is taken straight from *Execution;* the scene
 indicates that Tower and Putnam accompany Ed and Beth Horman to the
@@ -589,11 +622,11 @@ investigation into Charles' disappearance, are clearly indicated in
 Hauser's account. Indeed, *Execution* portrays that Ray Davis was "in
 charge of the investigation."
 
-##### 4. *The Final Embassy Meeting*
+#### 4. *The Final Embassy Meeting*
 
 In this scene Ed Horman tells Tower and the Embassy officials that he does not think that the military would kill Charles "unless an American official co-signed a kill order" and further indicates that he believes that American officials knew from the start that Charles was dead. These statements by Horman in the film directly reflect his beliefs as described in Hauser's book and as known to the filmmakers.
 
-##### 5. *The Airport Scene*
+#### 5. *The Airport Scene*
 
 In this scene Ed Horman tells Putnam, with Tower standing nearby, "I'm
 gonna sue you, Phil, and Tower and the Ambassador, and everybody who let
@@ -602,7 +635,7 @@ an airport by *Execution,* the speech accurately depicts Ed Horman's
 state of mind as described in *Execution.* Horman did sue eleven
 government officials.
 
-##### 6. *The Bathroom Scene*
+#### 6. *The Bathroom Scene*
 
 This scene shows Beth Horman in the bathtub at Tower's house when Tower
 walks into the bathroom with a drink in his hand. Tower says, "You know,
@@ -617,7 +650,7 @@ understated and overly charitable to Davis, both in describing how much
 he had to drink and in detailing precisely what occurred when he entered
 her bathroom.
 
-##### 7. *The Meeting with Paris*
+#### 7. *The Meeting with Paris*
 
 In this scene, Paris, described as a desperate former employee of the
 Junta, tells Ed Horman that a friend was present and saw Charles
@@ -632,7 +665,7 @@ This scene is taken directly from Hauser's book, which describes in
 detail the allegations of a Chilean defector and former employee of the
 Chilean Intelligence Service, Rafael Gonzalez.
 
-##### 8. *The Mafia Speech*
+#### 8. *The Mafia Speech*
 
 Tower analogizes Charles' death with the murder of someone who becomes
 involved with the Mafia. In fact, plaintiff Ray Davis himself made such
@@ -640,7 +673,7 @@ a statement and this is documented in *Execution.* Interestingly, these
 statements were made by Davis to Thomas Hauser while the latter was
 researching his book.
 
-##### 9. *The Telephone Repair Scene*
+#### 9. *The Telephone Repair Scene*
 
 This scene contains the suggestion that Ed Horman's telephone at his
 hotel is wiretapped. A telephone repairman leaves the hotel room and Ed
@@ -673,7 +706,7 @@ These are easy to spot, as the D.C. Circuit put it in
 
 #### Limited-Purpose Public Figure
 
-In its leading opinion on public *figures*, [*Gertz v. Robert Welch, Inc.* (S.Ct. 1974)][gertz], as opposed to public *officials*, [*New York Times v. Sullivan* (S.Ct. 1968)][sullivan], the United States Supreme Court identified at least two kinds of public figures:
+In its leading opinion on public *figures*, [*Gertz v. Robert Welch, Inc.* (US 1974)][gertz], as opposed to public *officials*, [*New York Times v. Sullivan* (US 1968)][sullivan], the United States Supreme Court identified at least two kinds of public figures:
 
 > In some instances 
 > an individual may achieve such pervasive fame or notoriety 
@@ -799,14 +832,12 @@ plaintiff is perhaps inviting sexual advances from Ramsey, although the words us
 
 #### A. Defamatory Nature of the Published Material
 
-Taken as a whole, the play conveys a defamatory image of the plaintiff. Although the words "bum" and "hustle" may be considered rhetorical hyperbole and therefore not necessarily defamatory, [*Letter Carriers v. Austin,* (S.Ct. 1974),](http://scholar.google.com/scholar_case?case=923744859423605953) the reference to plaintiff as a "whore" and her portrayal as a perjurer and a suborner of perjury is obviously defamatory. The suggestive flashbacks showing her inviting sexual advances of Ramsey and Tiller reinforce the defamation. The effect of the drama as a whole is to create a character, Victoria Price. She is portrayed as a loose woman who falsely accuses the Scottsboro boys of raping her. This image of her character is created throughout the play by her own words and actions in the  flashbacks and in the witness chair and by what others say about her.
+Taken as a whole, the play conveys a defamatory image of the plaintiff. Although the words "bum" and "hustle" may be considered rhetorical hyperbole and therefore not necessarily defamatory, [*Letter Carriers v. Austin,* (US 1974),](http://scholar.google.com/scholar_case?case=923744859423605953) the reference to plaintiff as a "whore" and her portrayal as a perjurer and a suborner of perjury is obviously defamatory. The suggestive flashbacks showing her inviting sexual advances of Ramsey and Tiller reinforce the defamation. The effect of the drama as a whole is to create a character, Victoria Price. She is portrayed as a loose woman who falsely accuses the Scottsboro boys of raping her. This image of her character is created throughout the play by her own words and actions in the  flashbacks and in the witness chair and by what others say about her.
 
 #### B. The Privilege of Fair Comment
 
-The portrayal of Victoria Price in this way is not expressed in the play as a matter of opinion. The characterization is expressed as concrete fact. The common law privilege of fair comment, adopted in Tennessee and explained in [*Venn v. Tennessean Newspapers, Inc.,*(M.D.Tenn. 1962),](http://scholar.google.com/scholar_case?case=14047302044250172971)
-*aff'd,* [313 F.2d 639 (6th Cir.),](http://scholar.google.com/scholar_case?case=18040896426752233502)
-*cert. denied,* [374 U.S. 830 (1963),](http://scholar.google.com/scholar_case?about=16196949732337435619&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
-is now protected as opinion under the First Amendment, [*Gertz v. Robert Welch, Inc.,* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202).
+The portrayal of Victoria Price in this way is not expressed in the play as a matter of opinion. The characterization is expressed as concrete fact. The common law privilege of fair comment, adopted in Tennessee 
+&hellip; is now protected as opinion under the First Amendment, [*Gertz v. Robert Welch, Inc.,* (US 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202).
 But this play does not say to the viewer that this is NBC's opinion about the character and actions of Victoria Price. It shows her inviting sexual intercourse and swearing falsely. We do not believe this characterization fits within the traditional fair comment privilege
 protecting opinion. *See* [*Cianci v. New York Times Publishing Co.,* (2nd Cir. 1980, *as amended* Oct. 27, 1980)](http://scholar.google.com/scholar_case?case=15742491952572175828&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
 (magazine article interpreting evidence of rape not expression of
@@ -819,7 +850,7 @@ In his opinion setting aside the verdict, Judge Horton found, in effect, that NB
 Neither Judge Horton's findings nor the final convictions based on the testimony of Victoria Price and affirmed on appeal settle the question of truth. That still remains an open question. Technical doctrines of res judicata and collateral estoppel do not apply in this context. Neither Victoria Price nor NBC were parties in the 1930s trials. In addition, citizens obviously have a right to attack the fairness of a trial. Judicial proceedings resolve disputes, but they do not establish the truth for all time. In libel cases the question of truth is normally
 one for the jury in a defamation action.
 
-Many of the scenes actually quote or paraphrase the trial transcript, but the movie is not a completely accurate report of the trial. Witnesses who corroborate Victoria Price's version of the facts are omitted. The portions of the original trial that show her as a perjurer and a promiscuous woman are emphasized. The flashbacks consistently show plaintiff's conduct in a derogatory light. The flashbacks entirely accept the theory of the case presented by Judge Horton and the defense and reject the theory of the case presented by the state and the plaintiff. Under such circumstances the common law privilege permitting publication of defamatory material as a part of a fair and accurate report on judicial proceedings is not satisfied. The element of balance and neutrality is missing. *See* [*Langford v. Vanderbilt University,* (Tenn.App. 1958)](http://scholar.google.com/scholar_case?case=2991746111379933624).
+Many of the scenes actually quote or paraphrase the trial transcript, but the movie is not a completely accurate report of the trial. Witnesses who corroborate Victoria Price's version of the facts are omitted. The portions of the original trial that show her as a perjurer and a promiscuous woman are emphasized. The flashbacks consistently show plaintiff's conduct in a derogatory light. The flashbacks entirely accept the theory of the case presented by Judge Horton and the defense and reject the theory of the case presented by the state and the plaintiff. Under such circumstances the common law privilege permitting publication of defamatory material as a part of a fair and accurate report on judicial proceedings is not satisfied. The element of balance and neutrality is missing. 
 
 ### III. THE FIRST AMENDMENT DEFENSES
 
@@ -872,7 +903,7 @@ and was able to broadcast her view of the events.
 The most troublesome issue is whether plaintiff "voluntarily" "thrust"
 herself to the forefront of this public controversy. It cannot be said
 that a rape victim "voluntarily" injects herself into a criminal
-prosecution for rape. *See* [*Time, Inc. v. Firestone,* (S.Ct. 1976)](http://scholar.google.com/scholar_case?case=12685855173622583678).
+prosecution for rape. *See* [*Time, Inc. v. Firestone*](http://scholar.google.com/scholar_case?case=12685855173622583678) (US 1976).
 In such an instance, voluntariness in the legal sense is closely bound
 to the issue of truth. If she was raped, her participation in the
 initial legal proceedings was involuntary for the purpose of determining
@@ -905,7 +936,7 @@ public interest in herself.
 
 The Supreme Court has explicitly reserved the question of "whether or
 when an individual who was once a public figure may lose that status by
-the passage of time." [*Wolston v. Reader's Digest Ass'n, Inc.,* (S.Ct. 1979)](http://scholar.google.com/scholar_case?case=14330147117680431779).
+the passage of time." [*Wolston v. Reader's Digest Ass'n, Inc.*](http://scholar.google.com/scholar_case?case=14330147117680431779)  (US 1979).
 In *Wolston* the District of Columbia Circuit found that plaintiff was a
 public figure and retained that status for the purpose of later
 discussion of the espionage case in which he was called as a witness.
@@ -924,7 +955,7 @@ law and analysis of the constitutional malice standard.
 
 On this issue the Fifth Circuit has reached the same conclusion as the
 District of Columbia Circuit in *Wolston.* In [*Brewer v. Memphis
-Publishing Co., Inc.,* (5th Cir. 1980),](http://scholar.google.com/scholar_case?case=3470754345585952877&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
+Publishing Co., Inc.,*](http://scholar.google.com/scholar_case?case=3470754345585952877&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0) (5th Cir. 1980).
 plaintiff sued when a newspaper implied that she was reviving a
 long-dormant romantic relationship with Elvis Presley. The Fifth Circuit
 concluded that although the passage of time might narrow the range of
@@ -935,7 +966,7 @@ even after her retirement from show business.
 
 Other courts have assumed *sub silentio* that the public figure status
 was retained over the passage of time. *See, e. g.,* [*Meeropol v. Nizer,* (2d Cir. 1977),](http://scholar.google.com/scholar_case?case=15243536244801528103&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
-*cert. denied,* [(S.Ct. 1978)](http://scholar.google.com/scholar_case?about=1891215749533979497&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
+*cert. denied,* [(US 1978)](http://scholar.google.com/scholar_case?about=1891215749533979497&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0)
 (having spent most of their early years in limelight, sons of Julius and
 Ethel Rosenberg are public figures for purposes of subsequent commentary
 on Rosenberg trials). Some courts have relied on a pre-*Gertz*
@@ -1042,7 +1073,7 @@ What if instead of suing for defamation, the unhappy public figure sues for inte
 ###### United States Supreme Court (1988)
 
 * [*Hustler v. Falwell* at Google Scholar](http://scholar.google.com/scholar_case?case=5069891851949874011).
-* [*Hustler v. Falwell* at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=108+S.Ct.+876&appflag=67.12).
+* [*Hustler v. Falwell* at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=108+S.Ct.+876&appflag=67.12)
 * [*Hustler v. Falwell* at Wikipedia](http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell). 
 * [Image of the Campari ad](http://law2.umkc.edu/faculty/projects/ftrials/falwell/campariL.jpg).
 
@@ -1080,7 +1111,7 @@ Petitioners' motion for judgment notwithstanding the verdict was denied.
 
 On appeal, the United States Court of Appeals for the Fourth Circuit
 affirmed &hellip; rejecting Flynt and Hustler's argument that the "actual malice"
-standard of [*New York Times Co.* v. *Sullivan* (S.Ct. 1964)][sullivan] 
+standard of [*New York Times Co.* v. *Sullivan* (US 1964)][sullivan] 
 must be met before Falwell (concededly a public figure) could recover for emotional distress.
 
 In the Fourth Circuit's view, the *New York Times* decision emphasized the
@@ -1106,15 +1137,14 @@ facts about the public figure involved. This we decline to do.&hellip;
 
 Of course, this does not mean that *any* speech about a public figure is
 immune from sanction in the form of damages. Since [*New York Times Co.*
-v. *Sullivan* (S.Ct. 1964),][sullivan] we have consistently ruled that a public figure may hold a speaker liable for the damage to reputation caused by publication of a
+v. *Sullivan* (US 1964),][sullivan] we have consistently ruled that a public figure may hold a speaker liable for the damage to reputation caused by publication of a
 defamatory falsehood, but only if the statement was made "with knowledge
 that it was false or with reckless disregard of whether it was false or
 not." &hellip; False statements of fact are particularly
 valueless; they interfere with the truth-seeking function of the
 marketplace of ideas, and they cause damage to an individual's
 reputation that cannot easily be repaired by counterspeech, however
-persuasive or effective. See [*Gertz,* 418 U. S., at 340, 344, n.
-9](http://scholar.google.com/scholar_case?case=7102507483896624202&q=hustler+flynt&hl=en&as_sdt=2006&scilh=0).
+persuasive or effective. See [*Gertz*](http://scholar.google.com/scholar_case?case=7102507483896624202&q=hustler+flynt&hl=en&as_sdt=2006&scilh=0).
 But even though falsehoods have little value in and of themselves, they
 are "nevertheless inevitable in free debate," and a rule
 that would impose strict liability on a publisher for false factual
@@ -1129,8 +1159,7 @@ Respondent argues, however, that a different standard should apply in
 this case because here the State seeks to prevent not reputational
 damage, but the severe emotional distress suffered by the person who is
 the subject of an offensive publication. Cf. [*Zacchini* v.
-*Scripps-Howard Broadcasting Co.,* 433 U. S. 562
-(1977)](http://scholar.google.com/scholar_case?case=16238771870259020023)
+*Scripps-Howard Broadcasting Co.,* (US 1977)](http://scholar.google.com/scholar_case?case=16238771870259020023)
 (ruling that the "actual malice" standard does not apply to the tort of
 appropriation of a right of publicity). In respondent's view, and in the
 view of the  Court of Appeals, so long as the utterance was
@@ -1147,9 +1176,8 @@ is quite understandable that most if not all jurisdictions have chosen
 to make it civilly culpable where the conduct in question is
 sufficiently "outrageous." But in the world of debate about public
 affairs, many things done with motives that are less than admirable are
-protected by the First Amendment. In [*Garrison* v. *Louisiana,* 379 U.
-S. 64
-(1964),](http://scholar.google.com/scholar_case?case=6463657344879720774&q=hustler+flynt&hl=en&as_sdt=2006&scilh=0)
+protected by the First Amendment. 
+In [*Garrison* v. *Louisiana*](http://scholar.google.com/scholar_case?case=6463657344879720774&q=hustler+flynt&hl=en&as_sdt=2006&scilh=0) (US 1964), 
 we held that even when a speaker or writer is motivated by hatred or ill
 will his expression was protected by the First Amendment:
 
@@ -1220,7 +1248,7 @@ liability on the basis of the jurors' tastes or views, or perhaps on the
 basis of their dislike of a particular expression. An "outrageousness"
 standard thus runs afoul of our longstanding refusal to allow damages to
 be awarded because the speech in question may have an adverse emotional
-impact on the audience. See [*NAACP* v. *Claiborne Hardware Co.* (S.Ct. 1982)](http://scholar.google.com/scholar_case?case=7271075303659098319) ("Speech does not lose its protected character. . . simply because it may embarrass others or coerce them into action"). 
+impact on the audience. See [*NAACP* v. *Claiborne Hardware Co.* (US 1982)](http://scholar.google.com/scholar_case?case=7271075303659098319) ("Speech does not lose its protected character. . . simply because it may embarrass others or coerce them into action"). 
 
 > We conclude that public figures and public officials may not recover for
 the tort of intentional infliction of emotional distress by reason of
@@ -1237,15 +1265,24 @@ accordingly
 
 *Reversed.*
 
-#### Reference/Footnote Cases
+### Helpful Links
+
+* [Wikipedia: Defamation Per Se](http://en.wikipedia.org/wiki/United_States_defamation_law#Defamation_per_se)
+* [Special Note on the Impact of the First Amendment of the Constitution on the Law of Defamation][special_note]
+* ["Fact-Based Stories"](http://www.richarddooling.com/ArtBizLaw/Fact_Based_Stories.pdf) from the [Independent Producers Survival Guide: A Business and Legal Sourcebook][survival] 4th Ed. 2009. 
+* [Defamation Law Made Simple at Nolo.com.][defamation]
+* [FreeAdvice: How to Prove Libel or Slander](http://injury-law.freeadvice.com/injury-law/libel_and_slander/prove-libel-and-slander.htm).
+* [Eric E. Johnson](http://www.ericejohnson.com/), [Defamation Flowchart](http://eejlaw.com/m/defamation_flowcharts.pdf).
+
+### Reference/Footnote Cases
 
 * [*Spahn v. Julian Mesner,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=23+a.d.2d+216&appflag=67.12), 260 NYS2d 451 (1965). 
 * [False Light at Wikipedia](http://en.wikipedia.org/wiki/False_light). 
 
 
-#### Totally Optional Readings & Viewings
+### Totally Optional Readings & Viewings
 
-##### 'American Hustle' Sparks $1 Million Libel Lawsuit 
+#### 'American Hustle' Sparks $1 Million Libel Lawsuit 
 
 Former New Yorker writer and journalist, [Paul Brodeur says his reputation was damaged by claims about microwaves that the film falsely attributes to him.](http://www.hollywoodreporter.com/thr-esq/american-hustle-sparks-1-million-745296): 
 
@@ -1257,7 +1294,7 @@ Former New Yorker writer and journalist, [Paul Brodeur says his reputation was d
 he was harmfully named as the source of information that
 microwaves take nutrition out of food.
 
-##### "Wolf of Wall Street" Defamation Lawsuit
+#### "Wolf of Wall Street" Defamation Lawsuit
 
 [Paramount (Almost) Beats 'Wolf of Wall Street' Defamation Lawsuit](http://www.hollywoodreporter.com/thr-esq/paramount-almost-beats-wolf-wall-829096)
 
@@ -1267,7 +1304,7 @@ microwaves take nutrition out of food.
 
 > Greene says the film changed his nickname from "Wigwam" to "Rugrat," but that his likeness was unmistakable and that the film "portrayed [him] as a criminal, drug user, degenerate, depraved, and/or devoid of any morality or ethics."
 
-##### More
+#### More
 
 * [*The People Versus Larry Flynt*][flynt] (stars Woody Harrelson and Courtney Love). This is a love song to the First Amendment directed by Czech director Milos Forman telling the tale of preacher Jerry Falwell's [landmark Supreme Court case][falwell] against Larry Flynt, the publisher of *Hustler Magazine* (on reserve in Schmid Library).
 * Amy J. Field, [A Curtain Call for Docudrama-Defamation Actions: A Clear Standard Takes a Bow](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr). Casenote discussing *Davis v. Costa-Gavaras* (SDNY 1987).
@@ -1277,12 +1314,12 @@ microwaves take nutrition out of food.
 - [Reverse defamation, the Newsweek Bitcoin story, and Satoshi Nakamoto](http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/03/18/reverse-defamation-the-newsweek-bitcoin-story-and-satoshi-nakamoto/)
 * [What is More Defamatory? A False Accusation of Homophobia or of Homosexuality?](http://www.trademarkandcopyrightlawblog.com/2014/09/whatismore/)
 
-##### Scarlett Johannsen Sues French Novelist
+#### Scarlett Johannsen Sues French Novelist
 
 * [Seeing read: Scarlett Johansson sues French novelist](http://www.theguardian.com/film/2014/may/14/scarlett-johansson-sues-french-author).
 * [Scarlett Johansson wins defamation case against French novelist](http://www.theguardian.com/film/2014/jul/04/scarlett-johansson-wins-french-defamation-case).
 
-##### Courtney Love & Defamation via Twitter
+#### Courtney Love & Defamation via Twitter
 
 - [Courtney Love commits defamation via Twitter--Twice!][courtney]
 - [Courtney Love wins 'Twibel' case][twibel]
@@ -1291,11 +1328,18 @@ microwaves take nutrition out of food.
 
 > Love also testified that she believed her message to be true when she sent it. That might have been the prevailing defense. The jury answered no to the question, "Did Rhonda Holmes prove by clear and convincing evidence that Courtney Love knew it was false or doubted the truth of it?"
 
-##### Who Are "The News Media?"
+#### Who Are "The News Media?"
 
 Blurred lines: Ninth Circuit applies same First Amendment protections to bloggers as traditional media. [Bloggers enjoy same First Amendment Protections as Traditional Media](http://www.lexology.com/library/detail.aspx?g=70eecbf8-59ac-46b1-8a8a-253e26d7b843&l=7KKVEH6).
 
+[cda]: https://www.law.cornell.edu/uscode/text/47/230 
 
+[r2t-580A]: https://1.next.westlaw.com/Link/Document/FullText?findType=Y&pubNum=101577&cite=REST2DTORTSS580A&originatingDoc=Iec150d03c68511e4a68ee177e0653727&refType=DA&originationContext=document&transitionType=DocumentItem&contextData=(sc.Category) 
+[r2t-558]: https://www.westlaw.com/Document/I82cb29cedc1611e2ac56d4437d510c12/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0 "Rest 2nd Torts Section 558"
+[r2t-559]: https://www.westlaw.com/Document/I82cb29d1dc1611e2ac56d4437d510c12/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0
+
+[special_note]: https://www.westlaw.com/Document/Iec150d03c68511e4a68ee177e0653727/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0
+[dooling]:  https://www.nytimes.com/1996/06/15/opinion/most-of-these-guys-are-lawyers-right.html  "Most of These Guys Are Lawyers, Right? by Richard Dooling"
 [survival]: http://www.amazon.com/Independent-Film-Producers-Survival-Guide/dp/0825637236/ref=sr_1_1?ie=UTF8&qid=1375835406&sr=8-1&keywords=independent+producers+survival+guide "Independent Producers Survival Guide"
 [courtney]: http://www.abajournal.com/news/article/courtney_love_takes_stand_in_former_attorneys_libel_lawsuit_over_critical "Courtney Love Sued For Defaming Via Twitter"
 [twibel]: http://www.hollywoodreporter.com/thr-esq/courtney-love-wins-twitter-defamation-673972 "Courtney Love Wins Twibel Case"
@@ -1310,6 +1354,11 @@ Blurred lines: Ninth Circuit applies same First Amendment protections to blogger
 [flynt]: http://www.imdb.com/title/tt0117318/ "The People v. Larry Flynt"
 [falwell]: http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell "Hustler vs. Falwell at Wikipedia"
 [hepps]: http://scholar.google.com/scholar_case?case=3066699330828671613 "Philadelphia v. Hepps"
+[reno]: http://scholar.google.com/scholar_case?case=1557224836887427725  "Reno v. ACLU (US 1997)"
+
+
+
+
 
 
 <!-- BEGIN COMMENT -->

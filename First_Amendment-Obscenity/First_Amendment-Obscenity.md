@@ -20,7 +20,7 @@ But the f-word and its kin are better described as [*indecency*](https://www.fcc
 [as the Federal Communications Commission (FCC) defines it](https://www.fcc.gov/general/obscenity-indecency-and-profanity).
 
 Justice Potter Stewart gave the most honest and memorable definition of obscenity in 
-[*Jacobellis v. Ohio* (1964)](http://en.wikipedia.org/wiki/Jacobellis_v._Ohio):
+[*Jacobellis v. Ohio*](http://en.wikipedia.org/wiki/Jacobellis_v._Ohio) (1964):
 
 > I shall not today attempt further to define the kinds of material I understand to be embraced within that shorthand description ["hard-core pornography"]; and perhaps I could never succeed in intelligibly doing so. **But I know it when I see it**, and the motion picture involved in this case is not that.
 
@@ -50,7 +50,7 @@ and most modern obscenity cases involve videos depicting hard core pornography,
 but in the first half of the last century, 
 the printed word alone was enough. 
 
-Less than fifty years ago, in [*Kaplan v. California*][kaplan], (US 1973), 
+Less than fifty years ago, in [*Kaplan v. California*][kaplan] (US 1973), 
 the Supreme Court held that: 
 
 "Obscene material in book form is not entitled to any First Amendment protection 
@@ -80,8 +80,7 @@ This is a case between two ancient enemies: Anything Goes and Enough
 Already.
 
 Justice Oliver Wendell Holmes, Jr. observed in [*Schenck v. United
-States,* 47 (1919),][schenck] 
-that the First Amendment is not absolute and that it does not permit one
+States* (US 1919),][schenck] that the First Amendment is not absolute and that it does not permit one
 to yell "Fire" in a crowded theater. Today, this court decides whether
 the First Amendment absolutely permits one to yell another "F" word
 anywhere in the community when combined with graphic sexual
@@ -278,7 +277,7 @@ The state may also have an important interest in protecting minors and
 unwilling or sensitive adults from exposure to obscene materials. *See*
 [*Miller*](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
 The plaintiffs attempt to diminish the state's interest by
-relying upon language in [*Butler v. Michigan* (US 1957),](http://scholar.google.com/scholar_case?case=8098803622147894006&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+relying upon language in [*Butler v. Michigan*](http://scholar.google.com/scholar_case?case=8098803622147894006&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0) (US 1957)
 that if materials that are only obscene as to minors are banned, a
 state's statute would "reduce the adult population ... to reading only
 what is fit for children." This decision
@@ -586,7 +585,8 @@ the law gives effect to a determination based on a preponderance of the
 evidence. Even in criminal matters where a person can lose his liberty,
 property, and even his life, there is no requirement that the government
 prove guilt beyond all possible doubt. As noted in [*Hamling v. United
-States* (US 1974)](http://scholar.google.com/scholar_case?case=487349011929396754&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0), "It is common experience that different juries may reach different
+States*](http://scholar.google.com/scholar_case?case=487349011929396754&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0) (US 1974), 
+"It is common experience that different juries may reach different
 results ... This is one of the consequences we accept under our jury
 system." The same holds true when the court is the finder of fact in a
 bench trial. Application of the "community" and "average person"
@@ -600,7 +600,7 @@ They Wanna Be* appeals to the prurient interest. The Supreme Court has
 defined prurient as "material having a tendency to excite lustful
 thoughts." *Roth*.
 Appeals only to "normal, healthy sexual desires" are not adequate to
-meet the test. [*Brockett v. Spokane Arcades, Inc.* (US 1985)](http://scholar.google.com/scholar_case?case=975894151134542505&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+meet the test. [*Brockett v. Spokane Arcades, Inc.*](http://scholar.google.com/scholar_case?case=975894151134542505&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0) (US 1985).
 The material must exhibit a "shameful or morbid interest in nudity, sex,
 or excretion". 
 
@@ -710,7 +710,7 @@ acts. Furthermore, the frequency of the sexual lyrics must also be
 considered. With the exception of part B on Side 1, the entire *Nasty*
 recording is replete with explicit sexual lyrics. This is not a case of
 subtle references or innuendo, nor is it just "one particular scurrilous
-epithet" as in [*Cohen v. California* (US 1971)](http://scholar.google.com/scholar_case?case=7398433541275578772&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+epithet" as in [*Cohen v. California*](http://scholar.google.com/scholar_case?case=7398433541275578772&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0) (US 1971).
 
 As already noted, Florida's Legislature has defined obscene acts to
 include sadomasochistic sexual conduct, oral sex, and anal intercourse.
@@ -718,8 +718,7 @@ In addition,
 Florida's obscenity statutes are intended to have the broadest,
 constitutional scope. 
 States may outlaw certain portrayals of sexual conduct and nudity if
-they constitute "hardcore pornography." *See* [*Jenkins v. Georgia* 
-(US 1974)](http://scholar.google.com/scholar_case?case=10639986226512069424&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+they constitute "hardcore pornography." *See* [*Jenkins v. Georgia*](http://scholar.google.com/scholar_case?case=10639986226512069424&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0) (US 1974).
 In *Jenkins,* the Supreme Court reversed a conviction for distribution
 of the film "Carnal Knowledge" which contained scenes of a woman with a
 bare midriff and several lovemaking sessions. 
@@ -751,8 +750,8 @@ support such a finding. First, the *Nasty* lyrics contain what are
 commonly known as "dirty words" and depictions of female abuse and
 violence. It is likely that these offensive descriptions would not of
 themselves be sufficient to find the recording obscene. *See, e.g.,*
-[*American Booksellers Association, Inc. v. Hudnut,* (7th
-Cir. 1985)](http://scholar.google.com/scholar_case?case=10304718398250731275&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+[*American Booksellers Association, Inc. v. Hudnut*](http://scholar.google.com/scholar_case?case=10304718398250731275&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+(7th Cir. 1985).
 When these terms are used with explicit sexual descriptions, however, they
 may be considered on the issue of patent offensiveness. Secondly, the
 material here is music which can certainly be more intrusive to the
@@ -771,7 +770,7 @@ has chosen to protect them from obscenity.
 Finally, in determining whether the *Nasty* recording is patently
 offensive, it is again proper to consider the plaintiffs' commercial
 exploitation of sex to promote sales. As noted by the Supreme Court in
-[*Ginzburg v. United States,* (US 1966),](http://scholar.google.com/scholar_case?case=12404909807077661368&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
+[*Ginzburg v. United States*](http://scholar.google.com/scholar_case?case=12404909807077661368&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0) (US 1966), 
 representations of a publication as erotically arousing "would tend to
 force public confrontation with the potentially offensive aspects of the
 work; the brazenness of such an appeal heightens the offensiveness of
@@ -995,7 +994,7 @@ speech.
 eye on any form of prior restraint. But, as with the right of free
 speech itself, this prohibition is not absolute. A limitation on speech
 prior to its publication may withstand constitutional scrutiny in
-"exceptional cases." [*Near v. Minnesota* (US 1931)](http://scholar.google.com/scholar_case?case=10240616562166401834&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+"exceptional cases." [*Near v. Minnesota*](http://scholar.google.com/scholar_case?case=10240616562166401834&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0) (US 1931).
 Included within this category are all types of speech unprotected by the
 Constitution such as obscenity. 
 
@@ -1032,6 +1031,8 @@ presenting them with a copy of a probable cause order is hereby DECLARED
 unconstitutional as an improper prior restraint of free speech in
 violation of the First and Fourteenth Amendments to the United States
 Constitution.
+
+######
 
 ## Child Pornography 
 
@@ -1077,7 +1078,7 @@ makes it possible to create realistic images of children who do not exist.
 See Congressional Findings, notes following 18 U. S. C. § 2251.
 
 By prohibiting child pornography that does not depict an actual child,
-the statute goes beyond [*New York* v. *Ferber* (US 1982)][ferber], 
+the statute goes beyond [*New York* v. *Ferber*][ferber] (US 1982), 
 which distinguished child pornography 
 from other sexually explicit speech 
 because of the State's interest in protecting the children
@@ -1085,7 +1086,7 @@ exploited by the production process.
 As a general rule, pornography can be banned only if obscene, 
 but under *Ferber,* pornography showing minors can be proscribed 
 whether or not the images are obscene under the definition set forth in 
-[*Miller* v. *California* (US 1973)](http://scholar.google.com/scholar_case?case=287180442152313659).
+[*Miller* v. *California*](http://scholar.google.com/scholar_case?case=287180442152313659) (US 1973).
 *Ferber* recognized that "the *Miller* standard, 
 like all general definitions of what may be banned as obscene, 
 does not reflect the State's particular and more compelling interest 
@@ -1146,7 +1147,7 @@ any children in the production process;
 but Congress decided the materials threaten children in other, less direct, ways. 
 Pedophiles might use the materials 
 to encourage children to participate in sexual activity. 
-"[A] child who is reluctant to engage in sexual activity with an adult, 
+"A child who is reluctant to engage in sexual activity with an adult, 
 or to pose for sexually explicit photographs, 
 can sometimes be convinced 
 by viewing depictions of other children 
@@ -1250,7 +1251,7 @@ A first offender may be imprisoned for 15 years. § 2252A(b)(1).
 A repeat offender faces a prison sentence of not less than 5 years 
 and not more than 30 years in prison. *Ibid.* 
 While even minor punishments can chill protected speech, 
-see [*Wooley* v. *Maynard* (US 1977),](http://scholar.google.com/scholar_case?case=15210508422263730617)
+see [*Wooley* v. *Maynard*](http://scholar.google.com/scholar_case?case=15210508422263730617) (US 1977),
 this case provides a textbook example 
 of why we permit facial challenges to statutes that burden expression. 
 With these severe penalties in force, 
@@ -1262,7 +1263,7 @@ that chill speech within the First Amendment's vast and privileged sphere.
 Under this principle, 
 the CPPA is unconstitutional on its face 
 if it prohibits a substantial amount of protected expression. 
-See [*Broadrick* v. *Oklahoma* (US 1973)](http://scholar.google.com/scholar_case?case=15763855873494372375).
+See [*Broadrick* v. *Oklahoma*](http://scholar.google.com/scholar_case?case=15763855873494372375) (US 1973).
 
 The sexual abuse of a child is a most serious crime 
 and an act repugnant to the moral instincts of a decent people. 
@@ -1280,23 +1281,19 @@ and trade pictures and written accounts of sexual activity with young children.
 Congress may pass valid laws to protect children from abuse, and it has.
 The prospect of crime, however, by itself 
 does not justify laws suppressing protected speech. See
-[*Kingsley Int'l Pictures Corp.* v. *Regents of Univ. of N. Y.* (US 1959)](http://scholar.google.com/scholar_case?case=3228427129910896091)
-("Among free men, the deterrents ordinarily to be applied to prevent
+[*Kingsley Int'l Pictures Corp.* v. *Regents of Univ. of N. Y.*](http://scholar.google.com/scholar_case?case=3228427129910896091) (US 1959) ("Among free men, the deterrents ordinarily to be applied to prevent
 crime are education and punishment for violations of the law, not
 abridgment of the rights of free speech" (internal quotation marks and
 citation omitted)). It is also well established that speech may not be
 prohibited because it concerns subjects offending our sensibilities. See
-[*FCC* v. *Pacifica Foundation* (US 1978)](http://scholar.google.com/scholar_case?case=9738309099999149495)
+[*FCC* v. *Pacifica Foundation*](http://scholar.google.com/scholar_case?case=9738309099999149495) (US 1978)
 ("The fact that society may find speech offensive is not a sufficient
 reason for suppressing it"); see also [*Reno* v. *American Civil
-Liberties Union* (US 1997)](http://scholar.google.com/scholar_case?case=1557224836887427725)
+Liberties Union*](http://scholar.google.com/scholar_case?case=1557224836887427725) (US 1997)
 ("In evaluating the free speech rights of adults, we have made it
-perfectly clear that \`sexual expression which is indecent but not
-obscene is protected by the First Amendment' ") (quoting [*Sable
-Communications of Cal., Inc.* v. *FCC* (US 1989)](http://scholar.google.com/scholar_case?case=12959937071120946576));
-[*Carey* v. *Population Services Int'l* (US 1977)](http://scholar.google.com/scholar_case?case=4801034783278981738)
-("The fact that protected speech may be offensive to some does not
-justify its suppression").
+perfectly clear that 'sexual expression which is indecent but not
+obscene is protected by the First Amendment'") (quoting [*Sable
+Communications of Cal., Inc.* v. *FCC*] (http://scholar.google.com/scholar_case?case=12959937071120946576) (US 1989)); [*Carey* v. *Population Services Int'l*](http://scholar.google.com/scholar_case?case=4801034783278981738) (US 1977) ("The fact that protected speech may be offensive to some does not justify its suppression").
 
 As a general principle, 
 the First Amendment bars the government 
@@ -1304,13 +1301,14 @@ from dictating what we see or read or speak or hear.
 The freedom of speech has its limits; 
 it does not embrace certain categories of speech, 
 including defamation, incitement, obscenity, and pornography produced with real children. 
-See [*Simon & Schuster, Inc.* v. *Members of N. Y.* *State Crime Victims Bd.* (US 1991) (Kennedy, J., concurring)](http://scholar.google.com/scholar_case?case=988401867966498877).  While these categories may be prohibited without violating the First Amendment, 
+See [*Simon & Schuster, Inc.* v. *Members of N. Y.* *State Crime Victims Bd.*](http://scholar.google.com/scholar_case?case=988401867966498877)
+(US 1991) (Kennedy, J., concurring). 
+While these categories may be prohibited without violating the First Amendment, 
 none of them includes the speech prohibited by the CPPA. 
 In his dissent from the opinion of the Court of Appeals, 
 Judge Ferguson recognized this to be the law 
 and proposed that virtual child pornography should be regarded 
-as [an additional category of unprotected speech.](http://scholar.google.com/scholar_case?case=4713588848027905018). 
-It would be necessary for us to take this step to uphold the statute.
+as [an additional category of unprotected speech](http://scholar.google.com/scholar_case?case=4713588848027905018). It would be necessary for us to take this step to uphold the statute.
 
 As we have noted, the CPPA is much more than a supplement 
 to the existing federal prohibition on obscenity. 
@@ -1385,9 +1383,8 @@ severe punishment without inquiry into the work's redeeming value. This
 is inconsistent with an essential First Amendment rule: 
 The artistic merit of a work does not depend on the presence of a single explicit
 scene. See [*Book Named "John Cleland's Memoirs of a Woman of Pleasure"*
-v. *Attorney General of Mass.* (US 1966) (plurality
-opinion)](http://scholar.google.com/scholar_case?case=10189557359995044131&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
-("The social value of the book can neither be weighed against nor
+v. *Attorney General of Mass.*](http://scholar.google.com/scholar_case?case=10189557359995044131&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
+(US 1966) (plurality opinion) ("The social value of the book can neither be weighed against nor
 canceled by its prurient appeal or patent offensiveness"). Under
 *Miller,* the First Amendment requires that redeeming value be judged by
 considering the work as a whole. Where the scene is part of the
@@ -1432,7 +1429,7 @@ on persons selling, advertising, or otherwise promoting the product."
 Under either rationale, the speech had what the Court in
 effect held was a proximate link to the crime from which it came.
 
-Later, in [*Osborne* v. *Ohio* (US 1990),](http://scholar.google.com/scholar_case?case=4775063558409617777&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
+Later, in [*Osborne* v. *Ohio*,](http://scholar.google.com/scholar_case?case=4775063558409617777&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 1990), 
 the Court ruled that these same interests justified a ban on the
 possession of pornography produced by using children. "Given the
 importance of the State's interest in protecting the victims of child
@@ -1499,20 +1496,20 @@ that might be used for immoral purposes,
 yet we would not expect those to be prohibited 
 because they can be misused. 
 The Government, of course, may punish adults who provide unsuitable
-materials  to children, see [*Ginsberg* v. *New York* (US 1968),](http://scholar.google.com/scholar_case?case=8460647428333624773&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
+materials  to children, see [*Ginsberg* v. *New York*](http://scholar.google.com/scholar_case?case=8460647428333624773&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 1968),
 and it may enforce criminal penalties for unlawful solicitation. 
 The precedents establish, however, 
 that speech within the rights of adults to hear 
 may not be silenced completely in an attempt to shield children
 from it. See [*Sable Communications*](http://scholar.google.com/scholar_case?case=12959937071120946576&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0).
-In [*Butler* v. *Michigan* (US 1957),](http://scholar.google.com/scholar_case?case=8098803622147894006&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
+In [*Butler* v. *Michigan*](http://scholar.google.com/scholar_case?case=8098803622147894006&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)(US 1957), 
 the Court invalidated a statute prohibiting distribution of an indecent
 publication because of its tendency to "'incite minors to violent or
 depraved or immoral acts.' " A unanimous Court agreed upon the important
 First Amendment principle that the State could not "reduce the adult
 population . . . to reading only what is fit for children." *Id.,* at
 383. We have reaffirmed this holding. See [*United States* v. *Playboy
-Entertainment Group, Inc.* (US 2000)](http://scholar.google.com/scholar_case?case=11989907166283121695&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
+Entertainment Group, Inc.*](http://scholar.google.com/scholar_case?case=11989907166283121695&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 2000)
 ("The objective of shielding children does not suffice to support a
 blanket ban if the protection can be accomplished by a less restrictive
 alternative"); [*Reno* v. *American Civil Liberties Union*](http://scholar.google.com/scholar_case?case=1557224836887427725&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
@@ -1540,7 +1537,7 @@ conduct. This rationale cannot sustain the provision in question. The
 mere tendency of speech to encourage unlawful acts is not a sufficient
 reason for banning it. The government "cannot constitutionally premise
 legislation on the desirability of controlling a person's private
-thoughts." [*Stanley* v. *Georgia* (US 1969)](http://scholar.google.com/scholar_case?case=6728320798248524934&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0).
+thoughts." [*Stanley* v. *Georgia*](http://scholar.google.com/scholar_case?case=6728320798248524934&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 1969).
 First Amendment freedoms are most in danger when the government seeks to
 control thought or to justify its laws for that impermissible end. The
 right to think is the beginning of freedom, and speech must be protected
@@ -1549,7 +1546,7 @@ from the government because speech is the beginning of thought.
 To preserve these freedoms, and to protect speech for its own sake, the
 Court's First Amendment cases draw vital distinctions between words and
 deeds, between ideas and conduct. See [*Kingsley Int'l Pictures Corp.*](http://scholar.google.com/scholar_case?case=3228427129910896091&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0);
-see also [*Bartnicki* v. *Vopper,* (US 2001)](http://scholar.google.com/scholar_case?case=2171346211086974391&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
+see also [*Bartnicki* v. *Vopper,*](http://scholar.google.com/scholar_case?case=2171346211086974391&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 2001)
 ("The normal method of deterring unlawful conduct is to impose an
 appropriate punishment on the person who engages in it"). The government
 may not prohibit speech because it increases the chance an unlawful act
@@ -1559,8 +1556,7 @@ curiam)*](http://scholar.google.com/scholar_case?case=4042159652386241321&q=ashc
 The government may suppress speech for advocating the use of force or a
 violation of law only if "such advocacy is directed to inciting or
 producing imminent lawless action and is likely to incite or produce
-such action." [*Brandenburg* v. *Ohio* (US 1969) *(per
-curiam)*](http://scholar.google.com/scholar_case?case=15538842772335942956&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)*.*
+such action." [*Brandenburg* v. *Ohio*](http://scholar.google.com/scholar_case?case=15538842772335942956&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 1969). 
 There is here no attempt, incitement, solicitation, or conspiracy. The
 Government has shown no more than a remote connection between speech
 that might encourage thoughts or impulses and any resulting child abuse.
@@ -1712,12 +1708,14 @@ Thus, I concur in the judgment of the Court.
 
 [Justice O'Connor's dissent omitted]
 
-### Chief Justice Rehnquist, with whom Justice Scalia joins in part, dissenting.
+### Chief Justice Rehnquist, dissenting
+
+###### with whom Justice Scalia joins in part
 
 We normally do not strike down a statute on First Amendment grounds
 "when a limiting construction has been or could be placed on the
-challenged statute." [*Parker* v. *Levy* (US 1974)](http://scholar.google.com/scholar_case?case=7171415278006906954&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
-("This Court has &hellip; repeatedly expressed its reluctance to strike down
+challenged statute." [*Parker* v. *Levy*](http://scholar.google.com/scholar_case?case=7171415278006906954&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) 
+(US 1974) ("This Court has &hellip; repeatedly expressed its reluctance to strike down
 a statute on its face where there were a substantial number of
 situations to which it might be validly applied"). This case should be
 treated no differently.
@@ -1756,7 +1754,7 @@ observed:
 > intended to target only a narrow class of images---visual depictions
 > \`which are virtually indistinguishable to unsuspecting viewers from
 > unretouched photographs of actual children engaging in identical
-> sexual conduct.' " [*United States* v. *Hilton* (1999)](http://scholar.google.com/scholar_case?case=14561000702379646006&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
+> sexual conduct.' " [*United States* v. *Hilton*](http://scholar.google.com/scholar_case?case=14561000702379646006&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (1999)
 > (quoting S. Rep. No. 104-358, pt. I, p. 7 (1996)).
 
 This narrow reading of "sexually explicit conduct" not only accords with
@@ -1778,13 +1776,12 @@ or distribution of materials that "convey the impression"
 of a child engaged in sexually explicit conduct, 
 that prohibition can and should be limited to reach 
 "the sordid business of pandering" 
-which lies outside the bounds of First Amendment protection. [*Ginzburg* v. *United States* (US 1966)](http://scholar.google.com/scholar_case?case=12404909807077661368&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) 
-(conduct that "deliberately emphasized the sexually provocative aspects of the work, 
+which lies outside the bounds of First Amendment protection. [*Ginzburg* v. *United States*](http://scholar.google.com/scholar_case?case=12404909807077661368&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) 
+(US 1966) (conduct that "deliberately emphasized the sexually provocative aspects of the work, 
 in order to catch the salaciously disposed," 
 may lose First Amendment protection); [*United States* v.
-*Playboy Entertainment Group, Inc.* (US 2000) (Scalia, J.,
-dissenting)](http://scholar.google.com/scholar_case?case=11989907166283121695&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
-(collecting cases). 
+*Playboy Entertainment Group, Inc.* (Scalia, J.,
+dissenting)](http://scholar.google.com/scholar_case?case=11989907166283121695&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 2000) (collecting cases). 
 This is how the Government asks us to construe the statute &hellip; and it
 is the most plausible reading of the text, which prohibits only
 materials "*advertised, promoted, presented, described, or distributed
@@ -1801,7 +1798,9 @@ The First Amendment does not, however, protect the panderer.
 Thus, materials promoted as conveying the impression 
 that they depict actual minors engaged in sexually explicit conduct 
 do not escape regulation merely because they might warrant First Amendment protection 
-if promoted in a different manner. See [*Ginzburg, supra,* at 474-476](http://scholar.google.com/scholar_case?case=12404909807077661368&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0); cf. [*Jacobellis* v. *Ohio* (US 1964) (Warren, C. J., dissenting)](http://scholar.google.com/scholar_case?case=15356452945994377133&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) ("In my opinion, the use to which various materials are put—not just the words and pictures themselves—must be considered in determining whether or not the materials are obscene"). I would construe "conveys the impression" as limited to the panderer, which makes the statute entirely consistent with *Ginzburg* and other cases.
+if promoted in a different manner. See [*Ginzburg, supra,* at 474-476](http://scholar.google.com/scholar_case?case=12404909807077661368&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0); 
+cf. [*Jacobellis* v. *Ohio*](http://scholar.google.com/scholar_case?case=15356452945994377133&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 1964) (Warren, C. J., dissenting)
+("In my opinion, the use to which various materials are put—not just the words and pictures themselves—must be considered in determining whether or not the materials are obscene"). I would construe "conveys the impression" as limited to the panderer, which makes the statute entirely consistent with *Ginzburg* and other cases.
 
 In sum, while potentially impermissible applications of the CPPA may
 exist, I doubt that they would be "substantial. . . in relation to the

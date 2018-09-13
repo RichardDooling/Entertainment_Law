@@ -23,7 +23,7 @@ What do entertainment lawyers do?
 > for contract law, copyright law, intellectual property law, 
 > licensing law, litigation, 
 > and working really hard 
-> just like every other lawyer out there.&hellip; 
+> just like every other lawyer out there. &hellip; 
 > Entertainment lawyers are merely copyright, contract, 
 > or IP lawyers who have clients in the entertainment business, 
 > just like sports lawyers have clients in the sports business.
@@ -31,15 +31,29 @@ What do entertainment lawyers do?
 * Erica Winter, [Entertainment Law - Glamor By Association?](http://www.lawcrossing.com/article/379/Entertainment-Law-Glamor-By-Association/#)
 * Diane Dannenfeldt, [How Entertainment Lawyers Work](http://entertainment.howstuffworks.com/entertainment-lawyer.htm)
 
-As in other walks of life, the lawyer 
-(in this case, the entertainment or publishing lawyer) 
+As in any industry, the lawyer 
+(in this case, the entertainment or publishing or music lawyer) 
 is a kind of "super fiduciary," 
-overseeing problems the client has with "regular" fiduciaries 
+overseeing problems the talent has with "regular" fiduciaries 
 (agents, managers, producers).
+
+Publishing lawyers know the book industry 
+and can offer legal and practical advice. 
+Often an unpublished author needs help answering the eternal question:
+How Do I Get An Agent? 
+Take a peek at [How to Research Literary Agents and Book Publishers](
+https://www.aerogrammestudio.com/2018/09/13/how-to-research-literary-agents-and-book-publishers/) 
+for some good ideas on picking persons and places for the author's first book. 
+The [Rights Report](https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/77966-rights-report-week-of-september-10-2018.html) at [Publishers Weekly](https://www.publishersweekly.com) is also great for researching who is buying what from whom in the book world.
+
+Music lawyers know the music business, 
+and nobody explains it better than Donald Passman in [All You Need To Know About The Music Business](https://www.amazon.com/Need-Know-About-Music-Business/dp/1501104896/inscape-20). The music business has its own representation wrinkles, because managers act more like talent agents in the music biz, 
+and Passman explains the difference well.
 
 ### Literary Agents
 
-An author with a great agent often doesn't need a lawyer; 
+In the publishing world, 
+an author with a great agent often doesn't need a lawyer; 
 that's why finding an agent is the brass ring. The hardest part. 
 It can take years, sometimes decades. 
 Real literary agents know what sells, 
@@ -101,6 +115,7 @@ or some other one-sided clause.
 As discussed in our materials on book contracts, 
 the Authors Guild often will help authors 
 and their representatives negotiate and edit these contracts.
+
 
 #### Contracts With Literary Agents 
 

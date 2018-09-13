@@ -5,6 +5,12 @@ subtitle: Entertainment Law
 chapters: First Amendment - Indecency
 ---
 
+# Lawyers For The Talent
+
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
 # First Amendment - Indecency
 
 Just as we get comfortable with the notion 
@@ -82,6 +88,60 @@ The dissents in *Fox II* spell *Pacifica's* doom, as we observed last week in cl
 * [case at Westlaw][fox]
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012)).
 
+## Indecency On The Internet?
+
+### 47 U.S. Code § 230 
+
+###### aka The Communications Decency Act ("CDA") 
+
+The Act was Title V of the Telecommunications Act of 1996.
+The amendment that became the Communications Decency Act ("CDA") was added to the Telecommunications Act in the Senate by an 81–18 vote on 15 June 1995. 
+It affected the Internet and online communications in two big ways:
+First, it tried to give the federal government the power 
+to regulate both indecency (when available to children) 
+and obscenity in cyberspace. Second, Section 230 of the CDA 
+provided that Internet Service Providers (ISPs) 
+and other operators of Internet services 
+are not to be construed as publishers who might be liable 
+for the words of third parties who use their services.
+
+In the CDA, Congress found good policy reasons for protecting ISPs:
+
+> "The Internet and other interactive computer services offer a forum for a true diversity of political discourse, 
+unique opportunities for cultural development, and myriad avenues for intellectual activity &hellip; 
+and have flourished, to the benefit of all Americans, with a minimum of government regulation &hellip;
+
+In short, Congress found good things on the Internet and sought to protect service providers 
+so they could continue to thrive without fear of liability for what others say.
+But other portions of the Act sought to criminalize 
+"the knowing transmission of obscene or indecent messages to any recipient under 18 years of age."
+
+This was Congress making a regulatory land grab on the Internet, 
+which even in 1996 was already the Wild West of content. 
+<!-- Congress tried to criminalize the distribution of pornographic and "indecent" material on the Internet.  -->
+Recall that *Pacifica* allowed the FCC to regulate, but not ban, 
+indecent speech in broadcasting. 
+The government no doubt expected the United States Supreme Court 
+to give it similar authority to regulate indecency and pornography 
+on the Internet, but the Court said no.
+
+In the landmark case of [*Reno* v. *American Civil Liberties Union*][reno] (US 1997), 
+the United States Supreme Court struck down the anti-pornography and indecency provisions of the CDA.
+The Court took pains to distinguish *Pacifica* and *Ginsburg*, 
+by observing that the Internet was more like newspapers than broadcasting stations.
+The Court had a long history of striking down content-based regulations of newspapers. [Miami Herald v. Tornillo][tornillo]. 
+The Court reasoned that the Internet was much more like a print medium than a radio or a television.
+
+The provisions were vague and overbroad:
+
+> We are persuaded that the CDA lacks the precision that the First Amendment requires when a statute regulates the content of speech. In order to deny minors access to potentially harmful speech, the CDA effectively suppresses a large amount of speech that adults have a constitutional right to receive and to address to one another. That burden on adult speech is unacceptable if less restrictive alternatives would be at least as effective in achieving the legitimate purpose that the statute was enacted to serve. 
+
+Back in those days, I was an angry younger man 
+and not yet teaching law, when I penned the following Op-Ed piece in the *New York Times:*
+
+[Dooling, Richard "Most Of These Guys Are Lawyers, Right?" *New York Times* 15 June 1996.][dooling]
+
+Please advice if you hit a paywall, and I'll copy it in.
 
 [7dirty]:  http://www.youtube.com/watch?v=vbZhpf3sQxQ	"George Carlin Seven Dirty Words"
 [fox]:  http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=556+U.S.+502&appflag=67.12
@@ -89,6 +149,11 @@ The dissents in *Fox II* spell *Pacifica's* doom, as we observed last week in cl
 
 [pacifica]:  http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=98sct3026\&appflag=67.12	"FCC v. Pacifica"
 [cohen]:   http://scholar.google.com/scholar_case?case=7398433541275578772&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0 "Cohen v. California"
+[dooling]:  https://www.nytimes.com/1996/06/15/opinion/most-of-these-guys-are-lawyers-right.html  "Most of These Guys Are Lawyers, Right? by Richard Dooling"
+[cda]: https://www.law.cornell.edu/uscode/text/47/230 
+[reno]: http://scholar.google.com/scholar_case?case=1557224836887427725  "Reno v. ACLU (US 1997)"
+[tornillo]: https://scholar.google.com/scholar_case?case=3261378222094247847 "Miami Herald v. Tornillo (US 1974)"
+
 
 <!-- BEGIN COMMENT -->
 
