@@ -5,13 +5,28 @@ subtitle: Entertainment Law
 chapter: Privacy Rights	
 ---
 
+# Lawyers For The Talent
+
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
 # Privacy Rights 
 
-###### by Richard Dooling
+In 1890, Louis Brandeis, not yet Justice Brandeis, together with his then law partner, 
+Samuel Warren, wrote a famous [1890 Harvard Law Review article][brandeis_article] called 
+"The Right Of Privacy." 
+The right as eloquently espoused by Brandeis was "the right to be left alone." 
+The article was inspired by excesses in the press, the birth of sensational journalism, called ["yellow journalism,"](https://en.wikipedia.org/wiki/Yellow_journalism) which thrived on overblown coverage, scandal-mongering, or sensationalism. Yellow journalism was the fake news of the day.
 
-## Invasion of Privacy
+Technology, the engine of the entertainment industry, 
+was present at the creation of the right of privacy. 
+New inventions like cameras, recording devices, and typesetting 
+made it possible to eavesdrop, snoop, and capture images of people's faces or recordings of their voice, 
+and to publish stories about them almost immediately.
+Brandeis set this new right of privacy up as a bulwark against the excesses of the *paparazzi* and the gossip columnists. 
 
-Privacy rights come in four different flavors, best described by Justice Louis Brandeis in a famous [1890 Harvard Law Review article][brandeis_article] as "the right to be left alone." 
+Eventually this single "right to be left alone" spawned four separate privacy torts:
 
 1. Intrusion - Unreasonable intrusion on personal solitude.
 2. Publication of Private Facts - Public disclosure of true but embarrassing private facts.
@@ -75,10 +90,15 @@ We deal with these rights separately in Celebrity-Publicity rights.
 
 ## *Shulman v. Group W. Productions* (CA 1998) 
 
-Please read this case in its entirety. It reads like a law review article on the differences between various privacy rights.
+Please read this case in its entirety. 
+It reads like a law review article on the differences between various privacy rights. 
+You may skip the concurrences and dissents. 
+You may safely extrapolate from the "rights of newsgatherers" discussed in *Shulman* 
+to the First Amendment rights of artists or performers, authors or lyricists, 
+to tell stories.
 
 * [case at Google scholar](http://scholar.google.com/scholar_case?case=699835474797912872)
-* [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=955+P.2d+469&appflag=67.12), 955 P.2d 469 (Cal. Sct. 1998).
+* [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=955+P.2d+469&appflag=67.12) 
 
 A medical news team (with a private paramedic and a ride-along cameraman) covered a car crash in which Ruth Shulman was gravely injured. The news team filmed the scene and put a mic on a nurse, who went into the helicopter where Ruth Shulman was being treated for her injuries.
 
@@ -236,18 +256,17 @@ Hayneses' lawsuit is founded.
 
 ### Defamation
 
-The charge of libel is confined to three statements in the book: that Haynes left his children alone at night when he was supposed to be watching them; that he lost a job or jobs because of drinking; and that he spent money on a car that he should have used to buy shoes for his children. We do not agree with the defendants that the dismissal of the libel claim must be upheld because Haynes has failed to allege pecuniary loss from the alleged libels ("special damages"). The rule in Illinois, which used to be limited to slander cases but has been extended to all defamation cases, [*Brown & Williamson Tobacco Corp. v. Jacobson* (7th Cir.1983)](http://scholar.google.com/scholar_case?case=2482630921714735229) is that a plaintiff can maintain a suit for defamation without proof of special damages only if the defamatory statement falls into one of four "per se" categories: commission of a crime; infection with a type of communicable disease that could cause the infected person to be shunned; malfeasance or misfeasance in the performance of an office or a job; and (what is closely related, but less redolent of actual misconduct and usable by business firms as well as by workers or professionals) unfitness for one's profession or trade. *Id.* at 267-68; [*Mittelman v.  Witous* (Ill. 1989)](http://scholar.google.com/scholar_case?case=13391763345781536115).  The statements that Haynes claims are libelous can be interpreted, though just barely, as implying that he was guilty of criminal neglect of his children and was unable to discharge the duties of at least one of his jobs because of alcohol. Ever since modification of the "innocent construction" doctrine in [*Chapski v. Copley Press* (Ill. 1982),](http://scholar.google.com/scholar_case?case=13218046548992207255) which left the doctrine meaning merely that a court should not strain to put a defamatory interpretation on an ambiguous statement, Illinois courts (and federal courts when interpreting Illinois law) have
-been quick to find implications of criminal conduct or of employee or
+The charge of libel is confined to three statements in the book: that Haynes left his children alone at night when he was supposed to be watching them; that he lost a job or jobs because of drinking; and that he spent money on a car that he should have used to buy shoes for his children. We do not agree with the defendants that the dismissal of the libel claim must be upheld because Haynes has failed to allege pecuniary loss from the alleged libels ("special damages"). The rule in Illinois, which used to be limited to slander cases but has been extended to all defamation cases, [*Brown & Williamson Tobacco Corp. v. Jacobson*](http://scholar.google.com/scholar_case?case=2482630921714735229) (7th Cir. 1983), is that a plaintiff can maintain a suit for defamation without proof of special damages only if the defamatory statement falls into one of four "per se" categories: commission of a crime; infection with a type of communicable disease that could cause the infected person to be shunned; malfeasance or misfeasance in the performance of an office or a job; and (what is closely related, but less redolent of actual misconduct and usable by business firms as well as by workers or professionals) unfitness for one's profession or trade. The statements that Haynes claims are libelous can be interpreted, though just barely, as implying that he was guilty of criminal neglect of his children and was unable to discharge the duties of at least one of his jobs because of alcohol. Ever since modification of the "innocent construction" doctrine in [*Chapski v. Copley Press*](http://scholar.google.com/scholar_case?case=13218046548992207255) (Ill. 1982), which left the doctrine meaning merely that a court should not strain to put a defamatory interpretation on an ambiguous statement, Illinois courts (and federal courts when interpreting Illinois law) have been quick to find implications of criminal conduct or of employee or
 business misconduct in statements that might have seemed susceptible of
 an interpretation that would have taken them out of the per se
-categories. See [*Babb v. Minder* (7th Cir. 1986)](http://scholar.google.com/scholar_case?case=3037575594865725968) (statement that employee had "mooned" held actionable as an accusation
+categories. See [*Babb v. Minder*](http://scholar.google.com/scholar_case?case=3037575594865725968) (7th Cir. 1986) (statement that employee had "mooned" held actionable as an accusation
 of the crime of indecent exposure); [*Costello v. Capital Cities
-Communications, Inc.* (Ill. 1988)](http://scholar.google.com/scholar_case?case=2262435237814463228)
+Communications, Inc.*](http://scholar.google.com/scholar_case?case=2262435237814463228) (Ill. 1988)
 (statement that employee had lied held actionable as implying lack of
 integrity in performance of duties); 
-[*Crinkley v. Dow Jones & Co.*(Ill.App.3d 1983)](http://scholar.google.com/scholar_case?case=10602561162619040127&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+[*Crinkley v. Dow Jones & Co.*](http://scholar.google.com/scholar_case?case=10602561162619040127&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0) (Ill.App.3d 1983)
 (statement alleging payoffs to agents of foreign governments held
-actionable); [*Brown & Williamson Tobacco Corp. v. Jacobson* (7th Cir. 1983)](http://scholar.google.com/scholar_case?case=2482630921714735229)
+actionable); [*Brown & Williamson Tobacco Corp. v. Jacobson*](http://scholar.google.com/scholar_case?case=2482630921714735229) (7th Cir. 1983)
 (allegations that cigarette company attempted through its advertising to
 entice children to smoke held actionable).
 
@@ -270,7 +289,7 @@ from an action for defamation by being prefaced with the words "in my
 opinion," but if it is plain that the speaker is expressing a subjective
 view, an interpretation, a theory, conjecture, or surmise, rather than
 claiming to be in possession of objectively verifiable facts, the
-statement is not actionable. [*Milkovich v. Lorain Journal Co.* (S.Ct. 1990)](http://scholar.google.com/scholar_case?case=7582860956470530700);
+statement is not actionable. [*Milkovich v. Lorain Journal Co.*](http://scholar.google.com/scholar_case?case=7582860956470530700) (US 1990).
 
 The facts about Kevin's condition and about the respective financial
 circumstances of Ruby and Dorothy were uncontested, and Ruby and Lemann
@@ -346,7 +365,7 @@ Supreme Court insists in the name of the First Amendment that unless the
 author is deliberately lying or is recklessly indifferent to the truth
 or falsity of what he says (neither is a plausible hypothesis here), the
 plaintiff must prove actual though not necessarily pecuniary harm in
-order to recover damages. [*Gertz v. Robert Welch, Inc.* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202).
+order to recover damages. [*Gertz v. Robert Welch, Inc.*](http://scholar.google.com/scholar_case?case=7102507483896624202) (US 1974)].
 Falsehoods that do not harm the plaintiff's reputation more than a full
 recital of the true facts about him would do are thus not actionable.
 The rule making substantial truth a complete defense and the
@@ -354,7 +373,7 @@ constitutional limitations on defamation suits coincide.
 
 Ordinarily the question whether a defamatory work is substantially true
 although erroneous in some details is for the jury. [*Kohn v. West
-Hawaii Today, Inc.,* (HW 1982)](http://scholar.google.com/scholar_case?case=18205638400160040600).
+Hawaii Today, Inc.*](http://scholar.google.com/scholar_case?case=18205638400160040600) (HW 1982).
 But no reasonable jury, even if it believed Luther Haynes over Ruby
 Daniels on every issue on which they differ, could find that *The
 Promised Land* was not substantially true in its depiction of Luther at
@@ -373,7 +392,7 @@ This is implicit in the rule that truth — not just known truth (see
 *Restatement (Second) of Torts* § 581A, comment h (1977); *Prosser and
 Keeton on the Law of Torts* § 116, at pp. 840-41 (5th ed. 1984)) — is a
 complete defense to defamation. And the burden of proving falsity rests
-on the plaintiff. [*Philadelphia Newspapers, Inc. v. Hepps* (S.Ct. 1986)](http://scholar.google.com/scholar_case?case=3066699330828671613) 
+on the plaintiff. [*Philadelphia Newspapers, Inc. v. Hepps*](http://scholar.google.com/scholar_case?case=3066699330828671613) (US 1986).
 
 We must be careful, however, that we are not construing the gist of the
 allegedly defamatory statements so broadly as to invite defendants to
@@ -396,9 +415,7 @@ abandonment of one's children in violation of court orders, an
 abandonment compounded by a bigamous marriage to a woman who herself had
 children. The allegedly false facts about Luther were variants of the
 true that did not paint him in a worse light. Corresponding to the
-"immaterial error[s]" of which the substantial-truth cases speak,
-[*Sivulich v. Howard Publications, Inc.,* 466 N.E.2d 1218, 1220
-(Ill. Ct. App. 1984),](http://scholar.google.com/scholar_case?case=15779388720675284227&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+"immaterial errors" of which the substantial-truth cases speak,
 the alleged falsehoods were merely illustrations of undoubted truths
 about Luther Haynes's character at the time, illustrations that even if
 false in detail conveyed an accurate impression. They were therefore
@@ -411,16 +428,15 @@ The major claim in the complaint, and the focus of the appeal, is not
 defamation, however; it is invasion of the right of privacy. In tort law
 the term "right of privacy" covers several distinct wrongs. Using a
 celebrity's (or other person's) name or picture in advertising without
-his consent. [*Carson v. Here's Johnny Portable Toilets, Inc.,* (6th
-Cir. 1983)](http://scholar.google.com/scholar_case?case=18021528625868373370);
+his consent. [*Carson v. Here's Johnny Portable Toilets, Inc.*](http://scholar.google.com/scholar_case?case=18021528625868373370) (6th Cir. 1983);
 [*Martin Luther King, Jr., Center for Social Change, Inc. v. American
-Heritage Products, Inc.,* (GA 1982)](http://scholar.google.com/scholar_case?case=1102676940012657150);
-[*Haelan Laboratories v. Topps Chewing Gum* (2d Cir. 1953)](http://scholar.google.com/scholar_case?case=18211552832825571674);
-[*Douglass v. Hustler Magazine, Inc.* (7th Cir. 1985)](http://scholar.google.com/scholar_case?case=17887957795289404111).
+Heritage Products, Inc.,*](http://scholar.google.com/scholar_case?case=1102676940012657150) (GA 1982);
+[*Haelan Laboratories v. Topps Chewing Gum*](http://scholar.google.com/scholar_case?case=18211552832825571674)  (2d Cir. 1953);
+[*Douglass v. Hustler Magazine, Inc.*](http://scholar.google.com/scholar_case?case=17887957795289404111) (7th Cir. 1985).
 Tapping someone's phone, or otherwise invading a person's private space.
 (many citations omitted). 
 
-Harassing a celebrity by following her too closely, albeit on a public street. Cf. [*Galella v. Onassis* (2d Cir. 1973)](http://scholar.google.com/scholar_case?case=1876391558280554729). Casting a person in a false light by publicizing details of the person's life that while true are so selected or highlighted as to convey a misleading impression of the person's character. [*Time, Inc. v. Hill* (S.Ct. 1967)](http://scholar.google.com/scholar_case?case=13178370409068522665).  Publicizing personal facts that while true and not misleading are so intimate that their disclosure to the public is deeply embarrassing to the person thus exposed and is perceived as gratuitous by the community (many citations omitted).
+Harassing a celebrity by following her too closely, albeit on a public street. Cf. [*Galella v. Onassis*](http://scholar.google.com/scholar_case?case=1876391558280554729)  (2d Cir. 1973). Casting a person in a false light by publicizing details of the person's life that while true are so selected or highlighted as to convey a misleading impression of the person's character. [*Time, Inc. v. Hill* ](http://scholar.google.com/scholar_case?case=13178370409068522665) (S.Ct. 1967).  Publicizing personal facts that while true and not misleading are so intimate that their disclosure to the public is deeply embarrassing to the person thus exposed and is perceived as gratuitous by the community (many citations omitted).
 
 The last, the publicizing of personal facts, is the aspect of invasion of privacy charged by the Hayneses.
 
@@ -502,9 +518,8 @@ toward his wife and children. So we must consider cases in which the
 right of privacy has been invoked as a shield against the revelation of
 previous misconduct.
 
- Two early cases illustrate the range of judicial thinking. In
-[*Melvin v. Reid,* 112 Cal.App. 285, 297 Pac. 91
-(1931),](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+ Two early cases illustrate the range of judicial thinking. 
+ In [*Melvin v. Reid*](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0) (Cal. App. 1931), 
 the plaintiff was a former prostitute, who had been prosecuted but
 acquitted of murder. She later had married and (she alleged) for seven
 years had lived a blameless respectable life in a community in which her
@@ -534,8 +549,7 @@ up in a good reputation and he has torn it down."
 
 But with [*Melvin v.
 Reid*](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
-compare [*Sidis v. F-R Publishing Corp.,* 113 F.2d 806 (2d Cir.
-1940),](http://scholar.google.com/scholar_case?case=14505170794897587048&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)
+compare [*Sidis v. F-R Publishing Corp.*](http://scholar.google.com/scholar_case?case=14505170794897587048&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0) (2d Cir. 1940),
 another old case but one more consonant with modern thinking about the
 proper balance between the right of privacy and the freedom of the
 press. A child prodigy had flamed out; he was now an eccentric recluse.
@@ -552,7 +566,7 @@ prosecuted for murder. Sidis, unlike Mrs. Melvin, was not permitted to
 bury his past.
 
 Evolution along the divergent lines marked out by *Melvin* and *Sidis*
-continued &hellip; until [*Cox Broadcasting Corp. v. Cohn* (S.Ct. 1975),](http://scholar.google.com/scholar_case?case=7693360934058091897)
+continued &hellip; until [*Cox Broadcasting Corp. v. Cohn*](http://scholar.google.com/scholar_case?case=7693360934058091897) (US 1975), 
 which may have consigned the entire *Melvin* line to the outer darkness.
 A Georgia statute forbade the publication of names of rape victims. A
 television station obtained the name of a woman who had been raped and
@@ -571,7 +585,7 @@ a privilege to publish matters contained in public records even
 person. Years later the Court extended the rule laid down in *Cox* to a
 case in which a newspaper published a rape victim's name (again in
 violation of a state statute) that it had obtained from a police report
-that was not a public document. [*Florida Star v. B.J.F.* (S.Ct. 1989)](http://scholar.google.com/scholar_case?case=11083261902857685106).
+that was not a public document. [*Florida Star v. B.J.F.*](http://scholar.google.com/scholar_case?case=11083261902857685106) (US 1989).
 Again the Court was careful not to hold that states can never provide a
 tort remedy to a person about whom truthful, but intensely private,
 information of some interest to the public is published. 
@@ -590,8 +604,8 @@ hospital).
 Yet despite the limited scope of the holdings of *Cox* and *Florida
 Star,* the implications of those decisions for the branch of the right
 of privacy that limits the publication of private facts are profound,
-even for a case such as this in which, unlike [*Melvin v.
-Reid*](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0)*,*
+even for a case such as this in which, 
+unlike [*Melvin v.  Reid*](http://scholar.google.com/scholar_case?about=338586778440139438&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0),
 the primary source of the allegedly humiliating personal facts is not a
 public record. (The primary source is Ruby Daniels.) The Court must
 believe that the First Amendment greatly circumscribes the right even of
@@ -696,7 +710,23 @@ answer that Lemann got his facts from Ruby Daniels rather than from
 judicial records. The courts got the facts from Ruby. We cannot see what
 difference it makes that Lemann went to the source.
 
-Ordinarily the evaluation and comparison of offensiveness and newsworthiness would be, like other questions of the application of a legal standard to the facts of a particular case, matters for a jury, not for a judge on a motion for summary judgment.  But summary judgment is properly granted to a defendant when on the basis of the evidence obtained in pretrial discovery no reasonable jury could render a verdict for the plaintiff, [*Anderson v. Liberty Lobby, Inc.* (S.Ct. 1986)](http://scholar.google.com/scholar_case?case=9272001251064530131&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0) and that is the situation here. No modern cases decided after *Cox,* and precious few before, go as far as the plaintiffs would have us go in this case. Almost all the recent cases on which they rely &hellip; involve the vindication of paramount social interests, such as the protection of children, patients, and witnesses — interests not involved in this case. The plaintiffs' best post-*Cox* cases are [*Vassiliades v.  Garfinckel's, supra*](http://scholar.google.com/scholar_case?case=12881988089288894231) and [*Huskey v. National Broadcasting Co.* (N.D.Ill.1986),](http://scholar.google.com/scholar_case?case=18021807458979528821&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0) the former involving before-and-after photos of a face lift, the latter involving television pictures of a prisoner dressed only in gym shorts.  Photographic invasions of privacy usually are more painful than narrative ones, and even partial nudity is a considerable aggravating factor. *Vassiliades* also involved the special issue of patient rights, though it was not emphasized by the court.
+Ordinarily the evaluation and comparison of offensiveness and newsworthiness would be, 
+like other questions of the application of a legal standard to the facts of a particular case, 
+matters for a jury, not for a judge on a motion for summary judgment. 
+But summary judgment is properly granted to a defendant 
+when on the basis of the evidence obtained in pretrial discovery 
+no reasonable jury could render a verdict for the plaintiff, 
+[*Anderson v. Liberty Lobby, Inc.*](http://scholar.google.com/scholar_case?case=9272001251064530131&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0) (US 1986) and that is the situation here. 
+No modern cases decided after *Cox,* and precious few before, 
+go as far as the plaintiffs would have us go in this case. 
+Almost all the recent cases on which they rely &hellip; involve the vindication of paramount social interests, such as the protection of children, patients, and witnesses---interests not involved in this case. 
+The plaintiffs' best post-*Cox* cases are [*Vassiliades v.  Garfinckel's, supra*](http://scholar.google.com/scholar_case?case=12881988089288894231) and [*Huskey v. National Broadcasting Co.* ](http://scholar.google.com/scholar_case?case=18021807458979528821&q=haynes+alfred+knopf&hl=en&as_sdt=6,28&scilh=0) (N.D.Ill. 1986), 
+the former involving before-and-after photos of a face lift, 
+the latter involving television pictures of a prisoner dressed only in gym shorts. 
+Photographic invasions of privacy usually are more painful than narrative ones, 
+and even partial nudity is a considerable aggravating factor. 
+*Vassiliades* also involved the special issue of patient rights, 
+though it was not emphasized by the court.
 
 Illinois has been a follower rather than a leader in recognizing claims of invasion of privacy (citations omitted). The plaintiffs are asking us to innovate boldly in the name of the Illinois courts, and such a request is better addressed to those courts than to a federal court. If the plaintiffs had filed this case in an Illinois state court and it had been removed to the federal district court, they would have had no choice, and then we would have been duty-bound to be as innovative as we thought it plausible to suppose the Illinois courts would be. But the plaintiffs filed this suit in the district court originally — they *chose* the federal forum. And we have said before and will say again that plaintiffs who seek innovations in state law are ill advised to choose a federal court as their forum.
 
@@ -704,7 +734,7 @@ To any suggestion that the outer bounds of liability should be left to a
 jury to decide we reply that in cases involving the rights protected by
 the speech and press clauses of the First Amendment the courts insist on
 firm judicial control of the jury. For the general principle, see [*New
-York Times Co. v. Sullivan* (S.Ct. 1964)][sullivan].
+York Times Co. v. Sullivan*][sullivan] (US 1964).
 
 The publication of books is not at the sufferance of juries.
 
@@ -730,9 +760,54 @@ The judgment for the defendants is
 
 AFFIRMED.
 
+## False Light Song Lyrics
+
+In 1999, the hip hop and rap music artist, Eminem, released a "Slim Shady LP" CD, 
+which contained a song entitled 
+["Brain Damage"](https://www.youtube.com/watch?v=Hp0qv3NHrYE). 
+The song lyrics described how, in eighth grade, 
+Eminem was beaten by "a fat kid named D'Angelo Bailey."
+
+~~~~
+Way before my baby daughter Hailey
+I was harassed daily by this fat kid named D'Angelo Bailey
+An eighth grader who acted obnoxious, 
+cause his father boxes 
+so everyday he'd shove me in the lockers
+One day he came in the bathroom while I was pissin
+And had me in the position to beat me into submission
+He banged my head against the urinal til he broke my nose, 
+Soaked my clothes in blood, grabbed me and choked my throat
+I tried to plead and tell him "We shouldn't beef"
+But he just wouldn't leave, 
+he kept choking me and I couldn't breathe
+He looked at me and said “You gonna die honkey!
+~~~~
+
+Eminem discussed the song lyrics for a 1999 article in *Rolling Stone* magazine.
+In the interview, Eminem was quoted as saying that "everything in the song is true." 
+
+The real D'Angelo Bailey sued Eminem for false light invasion of privacy and lost.
+The [trial court](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2003+WL+22410088&appflag=67.12) found that, 
+although the precise incidents described in the song may never have happened, 
+they were substantially true. 
+Plaintiff D'Angelo Bailey admitted that he and some other kids had indeed bullied Mathers. 
+Bailey's defamation and false light claims were dismissed. 
+"It is clear that the thrust or gist of the lyrics are that Plaintiff bullied Defendant, shoved Defendant into the lockers, and physically assaulted Defendant in the bathroom."
+
+> Under the substantial truth doctrine, minor inaccuracies in an expression are immaterial if the literal truth produces the same effect. &hellip; The doctrine protects a speaker who utters a statement that is subject to multiple interpretations by protecting the speaker's chosen interpretation. &hellip; The substantial truth test is a broad test that looks to whether any reasonable person could find the statement to be a supportable interpretation of its subject. The context of the statement must be considered. 
+
+> We conclude that plaintiff has not demonstrated any error in the trial court's conclusion that plaintiff failed to demonstrate a genuine issue of material fact with regard to the falsity element under the substantial truth doctrine. Although plaintiff's deposition established a factual dispute regarding whether the specific bathroom assault described in the song lyrics actually occurred, exactly where, when, and why an event occurs can be irrelevant to the sting of a story. Further, even if a statement appears factual on its face, and provable as false, it is not actionable if a reasonable listener could not interpret it as stating actual facts about the plaintiff.
+
+[*Deangelo Bailey v. Marshall Bruce Mathers, III, aka Eminem Slim Shady,*][deangelo] Macomb County Court (Michigan 2003).
+
+- [The Smoking Gun: Summary](http://www.thesmokinggun.com/documents/crime/judge-raps-eminem-accuser)
+- [The Smoking Gun: Full Opinion](http://www.thesmokinggun.com/file/judge-raps-eminem-accuser)
+- [Opinion at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2005+WL+857242&appflag=67.12)
+
 #### Reference/Footnote Cases
 
-* [*Spahn v. Julian Mesner,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=23+a.d.2d+216&appflag=67.12), 260 NYS2d 451 (1965). 
+* [*Spahn v. Julian Mesner,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=23+a.d.2d+216&appflag=67.12) (NY 1965). 
 * [False Light at Wikipedia](http://en.wikipedia.org/wiki/False_light). 
 
 [survival]: http://www.amazon.com/Independent-Film-Producers-Survival-Guide/dp/0825637236/ref=sr_1_1?ie=UTF8&qid=1375835406&sr=8-1&keywords=independent+producers+survival+guide "Independent Producers Survival Guide"
@@ -749,6 +824,7 @@ AFFIRMED.
 [flynt]: http://www.imdb.com/title/tt0117318/ "The People v. Larry Flynt"
 [falwell]: http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell "Hustler vs. Falwell at Wikipedia"
 [hepps]: http://scholar.google.com/scholar_case?case=3066699330828671613 "Philadelphia v. Hepps"
+[deangelo]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2005+WL+857242&appflag=67.12 "Bailey v. Mathers"
 
 
 <!-- BEGIN COMMENT -->

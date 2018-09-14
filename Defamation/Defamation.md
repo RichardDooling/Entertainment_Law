@@ -1308,9 +1308,6 @@ microwaves take nutrition out of food.
 
 * [*The People Versus Larry Flynt*][flynt] (stars Woody Harrelson and Courtney Love). This is a love song to the First Amendment directed by Czech director Milos Forman telling the tale of preacher Jerry Falwell's [landmark Supreme Court case][falwell] against Larry Flynt, the publisher of *Hustler Magazine* (on reserve in Schmid Library).
 * Amy J. Field, [A Curtain Call for Docudrama-Defamation Actions: A Clear Standard Takes a Bow](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr). Casenote discussing *Davis v. Costa-Gavaras* (SDNY 1987).
-- *Deangelo Bailey v. Marshall Bruce Mathers, III, aka Eminem Slim Shady,* Macomb County Court (Michigan 2003):
-    - [summary of case](http://www.thesmokinggun.com/documents/crime/judge-raps-eminem-accuser)
-    - [fyi the full opinion](http://www.thesmokinggun.com/file/judge-raps-eminem-accuser)(optional reading)
 - [Reverse defamation, the Newsweek Bitcoin story, and Satoshi Nakamoto](http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/03/18/reverse-defamation-the-newsweek-bitcoin-story-and-satoshi-nakamoto/)
 * [What is More Defamatory? A False Accusation of Homophobia or of Homosexuality?](http://www.trademarkandcopyrightlawblog.com/2014/09/whatismore/)
 
@@ -1355,8 +1352,7 @@ Blurred lines: Ninth Circuit applies same First Amendment protections to blogger
 [falwell]: http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell "Hustler vs. Falwell at Wikipedia"
 [hepps]: http://scholar.google.com/scholar_case?case=3066699330828671613 "Philadelphia v. Hepps"
 [reno]: http://scholar.google.com/scholar_case?case=1557224836887427725  "Reno v. ACLU (US 1997)"
-
-
+[deangelo]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2005+WL+857242&appflag=67.12 "Bailey v. Mathers"
 
 
 
