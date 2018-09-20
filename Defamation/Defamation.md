@@ -61,10 +61,10 @@ if those works of art contain or suggest false statements of fact.
 
 To create liability for defamation there must be:
 
-(a) a false and defamatory statement concerning another;
-(b) an unprivileged publication to a third party;
-(c) fault amounting at least to negligence on the part of the publisher; and
-(d) either actionability of the statement irrespective of special harm or the existence of special harm caused by the publication.
+1. a false and defamatory statement concerning another;
+2. an unprivileged publication to a third party;
+3. fault amounting at least to negligence on the part of the publisher; and
+4. either actionability of the statement irrespective of special harm or the existence of special harm caused by the publication.
 
 [Restatement 2nd of Torts § 558 (1977)][r2t-558].
 

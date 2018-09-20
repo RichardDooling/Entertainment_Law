@@ -23,7 +23,7 @@ These materials are published under an [MIT license](https://github.com/RichardD
 
 The right of publicity, 
 also known by far too many other names 
-(personality rights, celebrity rights, publicity rights, appropriation of name or likeness) 
+(personality rights, celebrity rights, publicity rights, appropriation of name, image, or likeness) 
 is the right of an individual 
 to control the commercial use of 
 his or her name, image, likeness, or other unequivocal aspects of one's identity. 
@@ -35,10 +35,10 @@ some states provide that the right of publicity survives death.
 Heirs of dead celebrities then inherit the right to control 
 the licensing of the deceased name, image, and likeness.
 
-> Personality rights are generally considered to consist of two types of rights: 
+Personality rights are generally considered to consist of two types of rights: 
 
-> 1. The right of publicity, or to keep one's image and likeness from being commercially exploited without permission or contractual compensation, which is similar to the use of a trademark; 
-> 2. The right to privacy, or the right to be left alone and not have one's personality represented publicly without permission. 
+1. The right of publicity, or to keep one's image and likeness from being commercially exploited without permission or contractual compensation, which is similar to the use of a trademark; 
+2. The right to privacy, or the right to be left alone and not have one's personality represented publicly without permission. 
 
 [Wikipedia: Personality Rights](http://en.wikipedia.org/wiki/Personality_rights)
 
@@ -47,14 +47,13 @@ the licensing of the deceased name, image, and likeness.
 Early right of publicity cases 
 followed the lead of the [Brandeis "Right Of Privacy" article](http://www.jstor.org/stable/1321160), 
 which spoke of compensating "injury to the feelings." 
-For instance, in [*Roberson v. Rochester Folding Box Company,*](http://scholar.google.com/scholar_case?case=8949201185857474767) 
+For instance, in [*Roberson v. Rochester Folding Box Company*][roberson], 
 a 1902 New York case, 
-Abigail Roberson’s picture 
+Abigail Roberson's picture 
 was reproduced on 25,000 copies of a poster advertising flour 
 without her knowledge or permission. 
-She sued the flour company claiming, 
-not that she should have been paid for the use of her image, 
-but that use of the image without her permission had injured her:
+
+![Franklin Mills Flour poster featuring Abigail Roberson's image](http://www.lawrencesavell.com/publications/albanylr/@abigail.jpg). 
 
 > That those 25,000 likenesses of the plaintiff &hellip; 
 > have been conspicuously posted and displayed 
@@ -67,6 +66,10 @@ but that use of the image without her permission had injured her:
 > causing her great distress and suffering both in body and mind; 
 > that she was made sick and suffered a severe nervous shock, 
 > was confined to her bed and compelled to employ a physician.
+
+Abigail Roberson sued the flour company claiming, 
+not that she should have been paid for the use of her image, 
+but that use of the image without her permission had injured her.
 
 The court went on to observe 
 that this was a brand new cause of action, 
@@ -94,10 +97,9 @@ and that it was different than other torts:
 > to reimburse her for the damages to her feelings, 
 > which the complaint fixes at the sum of $ 15,000.
 
-When Roberson lost her case 
-because the New York Court of Appeals held 
-that the facts of her case stated no known cause of action, 
-the ensuing public outrage led the New York state legislature 
+The New York Court of Appeals sounded sympathetic, 
+but found that the facts of Abigail's case stated no known cause of action.
+When she lost her case, the ensuing public outrage led the New York state legislature 
 to create the state's first right of privacy statute. 
 
 Likewise, three years later, 
@@ -109,6 +111,8 @@ a prosperous, happy, contented person
 who wisely purchased life insurance, 
 opposite a photo of a thin, haggard looking man 
 who had not bought insurance. 
+
+![Insurance Ad Featuring an image of Pavesich](http://faculty.uml.edu/sgallagher/AtlantaConstitutionPavesich.jpg)
 
 Pavesich, an artist by profession, 
 sued claiming that he "never has had a policy of life insurance 
@@ -141,7 +145,8 @@ but the right of publicity took a different turn.
 An individual's name, image, and likeness 
 became a species of property to be licensed. 
 
-In [*Haelan Labs v. Topps Chewing Gum* (2d Cir. 1953)](http://scholar.google.com/scholar_case?case=1821155283282557167), the Second Circuit officially named the new right:
+In [*Haelan Labs v. Topps Chewing Gum*][haelan] (2d Cir. 1953), 
+the Second Circuit officially named the new right:
 
 > This right might be called a "right of publicity." 
 > For it is common knowledge that many prominent persons 
@@ -155,13 +160,17 @@ In [*Haelan Labs v. Topps Chewing Gum* (2d Cir. 1953)](http://scholar.google.com
 > unless it could be made the subject of an exclusive grant 
 > which barred any other advertizer from using their pictures.
 
-The *Haelan* case and a famous law review article by [Melville B. Nimmer, *The Right of Publicity*](http://scholarship.law.duke.edu/lcp/vol19/iss2/6/) (1954), 
+The *Haelan* case 
+and a famous law review article by [Melville B. Nimmer, 
+*The Right of Publicity*](http://scholarship.law.duke.edu/lcp/vol19/iss2/6/) (1954), 
 both viewed "right of publicity" as akin to a property interest, 
 rather than a privacy tort.
 
+## Resources
+
 ### Eugene Volokh
 
-###### FREEDOM OF SPEECH AND THE RIGHT OF PUBLICITY
+###### Freedom of Speech and the Right of Publicity 
 
 > The right of publicity &hellip; bars people 
 > from "appropriating the commercial value of a person's identity 
@@ -179,7 +188,7 @@ rather than a privacy tort.
 > that the First Amendment precludes right of publicity liability in many cases. 
 > For instance, an unauthorized biography is certainly a "product" 
 > and an item in "trade" 
-> that benefits from the "commercial value of [its subject's] identity"; 
+> that benefits from the "commercial value of its subject's]identity"; 
 > it uses the subject’s name and often his photograph in goods 
 > (the biography itself); 
 > and yet unauthorized biographies are constitutionally protected from liability. 
@@ -260,7 +269,10 @@ Within this framework, we turn to the questions posed.
 
 Georgia has long recognized the right of privacy. Following denial of
 the existence of the right of privacy in a controversial decision by the
-New York Court of Appeals in [*Roberson v. Rochester Folding Box Co.*, (1902)](http://scholar.google.com/scholar_case?case=8949201185857474767), the Georgia Supreme Court became the first such court to recognize the right of privacy in [*Pavesich v. New England Life Ins. Co.,* (1905)][pavesich].
+New York Court of Appeals in [*Roberson v. Rochester Folding Box Co.*][roberson] (1902), 
+the Georgia Supreme Court 
+became the first such court to recognize the right of privacy 
+in [*Pavesich v. New England Life Ins. Co.*][pavesich] (1905).
 
 In *Pavesich,* the picture of an artist 
 was used without his consent in a newspaper advertisement of the insurance company. 
@@ -296,22 +308,23 @@ included the right of a person not to be exhibited before the public, saying:
 > it no less embraces the correlative right of privacy; 
 > and this is no new idea in Georgia law. (Emphasis supplied.) [*Pavesich*][pavesich].
 
-Recognizing the possibility of a conflict between the right of privacy and the freedoms of speech and press, this court said: "There is in the publication of one's picture for advertising purposes not the slightest semblance of an expression of an idea, a thought, or an opinion, within the meaning of the constitutional provision which guarantees to a person the right to publish his sentiments on any subject." [*Id.*][pavesich]. 
+Recognizing the possibility of a conflict between the right of privacy and the freedoms of speech and press, this court said: "There is in the publication of one's picture for advertising purposes not the slightest semblance of an expression of an idea, a thought, or an opinion, within the meaning of the constitutional provision which guarantees to a person the right to publish his sentiments on any subject." [*Pavesich*][pavesich]. 
 The defendants in the case now before us 
 make no claim under these freedoms and we find no violation thereof.
 
 Observing in dicta that the right of privacy in general does not survive the death of the person whose privacy is invaded, the *Pavesich* court said: "While the right of privacy is personal, and may die with the person, we do not desire to be understood as assenting to the proposition that the relatives of the deceased cannot, in a proper case, protect the memory of their kinsman, not only from defamation, but also from an invasion into the affairs of his private life after his death. This question is not now involved, but we do not wish anything
 said to be understood as committing us in any way to the doctrine that
 against the consent of relatives the private affairs of a deceased
-person may be published and his picture or statue exhibited." [*Id.*][pavesich].
+person may be published and his picture or statue exhibited." [*Pavesich*][pavesich].
 
 Finding that Pavesich, although an artist, was not recognized as a public figure, the court said: "It is not necessary in this case to hold, nor are we prepared to do so, that the mere fact that a man has become what is called a public character, either by aspiring to public office, or by holding public office, or by exercising a profession which places him before the public, or by engaging in a business which has necessarily a public nature, gives to everyone the right to print and circulate his picture." [*Id.*][pavesich]. 
 Thus, although recognizing the right of privacy, the *Pavesich* court left open the question facing us involving the likeness of a public figure.&hellip; 
 
-In [*Palmer v. Schonhorn Enterprises,* (N.J.Sup.Ct. 1967),](http://scholar.google.com/scholar_case?case=18127729155672659732) Arnold Palmer, Gary Player, Doug Sanders and Jack Nicklaus obtained summary judgment against the manufacturer of a golf game which used the
+In [*Palmer v. Schonhorn Enterprises,*][palmer]
+(N.J.Sup.Ct. 1967), Arnold Palmer, Gary Player, Doug Sanders and Jack Nicklaus obtained summary judgment against the manufacturer of a golf game which used the
 golfers' names and short biographies without their consent. Although
 written as a right of privacy case, much of what was said is applicable
-to the right of publicity. In its opinion the court said ([*Id.*](http://scholar.google.com/scholar_case?case=18127729155672659732)):
+to the right of publicity. [*Palmer*][palmer].
 
 > It would therefore seem, from a review of the authorities, that although the publication of biographical data of a well-known figure does not per se constitute an invasion of privacy, the use of that same data for the purpose of capitalizing upon the name by using it in connection with a commercial project other than the dissemination of news or articles or biographies does.
 
@@ -319,7 +332,8 @@ to the right of publicity. In its opinion the court said ([*Id.*](http://scholar
 or accomplishments merely because the owner's accomplishments have been
 highly publicized."
 
-In [*Haelan Laboratories*](http://scholar.google.com/scholar_case?case=18211552832825571674), the court was concerned with whether a celebrity has the right to the exclusive use of his or her name and likeness. In [*Palmer*](http://scholar.google.com/scholar_case?case=18127729155672659732), the court was concerned with whether a person using the celebrity's name for the user's commercial benefit has the right to do so without authorization. At this point it should be emphasized that we deal here with the unauthorized use of a person's name and likeness for the commercial benefit of the user, not with a city's use of a celebrity's name to denominate a street or school.&hellip; 
+In [*Haelan Laboratories*][haelan] , the court was concerned with whether a celebrity has the right to the exclusive use of his or her name and likeness. In [*Palmer*][palmer], 
+the court was concerned with whether a person using the celebrity's name for the user's commercial benefit has the right to do so without authorization. At this point it should be emphasized that we deal here with the unauthorized use of a person's name and likeness for the commercial benefit of the user, not with a city's use of a celebrity's name to denominate a street or school.&hellip; 
 
 The right of publicity was first recognized in Georgia by the Court of Appeals in [*Cabaniss v. Hipsley,* (1966)](http://scholar.google.com/scholar_case?case=7744604933524088722). There the court held that the plaintiff, an exotic dancer, could recover from the owner of the Atlanta Playboy Club for the unauthorized use of the dancer's misnamed photograph in an entertainment magazine advertising the Playboy Club. Although plaintiff had had her picture taken to promote her performances, she was not performing at the Playboy Club. The court used Dean William L. Prosser's four-pronged analysis of the right of privacy, saying: ". . . there are four distinct kinds of invasion of four different interests of plaintiff; that there are four disparate torts under a common name. These four torts may be described briefly as: 
 
@@ -328,7 +342,7 @@ The right of publicity was first recognized in Georgia by the Court of Appeals i
 3. publicity which places the plaintiff in a false light in the public eye;
 4. appropriation, for the defendant's advantage, of the plaintiff's name or likeness." 
 
-[*Id*.](http://scholar.google.com/scholar_case?case=7744604933524088722). Finding no violation of the first three rights of privacy, the court found a violation of the fourth, saying:
+[*Hipsley*.](http://scholar.google.com/scholar_case?case=7744604933524088722). Finding no violation of the first three rights of privacy, the court found a violation of the fourth, saying:
 
 > Unlike intrusion, disclosure, or false light, appropriation does not
 require the invasion of something secret, secluded or private pertaining
@@ -339,26 +353,45 @@ plaintiff's name or likeness.&hellip; "The interest protected (in the
 the exclusive use of the plaintiff's name and likeness as an aspect of
 his identity."
 
-Although Ms. Hipsley was an entertainer (i.e., a public figure), the court found she was entitled to recover from the Playboy Club (but not from the magazine which published the Club's ad) for the unauthorized use of her photograph. However the court noted a difference in the damages recoverable in traditional right of privacy cases as opposed to right of publicity cases saying ([*Id*](http://scholar.google.com/scholar_case?case=7744604933524088722)): 
+Although Ms. Hipsley was an entertainer (i.e., a public figure), 
+the court found she was entitled to recover from the Playboy Club 
+(but not from the magazine which published the Club's ad) 
+for the unauthorized use of her photograph. 
+However the court noted a difference in the damages recoverable 
+in traditional right of privacy cases 
+as opposed to right of publicity:
 
-> Recognizing, as we do, the fundamental distinction between causes of action involving injury to feelings, sensibilities or reputation and those involving an appropriation of rights in the nature of property rights for commercial exploitation, it must necessarily follow that there is a fundamental distinction between the two classes of cases in the measure of damages to be applied. In the former class (which we take to include the intrusion, disclosure, and false light aspects of the privacy tort), general damages are recoverable without proof of special damages. [*Pavesich*][pavesich]. In the latter class, the measure of damages is the value of the use of the appropriated publicity.
+> Recognizing, as we do, the fundamental distinction between causes of action involving injury to feelings, sensibilities or reputation and those involving an appropriation of rights in the nature of property rights for commercial exploitation, it must necessarily follow that there is a fundamental distinction between the two classes of cases in the measure of damages to be applied. In the former class (which we take to include the intrusion, disclosure, and false light aspects of the privacy tort), general damages are recoverable without proof of special damages. [*Pavesich*][pavesich]. In the latter class, the measure of damages is the value of the use of the appropriated publicity. [*Hipsley*](http://scholar.google.com/scholar_case?case=7744604933524088722).
 
 In [*McQueen v. Wilson,*](http://scholar.google.com/scholar_case?case=1248459050824146235) the Court of Appeals upheld the right of an actress, Butterfly McQueen, who appeared as "Prissie" in the movie *Gone With the Wind,* to recover for the unauthorized use of her photograph, saying: "Both before and since *Pavesich* it has been recognized that the appropriation of another's identity, picture, papers, name or signature without consent and for financial gain  might be a tort for which an action would lie. . . ." 
 
-Thus, the courts in Georgia have recognized the rights of private citizens, [*Pavesich*][pavesich], as well as entertainers, *Cabaniss* and [*McQueen,*](http://scholar.google.com/scholar_case?case=1248459050824146235), not to have their names and photographs used for the financial gain of the user without their consent, where such use is not authorized as an exercise of freedom of the press. We know of no reason why a public figure prominent in religion and civil rights should be entitled to less protection than an exotic dancer or a movie actress. Therefore, we hold that the appropriation of another's name and likeness, whether such likeness be a photograph or sculpture, without consent and for the financial gain of the appropriator is a tort in Georgia, whether the person whose name and likeness is used is a private citizen, entertainer, or as here a public figure who is not a public official. 
+Thus, the courts in Georgia have recognized the rights of private citizens, 
+[*Pavesich*][pavesich], as well as entertainers, [*Hipsley*](http://scholar.google.com/scholar_case?case=7744604933524088722) and [*McQueen,*](http://scholar.google.com/scholar_case?case=1248459050824146235), 
+not to have their names and photographs used 
+for the financial gain of the user without their consent, 
+where such use is not authorized as an exercise of freedom of the press. 
+We know of no reason why a public figure 
+prominent in religion and civil rights 
+should be entitled to less protection than an exotic dancer or a movie actress. 
+Therefore, we hold that the appropriation of another's name and likeness, 
+whether such likeness be a photograph or sculpture, 
+without consent and for the financial gain of the appropriator is a tort in Georgia, 
+whether the person whose name and likeness is used is a private citizen, 
+entertainer, or as here a public figure who is not a public official. 
 
-In [*Pavesich,*][pavesich], this right not to have another appropriate one's photograph was denominated the right of privacy; in [*Cabaniss v. Hipsley*,](http://scholar.google.com/scholar_case?case=7744604933524088722) it was the right of publicity. Mr. Pavesich was not a public figure; Ms. Hipsley was. We conclude that while private citizens have the right of privacy, public figures have a similar right of publicity, and that the measure of damages to a public figure for violation of his or her right of publicity is the value of the appropriation to the user.&hellip; 
+In [*Pavesich,*][pavesich], this right not to have another appropriate one's photograph was denominated the right of privacy; in [*Cabaniss v. Hipsley*](http://scholar.google.com/scholar_case?case=7744604933524088722), it was the right of publicity. Mr. Pavesich was not a public figure; Ms. Hipsley was. We conclude that while private citizens have the right of privacy, public figures have a similar right of publicity, and that the measure of damages to a public figure for violation of his or her right of publicity is the value of the appropriation to the user.&hellip; 
 
 #### 2.  Does the "right of publicity" survive the death of its owner (i.e., is the right inheritable and devisable)?
 
 Although the *Pavesich* court expressly did not decide this question, the tenor of that opinion is that the right to privacy at least should be protectable after death. [*Pavesich*][pavesich].
 
-The right of publicity is assignable during the life of the celebrity, for without this characteristic, full commercial exploitation of one's name and likeness is practically impossible. [*Haelan Laboratories v. Topps Chewing Gum*](http://scholar.google.com/scholar_case?case=18211552832825571674). That is, without assignability the right of publicity could hardly be called a "right." Recognizing its assignability, most commentators have
+The right of publicity is assignable during the life of the celebrity, for without this characteristic, full commercial exploitation of one's name and likeness is practically impossible. [*Haelan Laboratories v. Topps Chewing Gum*][haelan]. That is, without assignability the right of publicity could hardly be called a "right." Recognizing its assignability, most commentators have
 urged that the right of publicity must also be inheritable.
 
-The courts that have considered the problem are not as unanimous. In [*Price v. Hal Roach Studios* (SDNY 1975)](http://scholar.google.com/scholar_case?case=4464715402419059889), the court reasoned that since the right of publicity was assignable, it survived the deaths of Stanley Laurel and Oliver Hardy. Other decisions from the Southern District of New York recognize the descendibility of the right of publicity, which has also been recognized by the Second Circuit Court of Appeals.
+The courts that have considered the problem are not as unanimous. 
+In [*Price v. Hal Roach Studios*](http://scholar.google.com/scholar_case?case=4464715402419059889) (SDNY 1975), the court reasoned that since the right of publicity was assignable, it survived the deaths of Stanley Laurel and Oliver Hardy. Other decisions from the Southern District of New York recognize the descendibility of the right of publicity, which has also been recognized by the Second Circuit Court of Appeals.
 
-In [*Factors Etc., Inc. v. Pro Arts, Inc.*, (2d Cir. 1978),](http://scholar.google.com/scholar_case?case=14024880984831392427) Elvis Presley had assigned his right of publicity to Boxcar Enterprises, which assigned that right to Factors after Presley's death. Defendant Pro Arts published a poster of Presley entitled "In Memory." In affirming the grant of injunction against Pro Arts, the Second Circuit Court of Appeals said:
+In [*Factors Etc., Inc. v. Pro Arts, Inc.*](http://scholar.google.com/scholar_case?case=14024880984831392427) (2d Cir. 1978), Elvis Presley had assigned his right of publicity to Boxcar Enterprises, which assigned that right to Factors after Presley's death. Defendant Pro Arts published a poster of Presley entitled "In Memory." In affirming the grant of injunction against Pro Arts, the Second Circuit Court of Appeals said:
 
 > The identification of this exclusive right belonging to Boxcar as a transferable property right compels the conclusion that the right survives Presley's death. The death of Presley, who was merely the beneficiary of an income interest in Boxcar's exclusive right, should not in itself extinguish Boxcar's property right. Instead, the income interest, continually produced from Boxcar's exclusive right of commercial exploitation, should inure to Presley's estate at death like any other intangible property right. To hold that the right did not survive Presley's death, would be to grant competitors of Factors, such as Pro Arts, a windfall in the form of profits from the use of Presley's name and likeness.
 
@@ -466,7 +499,19 @@ We granted certiorari &hellip; to consider an issue unresolved by this Court: wh
 
 ### I
 
-(In deciding the crucial question of whether the TV station had a privilege to film and televise Zacchini's performance, the Ohio Supreme Court relied on [*Time, Inc.* v. *Hill,* (S.Ct. 1967),](http://scholar.google.com/scholar_case?case=13178370409068522665) a case involving First Amendment limitations on state tort actions, the U.S. Supreme court read both *Hill* and [*New York Times Co.* v. *Sullivan,* (S.Ct. 1964),](http://scholar.google.com/scholar_case?case=10183527771703896207) to stand for the proposition that "the press has a privilege to report matters of legitimate public interest even though such reports might intrude on matters otherwise private," and concluded, therefore, that the press is also "privileged when an individual seeks to publicly exploit his talents while keeping the benefits private." The privilege thus exists in cases "where appropriation of a right of publicity is claimed." The Ohio Supreme Court concluded that "since the gravamen of the issue in this case is not whether the degree of intrusion is reasonable, but whether *First Amendment principles* require that the right of privacy give way to the public right to be informed of matters of public interest and concern, the concept of privilege seems the more useful and appropriate one.")
+(In deciding the crucial question of whether the TV station had a privilege to film and televise Zacchini's performance, the Ohio Supreme Court relied on 
+[*Time, Inc. v. Hill*]  (US 1967), 
+a case involving First Amendment limitations on state tort actions. 
+The Ohio Supreme Court read both *Hill* and [*New York Times Co. v. Sullivan*](http://scholar.google.com/scholar_case?case=10183527771703896207) (US 1964)
+ to stand for the proposition that 
+ "the press has a privilege to report matters of legitimate public interest 
+ even though such reports might intrude on matters otherwise private," 
+ and concluded, therefore, that the press is also 
+ "privileged when an individual seeks to publicly exploit his talents 
+ while keeping the benefits private." 
+ The privilege thus exists in cases 
+ "where appropriation of a right of publicity is claimed." 
+ The Ohio Supreme Court concluded that "since the gravamen of the issue in this case is not whether the degree of intrusion is reasonable, but whether *First Amendment principles* require that the right of privacy give way to the public right to be informed of matters of public interest and concern, the concept of privilege seems the more useful and appropriate one.")
 
 ###  II
 
@@ -474,19 +519,33 @@ The Ohio Supreme Court held that the TV station is constitutionally privileged t
 
 The Ohio Supreme Court nevertheless held that the challenged invasion was privileged, saying that the press "must be accorded broad latitude in its choice of how much it presents of each story or incident, and of the emphasis to be given to such presentation. No fixed standard which would bar the press from reporting or depicting either an entire occurrence or an entire discrete part of a public performance can be formulated which would not unduly restrict the 'breathing room' in reporting which freedom of the press requires." 47 Ohio St. 2d, at 235. Under this view, the TV station was thus constitutionally free to film and display Zacchini's entire act.
 
-The Ohio Supreme Court relied heavily on [*Time, Inc.* v. *Hill,* (S.Ct. 1967),](http://scholar.google.com/scholar_case?case=13178370409068522665) but that case does not mandate a media privilege to televise a performer's entire act without his consent. Involved in [*Time, Inc.* v.  *Hill*](http://scholar.google.com/scholar_case?case=13178370409068522665) was a claim under the New York "Right of Privacy" statute that Life Magazine, in the course of reviewing a new play, had connected the play with a long-past incident involving petitioner and his family and had falsely described their experience and conduct at that time. The complaint sought damages for humiliation and suffering flowing from these nondefamatory falsehoods that allegedly invaded Hill's privacy. The Court held, however, that the opening of a new play linked to an actual incident was a matter of public interest and that Hill could not recover without showing that the Life report was knowingly false or was published with reckless disregard for the truth—the same rigorous standard that had been applied in [*New York Times Co.* v. *Sullivan,* (S.Ct. 1964)](http://scholar.google.com/scholar_case?case=10183527771703896207). 
+The Ohio Supreme Court relied heavily on [*Time, Inc. v. Hill*][hill] (US 1967), 
+but that case does not mandate a media privilege 
+to televise a performer's entire act without his consent. Involved in [*Time, Inc. v. Hill*][hill]
+was a claim under the New York "Right of Privacy" statute that Life Magazine, in the course of reviewing a new play, had connected the play with a long-past incident involving petitioner and his family and had falsely described their experience and conduct at that time. The complaint sought damages for humiliation and suffering flowing from these nondefamatory falsehoods that allegedly invaded Hill's privacy. The Court held, however, that the opening of a new play linked to an actual incident was a matter of public interest and that Hill could not recover without showing that the Life report was knowingly false or was published with reckless disregard for the truth—the same rigorous standard that had been applied in [*New York Times Co.* v. *Sullivan,*](http://scholar.google.com/scholar_case?case=10183527771703896207) (US 1964)]
 
-[*Time, Inc.* v. *Hill*](http://scholar.google.com/scholar_case?case=13178370409068522665), which was hotly contested and decided by a divided Court, involved an entirely different tort from the "right of publicity" recognized by the Ohio Supreme Court. As the opinion reveals in [*Time, Inc.* v. *Hill*](http://scholar.google.com/scholar_case?case=13178370409068522665), the Court was steeped in the literature of privacy law and was aware of the developing distinctions and nuances in this branch of the law. The Court, for example, cited Prosser &hellip; [and] divided privacy into four distinct branches. The Court was aware that it was adjudicating a "false light" privacy case involving a matter of public interest, not a case involving "intrusion," "appropriation" of a name or likeness for the purposes of trade, &hellip; or "private details" about a non-newsworthy person or event, *id.* It is also abundantly clear that [*Time, Inc.* v.  *Hill*](http://scholar.google.com/scholar_case?case=13178370409068522665) did not involve a performer, a person with a name having commercial value, or any claim to a "right of publicity." This discrete kind of "appropriation" case was plainly identified in the literature cited by the Court and had been adjudicated in the reported cases.
+[*Time, Inc. v. Hill*](http://scholar.google.com/scholar_case?case=13178370409068522665), which was hotly contested and decided by a divided Court, involved an entirely different tort from the "right of publicity" recognized by the Ohio Supreme Court. As the opinion reveals in [*Time, Inc. v. Hill*][hill],
+the Court was steeped in the literature of privacy law and was aware of the developing distinctions and nuances in this branch of the law. The Court, for example, cited Prosser &hellip; and divided privacy into four distinct branches. The Court was aware that it was adjudicating a "false light" privacy case involving a matter of public interest, not a case involving "intrusion," "appropriation" of a name or likeness for the purposes of trade, &hellip; or "private details" about a non-newsworthy person or event, *id.* It is also abundantly clear that [*Time, Inc. v. Hill*][hill]
+did not involve a performer, a person with a name having commercial value, or any claim to a "right of publicity." This discrete kind of "appropriation" case was plainly identified in the literature cited by the Court and had been adjudicated in the reported cases.
 
 The differences between these two torts are important. First, the State's interests in providing a cause of action in each instance are different. "The interest protected" in permitting recovery for placing the plaintiff in a false light "is clearly that of reputation, with the same overtones of mental distress as in defamation." Prosser. By contrast, the State's interest in permitting a "right of publicity" is in protecting the proprietary interest of the individual in his act in part to encourage such entertainment. As we later note, the State's interest is closely analogous to the goals of patent and copyright law, focusing on the right of the individual to reap the reward of his endeavors and having little to do with protecting feelings or reputation. Second, the two torts differ in the degree to which they intrude on dissemination of information to the public. In "false light" cases the only way to protect the interests involved is to attempt to minimize publication of the damaging matter, while in "right of publicity" cases the only question is who gets to do the publishing. An entertainer such as Zacchini usually has no objection to the widespread publication of his act as long as he gets the commercial benefit of such publication. Indeed, in the present case Zacchini did not seek to enjoin the broadcast of his act; he simply sought compensation for the broadcast in the form of damages.
 
-Nor does it appear that our later cases, such as [*Rosenbloom* v.  *Metromedia, Inc.,* (S.Ct. 1971)](http://scholar.google.com/scholar_case?case=13134064098406124246); [*Gertz* v. *Robert Welch, Inc.,* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202); and [*Time, Inc.* v. *Firestone,* (S.Ct. 1976),](http://scholar.google.com/scholar_case?case=12685855173622583678) require or furnish substantial support for the Ohio court's privilege ruling. These cases, like *New York Times,* emphasize the protection extended to the press by the First Amendment in defamation cases, particularly when suit is brought by a public official or a public figure. None of them involve an alleged appropriation by the press of a right of publicity existing under state law.
+Nor does it appear that our later cases, such as [*Rosenbloom v. Metromedia, Inc.*](http://scholar.google.com/scholar_case?case=13134064098406124246) (US 1971); [*Gertz v. Robert Welch, Inc.*][gertz] (US 1974); and [*Time, Inc. v. Firestone*](http://scholar.google.com/scholar_case?case=12685855173622583678) (US 1976) 
+require or furnish substantial support for the Ohio court's privilege ruling. 
+These cases, like *New York Times,* emphasize the protection extended to the press by the First Amendment in defamation cases, particularly when suit is brought by a public official or a public figure. None of them involve an alleged appropriation by the press of a right of publicity existing under state law.
 
-Moreover, [*Time, Inc.* v.  *Hill*](http://scholar.google.com/scholar_case?case=13178370409068522665)*, New York Times, Metromedia, Gertz,* and *Firestone* all involved the reporting of events; in none of them was there an attempt to broadcast or publish an entire act for which the performer ordinarily gets paid. It is evident, and there is no claim here to the contrary, that Zacchini's state-law right of publicity would not serve to prevent the TV station from reporting the newsworthy facts about Zacchini's act. Wherever the line in particular situations is to be drawn between media reports that are protected and  those that are not, we are quite sure that the First and Fourteenth Amendments do not immunize the media when they broadcast a performer's entire act without his consent. The Constitution no more prevents a State from requiring the TV station to compensate Zacchini for broadcasting his act on television than it would privilege the TV station to film and broadcast a copyrighted dramatic work without liability to the copyright owner &hellip; or to film and broadcast a prize fight &hellip; or a baseball game &hellip; where the promoters or the participants had other plans for publicizing the event. There are ample reasons for reaching this conclusion.
+Moreover, [*Time, Inc. v. Hill*][hill],
+*New York Times, Metromedia, Gertz,* and *Firestone* 
+all involved the reporting of events; 
+in none of them was there an attempt to broadcast or publish an entire act 
+for which the performer ordinarily gets paid. 
+It is evident, and there is no claim here to the contrary, 
+that Zacchini's state-law right of publicity would not serve to prevent the TV station from reporting the newsworthy facts about Zacchini's act. Wherever the line in particular situations is to be drawn between media reports that are protected and  those that are not, we are quite sure that the First and Fourteenth Amendments do not immunize the media when they broadcast a performer's entire act without his consent. The Constitution no more prevents a State from requiring the TV station to compensate Zacchini for broadcasting his act on television than it would privilege the TV station to film and broadcast a copyrighted dramatic work without liability to the copyright owner &hellip; or to film and broadcast a prize fight &hellip; or a baseball game &hellip; where the promoters or the participants had other plans for publicizing the event. There are ample reasons for reaching this conclusion.
 
 The broadcast of a film of Zacchini's entire act poses a substantial threat to the economic value of that performance. As the Ohio court recognized, this act is the product of Zacchini's own talents and energy, the end result of much time, effort, and expense. Much of its economic value lies in the "right of exclusive control over the publicity given to his performance"; if the public can see the act free on television, it will be less willing to pay to see it at the fair. The  effect of a public broadcast of the performance is similar to preventing Zacchini from charging an admission fee. "The rationale for [protecting the right of publicity] is the straightforward one of preventing unjust enrichment by the theft of good will. No social purpose is served by having the defendant get free some aspect of the plaintiff that would have market value and for which he would normally pay." Kalven, Privacy in Tort Law—Were Warren and Brandeis Wrong?, 31 Law & Contemp. Prob. 326, 331 (1966). Moreover, the broadcast of Zacchini's entire performance, unlike the unauthorized use of another's name for purposes of trade or the incidental use of a name or picture by the press, goes to the heart of Zacchini's ability to earn a living as an entertainer. Thus, in this case, Ohio has recognized what may be the strongest case for a "right of publicity"--involving, not the appropriation of an entertainer's reputation to enhance the attractiveness of a commercial product, but the appropriation of the very activity by which the entertainer acquired his reputation in the first place.
 
-Of course, Ohio's decision to protect Zacchini's right of publicity here rests on more than a desire to compensate the performer for the time and effort invested in his act; the protection provides an economic incentive for him to make the investment required to produce a performance of interest to the public. This same consideration underlies the patent and copyright laws long enforced by this Court. As the Court stated in [*Mazer* v. *Stein,* (S.Ct. 1954)](http://scholar.google.com/scholar_case?case=11977251527545760686):
+Of course, Ohio's decision to protect Zacchini's right of publicity here rests on more than a desire to compensate the performer for the time and effort invested in his act; the protection provides an economic incentive for him to make the investment required to produce a performance of interest to the public. This same consideration underlies the patent and copyright laws long enforced by this Court. 
+As the Court stated in [*Mazer v.Stein*](http://scholar.google.com/scholar_case?case=11977251527545760686) (US 1954):
 
 > "The economic philosophy behind the clause empowering Congress to
 > grant patents and copyrights is the conviction that encouragement of
@@ -494,16 +553,17 @@ Of course, Ohio's decision to protect Zacchini's right of publicity here rests o
 > welfare through the talents of authors and inventors in 'Science and
 > useful Arts.' Sacrificial days devoted to such creative activities
 > deserve rewards commensurate with the services rendered." 
-> These laws perhaps regard the "reward to the owner [as] a secondary
-> consideration," [*United States* v. *Paramount Pictures,* (S.Ct. 1948),](http://scholar.google.com/scholar_case?case=1569249983672754422)
-> but they were "intended definitely to grant valuable, enforceable
+> These laws perhaps regard the "reward to the owner as a secondary
+> consideration," but they were "intended definitely to grant valuable, enforceable
 > rights" in order to afford greater encouragement to the production of
-> works of benefit to the public. [*Washingtonian Publishing Co.* v. *Pearson,* (S.Ct. 1939)](http://scholar.google.com/scholar_case?case=14367358885827043326).
+> works of benefit to the public. 
 > The Constitution does not prevent Ohio from making a similar choice
 > here in deciding to protect the entertainer's incentive in order to
 > encourage the production of this type of work. 
 
-There is no doubt that entertainment, as well as news, enjoys First Amendment protection. It is also true that entertainment itself can be important news. [*Time, Inc.* v.  *Hill*](http://scholar.google.com/scholar_case?case=13178370409068522665)*.* But it is important to note that neither the public nor the TV station will be deprived of the benefit of Zacchini's performance as long as his commercial stake in his act is appropriately recognized. Zacchini does not seek to enjoin the broadcast of his performance; he simply wants to be paid for it. Nor do we think that a state-law damages remedy against the TV station would represent a species of liability without fault contrary to the letter or spirit of [*Gertz* v. *Robert Welch, Inc.,* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202). The TV station knew that Zacchini objected to televising his act but nevertheless displayed the entire film.
+There is no doubt that entertainment, as well as news, enjoys First Amendment protection. It is also true that entertainment itself can be important news. [*Time, Inc. v. Hill*][hill].
+But it is important to note that neither the public nor the TV station will be deprived of the benefit of Zacchini's performance as long as his commercial stake in his act is appropriately recognized. Zacchini does not seek to enjoin the broadcast of his performance; he simply wants to be paid for it. Nor do we think that a state-law damages remedy against the TV station would represent a species of liability without fault contrary to the letter or spirit of [*Gertz v. Robert Welch, Inc.*][gertz] (US 1974). 
+The TV station knew that Zacchini objected to televising his act but nevertheless displayed the entire film.
 
 We conclude that although the State of Ohio may as a matter of its own law privilege the press in the circumstances of this case, the First and Fourteenth Amendments do not require it to do so.
 
@@ -513,7 +573,8 @@ We conclude that although the State of Ohio may as a matter of its own law privi
 
 In *Zacchini,* the United States Supreme Court told the Ohio Supreme Court it could rule in favor of the TV station and against Zacchini, but don't rely on the First Amendment to do it.
 
-The Ohio Supreme Court recognized that Zacchini had a state law publicity right, but also found that the TV station had a First Amendment privilege to report on such a "matter of legitimate public interest." After all, Zacchini's act was first and foremost NEWS. Indeed the Ohio Supreme Court cited [*Time, Inc.* v.  *Hill*](http://scholar.google.com/scholar_case?case=13178370409068522665) for the proposition that the press has a privilege to report news, even if the reporting intrudes on privacy. 
+The Ohio Supreme Court recognized that Zacchini had a state law publicity right, but also found that the TV station had a First Amendment privilege to report on such a "matter of legitimate public interest." After all, Zacchini's act was first and foremost NEWS. Indeed the Ohio Supreme Court cited [*Time, Inc. v. Hill*][hill]
+for the proposition that the press has a privilege to report news, even if the reporting intrudes on privacy. 
 
 The United States Supreme Court observed that the *Hill* case was a false light *privacy* case, *not* a right of publicity or intrusion case. The Hill family were not celebrities or performers with "publicity rights," or with names that have commercial value. Defamation and false light cases involve damage to reputation or mental distress. Zacchini's interest was proprietary and analagous to the sort of interest protected by the patent or copyright laws, focusing on the right of the individual to reap the reward of his endeavors and having little to do with protecting feelings or reputation
 
@@ -543,7 +604,7 @@ BAILEY BROWN, Senior Circuit Judge.
 
 #### Right of Publicity
 
-(Carson claims that the toilet company's use of the phrase "Here's Johnny" violates the common law right of privacy and right of publicity. The confusion in this area of the law requires a brief analysis of the relationship between these two rights. Michigan law, which governs these claims, has not yet clearly addressed the right of publicity. But the general recognition of the right &hellip; suggests to us that the Michigan courts would adopt the right. Michigan has recognized a right of privacy.) [*Beaumont v. Brown,* (MI 1977)](http://scholar.google.com/scholar_case?case=14920951584418126067). 
+(Carson claims that the toilet company's use of the phrase "Here's Johnny" violates the common law right of privacy and right of publicity. The confusion in this area of the law requires a brief analysis of the relationship between these two rights. Michigan law, which governs these claims, has not yet clearly addressed the right of publicity. But the general recognition of the right &hellip; suggests to us that the Michigan courts would adopt the right. Michigan has recognized a right of privacy.) 
 
 [In an influential article][prosser], 
 Dean Prosser delineated four distinct types of the right of privacy: 
@@ -553,7 +614,7 @@ Dean Prosser delineated four distinct types of the right of privacy:
 3. publicity which places one in a false light, and 
 4. appropriation of one's name or likeness for the defendant's advantage.&hellip; 
 
-This fourth type has become known as the "right of publicity." [*Zacchini v. Scripps-Howard Broadcasting Co.* (S.Ct. 1977)][zacchini]. 
+This fourth type has become known as the "right of publicity." [*Zacchini*][zacchini]. 
 Henceforth we will refer to Prosser's last, or fourth, 
 category as the "right of publicity."
 
@@ -582,11 +643,12 @@ of an invasion of the right of publicity
 makes it unnecessary for us 
 to accept or reject the claim of an invasion of the right of privacy.
 
-The right of publicity has developed to protect the commercial interest of celebrities in their identities. The theory of the right is that a celebrity's identity can be valuable in the promotion of products, and the celebrity has an interest that may be protected from the unauthorized commercial exploitation of that identity. In [*Memphis Development Foundation v. Factors Etc., Inc.,* (6th Cir. 1980),](http://scholar.google.com/scholar_case?case=10950732871251474707) we stated: "The famous have an exclusive legal right during life to control and profit from the commercial use of their name and personality."
+The right of publicity has developed to protect the commercial interest of celebrities in their identities. The theory of the right is that a celebrity's identity can be valuable in the promotion of products, and the celebrity has an interest that may be protected from the unauthorized commercial exploitation of that identity. In [*Memphis Development Foundation v. Factors Etc., Inc.*](http://scholar.google.com/scholar_case?case=10950732871251474707)  (6th Cir. 1980), we stated: "The famous have an exclusive legal right during life to control and profit from the commercial use of their name and personality."
 
-The district court dismissed appellants' claim based on the right of publicity because appellee does not use Carson's name or likeness. [498 F.Supp. at 77](http://scholar.google.com/scholar_case?case=652682831136403786).  It held that it "would not be prudent to allow recovery for a right of publicity claim which does not more specifically identify Johnny Carson." [498 F.Supp. at 78](http://scholar.google.com/scholar_case?case=652682831136403786).  We believe that, on the contrary, the district court's conception of the right of publicity is too narrow. The right of publicity, as we have stated, is that a celebrity has a protected pecuniary interest in the commercial exploitation of his identity. If the celebrity's identity is commercially exploited, there has been an invasion of his right whether or not his "name or likeness" is used. Carson's identity may be exploited even if his name, John W. Carson, or his picture is not used.
+The district court dismissed appellants' claim based on the right of publicity [because appellee does not use Carson's name or likeness.](http://scholar.google.com/scholar_case?case=652682831136403786). It held that it "would not be prudent to allow recovery for a right of publicity claim which does not more specifically identify Johnny Carson." [*Id.*](http://scholar.google.com/scholar_case?case=652682831136403786).  We believe that, on the contrary, the district court's conception of the right of publicity is too narrow. The right of publicity, as we have stated, is that a celebrity has a protected pecuniary interest in the commercial exploitation of his identity. If the celebrity's identity is commercially exploited, there has been an invasion of his right whether or not his "name or likeness" is used. Carson's identity may be exploited even if his name, John W. Carson, or his picture is not used.
 
-In [*Motschenbacher v. R.J. Reynolds Tobacco Co.,* (9th Cir.1974),](http://scholar.google.com/scholar_case?case=6630116352269581991) the court held that the unauthorized use of a picture of a distinctive race car of a well known professional race car driver, whose name or likeness were not used, violated his right of publicity. In this connection, the court said:
+In [*Motschenbacher v. R.J. Reynolds Tobacco Co.*](http://scholar.google.com/scholar_case?case=6630116352269581991) (8th Cir. 1974), 
+the court held that the unauthorized use of a picture of a distinctive race car of a well known professional race car driver, whose name or likeness were not used, violated his right of publicity. In this connection, the court said:
 
 > We turn now to the question of "identifiability." Clearly, if the
 > district court correctly determined as a matter of law that plaintiff
@@ -605,9 +667,9 @@ In [*Motschenbacher v. R.J. Reynolds Tobacco Co.,* (9th Cir.1974),](http://schol
 
 *Id.* at 826-827 (footnote omitted).
 
-In [*Ali v. Playgirl, Inc.,* (SDNY 1978),](http://scholar.google.com/scholar_case?case=1243301922700135667) Muhammad Ali, former heavyweight champion, sued Playgirl magazine under the New York "right of privacy" statute and also alleged a violation of his common law right of publicity. The magazine published a drawing of a nude, black male sitting on a stool in a corner of a boxing ring with hands taped and arms outstretched on the ropes. The district court concluded that Ali's right of publicity was invaded because the drawing sufficiently identified him in spite of the fact that the drawing was captioned "Mystery Man." The district court found that the identification of Ali was made certain because of an accompanying verse that identified the figure as "The Greatest." The district court took judicial notice of the fact that "Ali has regularly claimed that appellation for himself." 
+In [*Ali v. Playgirl, Inc.*](http://scholar.google.com/scholar_case?case=1243301922700135667) (SDNY 1978), Muhammad Ali, former heavyweight champion, sued Playgirl magazine under the New York "right of privacy" statute and also alleged a violation of his common law right of publicity. The magazine published a drawing of a nude, black male sitting on a stool in a corner of a boxing ring with hands taped and arms outstretched on the ropes. The district court concluded that Ali's right of publicity was invaded because the drawing sufficiently identified him in spite of the fact that the drawing was captioned "Mystery Man." The district court found that the identification of Ali was made certain because of an accompanying verse that identified the figure as "The Greatest." The district court took judicial notice of the fact that "Ali has regularly claimed that appellation for himself." 
 
-In [*Hirsch v. S.C. Johnson & Son, Inc.,* (WI 1979),](http://scholar.google.com/scholar_case?case=15457477938614677085) the court held that use by defendant of the name "Crazylegs" on a shaving gel for women violated plaintiff's right of publicity.  Plaintiff, Elroy Hirsch, a famous football player, had been known by this nickname. The court said:
+In [*Hirsch v. S.C. Johnson & Son, Inc.*](http://scholar.google.com/scholar_case?case=15457477938614677085) (WI 1979), the court held that use by defendant of the name "Crazylegs" on a shaving gel for women violated plaintiff's right of publicity.  Plaintiff, Elroy Hirsch, a famous football player, had been known by this nickname. The court said:
 
 > The fact that the name, "Crazylegs," used by Johnson, was a nickname
 > rather than Hirsch's actual name does not preclude a cause of action.
@@ -627,8 +689,6 @@ In [*Hirsch v. S.C. Johnson & Son, Inc.,* (WI 1979),](http://scholar.google.com/
 > a fictitious name is used in a context which tends to indicate that
 > the name is that of the plaintiff, the factual case for identity is
 > strengthened. 
-
-[280 N.W.2d at 137](http://scholar.google.com/scholar_case?case=15457477938614677085).
 
 In this case, Earl Braxton, president and owner of Here's Johnny
 Portable Toilets, Inc., admitted that he knew that the phrase "Here's
@@ -689,9 +749,10 @@ The right of publicity, whether tied to name, likeness, achievements, identifyin
 
 #### Federal Policy: Monopolies
 
-Protection under the right of publicity creates a common law monopoly that removes items, words and acts from the public domain. That federal policy favors free enterprise was recently reaffirmed by the Supreme Court in [*National Society of Professional Engineers v. United States,* (S.Ct. 1978),](http://scholar.google.com/scholar_case?case=1917928030443042074) in which the Supreme Court indicated that outside of the "rule of reason," only those anticompetitive restraints expressly authorized by Congress would be permitted to stand.  Concern for the impact of adopting an overbroad approach to the right of publicity was also indicated in this Court's decision in [*Memphis Development Foundation v. Factors Etc., Inc.,* 616 F.2d 956 (6th Cir.),](http://scholar.google.com/scholar_case?case=10950732871251474707) 
+Protection under the right of publicity creates a common law monopoly that removes items, words and acts from the public domain. That federal policy favors free enterprise was recently reaffirmed by the Supreme Court &hellip; and the Supreme Court indicated that outside of the "rule of reason," only those anticompetitive restraints expressly authorized by Congress would be permitted to stand. 
+Concern for the impact of adopting an overbroad approach to the right of publicity was also indicated in this Court's decision in [*Memphis Development Foundation v. Factors Etc., Inc.,*](http://scholar.google.com/scholar_case?case=10950732871251474707) (6th Cir. 1980).
 
- In *Memphis Development,* this Court held that the right of publicity does not survive a celebrity's death under Tennessee law. In so holding, this Court recognized that commercial and competitive interests are potentially compromised by an expansive approach to the right of publicity. This Court was concerned that an extension of the right of publicity to the exclusive control of the celebrity's heirs might compromise the efficiency, productivity and fairness of our economic system without enlarging the stock or quality of the goods, services, artistic creativity, information, invention or entertainment available and detract from the equal distribution of economic opportunity available in a free market system. *Memphis Development* recognized that the grant of a right of publicity is tantamount to the grant of a monopoly, in that case, for the life of the celebrity. 
+In *Memphis Development,* this Court held that the right of publicity does not survive a celebrity's death under Tennessee law. In so holding, this Court recognized that commercial and competitive interests are potentially compromised by an expansive approach to the right of publicity. This Court was concerned that an extension of the right of publicity to the exclusive control of the celebrity's heirs might compromise the efficiency, productivity and fairness of our economic system without enlarging the stock or quality of the goods, services, artistic creativity, information, invention or entertainment available and detract from the equal distribution of economic opportunity available in a free market system. *Memphis Development* recognized that the grant of a right of publicity is tantamount to the grant of a monopoly, in that case, for the life of the celebrity. 
 
 The majority's grant to Johnny Carson of a publicity right in the phrase "Here's Johnny" takes this phrase away from the public domain, giving him a common law monopoly for it, without extracting from Johnny Carson a personal contribution for the public's benefit. Protection under the right of publicity confers a monopoly on the protected individual that is potentially broader, offers fewer protections and potentially competes with federal statutory monopolies.  As an essential part of three federal monopoly rights, copyright,
 trademark and patents, notice to the public is required in the form of
@@ -720,7 +781,7 @@ indefinite time or even in perpetuity [citations omitted].
 
 #### Free Expression and Use of Intellectual Property
 
-The first amendment protects the freedom of speech, including commercial speech. [*Goldfarb v. Virginia State Bar,* (S.Sct. 1975)](http://scholar.google.com/scholar_case?case=13155838236565589433). Strong federal policy permits the free use of intellectual property, words and ideas that are in general circulation and not protected by a valid copyright, patent or trademark.&hellip; The federal copyright statute only protects original works that fix the author's particular expression of an idea or concept in a tangible form.  State statutory or common law protection against activities violating rights that are not equivalent to those granted under copyright law or protection of subject matter which is not copyrightable, including works that are not fixed in any tangible form of expression, are not preempted.&hellip; Apart from the technical arguments regarding preemption, if federal law and policy does not protect phrases such as "Here's Johnny," which is certainly not an original combination of words, state law should not protect them either under a right of publicity for want of a sufficient interest justifying protection. *See* U.S. Const., art. I, § 8 (purpose of copyright and patent laws is to "promote the Progress of Science and the useful Arts"); [*Zacchini.*][zaccini] (purpose of right of publicity is to promote production of works that benefit the public that are product of individual's own talents and energy). In addition, because copyright does not restrain the use of a mere idea or concept but only protects particular tangible expressions of an idea or concept, it has been held not to run afoul of first amendment challenges. 
+The first amendment protects the freedom of speech, including commercial speech. Strong federal policy permits the free use of intellectual property, words and ideas that are in general circulation and not protected by a valid copyright, patent or trademark.&hellip; The federal copyright statute only protects original works that fix the author's particular expression of an idea or concept in a tangible form.  State statutory or common law protection against activities violating rights that are not equivalent to those granted under copyright law or protection of subject matter which is not copyrightable, including works that are not fixed in any tangible form of expression, are not preempted.&hellip; Apart from the technical arguments regarding preemption, if federal law and policy does not protect phrases such as "Here's Johnny," which is certainly not an original combination of words, state law should not protect them either under a right of publicity for want of a sufficient interest justifying protection. *See* U.S. Const., art. I, § 8 (purpose of copyright and patent laws is to "promote the Progress of Science and the useful Arts"); [*Zacchini.*][zaccini] (purpose of right of publicity is to promote production of works that benefit the public that are product of individual's own talents and energy). In addition, because copyright does not restrain the use of a mere idea or concept but only protects particular tangible expressions of an idea or concept, it has been held not to run afoul of first amendment challenges. 
 
 Nimmer, *Does Copyright Abridge the First Amendment Guarantees of Free Speech and Press?,* 17 U.C.L.A. L.Rev. 1108 (1970). *See* [*Zacchini*][zacchini] (right of publicity could not prevent station from producing own human cannonball act).] Apart from the possibility of outright federal preemption, public policy requires that the public's interest in free enterprise and free expression take precedence over any interest Johnny Carson may have in a phrase associated with his person.]
 
@@ -803,7 +864,7 @@ sustained by the person or persons injured as a result thereof."
 
 White argues that the Samsung advertisement used her 
 "likeness" in contravention of section 3344. 
-In [*Midler v. Ford Motor Co.* (9th Cir.1988),](http://scholar.google.com/scholar_case?case=6021003493814451958) this court rejected Bette Midler's section 3344 claim 
+In [*Midler v. Ford Motor Co.*](http://scholar.google.com/scholar_case?case=6021003493814451958) (9th Cir. 1988),this court rejected Bette Midler's section 3344 claim 
 concerning a Ford television commercial 
 in which a Midler "sound-alike" sang a song which Midler had made famous. 
 In rejecting Midler's claim, 
@@ -829,7 +890,7 @@ Accordingly, we affirm the court's dismissal of White's section 3344 claim.
 White next argues 
 that the district court erred 
 in granting summary judgment to defendants on White's common law right of publicity claim. 
-In [*Eastwood v. Superior Court,* (1983),](http://scholar.google.com/scholar_case?case=9454760463773890610) 
+In [*Eastwood v. Superior Court,*](http://scholar.google.com/scholar_case?case=9454760463773890610) (1983),
 the California court of appeal stated 
 that the common law right of publicity cause of action may be pleaded by alleging:
 
@@ -869,20 +930,32 @@ of the common law right of publicity cause of action.
 In looking at the case law to that point, 
 Prosser recognized that right of publicity cases 
 involved one of two basic factual scenarios: 
-name appropriation, and picture or other likeness appropriation. *Id.* at 401-02, nn. 156-57.
+name appropriation, and picture or other likeness appropriation.
 
 Even though Prosser focused on appropriations of name or likeness in discussing the right of publicity, he noted that "[i]t is not impossible that there might be appropriation of the plaintiff's identity, as by impersonation, without the use of either his name or his likeness, and that this would  be an invasion of his right of privacy." *Id.* At the time Prosser wrote, he noted however, that "[n]o such case appears to have arisen." *Id.*
 
-Since Prosser's early formulation, the case law has borne out his insight that the right of publicity is not limited to the appropriation of name or likeness. In [*Motschenbacher v. R.J. Reynolds Tobacco Co.,* (9th Cir. 1974),](http://scholar.google.com/scholar_case?case=6630116352269581991) the defendant had used a photograph of the plaintiff's race car in a television commercial. Although the plaintiff appeared driving the car in the photograph, his features were not visible. Even though the defendant had not appropriated the plaintiff's name or likeness, this court held that plaintiff's California right of publicity claim should reach the jury.
+Since Prosser's early formulation, the case law has borne out his insight that the right of publicity is not limited to the appropriation of name or likeness. In [*Motschenbacher v. R.J. Reynolds Tobacco Co.*](http://scholar.google.com/scholar_case?case=6630116352269581991) (9th Cir. 1974), 
+the defendant had used a photograph of the plaintiff's race car in a television commercial. 
+Although the plaintiff appeared driving the car in the photograph, 
+his features were not visible. 
+Even though the defendant had not appropriated the plaintiff's name or likeness, 
+this court held that plaintiff's California right of publicity claim should reach the jury.
 
 In *Midler,* this court held that, even though the defendants had not used Midler's name or likeness, Midler had stated a claim for violation of her California common law right of publicity because "the defendants ... for their own profit in selling their product did appropriate part of her identity" by using a Midler sound-alike. *Id.* 
 
-In [*Carson v. Here's Johnny Portable Toilets, Inc.,* (6th Cir.1983),](http://scholar.google.com/scholar_case?case=18021528625868373370) the defendant had marketed portable toilets under the brand name "Here's Johnny" — Johnny Carson's signature "Tonight Show" introduction — without Carson's permission. The district court had dismissed Carson's Michigan common law right of publicity claim because the defendants had not used Carson's "name or likeness." *Id.* In reversing the district court, the sixth circuit found "the district court's conception of the right of publicity ... too narrow" and held that the right was implicated because the defendant had appropriated Carson's identity by using, *inter alia,* the phrase "Here's Johnny." 
+In [*Carson v. Here's Johnny Portable Toilets, Inc.*](http://scholar.google.com/scholar_case?case=18021528625868373370) (6th Cir.1983), 
+the defendant had marketed portable toilets under the brand name 
+"Here's Johnny"---Johnny Carson's signature "Tonight Show" introduction---without Carson's permission. 
+The district court had dismissed Carson's Michigan common law right of publicity claim because the defendants had not used Carson's "name or likeness." 
+In reversing the district court, the sixth circuit found 
+"the district court's conception of the right of publicity &hellip; too narrow" 
+and held that the right was implicated because the defendant 
+had appropriated Carson's identity by using, *inter alia,* the phrase "Here's Johnny." 
 
 These cases teach not only that the common law right of publicity reaches means of appropriation other than name or likeness, but that the specific means of appropriation are relevant only for determining whether the defendant has in fact appropriated the plaintiff's identity.  The right of publicity does not require that appropriations of identity be accomplished through particular means to be actionable. It is noteworthy that the *Midler* and *Carson* defendants not only avoided using the plaintiff's name or likeness, but they also avoided appropriating the celebrity's voice, signature, and photograph. The photograph in *Motschenbacher* did include the plaintiff, but because the plaintiff was not visible the driver could have been an actor or dummy and the analysis in the case would have been the same.  Although the defendants in these cases avoided the most obvious means of appropriating the plaintiffs' identities, each of their actions directly implicated the commercial interests which the right of publicity is
 designed to protect. As the *Carson* court explained:
 
-> [t]he right of publicity has developed to protect the commercial
+> The right of publicity has developed to protect the commercial
 > interest of celebrities in their identities. The theory of the right
 > is that a celebrity's identity can be valuable in the promotion of
 > products, and the celebrity has an interest that may be protected from
@@ -910,7 +983,8 @@ In defense, defendants cite a number of cases for the proposition
 that their robot ad constituted protected speech. 
 The only cases they cite 
 which are even remotely relevant to this case are 
-[*Hustler Magazine v.  Falwell,* (S.Ct. 1988)](http://scholar.google.com/scholar_case?case=5069891851949874011) and [*L.L. Bean, Inc. v. Drake Publishers, Inc.,* (1st Cir.1987)](http://scholar.google.com/scholar_case?case=17261252493400805973). 
+[*Hustler Magazine v. Falwell*][hustler] (US 1988) 
+and [*L.L. Bean, Inc. v. Drake Publishers, Inc.*](http://scholar.google.com/scholar_case?case=17261252493400805973) (1st Cir.1987). 
 Those cases involved parodies of advertisements 
 run for the purpose of poking fun at Jerry Falwell and L.L. Bean, respectively. 
 This case involves a true advertisement run for the purpose of selling Samsung VCRs. 
@@ -1055,11 +1129,18 @@ The intellectual property right created by the panel here has none of these esse
 
 Moreover, consider the moral dimension, about which the panel majority seems to have gotten so exercised. Saying Samsung "appropriated" something of White's begs the question: *Should* White have the exclusive right to something as broad and amorphous as her "identity"?  Samsung's ad didn't simply copy White's schtick — like all parody, it created something new. True, Samsung did it to make money, but White does whatever she does to make money, too; the majority talks of "the difference between fun and profit," but in the entertainment industry fun *is* profit. Why is Vanna White's right to exclusive for-profit use of her persona — a persona that might not even be her own creation, but that of a writer, director or producer — superior to Samsung's right to profit by creating its own inventions?  Why should she have such absolute rights to control the conduct of others, unlimited by the idea-expression dichotomy or by the fair use doctrine?
 
-To paraphrase only slightly [*Feist Publications, Inc. v. Rural Telephone Service Co.,* (S.Ct. 1991),](http://scholar.google.com/scholar_case?case=1195336269698056315) it may seem unfair that much of the fruit of a creator's labor may be used by others without compensation. But this is not some unforeseen byproduct of our intellectual property system; it is the system's very essence. Intellectual property law assures authors the right to their original expression, but encourages others to build freely on the ideas that underlie it. This result is neither unfair nor unfortunate: It is the means by which intellectual property law advances the progress of science and art. We give authors certain exclusive rights, but in exchange we get a richer public domain. The majority ignores this wise teaching, and all of us are the poorer for it.
+To paraphrase only slightly [*Feist Publications, Inc. v. Rural Telephone Service Co.*](http://scholar.google.com/scholar_case?case=1195336269698056315) (US 1991), 
+it may seem unfair that much of the fruit of a creator's labor may be used by others without compensation. But this is not some unforeseen byproduct of our intellectual property system; it is the system's very essence. Intellectual property law assures authors the right to their original expression, but encourages others to build freely on the ideas that underlie it. This result is neither unfair nor unfortunate: It is the means by which intellectual property law advances the progress of science and art. We give authors certain exclusive rights, but in exchange we get a richer public domain. The majority ignores this wise teaching, and all of us are the poorer for it.
 
 The panel, however, does more than misinterpret California law: By refusing to recognize a parody exception to the right of publicity, the panel directly contradicts the federal Copyright Act. Samsung didn't merely parody Vanna White. It parodied Vanna White appearing in "Wheel of Fortune," a copyrighted television show, and parodies of copyrighted works are governed by federal copyright law.
 
-Copyright law specifically gives the world at large the right to make "fair use" parodies, parodies that don't borrow too much of the original. [*Fisher v. Dees* (9th Cir.1986)](http://scholar.google.com/scholar_case?case=16874877052780018691). Federal copyright law also gives the copyright owner the exclusive right to create (or license the creation of) derivative works, which include parodies that borrow too much to qualify as "fair use." *See* [*Acuff-Rose Music, Inc. v. Campbell* (6th Cir. 1992)](http://scholar.google.com/scholar_case?case=17912512758583478687).  When Mel Brooks, for instance, decided to parody *Star Wars,* he had two options: He could have stuck with his fair use rights under 17 U.S.C. § 107, or he could have gotten a license to make a derivative work under 17 U.S.C. § 106(b) from the holder of the *Star Wars* copyright. To be safe, he probably did the latter, but once he did, he was guaranteed a perfect right to make his movie.
+Copyright law specifically gives the world at large the right to make "fair use" parodies, parodies that don't borrow too much of the original. Federal copyright law also gives the copyright owner the exclusive right to create (or license the creation of) derivative works, which include parodies that borrow too much to qualify as "fair use." *See* [*Acuff-Rose Music, Inc. v. Campbell*](http://scholar.google.com/scholar_case?case=17912512758583478687) (6th Cir. 1992). 
+When Mel Brooks, for instance, decided to parody *Star Wars,* 
+he had two options: He could have stuck with his fair use rights under 17 U.S.C. § 107, 
+or he could have gotten a license to make a derivative work under 17 U.S.C. § 106(b) 
+from the holder of the *Star Wars* copyright. 
+To be safe, he probably did the latter, but once he did, 
+he was guaranteed a perfect right to make his movie.
 
 The majority's decision decimates this federal scheme. It's impossible to parody a movie or a TV show without at the same time "evok[ing]" the "identit[ies]" of the actors. You can't have a mock *Star Wars* without a mock Luke Skywalker, Han Solo and Princess Leia, which in turn means a mock Mark Hamill, Harrison Ford and Carrie Fisher. You can't have a mock *Batman* commercial without a mock Batman, which means someone emulating the mannerisms of Adam West or Michael Keaton. *See* Carlos V. Lozano, *West Loses Lawsuit over Batman TV Commercial,* L.A.  Times, Jan. 18, 1990, at B3 (describing Adam West's right of publicity lawsuit over a commercial produced under license from DC Comics, owner of the Batman copyright). The public's right to make a fair use parody and the copyright owner's right to license a derivative work are useless if the parodist is held hostage by every actor whose "identity" he might need to "appropriate."
 
@@ -1137,9 +1218,12 @@ On January 31, the Board notified Simon & Schuster: "It has come to our attentio
 
 ### II.A.
 
-A statute is presumptively inconsistent with the First Amendment if it imposes a financial burden on speakers because of the content of their speech. [*Leathers v. Medlock,* (S.Ct. 1991)](http://scholar.google.com/scholar_case?case=15677821865807904301). As we emphasized in invalidating a content-based magazine tax: "[O]fficial scrutiny of the content of publications as the basis for imposing a tax is entirely incompatible with the First Amendment's guarantee of freedom of the press." [*Arkansas Writers' Project, Inc. v. Ragland,* (S.Ct. 1987)](http://scholar.google.com/scholar_case?case=3104326308181973639).
+A statute is presumptively inconsistent with the First Amendment if it imposes a financial burden on speakers because of the content of their speech. [*Leathers v. Medlock,*](http://scholar.google.com/scholar_case?case=15677821865807904301) (US 1991). As we emphasized in invalidating a content-based magazine tax: "Official scrutiny of the content of publications as the basis for imposing a tax is entirely incompatible with the First Amendment's guarantee of freedom of the press." [*Arkansas Writers' Project, Inc. v. Ragland*](http://scholar.google.com/scholar_case?case=3104326308181973639) (US 1987).
 
-This is a notion so engrained in our First Amendment jurisprudence that last Term we found it so "obvious" as to not require explanation. [*Leathers*](http://scholar.google.com/scholar_case?case=15677821865807904301).  It is but one manifestation of a far broader principle: "Regulations which permit the Government to discriminate on the basis of the content of the message cannot be tolerated under the First Amendment." [*Regan v. Time, Inc.,* (S.Ct. 1984)](http://scholar.google.com/scholar_case?case=10835027975367708871).  See also [*Police Dept. of Chicago v. Mosley,* (S.Ct. 1972)](http://scholar.google.com/scholar_case?case=7757495192285749706). In the context of financial regulation, it bears repeating, as we did in *Leathers,* that the government's ability to impose content-based burdens on speech raises the specter that the government may effectively drive certain ideas or viewpoints from the marketplace. [*Leathers*](http://scholar.google.com/scholar_case?case=15677821865807904301). The First Amendment presumptively places this sort of discrimination beyond the power of the government. As we reiterated in *Leathers:* "'The constitutional right of free expression is . . . intended to remove governmental restraints from the arena of public discussion, putting the decision as to what views shall be voiced largely into the hands of each of us . . . in the belief that no other approach would comport with the premise of individual dignity and choice upon which our political system rests.'" *Id.,* at 448-449 (quoting [*Cohen v. California,* (S.Ct. 1971)](http://scholar.google.com/scholar_case?case=7398433541275578772)).
+This is a notion so engrained in our First Amendment jurisprudence that last Term we found it so "obvious" as to not require explanation. [*Leathers*](http://scholar.google.com/scholar_case?case=15677821865807904301).  It is but one manifestation of a far broader principle: "Regulations which permit the Government to discriminate on the basis of the content of the message cannot be tolerated under the First Amendment." 
+In the context of financial regulation, it bears repeating, as we did in *Leathers,* that the government's ability to impose content-based burdens on speech raises the specter that the government may effectively drive certain ideas or viewpoints from the marketplace. [*Leathers*](http://scholar.google.com/scholar_case?case=15677821865807904301). The First Amendment presumptively places this sort of discrimination beyond the power of the government. 
+As we reiterated in *Leathers:* 
+"'The constitutional right of free expression is &hellip; intended to remove governmental restraints from the arena of public discussion, putting the decision as to what views shall be voiced largely into the hands of each of us &hellip; in the belief that no other approach would comport with the premise of individual dignity and choice upon which our political system rests.'" (quoting [*Cohen v. California,*](http://scholar.google.com/scholar_case?case=7398433541275578772) (US 1971) (The leather jacket with the words "Fuck The Draft").
 
 The Son of Sam law is such a content-based statute. It singles out income derived from expressive activity for a burden the State places on no other income, and it is directed only at works with a specified content. Whether the First Amendment "speaker" is considered to be Henry Hill, whose income the statute places in escrow because of the story he has told, or Simon & Schuster, which can publish books about crime with the assistance of only those criminals willing to forgo remuneration for at least five years, the statute plainly imposes a financial disincentive only on speech of a particular content.
 
@@ -1150,11 +1234,18 @@ achieve that end." [*Arkansas Writers' Project,*](http://scholar.google.com/scho
 
 ### II.B.
 
-The Board disclaims, as it must, any state interest in suppressing descriptions of crime out of solicitude for the sensibilities of readers. As we have often had occasion to repeat: "'[T]he fact that society may find speech offensive is not a sufficient reason for suppressing it. Indeed, if it is the speaker's opinion that gives offense, that consequence is a reason for according it constitutional protection.'" [*Hustler Magazine, Inc. v. Falwell,* (S.Ct. 1988)](http://scholar.google.com/scholar_case?case=5069891851949874011) (quoting [*FCC v. Pacifica Foundation,* (S.Ct. 1978)](http://scholar.google.com/scholar_case?case=9738309099999149495)). "'If there is a bedrock principle underlying the First Amendment, it is that the Government may not prohibit the expression of an idea simply because society finds the idea itself offensive or disagreeable.'"&hellip; The Board thus does not assert any interest in limiting whatever anguish Henry Hill's victims may suffer from reliving their victimization.
+The Board disclaims, as it must, any state interest in suppressing descriptions of crime out of solicitude for the sensibilities of readers. As we have often had occasion to repeat: "'[T]he fact that society may find speech offensive is not a sufficient reason for suppressing it. Indeed, if it is the speaker's opinion that gives offense, that consequence is a reason for according it constitutional protection.'" [*Hustler*][hustler]
+quoting [*Pacifica*](http://scholar.google.com/scholar_case?case=9738309099999149495) (US 1978)). 
 
-There can be little doubt, on the other hand, that the State has a compelling interest in ensuring that victims of crime are compensated by those who harm them. Every State has a body of tort law serving exactly this interest. The State's interest in preventing wrongdoers from dissipating their assets before victims can recover explains the existence of the State's statutory provisions for prejudgment remedies and orders of restitution. We have recognized the importance of this interest before, in the Sixth Amendment context. See [*Caplin & Drysdale, Chartered v. United States,* (S.Ct. 1989)](http://scholar.google.com/scholar_case?case=8962747084095843574).
+> If there is a bedrock principle underlying the First Amendment, it is that the Government may not prohibit the expression of an idea simply because society finds the idea itself offensive or disagreeable.
 
-The State likewise has an undisputed compelling interest in ensuring that criminals do not profit from their crimes. Like most if not all States, New York has long recognized the "fundamental equitable principle," [*Children of Bedford v. Petromelis,*](http://scholar.google.com/scholar_case?case=15986430636377550555) that "[n]o one shall be permitted to profit by his own fraud, or to take advantage of his own wrong, or to found any claim upon his own iniquity, or to acquire property by his own crime." [*Riggs v. Palmer,* (S.Ct. 1889)](http://scholar.google.com/scholar_case?case=1895254686188243951).  The force of this interest is evidenced by the State's statutory provisions for the forfeiture of the proceeds and instrumentalities of crime. 
+The Board thus does not assert any interest in limiting whatever anguish Henry Hill's victims may suffer from reliving their victimization.
+
+There can be little doubt, on the other hand, that the State has a compelling interest in ensuring that victims of crime are compensated by those who harm them. Every State has a body of tort law serving exactly this interest. The State's interest in preventing wrongdoers from dissipating their assets before victims can recover explains the existence of the State's statutory provisions for prejudgment remedies and orders of restitution. We have recognized the importance of this interest before, in the Sixth Amendment context. 
+
+The State likewise has an undisputed compelling interest in ensuring that criminals do not profit from their crimes. Like most if not all States, New York has long recognized the "fundamental equitable principle," 
+that "no one shall be permitted to profit by his own fraud, or to take advantage of his own wrong, or to found any claim upon his own iniquity, or to acquire property by his own crime." 
+The force of this interest is evidenced by the State's statutory provisions for the forfeiture of the proceeds and instrumentalities of crime. 
 
 The parties debate whether book royalties can properly be termed the profits of crime, but that is a question we need not address here. For the purposes of this case, we can assume without deciding that the income escrowed by the Son of Sam law represents the fruits of crime. We
 need only conclude that the State has a compelling interest in depriving criminals of the profits of their crimes, and in using these funds to compensate victims.
@@ -1198,7 +1289,6 @@ The judgment of the Court of Appeals is accordingly
 ###### California Supreme Court (2001)
 
 * [case at Google Scholar](https://scholar.google.com/scholar_case?case=6376074772628774470&hl=en&as_sdt=6,28)
-
 
 MOSK, J.
 
@@ -1261,9 +1351,11 @@ Applying this construction of the statute to the facts at hand, we agree with th
 
 Saderup next contends that enforcement of the judgment against him violates his right of free speech and expression under the First Amendment. He raises a difficult issue, which we address below.&hellip; 
 
-As the trial court found, Saderup's portraits of The Three Stooges are expressive works and not an advertisement for or endorsement of a product. Although his work was done for financial gain, "[t]he First Amendment is not limited to those who publish without charge.... [An expressive activity] does not lose its constitutional protection because it is undertaken for profit." ([*Guglielmi v. Spelling-Goldberg Productions* (1979) (*Guglielmi*)](http://scholar.google.com/scholar_case?case=3956106467746132778).)
+As the trial court found, Saderup's portraits of The Three Stooges are expressive works and not an advertisement for or endorsement of a product. Although his work was done for financial gain, "the First Amendment is not limited to those who publish without charge &hellip; [An expressive activity] does not lose its constitutional protection because it is undertaken for profit." [*Guglielmi v. Spelling-Goldberg Productions*][guglielmi] (CA 1979).
 
-The tension between the right of publicity and the First Amendment is highlighted by recalling the two distinct, commonly acknowledged purposes of the latter. First, "'to preserve an uninhibited marketplace of ideas' and to repel efforts to limit the '"uninhibited, robust and wideopen" debate on public issues.'" [*Guglielmi*](http://scholar.google.com/scholar_case?case=3956106467746132778). Second, to foster a "fundamental respect for individual development and self-realization. The right to self-expression is inherent in any political system which respects individual dignity. Each speaker must be free of government restraint regardless of the nature or manner of the views expressed unless there is a compelling reason to the contrary."
+
+The tension between the right of publicity and the First Amendment is highlighted by recalling the two distinct, commonly acknowledged purposes of the latter. First, "to preserve an uninhibited marketplace of ideas and to repel efforts to limit the uninhibited, robust and wideopen debate on public issues." [*Guglielmi*][guglielmi].
+Second, to foster a "fundamental respect for individual development and self-realization. The right to self-expression is inherent in any political system which respects individual dignity. Each speaker must be free of government restraint regardless of the nature or manner of the views expressed unless there is a compelling reason to the contrary."
 
 The right of publicity has a potential for frustrating the fulfillment of both these purposes. Because celebrities take on public meaning, the appropriation of their likenesses may have important uses in uninhibited debate on public issues, particularly debates about culture and values. And because celebrities take on personal meanings to many individuals in the society, the creative appropriation of celebrity images can be an important avenue of individual expression. As one commentator has stated: 
 
@@ -1274,7 +1366,8 @@ The right of publicity has a potential for frustrating the fulfillment of both t
 
 As Madow further points out, the very importance of celebrities in society means that the right of publicity has the potential of censoring significant expression by suppressing alternative versions of celebrity images that are iconoclastic, irreverent, or otherwise attempt to redefine the celebrity's meaning.&hellip; A majority of this court recognized as much in *Guglielmi:* "The right of publicity derived from public prominence does not confer a shield to ward off caricature, parody and satire. Rather, prominence invites creative comment." 
 
-For similar reasons, speech about public figures is accorded heightened First Amendment protection in defamation law. As the United States Supreme Court held in [*Gertz v. Robert Welch, Inc.* (S.Ct. 1974)](http://scholar.google.com/scholar_case?case=7102507483896624202) public figures may prevail in a libel action only if they prove that the defendant's defamatory statements were made with actual malice, i.e., actual knowledge of falsehood or reckless disregard for the truth, whereas private figures need prove only negligence.&hellip; The rationale for such differential treatment is, first, that the public figure has greater access to the media and therefore greater opportunity to rebut defamatory statements, and second, that those who have become public figures have done so voluntarily and therefore "invite attention and comment." Giving broad scope to the right of publicity has the potential of allowing a celebrity to accomplish through the vigorous exercise of that right the censorship of unflattering commentary that cannot be constitutionally accomplished through defamation actions.
+For similar reasons, speech about public figures is accorded heightened First Amendment protection in defamation law. As the United States Supreme Court held in [*Gertz v. Robert Welch, Inc.*][gertz] (US 1974),
+public figures may prevail in a libel action only if they prove that the defendant's defamatory statements were made with actual malice, i.e., actual knowledge of falsehood or reckless disregard for the truth, whereas private figures need prove only negligence.&hellip; The rationale for such differential treatment is, first, that the public figure has greater access to the media and therefore greater opportunity to rebut defamatory statements, and second, that those who have become public figures have done so voluntarily and therefore "invite attention and comment." Giving broad scope to the right of publicity has the potential of allowing a celebrity to accomplish through the vigorous exercise of that right the censorship of unflattering commentary that cannot be constitutionally accomplished through defamation actions.
 
 [Even though Saderup's creations were for "entertaining rather than informing" and even though they consisted of "nonverbal, visual representation" on T-shirts,
 the Court held that they were clearly protected expression under the First Amendment 
@@ -1344,7 +1437,7 @@ expression" (17 U.S.C. § 102); it is difficult to understand why these
 factors would be especially useful for determining whether the depiction
 of a celebrity likeness is protected by the First Amendment.
 
-Nonetheless, the first fair use factor--"the purpose and character of the use" &hellip; does seem particularly pertinent to the task of reconciling the rights of free expression and publicity. As the Supreme Court has stated, the central purpose of the inquiry into this fair use factor "is to see, in Justice Story's words, whether the new work merely 'supersede[s] the objects' of the original creation or instead adds something new, with a further purpose or different character, altering the first with new expression, meaning, or message; it asks, in other words, whether and to what extent the new work is 'transformative.' Although such transformative use is not absolutely necessary for a finding of fair use, the goal of copyright, to promote science and the arts, is generally furthered by the creation of transformative works." [*Campbell v. Acuff-Rose Music, Inc.* (S.Ct. 1994)](http://scholar.google.com/scholar_case?case=16686162998040575773). 
+Nonetheless, the first fair use factor--"the purpose and character of the use" &hellip; does seem particularly pertinent to the task of reconciling the rights of free expression and publicity. As the Supreme Court has stated, the central purpose of the inquiry into this fair use factor "is to see, in Justice Story's words, whether the new work merely 'supersede[s] the objects' of the original creation or instead adds something new, with a further purpose or different character, altering the first with new expression, meaning, or message; it asks, in other words, whether and to what extent the new work is 'transformative.' Although such transformative use is not absolutely necessary for a finding of fair use, the goal of copyright, to promote science and the arts, is generally furthered by the creation of transformative works." [*Campbell v. Acuff-Rose Music, Inc.*](http://scholar.google.com/scholar_case?case=16686162998040575773) (US 1994). 
 
 This inquiry into whether a work is "transformative" appears to us to be
 necessarily at the heart of any judicial attempt to square the right of
@@ -1370,7 +1463,7 @@ from the celebrity fan's viewpoint, good substitutes for conventional
 depictions of the celebrity and therefore do not generally threaten
 markets for celebrity memorabilia that the right of publicity is
 designed to protect. See [*Cardtoons, L.C v. Major League Baseball
-Players Association* (10th Cir. 1996)](http://scholar.google.com/scholar_case?case=16551870099624462955).
+Players Association*](http://scholar.google.com/scholar_case?case=16551870099624462955) (10th Cir. 1996).
 Accordingly, First Amendment protection of such works outweighs whatever
 interest the state may have in enforcing the right of publicity. The
 right-of-publicity holder continues to enforce the right to monopolize
@@ -1440,7 +1533,7 @@ must create] something recognizably "his own" [*L. Batlin & Son,
 Inc. v. Snyder*](http://scholar.google.com/scholar_case?case=16845746302991569414),
 in order to qualify for legal protection.
 
-On the other hand, we do not hold that all reproductions of celebrity portraits are unprotected by the First Amendment. The silkscreens of Andy Warhol, for example, have as their subjects the images of such celebrities as Marilyn Monroe, Elizabeth Taylor, and Elvis Presley.  Through distortion and the careful manipulation of context, Warhol was able to convey a message that went beyond the commercial exploitation of celebrity images and became a form of ironic social comment on the dehumanization of celebrity itself.&hellip; Such expression may well be entitled to First Amendment protection. Although the distinction between protected and unprotected expression will sometimes be subtle, it is no more so than other distinctions triers of fact are called on to make in First Amendment jurisprudence. See, e.g., [*Miller v. California* (1973)](http://scholar.google.com/scholar_case?case=287180442152313659) (requiring determination, in the context of work alleged to be obscene, of "whether the work, taken as a whole, lacks serious literary, artistic, political, or scientific value").
+On the other hand, we do not hold that all reproductions of celebrity portraits are unprotected by the First Amendment. The silkscreens of Andy Warhol, for example, have as their subjects the images of such celebrities as Marilyn Monroe, Elizabeth Taylor, and Elvis Presley.  Through distortion and the careful manipulation of context, Warhol was able to convey a message that went beyond the commercial exploitation of celebrity images and became a form of ironic social comment on the dehumanization of celebrity itself.&hellip; Such expression may well be entitled to First Amendment protection. Although the distinction between protected and unprotected expression will sometimes be subtle, it is no more so than other distinctions triers of fact are called on to make in First Amendment jurisprudence. See, e.g., [*Miller v. California*](http://scholar.google.com/scholar_case?case=287180442152313659) (US 1973) (requiring determination, in the context of work alleged to be obscene, of "whether the work, taken as a whole, lacks serious literary, artistic, political, or scientific value").
 
 Turning to Saderup's work, we can discern no significant transformative
 or creative contribution. His undeniable skill is manifestly
@@ -1498,7 +1591,8 @@ The U.S. Court of Appeals for the Ninth Circuit dismissed EA's transformative-us
 
 In the Ninth Circuit, a person's right of publicity is not violated if their likeness is used in a transformative way—that is, if significant creative elements are added that transform the use into something more than just a celebrity likeness or imitation.
 
-However, the Ninth Circuit ruled that EA's use of the players' likenesses “in the performance of the same activity for which they are known in real life—playing football for an NFL team”—was not transformative.
+However, the Ninth Circuit ruled that EA's use of the players' likenesses 
+“in the performance of the same activity for which they are known in real life—playing football for an NFL team”—was not transformative.
 EA argued in the Supreme Court petition that the transformative-use test is “constitutionally perverse,” giving First Amendment protection “only to fanciful or distorted portrayals, not accurate or realistic ones.”
 The case would be only the second right of publicity case ever considered by the Supreme Court, after Zacchini v. Scripps-Howard Broadcasting Co., 433 U.S. 562, 2 Med.L.Rptr. 2089 (1977), in which the court ruled that a local news station had infringed a performer's publicity rights by broadcasting the entirety of his 15 second “human cannonball” routine without his permission.
 EA said that Zacchini “offers little to no guidance in cases involving mere depictions of individuals, as opposed to appropriation of their actual performances in full.”
@@ -1556,13 +1650,13 @@ Lanham Act § 43(a)
 
 #### Reference/Footnote Cases
 
-* [*Matthews v. Wozencraft,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=15f3d432&appflag=67.12) 15 F.3d 432 (5th Cir. 1994). 
+* [*Matthews v. Wozencraft,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=15f3d432&appflag=67.12) (5th Cir. 1994). 
 * [Texas Right of Publicity Law, citing *Matthews*](http://www.dmlp.org/legal-guide/texas-right-publicity-law). 
-* [*Comedy III Productions v. Gary Saderup, Inc.,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=21+p3d+797&appflag=67.12) 21 P.3d 797 (CA 2001). 
+* [*Comedy III Productions v. Gary Saderup, Inc.,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=21+p3d+797&appflag=67.12) (CA 2001). 
 * [Juris Notes](http://www.jurisnotes.com/IP/articles/acriticalexam.htm).
 * [*Zacchini v. Scripps-Howard Broadcasting*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=433us562&appflag=67.12), 433 US 562 (1977). [Wikipedia](http://en.wikipedia.org/wiki/Zacchini_v._Scripps-Howard_Broadcasting_Co.).
-* [*Hicks v. Casablanca Records,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=464fsupp426&appflag=67.12) 464 F.Supp. 426 (SDNY 1978).
-* [*Keenan v. Superior Court Los Angeles County,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=27+Cal.4th+413&appflag=67.12) 40 P.3d 718 (2002). [Reporters Committee For Freedom of the Press](http://www.rcfp.org/browse-media-law-resources/news/high-court-strikes-down-state-son-sam-law).
+* [*Hicks v. Casablanca Records,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=464fsupp426&appflag=67.12) (SDNY 1978).
+* [*Keenan v. Superior Court Los Angeles County,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=27+Cal.4th+413&appflag=67.12) (Cal. 4th 2002). [Reporters Committee For Freedom of the Press](http://www.rcfp.org/browse-media-law-resources/news/high-court-strikes-down-state-son-sam-law).
 
 ##### Hurt Locker
 
@@ -1591,6 +1685,11 @@ The film triggered a lawsuit by  Master Sgt. Jeffrey S. Sarver, an Iraqi war vet
 [prosser]: http://www.californialawreview.org/assets/pdfs/misc/prosser_privacy.pdf "Prosser On Privacy Cal.Law.Rev. 1960"
 [hoffman]: http://heinonline.org/HOL/LandingPage?handle=hein.journals/jocoso28&div=12&id=&page= "Hoffman Limitations On The Right Of Publicity" 
 [hurt_locker]: https://www.hollywoodreporter.com/thr-esq/appeals-court-hurt-locker-is-866687 "Hurt Locker Publicity Rights Lawsuit"
-
-
-
+[haelan]:    http://scholar.google.com/scholar_case?case=18211552832825571674 "Haelan Labs"
+[roberson]:  http://scholar.google.com/scholar_case?case=8949201185857474767 "Roberson v. Rochester Folding Box Co." 
+[palmer]:  http://scholar.google.com/scholar_case?case=18127729155672659732 "Palmer"
+[hill]: http://scholar.google.com/scholar_case?case=13178370409068522665 "Hill"
+[hustler]:   http://scholar.google.com/scholar_case?case=5069891851949874011  "Hustler v.Falwell"
+[guglielmi]:  http://scholar.google.com/scholar_case?case=3956106467746132778 "Guglielmi"
+[gertz]: http://scholar.google.com/scholar_case?case=7102507483896624202 
+[comedy3]: https://scholar.google.com/scholar_case?case=6376074772628774470&hl=en&as_sdt=6,28 "Comedy III v. Saderup"

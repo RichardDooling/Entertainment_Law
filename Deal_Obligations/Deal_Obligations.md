@@ -367,9 +367,9 @@ by the trial court, and, since their decision adversely to DeMille Pictures is
 sustained by the evidence, the findings of the trial court are not
 subject to review here.
 
-To constitute a refusal or failure to perform the conditions of a contract of employment such as we have here, there
-must be, on the part of the actress, a willful act or willful misconduct *May v. New York Motion Picture Corp.*, 45 Cal. App. 396; *Ehlers v. Langley & Michaels Co.*,
-72 Cal. App. 214, 221), a condition which is absent
+To constitute a refusal or failure to perform the conditions of a contract of employment 
+such as we have here, there must be, on the part of the actress, a willful act or willful misconduct, 
+a condition which is absent
 when the actress uses her best efforts to give an artistic performance
 and to serve the interests of her employer. The trial court was fully
 warranted by the evidence in finding that Goudal neither failed nor
@@ -395,7 +395,7 @@ the case of the extra girl be rank insubordination because of a refusal
 to do exactly what she is ordered to do by a director may be even
 praiseworthy co–operation in the interests of the employer when the
 refusal is that of an artist of the exceptional ability expressly
-stipulated in the contract here before us.&hellip; 
+stipulated in the contract here before us. &hellip; 
 
 The judgment is affirmed.
 
@@ -638,7 +638,11 @@ Arguably Geffen sued Neil Young because Young refused to ["be himself"](http://l
 
 > [You Call This Nirvana?](http://www.newsweek.com/you-call-nirvana-193560)
 
-Even ex-Beatle John Lennon reportedly wondered aloud “How much longer can I go on pretending that I’m 19 years old?” The talent typically wants to grow and explore, change their style, and record more “mature” perhaps more difficult music. But record companies tend to want more of whatever sold last time. 
+Even ex-Beatle John Lennon reportedly wondered aloud, 
+"How much longer can I go on pretending that I’m 19 years old?" 
+The talent typically wants to grow and explore, change their style, 
+and record more "mature" perhaps more difficult music. 
+But record companies tend to want more of whatever sold last time. 
 
 The same often happens to authors who have early successes with novels written in a certain genre or style. What happens when a hot new novelist presents their publishers with the third book in a three-book deal and it's something altogether different, perhaps even experimental.
 
@@ -1650,7 +1654,7 @@ Doubleday's complaint and remand the cause with instructions to enter
 judgment in favor of Doubleday for recovery of its $50,000 advance,
 plus interest.
 
-#### Notes on  *Doubleday v. Tony Curtis* 
+#### Notes on *Doubleday v. Tony Curtis* 
 
 Famous actor and part time novelist Tony Curtis ("Curtis") signed a book contract to provide two novels to the publisher Doubleday & Co., Inc. ("Doubleday"). The parties used a standard industry form that required Doubleday to pay royalties on hardcover sales and a share of the proceeds of the sale of paperback rights if Curtis delivered manuscripts "satisfactory" to Doubleday in content and form. 
 
