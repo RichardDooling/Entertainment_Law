@@ -168,7 +168,13 @@ rather than a privacy tort.
 
 ## Resources
 
+Professors Eugene Volokh (UCLA) and Jennifer Rothman (Loyola LA) are my favorites on these topics.
+I include Volokh's article in these materials. For extra help on these topics, 
+please consult Prof. Rothman's [Road Map to the Right of Publicity](https://www.rightofpublicityroadmap.com/), free and easy to navigate. 
+
 ### Eugene Volokh
+
+In 2003, Volokh stated the tension between the right of publicity and the First Amendment:
 
 ###### Freedom of Speech and the Right of Publicity 
 
@@ -183,8 +189,8 @@ rather than a privacy tort.
 > or soliciting purchases of, products, merchandise, goods or services."
 
 > Under standard First Amendment doctrine, 
-> this definition can't be accepted at face value
-> ---and in fact many lower courts have held 
+> this definition can't be accepted at face value---and in fact 
+> many lower courts have held 
 > that the First Amendment precludes right of publicity liability in many cases. 
 > For instance, an unauthorized biography is certainly a "product" 
 > and an item in "trade" 
@@ -200,11 +206,6 @@ rather than a privacy tort.
 
 > Eugene Volokh, *Freedom of Speech and the Right of Publicity*, Houston Law Review 40 (2003)
 
-### Jennifer Rothman
-
-###### Right of Publicity Road Map
-
-[Prof. Jennifer Rothman's](http://www.lls.edu/faculty/facultylistl-r/rothmanjennifer/) indispensable [Road Map to the Right of Publicity](https://www.rightofpublicityroadmap.com/) gives the best breakdown of this area of the law, state by state, via an interactive map.
 
 ## Major Right Of Publicity Cases
 
