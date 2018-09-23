@@ -93,6 +93,7 @@ In passing, the Court distinguishes "life story rights" from  celebrity/publicit
 * [how cited Google Scholar](http://scholar.google.com/scholar_case?about=1997318397198235568)
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=15f3d432&appflag=67.12) 
 * [Texas Right of Publicity Law, citing *Matthews*](http://www.dmlp.org/legal-guide/texas-right-publicity-law).
+* [Rothman's Roadmap to the Right of Publicity](https://www.rightofpublicityroadmap.com/law/texas)
 
 JERRY E. SMITH, Circuit Judge:
 

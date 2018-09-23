@@ -102,6 +102,8 @@ but found that the facts of Abigail's case stated no known cause of action.
 When she lost her case, the ensuing public outrage led the New York state legislature 
 to create the state's first right of privacy statute. 
 
+See [Rothman's Roadmap to the Right of Publicity: New York](https://www.rightofpublicityroadmap.com/law/new-york)
+
 Likewise, three years later, 
 in [*Pavesich v. New England Mutual Life Insurance,*][pavesich] (GA 1905), 
 Atlanta artist Paolo Pavesich sued when his photo was used 
@@ -215,6 +217,7 @@ In 2003, Volokh stated the tension between the right of publicity and the First 
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?about=1102676940012657150)
 * [Casebrief](http://www.casebriefs.com/blog/law/property/property-law-keyed-to-singer/intellectual-property/martin-luther-king-jr-center-for-social-change-inc-v-american-heritage-products-inc/).
+* [Rothman's Roadmap to the Right of Publicity: Georgia](https://www.rightofpublicityroadmap.com/law/georgia)
 
 James Bolen was the sole proprietor of American Heritage Products
 a company that wanted to market and sell 
@@ -468,20 +471,31 @@ Were it otherwise, no author might refer to any event in history wherein his ref
 
 A careful analysis of the right of free speech yields conclusions not inconsistent with the above. *All* speech is not "free," in the sense of being immune from all consequence.
 
-### *Zacchini v. Scripps-Howard Broadcasting Co.*
+### Zacchini v. Scripps-Howard Broadcasting Co.
 
 ###### United States Supreme Court (1977)
 
 * [Zacchini on Google Scholar][zacchini]
 * [Zacchini on Wikipedia](http://en.wikipedia.org/wiki/Zacchini_v._Scripps-Howard_Broadcasting_Co.)
+* [Rothman's Roadmap to the Right of Publicity](https://www.rightofpublicityroadmap.com/law/ohio)
 
 [In the following excerpts, "Petitioner" has been changed to "Zacchini," and "Respondent" has been changed to "the TV station." - RD]
 
 MR. JUSTICE WHITE delivered the opinion of the Court.
 
-Petitioner, Hugo Zacchini, is an entertainer. He performs a "human cannonball" act in which he is shot from a cannon into a net some 200 feet away. Each performance occupies some 15 seconds. In August and September 1972, Zacchini was engaged to perform his act on a regular basis at the Geauga County Fair in Burton, Ohio. He performed in a fenced area, surrounded by grandstands, at the fair grounds. Members of the public attending the fair were not charged a separate admission fee to observe his act.
+Petitioner, Hugo Zacchini, is an entertainer. 
+He performs a "human cannonball" act in 
+which he is shot from a cannon into a net some 200 feet away. 
+Each performance occupies some 15 seconds. 
+In August and September 1972, 
+Zacchini was engaged to perform his act on a regular basis 
+at the Geauga County Fair in Burton, Ohio. 
+He performed in a fenced area, surrounded by grandstands, at the fair grounds. 
+Members of the public attending the fair were not charged 
+a separate admission fee to observe his act.
 
-On August 30, a freelance reporter for Scripps-Howard Broadcasting Co., the operator of a television broadcasting station and respondent in this case, attended the fair. He carried a small movie camera.  Zacchini noticed the reporter and asked him not to film the performance. The reporter did not do so on that day; but on the instructions of the producer of respondent's daily newscast, he returned the following day and videotaped the entire act. This film clip, approximately 15 seconds in length, was shown on the 11 o'clock news program that night, together with favorable commentary.
+On August 30, a freelance reporter for Scripps-Howard Broadcasting Co., 
+the operator of a television broadcasting station and respondent in this case, attended the fair. He carried a small movie camera. Zacchini noticed the reporter and asked him not to film the performance. The reporter did not do so on that day; but on the instructions of the producer of respondent's daily newscast, he returned the following day and videotaped the entire act. This film clip, approximately 15 seconds in length, was shown on the 11 o'clock news program that night, together with favorable commentary.
 
 Zacchini then brought this action for damages, alleging that he is "engaged in the entertainment business," that the act he performs is one "invented by his father and &hellip; performed only by his family for the last fifty years," that the TV station "showed and commercialized the film of his act without his consent," and that such conduct was an "unlawful appropriation of plaintiff's professional property." The TV station answered and moved for summary judgment, which was granted by the trial court.
 
@@ -585,13 +599,14 @@ In "false light" cases, the plaintiff wants to "minimize publication of the dama
 
 > An entertainer such as Zacchini usually has no objection to the widespread publication of his act as long as he gets the commercial benefit of such publication. Indeed, in the present case Zacchini did not seek to enjoin the broadcast of his act; he simply sought compensation for the broadcast in the form of damages.
 
-### *Carson v. Here's Johnny Portable Toilets, Inc.*
+### Carson v. Here's Johnny Portable Toilets, Inc.
 
 ###### Court of Appeals, 6th Circuit (1983)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=18021528625868373370)
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=698F2d831&appflag=67.12)
 * [*Hollywood Reporter* on Carson litigation](http://www.hollywoodreporter.com/blogs/thr-esq/johnny-carson-estate-wins-injunction-63785)
+* [Rothman's Roadmap to the Right of Publicity](https://www.rightofpublicityroadmap.com/law/michigan)
 
 BAILEY BROWN, Senior Circuit Judge.
 
@@ -787,14 +802,15 @@ The first amendment protects the freedom of speech, including commercial speech.
 Nimmer, *Does Copyright Abridge the First Amendment Guarantees of Free Speech and Press?,* 17 U.C.L.A. L.Rev. 1108 (1970). *See* [*Zacchini*][zacchini] (right of publicity could not prevent station from producing own human cannonball act).] Apart from the possibility of outright federal preemption, public policy requires that the public's interest in free enterprise and free expression take precedence over any interest Johnny Carson may have in a phrase associated with his person.]
 
 
-
-### *White v. Samsung Electronics America, Inc.*
+### White v. Samsung Electronics America, Inc.
 
 ###### US Court of Appeals, 9th Circuit (1992)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=15763501998860364615)
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=971f2d1395&appflag=67.12) 
 * [Pace Law Review Casenote](http://digitalcommons.pace.edu/cgi/viewcontent.cgi?article=1359&context=plr). 
+* [Rothman's Roadmap to the Right of Publicity](https://www.rightofpublicityroadmap.com/law/california)
+
 
 GOODWIN, Circuit Judge
 
@@ -1006,7 +1022,7 @@ AFFIRMED IN PART, REVERSED IN PART, and REMANDED.
 
 One judge dissented in *White v. Samsung,* but the real attack came in the form of Judge Alex Kozinsky's stinging rebuke issued when a majority of the Ninth Circuit Court of Appeals voted to deny rehearing the case *en banc*. 
 
-### *White v. Samsung Electronics, Inc.*
+### White v. Samsung Electronics, Inc.
 
 ###### US Court of Appeals, 9th Circuit (1993)
 
@@ -1290,6 +1306,7 @@ The judgment of the Court of Appeals is accordingly
 ###### California Supreme Court (2001)
 
 * [case at Google Scholar](https://scholar.google.com/scholar_case?case=6376074772628774470&hl=en&as_sdt=6,28)
+* [Rothman's Right of Publicity Roadmap: California](https://www.rightofpublicityroadmap.com/law/california)
 
 MOSK, J.
 
