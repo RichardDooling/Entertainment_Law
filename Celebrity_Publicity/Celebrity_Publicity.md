@@ -503,19 +503,19 @@ The Court of Appeals of Ohio reversed. The majority held that Zacchini's complai
 
 Like the concurring judge in the Court of Appeals, the Supreme Court of Ohio rested Zacchini's cause of action under state law on his "right to publicity value of his performance." The opinion syllabus, to which we are to look for the rule of law used to decide the case, declared first that one may not use for his own benefit the name or likeness of another, whether or not the use or benefit is a commercial one, and second that the TV station would be liable for the appropriation, over Zacchini's objection and in the absence of license or privilege, of Zacchini's right to the publicity value of his performance.  The court nevertheless gave judgment for the TV station because, in the words of the syllabus:
 
-> "A TV station has a privilege to report in its newscasts matters of
+> A TV station has a privilege to report in its newscasts matters of
 > legitimate public interest which would otherwise be protected by an
 > individual's right of publicity, unless the actual intent of the TV
 > station was to appropriate the benefit of the publicity for some
 > non-privileged private use, or unless the actual intent was to injure
-> the individual." *Ibid.*
+> the individual. 
 
 We granted certiorari &hellip; to consider an issue unresolved by this Court: whether the First and Fourteenth Amendments immunized the TV station from damages for its alleged infringement of Zacchini's state-law "right of publicity." Insofar as the Ohio Supreme Court held that the First and Fourteenth Amendments of the  United States Constitution required judgment for the TV station, we reverse the judgment of that court.
 
 ### I
 
 (In deciding the crucial question of whether the TV station had a privilege to film and televise Zacchini's performance, the Ohio Supreme Court relied on 
-[*Time, Inc. v. Hill*]  (US 1967), 
+[*Time, Inc. v. Hill*][hill] (US 1967), 
 a case involving First Amendment limitations on state tort actions. 
 The Ohio Supreme Court read both *Hill* and [*New York Times Co. v. Sullivan*](http://scholar.google.com/scholar_case?case=10183527771703896207) (US 1964)
  to stand for the proposition that 
@@ -537,17 +537,55 @@ The Ohio Supreme Court nevertheless held that the challenged invasion was privil
 The Ohio Supreme Court relied heavily on [*Time, Inc. v. Hill*][hill] (US 1967), 
 but that case does not mandate a media privilege 
 to televise a performer's entire act without his consent. Involved in [*Time, Inc. v. Hill*][hill]
-was a claim under the New York "Right of Privacy" statute that Life Magazine, in the course of reviewing a new play, had connected the play with a long-past incident involving petitioner and his family and had falsely described their experience and conduct at that time. The complaint sought damages for humiliation and suffering flowing from these nondefamatory falsehoods that allegedly invaded Hill's privacy. The Court held, however, that the opening of a new play linked to an actual incident was a matter of public interest and that Hill could not recover without showing that the Life report was knowingly false or was published with reckless disregard for the truth—the same rigorous standard that had been applied in [*New York Times Co.* v. *Sullivan,*](http://scholar.google.com/scholar_case?case=10183527771703896207) (US 1964)]
+was a claim under the New York "Right of Privacy" statute that Life Magazine, in the course of reviewing a new play, had connected the play with a long-past incident involving petitioner and his family and had falsely described their experience and conduct at that time. The complaint sought damages for humiliation and suffering flowing from these nondefamatory falsehoods that allegedly invaded Hill's privacy. The Court held, however, that the opening of a new play linked to an actual incident was a matter of public interest and that Hill could not recover without showing that the Life report was knowingly false or was published with reckless disregard for the truth—the same rigorous standard that had been applied in [*New York Times Co.* v. *Sullivan,*](http://scholar.google.com/scholar_case?case=10183527771703896207) (US 1964).
 
-[*Time, Inc. v. Hill*](http://scholar.google.com/scholar_case?case=13178370409068522665), which was hotly contested and decided by a divided Court, involved an entirely different tort from the "right of publicity" recognized by the Ohio Supreme Court. As the opinion reveals in [*Time, Inc. v. Hill*][hill],
-the Court was steeped in the literature of privacy law and was aware of the developing distinctions and nuances in this branch of the law. The Court, for example, cited Prosser &hellip; and divided privacy into four distinct branches. The Court was aware that it was adjudicating a "false light" privacy case involving a matter of public interest, not a case involving "intrusion," "appropriation" of a name or likeness for the purposes of trade, &hellip; or "private details" about a non-newsworthy person or event, *id.* It is also abundantly clear that [*Time, Inc. v. Hill*][hill]
-did not involve a performer, a person with a name having commercial value, or any claim to a "right of publicity." This discrete kind of "appropriation" case was plainly identified in the literature cited by the Court and had been adjudicated in the reported cases.
+[*Time, Inc. v. Hill*][hill], which was hotly contested and decided by a divided Court, 
+involved an entirely different tort from the "right of publicity" 
+recognized by the Ohio Supreme Court. 
+As the opinion reveals in [*Time, Inc. v. Hill*][hill],
+the Court was steeped in the literature of privacy law 
+and was aware of the developing distinctions and nuances in this branch of the law. 
+The Court, for example, cited Prosser &hellip; 
+and divided privacy into four distinct branches. 
+The Court was aware that it was adjudicating a "false light" privacy case 
+involving a matter of public interest, not a case involving "intrusion," 
+"appropriation" of a name or likeness for the purposes of trade, &hellip; 
+or "private details" about a non-newsworthy person or event. 
+It is also abundantly clear that [*Time, Inc. v. Hill*][hill]
+did not involve a performer, a person with a name having commercial value, 
+or any claim to a "right of publicity." 
+This discrete kind of "appropriation" case was plainly identified in the literature 
+cited by the Court and had been adjudicated in the reported cases.
 
-The differences between these two torts are important. First, the State's interests in providing a cause of action in each instance are different. "The interest protected" in permitting recovery for placing the plaintiff in a false light "is clearly that of reputation, with the same overtones of mental distress as in defamation." Prosser. By contrast, the State's interest in permitting a "right of publicity" is in protecting the proprietary interest of the individual in his act in part to encourage such entertainment. As we later note, the State's interest is closely analogous to the goals of patent and copyright law, focusing on the right of the individual to reap the reward of his endeavors and having little to do with protecting feelings or reputation. Second, the two torts differ in the degree to which they intrude on dissemination of information to the public. In "false light" cases the only way to protect the interests involved is to attempt to minimize publication of the damaging matter, while in "right of publicity" cases the only question is who gets to do the publishing. An entertainer such as Zacchini usually has no objection to the widespread publication of his act as long as he gets the commercial benefit of such publication. Indeed, in the present case Zacchini did not seek to enjoin the broadcast of his act; he simply sought compensation for the broadcast in the form of damages.
+The differences between these two torts are important. 
+First, the State's interests in providing a cause of action in each instance are different. 
+"The interest protected" in permitting recovery 
+for placing the plaintiff in a false light "is clearly that of reputation, 
+with the same overtones of mental distress as in defamation." Prosser. 
+By contrast, the State's interest in permitting a "right of publicity" 
+is in protecting the proprietary interest of the individual in his act 
+in part to encourage such entertainment. 
+As we later note, the State's interest is closely analogous to the goals of patent and copyright law, 
+focusing on the right of the individual to reap the reward of his endeavors and having little to do with protecting feelings or reputation. 
+Second, the two torts differ in the degree 
+to which they intrude on dissemination of information to the public. 
+In "false light" cases the only way to protect the interests involved 
+is to attempt to minimize publication of the damaging matter, 
+while in "right of publicity" cases 
+the only question is who gets to do the publishing. 
+An entertainer such as Zacchini usually has no objection 
+to the widespread publication of his act 
+as long as he gets the commercial benefit of such publication. 
+Indeed, in the present case Zacchini did not seek to enjoin the broadcast of his act; 
+he simply sought compensation for the broadcast in the form of damages.
 
 Nor does it appear that our later cases, such as [*Rosenbloom v. Metromedia, Inc.*](http://scholar.google.com/scholar_case?case=13134064098406124246) (US 1971); [*Gertz v. Robert Welch, Inc.*][gertz] (US 1974); and [*Time, Inc. v. Firestone*](http://scholar.google.com/scholar_case?case=12685855173622583678) (US 1976) 
 require or furnish substantial support for the Ohio court's privilege ruling. 
-These cases, like *New York Times,* emphasize the protection extended to the press by the First Amendment in defamation cases, particularly when suit is brought by a public official or a public figure. None of them involve an alleged appropriation by the press of a right of publicity existing under state law.
+These cases, like *New York Times,* 
+emphasize the protection extended to the press by the First Amendment in defamation cases, 
+particularly when suit is brought by a public official or a public figure. 
+None of them involve an alleged appropriation 
+by the press of a right of publicity existing under state law.
 
 Moreover, [*Time, Inc. v. Hill*][hill],
 *New York Times, Metromedia, Gertz,* and *Firestone* 
@@ -555,11 +593,52 @@ all involved the reporting of events;
 in none of them was there an attempt to broadcast or publish an entire act 
 for which the performer ordinarily gets paid. 
 It is evident, and there is no claim here to the contrary, 
-that Zacchini's state-law right of publicity would not serve to prevent the TV station from reporting the newsworthy facts about Zacchini's act. Wherever the line in particular situations is to be drawn between media reports that are protected and  those that are not, we are quite sure that the First and Fourteenth Amendments do not immunize the media when they broadcast a performer's entire act without his consent. The Constitution no more prevents a State from requiring the TV station to compensate Zacchini for broadcasting his act on television than it would privilege the TV station to film and broadcast a copyrighted dramatic work without liability to the copyright owner &hellip; or to film and broadcast a prize fight &hellip; or a baseball game &hellip; where the promoters or the participants had other plans for publicizing the event. There are ample reasons for reaching this conclusion.
+that Zacchini's state-law right of publicity 
+would not serve to prevent the TV station from reporting the newsworthy facts about Zacchini's act. 
+Wherever the line in particular situations is to be drawn 
+between media reports that are protected and  those that are not, 
+we are quite sure that the First and Fourteenth Amendments 
+do not immunize the media when they broadcast a performer's entire act without his consent. 
+The Constitution no more prevents a State 
+from requiring the TV station to compensate Zacchini for broadcasting his act on television 
+than it would privilege the TV station to film and broadcast a copyrighted dramatic work 
+without liability to the copyright owner &hellip; 
+or to film and broadcast a prize fight &hellip; 
+or a baseball game &hellip; 
+where the promoters or the participants had other plans for publicizing the event. 
+There are ample reasons for reaching this conclusion.
 
-The broadcast of a film of Zacchini's entire act poses a substantial threat to the economic value of that performance. As the Ohio court recognized, this act is the product of Zacchini's own talents and energy, the end result of much time, effort, and expense. Much of its economic value lies in the "right of exclusive control over the publicity given to his performance"; if the public can see the act free on television, it will be less willing to pay to see it at the fair. The  effect of a public broadcast of the performance is similar to preventing Zacchini from charging an admission fee. "The rationale for [protecting the right of publicity] is the straightforward one of preventing unjust enrichment by the theft of good will. No social purpose is served by having the defendant get free some aspect of the plaintiff that would have market value and for which he would normally pay." Kalven, Privacy in Tort Law—Were Warren and Brandeis Wrong?, 31 Law & Contemp. Prob. 326, 331 (1966). Moreover, the broadcast of Zacchini's entire performance, unlike the unauthorized use of another's name for purposes of trade or the incidental use of a name or picture by the press, goes to the heart of Zacchini's ability to earn a living as an entertainer. Thus, in this case, Ohio has recognized what may be the strongest case for a "right of publicity"--involving, not the appropriation of an entertainer's reputation to enhance the attractiveness of a commercial product, but the appropriation of the very activity by which the entertainer acquired his reputation in the first place.
+The broadcast of a film of Zacchini's entire act 
+poses a substantial threat to the economic value of that performance. 
+As the Ohio court recognized, 
+this act is the product of Zacchini's own talents and energy, 
+the end result of much time, effort, and expense. 
+Much of its economic value lies in the "right of exclusive control 
+over the publicity given to his performance"; 
+if the public can see the act free on television, 
+it will be less willing to pay to see it at the fair. 
+The  effect of a public broadcast of the performance is similar to preventing Zacchini from charging an admission fee. The rationale for protecting the right of publicity 
+is the straightforward one of preventing unjust enrichment by the theft of good will. 
+No social purpose is served by having the defendant get free 
+some aspect of the plaintiff that would have market value 
+and for which he would normally pay.
+Moreover, the broadcast of Zacchini's entire performance, 
+unlike the unauthorized use of another's name for purposes of trade 
+or the incidental use of a name or picture by the press, 
+goes to the heart of Zacchini's ability to earn a living as an entertainer. 
+Thus, in this case, Ohio has recognized 
+what may be the strongest case for a "right of publicity"---involving, 
+not the appropriation of an entertainer's reputation 
+to enhance the attractiveness of a commercial product, 
+but the appropriation of the very activity 
+by which the entertainer acquired his reputation in the first place.
 
-Of course, Ohio's decision to protect Zacchini's right of publicity here rests on more than a desire to compensate the performer for the time and effort invested in his act; the protection provides an economic incentive for him to make the investment required to produce a performance of interest to the public. This same consideration underlies the patent and copyright laws long enforced by this Court. 
+Of course, Ohio's decision to protect Zacchini's right of publicity 
+here rests on more than a desire to compensate the performer 
+for the time and effort invested in his act; 
+the protection provides an economic incentive for him 
+to make the investment required to produce a performance of interest to the public. 
+This same consideration underlies the patent and copyright laws long enforced by this Court. 
 As the Court stated in [*Mazer v.Stein*](http://scholar.google.com/scholar_case?case=11977251527545760686) (US 1954):
 
 > "The economic philosophy behind the clause empowering Congress to
