@@ -211,7 +211,7 @@ In 2003, Volokh stated the tension between the right of publicity and the First 
 
 ## Major Right Of Publicity Cases
 
-### *ML King Jr. Center v. American Heritage Products*
+### ML King Jr. Center v. American Heritage Products
 
 ###### Georgia Supreme Court (1982)
 
@@ -685,7 +685,7 @@ In "false light" cases, the plaintiff wants to "minimize publication of the dama
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=18021528625868373370)
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=698F2d831&appflag=67.12)
 * [*Hollywood Reporter* on Carson litigation](http://www.hollywoodreporter.com/blogs/thr-esq/johnny-carson-estate-wins-injunction-63785)
-* [Rothman's Roadmap to the Right of Publicity](https://www.rightofpublicityroadmap.com/law/michigan)
+* [Rothman's Roadmap to the Right of Publicity: Michigan](https://www.rightofpublicityroadmap.com/law/michigan)
 
 BAILEY BROWN, Senior Circuit Judge.
 
@@ -1666,6 +1666,137 @@ holder.
 
 The judgment of the Court of Appeal is affirmed.
 
+
+### De Havilland v. FX 
+
+###### California Court of Appeal (2018)
+
+Actress Olivia de Havilland sued FX Networks, 
+which created and produced *Feud: Bette and Joan*, 
+a television mini-series about film stars Bette Davis and Joan Crawford. 
+In the series, the actress Catherine Zeta-Jones portrays de Havilland, 
+a close friend of Ms. Davis. 
+
+De Havilland sued, alleging 
+
+1. violations of her statutory right of publicity;
+2. misappropriation;
+3. false light invasion of privacy
+4. unjust enrichment. 
+
+De Havilland also sought to enjoin distribution 
+and broadcast of television program and to recover money damages. 
+
+De Havilland contended that FX was required to obtain her permission 
+before using her name, likeness and story in the series.
+She also alleged that the series falsely portrayed her giving an interview at the 1978 Academy Awards, 
+referring to her sister as a "bitch," when actually she said she had used the term "dragon lady." 
+De Havilland also objected to another reference in *Feud* in which she alluded to Frank Sinatra's excessive drinking. 
+
+The trial court denied FX's special motion to strike the complaint
+under anti-SLAPP (strategic lawsuit against public participation) statute. Defendants appealed.
+
+The California Court of Appeal, held that: 
+
+1. the miniseries was speech that was fully protected by First Amendment;
+2. the portrayal of De Havilland was sufficiently transformative, and thus was entitled to First Amendment protection;
+3. the portrayal of De Havilland engaging in fictitious interview and making comment was not defamatory and would not highly offend reasonable person, as required for false light claim;
+4. the portrayal of De Havilland as twice using obscenity to refer to sister was not highly offensive and were substantially truthful, given her actual words, as required for false light claim; and
+5. De Havilland failed to show probability of proving malice, as required to preclude dismissal of false light claim under anti-SLAPP statute.
+
+### Sarver v. Chartier Entertainment 
+
+###### US Court of Appeals, 9th Circuit (2016)
+
+* [Case at Google Scholar](https://scholar.google.com/scholar_case?case=16260639428584030858)
+
+#### Case Excerpts
+
+Sergeant Jeffrey Sarver joined the United States Army in 1991. 
+During parts of 2004 and 2005, 
+he served as one of approximately 150 Explosive Ordnance Disposal (EOD) technicians in Iraq. 
+Sarver led one of three teams in the 788th Ordnance Company 
+whose principal duty was to identify, make safe, and dispose of improvised explosive devices.
+
+n December 2004, Mark Boal, a journalist working for Playboy magazine, 
+was embedded with the 788th out of Camp Victory in Baghdad, Iraq. 
+Boal followed Sarver for a significant amount of time 
+and took photographs and video of him while he was on and off duty. 
+After Sarver returned to the United States, 
+Boal conducted additional interviews with him in Wisconsin.
+Boal wrote an article focused on Sarver's life and experiences in Iraq,
+which was published in the August/ September 2005 issue of Playboy. 
+A condensed version of that article was later published in Reader's Digest. 
+The Playboy article contained two photographs of Sarver 
+in addition to other personal information about him. 
+Sarver alleges that he never consented to the use of his name and likeness in the Playboy article, 
+that he objected to it after reviewing an advance copy, 
+and that he attempted to have portions of the article removed 
+before its publication in Reader's Digest.
+
+Boal later wrote the screenplay for the film that became The Hurt Locker, 
+which was released in June 2009 while Sarver was stationed at the Picatinny Arsenal in New Jersey. 
+Sarver contends that Will James, 
+the movie's main character, is based on his life and experiences, 
+pointing to characteristics of James and events in the movie 
+that allegedly mirror his life story. 
+Sarver asserts that he did not consent to such use 
+and that several scenes in the film falsely portray him 
+in a way that has harmed his reputation.
+
+#### California Right of Publicity
+
+We have interpreted Zacchini to uphold the right of publicity 
+in a variety of contexts where the defendant appropriates the economic value 
+that the plaintiff has built in an identity or performance. 
+For example, in [Hilton v. Hallmark Cards](https://scholar.google.com/scholar_case?case=4120319166427200129&q=hilton+v+hallmark&hl=en&as_sdt=6,28), 
+we held that Paris Hilton could pursue a right of publicity claim 
+for Hallmark's use of her image and catch phrase (“that's hot”) from her television show in one of its greeting cards. In doing so, we suggested that “merely merchandising a celebrity's image without that person's consent, the prevention of which is the core of the right of publicity,” is not protected by the First Amendment. 
+
+Similarly, in [Keller v. Electronic Arts, Inc](https://scholar.google.com/scholar_case?case=1334389017985947449&q=keller+v.+electronic+arts&hl=en&as_sdt=6,28) (9th Cir. 2013), 
+we upheld an action by a college football player who sought to prevent the use of his likeness in EA's video game. See also [Davis v. Electronic Arts, Inc.](https://scholar.google.com/scholar_case?case=1334389017985947449&q=keller+v.+electronic+arts&hl=en&as_sdt=6,28) (9th Cir.2015) (upholding right of publicity action challenging EA's use of professional football player likenesses in a video game). We noted that the video game “literally recreates the football player in the very setting in which he has achieved renown,” Keller, and interferes with his ability “to capitalize on his athletic success,” 
+which took “talent and years of hard work on the football field” to build.
+
+Likewise, we have upheld actions involving celebrities challenging the use of their images in commercial advertising. (Citing *White v. Samsung* and others).
+
+In sum, our precedents have held that speech which either appropriates the economic value of a performance or persona or seeks to capitalize off a celebrity's image in commercial advertisements is unprotected by the First Amendment against a California right-of-publicity claim.
+
+Such lines of cases are not applicable here.
+First, The Hurt Locker is not speech proposing a commercial transaction. 
+Accordingly, our precedents relying on the lesser protection 
+afforded to commercial speech are inapposite. 
+Second, and critically, unlike the plaintiffs in Zacchini, Hilton, and Keller, 
+Sarver did not “make the investment required to produce a performance of interest to the public,” [Zacchini][zachini], or invest time and money 
+to build up economic value in a marketable performance or identity. 
+Cf. *Keller.* Rather, Sarver is a private person 
+who lived his life and worked his job. 
+Indeed, while Sarver's life and story may have proven to be of public interest, 
+Sarver has expressly disavowed the notion that he sought to attract public attention to himself. 
+Neither the journalist who initially told Sarver's story 
+nor the movie that brought the story to life stole Sarver's “entire act” 
+or otherwise exploited the economic value of any performance or persona he had worked to develop. 
+The state has no interest in giving Sarver an economic incentive to live his life as he otherwise would.
+
+In sum, The Hurt Locker is speech that is fully protected by the First Amendment, 
+which safeguards the storytellers and artists who take the raw materials of life---including the stories of real individuals, ordinary or extraordinary and transform them into art, be it articles, books, movies, or plays. 
+If California's right of publicity law applies in
+this case, it is simply a content-based speech restriction. 
+As such, it is presumptively unconstitutional, and cannot stand unless Sarver can show a compelling state interest in preventing the defendants' speech. 
+Because Sarver cannot do so, applying California's right of publicity in this case 
+
+Accordingly, Sarver cannot “state and substantiate a legally sufficient” right of publicity claim, 
+and the district court did not err in granting the defendants' anti-SLAPP motions regarding such claim.
+
+#### Sarver Holdings
+
+The Court of Appeals, O'Scannlain, Circuit Judge, held that:
+
+1. California law applied;
+2. anti-SLAPP statute's 60-day time limit for motion to strike complaint did not apply;
+3. motion picture portrayed issues of public concern, as required for dismissal pursuant to anti-SLAPP statute;
+4. sergeant failed to state and substantiate legally sufficient right of publicity claim, and thus claim was subject to dismissal pursuant to anti-SLAPP statute;
+5. motion picture's depiction of sergeant was not defamatory; and
+6. sergeant failed to sufficiently allege that motion picture's depiction of him was result of extreme or outrageous conduct that induced severe or extreme emotional distress, and thus sergeant failed to state claim for intentional infliction of emotional distress.
 
 ### Other Cases Mentioned In Class ##
 
