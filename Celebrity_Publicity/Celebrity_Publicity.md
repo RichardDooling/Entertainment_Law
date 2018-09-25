@@ -1666,6 +1666,7 @@ holder.
 
 The judgment of the Court of Appeal is affirmed.
 
+## Recent Cases
 
 ### De Havilland v. FX 
 
