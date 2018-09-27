@@ -9,40 +9,197 @@ chapter: Copyright Basics
 
 ###### by Richard Dooling
 
+## I Disclaim
+
+I am an author and sometimes a screenwriter. 
+I'm also a lawyer, 
+and I teach Entertainment Law at the University of Nebraska College of Law, 
+but I am not *your* lawyer, 
+and the text you find here is *not* legal advice. 
+
+To paraphrase Hunter Thompson: 
+
+> The entertainment industry 
+> is a cruel and shallow money trench &hellip; a long plastic 
+> hallway where thieves and pimps run free 
+> and good men die like dogs.
+
+It's no place to be guessing about your legal rights. 
+If you need legal advice, please get a lawyer.
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## What Is Copyright?
+
+Copyright is a form of "intellectual property." 
+Like "real property," consisting of land and buildings, 
+intellectual property may be bought and sold, 
+used and borrowed. 
+Consider the following examples. 
+
+Amy Author owns a plot of land 
+called The Hundred Acre Wood. 
+Not being a lawyer, 
+Amy tends to think of The Hundred Acre Wood 
+as something she either owns or doesn't own. 
+If she doesn't own it, maybe she rents it from the Farmer in the Dell. 
+
+But Amy's lawyer is trained to think of The Hundred Acre Wood 
+not just as a hundred acres of land that Amy owns or doesn't own, 
+but as a bundle of rights (similar to a bundle of sticks).
+These rights are associated with The Hundred Acre Wood. 
+
+![A bundle of property rights](http://www.kingcounty.gov/environment/stewardship/sustainable-building/transfer-development-rights/~/media/environment/stewardship/sustainable_building/transfer_development_rights/bundles2.ashx)
+
+Each stick in Amy's bundle is a land right 
+that Amy can sell or lend to others, 
+or she can sell them all at once to one person. 
+
+Consider three hypothetical sticks or rights 
+in Amy's Hundred-Acre-Wood bundle:
+
+1. Amy rents ten acres of The Hundred Acre Wood 
+to Farmer Brown for two years; 
+2. Amy sells the right to drill for natural gas 
+beneath The Hundred Acre Wood 
+to a fracking company; 
+3. Amy sells "an easement" to a telecom company, 
+so it can bring its trucks and equipment 
+into The Hundred Acre Wood, 
+bury a fiberoptic cable, 
+and maintain it indefinitely.
+
+Does Amy still own the Hundred Acre Wood? 
+Of course, 
+but now that she has sold certain rights to the land, 
+ownership is more complicated. 
+
+Does the farmer own The Hundred Acre Wood? 
+No, but Amy has sold him *the right* 
+to use ten acres of her land for two years. 
+Do the fracking company and the telecom company *own* The Hundred Acre Wood? 
+No, but again they have paid Amy for various *rights* 
+to use or occupy her land. 
+
+What if somebody wants to buy the Hundred Acre Wood, 
+but they don't want frackers or fiberoptic cable workers on their land?
+What sort of "license" did Amy give the frackers and the cable workers?
+
+Is there a public record of Amy's land ownership? Yes. 
+Anybody can do a title search at the register of deeds 
+and see who owns The Hundred Acre Wood. 
+
+## Intellectual Property
+
+Now Amy builds a cabin deep in the Hundred Acre Wood, 
+where she writes a novel called *Zombies & Vampires*. 
+
+The Hundred Acre Wood is real property 
+consisting of the land and buildings 
+and a bundle of Amy's rights protected by property law. 
+Amy's novel is "intellectual property" 
+consisting of her writing and a bundle of rights protected by the U.S. Copyright laws. 
+If Amy's agents and editors and publishers get lucky in the marketplace,
+Amy's intellectual property may be worth more that her real property. 
+
+Consider three simple hypothetical sticks or rights 
+in the bundle of rights to her novel, *Zombies & Vampires*.
+
+1. Amy (via her literary agent) grants Random House the right to print and sell hardback copies of *Zombies & Vampires* in English in North America in exchange for standard royalties of 15% and an advance against royalties of $50,000.
+2. Amy (via her literary agent and a foreign sub-agent) grants the Japanese publisher Kodansha the right to print and sell paperback copies of *Zombies & Vampires* in Japanese in Japan in exchange for royalties amounting to 10% of the cover price and an advance of $15,000.
+3. Amy (via her literary agent and her Hollywood sub agent) sells Pete Producer an option to develop the film rights of *Zombies & Vampires* for 18 months in exchange for $20,000. 
+
+Does Amy still own the copyright to her novel *Zombies & Vampires*? 
+Yes. Does Random House own the copyright to Amy's novel? 
+No, but Amy sold Random House a license 
+to copy, print, and sell her books in English in North America. 
+Likewise neither the Japanese publisher 
+nor Pete Producer "own" the rights to Amy's novel, 
+Amy has given them permission to exploit certain rights on her behalf.
+
+Notice how lucrative it can be for Amy to own the copyright in *Zombies & Vampires* 
+and still make money by licensing rights to others for limited terms.
+Lawyers, literary agents, and other talent representatives 
+almost always advise the talent not to surrender or transfer copyright in a work,
+unless the price is high and right.
+
+Is there a public record of Amy's land ownership? Yes. 
+Anybody can do a title search at the register of deeds 
+and discover who owns the Hundred Acre Wood.
+
+Likewise, anybody can visit the [public catalog 
+of the United States Copyright Service][copyright_search] 
+and do a search to see who owns the copyright to *Zombies & Vampires,* 
+if it had been registered.
+
+### History of Copyright
+
+> The Framers intended copyright itself to be the engine of free expression. 
+> By establishing a marketable right to the use of one's expression, 
+> copyright supplies the economic incentive to create and disseminate ideas. 
+
+> [Harper & Row v. The Nation][harper] (US 1976)
+
+<!-- 27-Sep-2018 make slide -->
+
+The first copyright law was the Statute of Anne, 
+created by an Act of Parliament passed in England in the year 1710. 
+
+In 1790, the Framers of the U.S. Constitution had the same idea in mind 
+when they drafted Article I, Section 8, Clause 8, which provides: 
+
+> The Congress shall have power &hellip; 
+> To promote the Progress of Science and useful Arts, 
+> by securing for limited Times to Authors and Inventors 
+> the exclusive Right to their respective Writings and Discoveries.
+
+This gets lost in a long list of powers given to Congress. 
+To raise armies, to declare war, to coin money, to levy taxes.
+But notice one thing. 
+The Constitution explicitly protects only one business. Not farming,
+not banking, not law or medicine. 
+The Constitution protects the intellectual property business ("IP").
+Nice for authors, artists, inventors, scientists, trillion dollar tech companies, 
+and anybody in the entertainment industry, 
+including the music, video game, and publishing industries.
+
+Congress wasted no time exercising its new power 
+and passed the first U.S. copyright law in 1790. 
+Ever since, Congress has passed laws protecting scientists and other useful artists 
+by securing their exclusive rights to their trademarks, patents, and copyrights.
+
+A "copyright" grants authors and artists certain exclusive rights 
+(see list below) to their intellectual property (the work they created). 
+
 ## Copyright Basics
 
-The US Copyright Office does a great job 
-of putting together circulars 
-to help educate people about the copyright laws.
+> Copyright turns the content of protected works into a private good 
+> whose authors can grant or withhold consent to others 
+> to use and distribute it. 
 
-* [Copyright Basics](http://www.copyright.gov/circs/circ01.pdf) (read first 6 pages of Copyright Basics; stop at page 7, Copyright Registration)
+> *Entertainment, Media and The Law,* Paul Weiler.
 
-Crash Course on Copyright is also great for introduction and review:
+The [US Copyright Office](https://www.copyright.gov) does a great job 
+of educating people about the copyright laws.
+The materials available at copyright.gov are written in plain English 
+for artists, scientists, employees, authors, and yes law students.
+Under the tab "Law and Guidance Tab," 
+the office provides [circulars](https://www.copyright.gov/circs/)
+on various copyright topics. 
+Please read the first 6 pages of [Copyright Basics](http://www.copyright.gov/circs/circ01.pdf). 
+Stop at page 7, "Copyright Registration").
+
+* [Copyright Basics](http://www.copyright.gov/circs/circ01.pdf) 
+
+If this Entertainment Law course is your first exposure to the law of intellectual property, 
+then please watch the Crash Course on Copyright videos: 
 
 * [Copyright Basics: Crash Course Intellectual Property 2](https://www.youtube.com/watch?v=Tamoj84j64I&list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN&index=2)
 * [Copyright, Exceptions, and Fair Use: Crash Course Intellectual Property 3](https://www.youtube.com/watch?v=Q_9O8J9skL0)
 
+<!-- The last major overhaul of these laws was the Copyright Act of 1976.  -->
 
-### History of Copyright
-
-Essentially, a "copyright" grants authors and artists certain exclusive rights (see list below) to their intellectual property (the work they created). The constitution gives Congress the power to develop laws to protect and regulate intellectual property, 
-under Article I, Section 8, Clause 8:
-
-> To promote the progress of Science and useful Arts 
-> by securing for limited Times to Authors and Inventors 
-> the exclusive Right to their respective Writings and Discoveries.
-
-And Congress has passed laws (copyright, trademark, patent) 
-in an attempt to achieve these ends. 
-
-> "Copyright turns the content of protected works into a private good 
-> whose authors can grant or withhold consent to others 
-> to use and distribute it." 
-
-> Paul Weiler, *Entertainment, Media and The Law*
-
-The courts then try to strike a delicate balance 
-between intellectual property rights and free speech rights.
+### Copyright Terms
 
 We do not have time to explore the particulars of 
 [copyright terms](http://en.wikipedia.org/wiki/Copyright_term) 
@@ -52,6 +209,24 @@ In most of the world,
 the default length of copyright 
 is the life of the author plus either 50 or 70 years. 
 [List of countries' copyright lengths](http://en.wikipedia.org/wiki/List_of_countries%27_copyright_length).
+In the United States 
+
+In the United States, 
+the law automatically protects a work that is created and fixed in a tangible
+medium of expression on or after January 1, 1978, 
+from the moment of its
+creation and gives it a copyright term lasting for 
+the author's life plus an additional 70
+years. For a "joint work prepared by two or more authors who did not work
+for hire," the term lasts for 70 years after the last surviving author's death. 
+
+For works made for hire and anonymous and pseudonymous works, 
+the duration of copyright is 95 years from first publication 
+or 120 years from creation,
+whichever is shorter.
+
+For more information about works made for hire, see [Circular 9, Works Made
+for Hire under the 1976 Copyright Act](https://www.copyright.gov/circs/circ30.pdf).
 
 For our purposes, 
 the shortest and most entertaining introduction to copyright terms 
@@ -70,11 +245,17 @@ We saw it in class. It bears rewatching.
 #### Who Owns The Rights?
 
 Artists invest time, talent, and money to produce intellectual property, 
-which consumers then presumably purchase the right to enjoy. Simply purchasing a copyrighted work (say, a book), however, does not grant the buyer all of the same rights held by the copyright owner.
+which consumers then presumably purchase the right to enjoy. 
+Simply purchasing a copyrighted work (say, a book), 
+however, does not grant the buyer all of the same rights held by the copyright owner.
 But artists may also wish to share their work under various alternative licensing schemes: 
-[Copyleft](http://en.wikipedia.org/wiki/Copyleft), 
-[MIT license](http://opensource.org/licenses/MIT), 
-[Creative Commons](https://creativecommons.org/), and so on. Copyrights may also be transferred. 
+
+* [Copyleft](http://en.wikipedia.org/wiki/Copyleft), 
+* [MIT license](http://opensource.org/licenses/MIT), 
+* [Creative Commons](https://creativecommons.org/), and so on. Copyrights may also be transferred. 
+
+For instance, I selected an MIT license for the materials you are reading now. 
+Anyone is free to use and copy these materials. 
 
 ### Copyrightable Works
 
@@ -126,7 +307,7 @@ in an intellectual product to merit copyright protection.
 "Originality" requires independent creation of new intellectual products, 
 something that is intrinsically different 
 from research and discovery of already-existing facts. 
-[*Feist Publications v Rural Telephone Service*][feist].
+[*Feist Publications v Rural Telephone Service*][feist] (US 1991).
 
 Copyright protection extends only 
 to an author's expression of facts 
@@ -169,7 +350,8 @@ The appellate court said:
 > It also must possess a certain low level of creativity 
 > which courts have described as "very slight," "minimal," "modest." 
 
-In [*Feist v. Rural*][feist], the United States Supreme Court said 
+In [*Feist v. Rural*][feist] (US 1991), 
+the United States Supreme Court said 
 that "the requisite level of creativity is extremely low; 
 even a slight amount will suffice." 
 
@@ -184,7 +366,7 @@ humans seek to communicate with approaching alien spaceships
 by using a distinctive series of five musical notes.
 Famed movie composer John Williams and the filmmakers 
 successfully registered a copyright to protect them.
-If you'd like to hear the notes, TURN DOWN THE VOLUME on your computer.
+If you'd like to hear the notes, *turn down the volume* on your computer.
 It's a bit loud: [*Close Encounters Of The Third Kind* - five-note sequence](https://www.youtube.com/watch?v=kpsEqINeMS4). 
  
 ### Fixation
@@ -338,12 +520,13 @@ The labor involved in news gathering and distribution
 is not protected by copyright 
 although it may be protected 
 under a misappropriation theory of unfair competition. 
-[*International News Service v. The Associated Press,* (S.Ct. 1918)](http://scholar.google.com/scholar_case?case=16577297531712180725). 
+[*International News Service v. The Associated Press,* (US 1918)](http://scholar.google.com/scholar_case?case=16577297531712180725). 
 In the *International News* case, 
 the Supreme Court commented in dicta 
-that while a newspaper story, as a literary production, can by copyrighted,
+that while a newspaper story, as a literary production, 
+can by copyrighted,
 
-> the news element---the information respecting current events contained
+> The news element---the information respecting current events contained
 > in the literary production---is not the creation of the writer, but is
 > a report of matters that ordinarily are *publici juris*; it is the
 > history of the day. It is not to be supposed that the framers of the
@@ -375,7 +558,8 @@ but whether she in fact had done her own independent research. *Id.* at 667.
 Although most circuits apparently have not addressed the question, 
 the idea that historical research is copyrightable 
 was expressly rejected by the Second Circuit 
-in the more soundly reasoned case of [*Rosemont Enterprises, Inc. v. Random House, Inc.,* (2d Cir. 1966)][rosemont].
+in the more soundly reasoned case of 
+[*Rosemont Enterprises, Inc. v. Random House, Inc.,* (2d Cir. 1966)][rosemont].
 
 In *Rosemont,* it was alleged that defendant's biography of Howard
 Hughes infringed the copyright 
@@ -438,7 +622,7 @@ ascertained through his personal research,
 were copied by defendants. 
 Relying on the *Rosemont* case, 
 the court stated that factual information is in the public domain 
-and "each [defendant] had the right 
+and "each defendant had the right 
 to 'avail himself of the facts contained' in Hoehling's book 
 and to 'use such information, 
 whether correct or incorrect, in his own literary work.'"
@@ -503,7 +687,7 @@ that research is copyrightable.
 Viewing the record as a whole, 
 the Court is left with a substantial and ineradicable doubt 
 as to whether the jury was properly guided in its deliberations. 
-*See* [*McCullough v. Beech Aircraft Corp.,* 587 F.2d 754 (5th Cir.
+*See* [*McCullough v. Beech Aircraft Corp.,* (5th Cir.
 1979)](http://scholar.google.com/scholar_case?case=12212403624645168597).
 
 Because there is uncertainty 
@@ -558,7 +742,7 @@ and not copyrightable.
 Maybe Robert Louis Stevenson could have at least 
 argued with a straight face for copyright protection, 
 if he were the first author to create a pirate who said "Arrrgh!" 
-and had an eyepatch, bandana, and hook for a hand. 
+and had an eye patch, bandanna, and hook for a hand. 
 But now these elements are not copyrightable. 
 Why? Because they are not *original.* 
 
@@ -677,9 +861,12 @@ instead of having to prove actual damages:
 [feist]: http://en.wikipedia.org/wiki/Feist_v._Rural "Wikipedia on Feist v. Rural"
 [rosemont]: http://scholar.google.com/scholar_case?case=5738679872075150588 "Rosemont"
 [hoehling]: http://scholar.google.com/scholar_case?case=1452880530764001390 "Hoehling v. Universal Studios" 
+[copyright_search]: https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First "Copyright Search"
 
 ## Changelog
 
-* 10-Feb-2018 fix header
-* 08-Feb-2015 More edits before merging with ABL
-* 25-Jan-2015 Edited and rewrote before merging with ArtBizLaw Copyright Basics.
+* 27-Sep-2018 - edit and add intro 
+* 10-Feb-2018 - fix header
+* 08-Feb-2015 - More edits before merging with ABL
+* 25-Jan-2015 - Edited and rewrote before merging with ArtBizLaw Copyright Basics.
+
