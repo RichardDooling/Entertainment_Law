@@ -2495,65 +2495,67 @@ proceedings consistent with this opinion.
 
 *"Oh, Pretty Woman" by Roy Orbison and William Dees*
 
-| Pretty Woman, walking down the street,
-| Pretty Woman, the kind I like to meet,
-| Pretty Woman, I don't believe you, you're not the truth,
-| No one could look as good as you Mercy
-| Pretty Woman, won't you pardon me,
-| Pretty Woman, I couldn't help but see,
-|  Pretty Woman, that you look lovely as can be Are you lonely
-| just like me?
-| Pretty Woman, stop a while,
-| Pretty Woman, talk a while,
-| Pretty Woman give your smile to me
-| Pretty Woman, yeah, yeah, yeah
-| Pretty Woman, look my way,
-| Pretty Woman, say you'll stay with me
-| 'Cause I need you, I'll treat you right
-| Come to me baby, Be mine tonight
-| Pretty Woman, don't walk on by,
-| Pretty Woman, don't make me cry,
-| Pretty Woman, don't walk away,
-| Hey, O. K.
-| If that's the way it must be, O. K.
-| I guess I'll go on home, it's late
-| There'll be tomorrow night, but wait!
-| What do I see
-| Is she walking back to me?
-| Yeah, she's walking back to me!
-| Oh, Pretty Woman.
+~~~
+Pretty Woman, walking down the street,
+Pretty Woman, the kind I like to meet,
+Pretty Woman, I don't believe you, you're not the truth,
+No one could look as good as you Mercy
+Pretty Woman, won't you pardon me,
+Pretty Woman, I couldn't help but see,
+Pretty Woman, that you look lovely as can be Are you lonely
+just like me?
+Pretty Woman, stop a while,
+Pretty Woman, talk a while,
+Pretty Woman give your smile to me
+Pretty Woman, yeah, yeah, yeah
+Pretty Woman, look my way,
+Pretty Woman, say you'll stay with me
+'Cause I need you, I'll treat you right
+Come to me baby, Be mine tonight
+Pretty Woman, don't walk on by,
+Pretty Woman, don't make me cry,
+Pretty Woman, don't walk away,
+Hey, O. K.
+If that's the way it must be, O. K.
+I guess I'll go on home, it's late
+There'll be tomorrow night, but wait!
+What do I see
+Is she walking back to me?
+Yeah, she's walking back to me!
+Oh, Pretty Woman.
+~~~
 
 #### APPENDIX B TO OPINION OF THE COURT
 
 "Pretty Woman" as Recorded by 2 Live Crew
 
 ~~~
-| Pretty woman walkin' down the street
-| Pretty woman girl you look so sweet
-| Pretty woman you bring me down to that knee
-| Pretty woman you make me wanna beg please
-| Oh, pretty woman
-| Big hairy woman you need to shave that stuff
-| Big hairy woman you know I bet it's tough
-| Big hairy woman all that hair it ain't legit
-|  'Cause you look like \`Cousin It'
-| Big hairy woman
-| Bald headed woman girl your hair won't grow
-| Bald headed woman you got a teeny weeny afro
-| Bald headed woman you know your hair could look nice
-| Bald headed woman first you got to roll it with rice
-| Bald headed woman here, let me get this hunk of biz for ya
-| Ya know what I'm saying you look better than rice a roni
-| Oh bald headed woman
-| Big hairy woman come on in
-| And don't forget your bald headed friend
-| Hey pretty woman let the boys Jump in
-| Two timin' woman girl you know you ain't right
-| Two timin' woman you's out with my boy last night
-| Two timin' woman that takes a load off my mind
-| Two timin' woman now I know the baby ain't mine
-| Oh, two timin' woman
-| Oh pretty woman
+Pretty woman walkin' down the street
+Pretty woman girl you look so sweet
+Pretty woman you bring me down to that knee
+Pretty woman you make me wanna beg please
+Oh, pretty woman
+Big hairy woman you need to shave that stuff
+Big hairy woman you know I bet it's tough
+Big hairy woman all that hair it ain't legit
+'Cause you look like 'Cousin It'
+Big hairy woman
+Bald headed woman girl your hair won't grow
+Bald headed woman you got a teeny weeny afro
+Bald headed woman you know your hair could look nice
+Bald headed woman first you got to roll it with rice
+Bald headed woman here, let me get this hunk of biz for ya
+Ya know what I'm saying you look better than rice a roni
+Oh bald headed woman
+Big hairy woman come on in
+And don't forget your bald headed friend
+Hey pretty woman let the boys Jump in
+Two timin' woman girl you know you ain't right
+Two timin' woman you's out with my boy last night
+Two timin' woman that takes a load off my mind
+Two timin' woman now I know the baby ain't mine
+Oh, two timin' woman
+Oh pretty woman
 ~~~
 
 ### Summary of Fair Use Factors
@@ -2577,7 +2579,7 @@ taking fiction is less fair.
 
 3. Amount Taken
     - Some courts say that taking the entire work is presumptively unfair.
-    - Taking the “heart of the work,” even if a small amount, usually isn’t fair.
+    - Taking the "heart of the work," even if a small amount, usually isn’t fair.
     - Taking poems, song lyrics, etc. for a commercial use almost always unfair.
     - In book publishing, for nonfiction and novels, usually 250 words.
     - In music, general rule: If you sample, you license.
