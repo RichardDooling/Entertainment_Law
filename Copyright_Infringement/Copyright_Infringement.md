@@ -15,18 +15,17 @@ These materials are published under an [MIT license](https://github.com/RichardD
 
 ###### Copying, Substantial Similarity, Parody
 
-
 Copyright is violated only if the prior, copyrighted work has actually been *copied.* 
 
-If I write an original song, 
-then you come along, *copy* it, 
-and publish it under your name, 
+If Mark Musician writes an original song, 
+then Sally Songwriter comes along, *copies* it, 
+and publishes it under her name, 
 that's a copyright violation. 
 
-If I write an original song, 
-and you just happen to INDEPENDENTLY create an identical song, 
-even though you have never heard my song or read my music, 
-I have no recourse against you under the copyright laws. 
+If Mark Musician writes an original song, 
+and Sally Songwriter just happens to *independently* create an identical song,
+then Mark Musician has no recourse against Sally Songwriter 
+under the copyright laws.
 
 Judge Learned Hand put it this way:
 
@@ -42,7 +41,7 @@ To prove copyright infringement, the copyright holder must establish:
 1. Ownership of a valid copyright.
 2. Copying of constituent elements of the work that are original.
 
-[Feist Publications v. Rural Telephone Service Co.](http://scholar.google.com/scholar_case?case=1195336269698056315) (S.Ct. 1991)
+[Feist Publications v. Rural Telephone Service Co.](http://scholar.google.com/scholar_case?case=1195336269698056315) (US 1991)
 
 ### Access & Substantial Similarity
 
@@ -50,22 +49,22 @@ Direct evidence of copying is rare,
 so courts rely instead on circumstantial evidence to prove copying, 
 usually by allowing the plaintiff to prove 
 that the works are substantially similar 
-and that the defendant had **access** to the work.
+and that the defendant had *access* to the work.
 
 Access is usually a crucial component of any copyright claim, 
 because similarity alone is usually not enough. 
 Creating a substantially similar work 
 is not a copyright violation 
-unless the defendant COPIED plaintiff's work.
+unless the defendant *copied* plaintiff's work.
 
 > Plaintiff has the burden of proving 
 > that the defendant copied original elements 
-> from the plaintiff’s copyrighted work. 
+> from the plaintiff's copyrighted work. 
 > The plaintiff may show the defendant copied from the work 
 > by showing by a preponderance of the evidence 
-> that the **defendant had access** to the plaintiff’s copyrighted work 
+> that the *defendant had access* to the plaintiff’s copyrighted work 
 > and that there are substantial similarities 
-> between the defendant’s work 
+> between the defendant's work 
 > and original elements of the plaintiff’s work.
 
 [U.S. Courts for the Ninth Circuit Manual of Model Civil Jury Instructions: 17.15 Copying—Access and Substantial Similarity](http://www3.ce9.uscourts.gov/jury-instructions/node/272).
@@ -75,7 +74,7 @@ unless the defendant COPIED plaintiff's work.
 If the plaintiff is unable to prove 
 that the defendant had access to plaintiff's work, 
 then sometimes the court may allow plaintiff 
-to prove that the two works are so **strikingly similar** 
+to prove that the two works are so *strikingly similar* 
 that defendant must have had access. 
 However courts are careful to point out that proof of striking similarity is 
 
@@ -106,7 +105,7 @@ Five years of litigation ensued,
 resulting in a verdict for Mack and against Harrison. 
 The case stands for the unsettling proposition 
 that copyright infringement need not be intentional, 
-and indeed may even be "unconscious" 
+and indeed may even be "unconscious," 
 or take place in the "subconscious." 
 Metaphysics meets copyright. 
 When your client wrote her song, 
@@ -216,8 +215,6 @@ form.
 > "Mr. Harrison: I'd say those three there were finalized as beginning
 > there."
 
-> \* \* \* \* \* \*
-
 > "Q. [By the Court]: Is it possible that Billy Preston hit on those
 > [notes comprising motif A]?
 
@@ -227,8 +224,6 @@ form.
 Similarly, it appears that motif B emerged in some fashion at the
 recording session as did motif A. This is also true of the unique grace
 note in the second repetition of motif B.
-
-\* \* \*
 
 The Billy Preston recording, listing George Harrison as the composer,
 was thereafter issued by Apple Records. The music was then reduced to
@@ -244,7 +239,10 @@ pages in the transcript that neither Harrison nor Preston were conscious
 of the fact that they were utilizing the He's So Fine
 theme. However, they in fact were, for it is perfectly
 obvious to the listener that in musical terms, the two songs are
-virtually identical except for one phrase &hellip; [The judge then noted that "even Harrison's own expert witness acknowledged that although the two motifs were in the public domain, their use here was so unusual as to make them unique.]
+virtually identical except for one phrase &hellip; 
+[The judge then noted that "even Harrison's own expert witness acknowledged 
+that although the two motifs were in the public domain, 
+their use here was so unusual as to make them unique.]
 
 What happened? I conclude that the composer, 
 in seeking musical materials to clothe his thoughts, 
@@ -299,8 +297,7 @@ The jury returned a verdict in plaintiff Selle's favor
 on the issue of liability in a bifurcated trial. 
 The district court, Judge George N. Leighton, 
 granted the defendants' motion for judgment notwithstanding the verdict 
-and, in the alternative, for a new trial. [*Selle v. Gibb,* (N.D.Ill.
-1983)](http://scholar.google.com/scholar_case?case=11567908603789103293).
+and, in the alternative, for a new trial. [*Selle v. Gibb,*](http://scholar.google.com/scholar_case?case=11567908603789103293) (N.D.Ill. 1983).
 We affirm the grant of the motion for judgment notwithstanding the
 verdict.
 
@@ -316,7 +313,7 @@ to eleven music recording and publishing companies.
 Eight of the companies returned the materials to Selle; 
 three did not respond. 
 This was the extent of the public dissemination of Selle's song. 
-[More facts at *Selle v. Gibb* (N.D.Ill.1983)](http://scholar.google.com/scholar_case?case=11567908603789103293).
+[More facts at *Selle v. Gibb*](http://scholar.google.com/scholar_case?case=11567908603789103293) (N.D.Ill.1983).
 
 Selle first became aware of
 the Bee Gees' song, "How Deep Is Your Love," in May 1978 and thought
@@ -404,8 +401,6 @@ plaintiff relies is not a logical, permissible deduction from proof of
 'striking similarity' or substantial similarity; it is 'at war with
 the undisputed facts,' and it is inconsistent with the proof of
 nonaccess to plaintiff's song by the Bee Gees at the time in question."
-[567 F.Supp. at
-1183](http://scholar.google.com/scholar_case?case=11567908603789103293).
 
 ## II
 
@@ -512,9 +507,7 @@ adduce any evidence of access and stated that an inference of access may
 not be based on mere conjecture, speculation or a bare possibility of
 access. [567 F.Supp. at 1181](http://scholar.google.com/scholar_case?case=11567908603789103293).
 
-Thus, in [*Testa v. Janssen,* (W.D.Pa.
-1980),](http://scholar.google.com/scholar_case?case=11105954636820891332)
-the court stated that:
+Thus, in [*Testa v. Janssen,*](http://scholar.google.com/scholar_case?case=11105954636820891332)  (W.D.Pa. 1980), the court stated that:
 
 > To support a finding of access, 
 > plaintiffs' evidence must extend beyond mere speculation or conjecture. 
@@ -535,7 +528,7 @@ that the testimony of credible witnesses
 concerning a matter within their knowledge 
 cannot be rejected 
 without some impeachment, contradiction or inconsistency 
-with other evidence on the particular point at issue.&hellip; 
+with other evidence on the particular point at issue. &hellip; 
 
 Judge Leighton's conclusions 
 that there was no more than a bare possibility 
@@ -545,8 +538,7 @@ from which the jury could have reasonably inferred
 the existence of access seem correct. 
 The plaintiff has failed to meet even the minimum threshold of proof of the
 possibility of access and, as Judge Leighton has stated, an inference of
-access would thus seem to be "at war with the undisputed facts." [567
-F.Supp. at 1183](http://scholar.google.com/scholar_case?case=11567908603789103293).
+access would thus seem to be "at war with the undisputed facts." 
 
 ## IV
 
@@ -583,22 +575,12 @@ an error and the accused work repeats the unexpected element or the
 error, then it is more likely that there is some connection between the
 pieces.&hellip; If the similar sections are particularly intricate, then again it would
 seem more likely that the compositions are related. Finally, some
-dissimilarities may be particularly suspicious. *See, e.g.,* [*Meier Co.
-v. Albany Novelty Manufacturing Co.,* 236 F.2d 144, 146 (2d
-Cir.1956)](http://scholar.google.com/scholar_case?case=16559343953483366400)
-(inversion and substitution of certain words in a catalogue in a "crude
-effort to give the appearance of dissimilarity" are themselves evidence
-of copying); [*Blume v. Spear,* 30 F. 629, 631
-(S.D.N.Y.1887)](http://scholar.google.com/scholar_case?about=6177442844615693296)
-(variations in infringing song were placed so as to indicate deliberate
-copying); Sherman, *Musical Copyright Infringement,* at 84-88. While
-some of these concepts are borrowed from literary copyright analysis,
-they would seem equally applicable to an analysis of music.
+dissimilarities may be particularly suspicious. 
 
 The judicially formulated definition of "striking similarity" states
 that "plaintiffs must demonstrate that 'such similarities are of a kind
 that can only be explained by copying, rather than by coincidence,
-independent creation, or prior common source.'" [*Testa* (W.D.Pa.1980)](http://scholar.google.com/scholar_case?case=11105954636820891332).
+independent creation, or prior common source.'" [*Testa*](http://scholar.google.com/scholar_case?case=11105954636820891332).
 
 > To prove that certain similarities are "striking," plaintiff must show
 > that they are the sort of similarities that cannot satisfactorily be
@@ -640,7 +622,7 @@ the Sixth Circuit which explained that "we do not think the affidavit of
 unlikely that one set [of architectural plans] could have been prepared
 without access to the other set,' can fill the gap which is created by
 the absence of any direct evidence of access." [*Scholz Homes, Inc. v.
-Maddox* (6th Cir. 1967)](http://scholar.google.com/scholar_case?case=13045021094752392802).
+Maddox*](http://scholar.google.com/scholar_case?case=13045021094752392802)  (6th Cir. 1967).
 
 To illustrate this deficiency more concretely, we refer to a cassette
 tape &hellip; and the accompanying chart.&hellip; These exhibits were prepared by the defendants but introduced into evidence by the plaintiff. The tape has recorded on it
@@ -711,7 +693,7 @@ Parsons had never done song comparisons.
 The jury decided in favor of plaintiff Selle, 
 but the judge granted judgment notwithstanding the verdict. 
 Why? No access! 
-The district court said that **proof of copying is essential.** 
+The district court said that *proof of copying is essential.* 
 If no direct evidence of access, 
 then inference of access may be established by striking similarity. 
 But circumstantial evidence of access may be rebutted 
@@ -737,14 +719,14 @@ or that both copies are based on a common source in the public domain.
 
 Copyright plaintiffs must prove 
 that alleged infringers had access to plaintiff's copyrighted work 
-AND must prove that the infringing work is "substantially similar" 
+*and* must prove that the infringing work is "substantially similar" 
 to the copyrighted work. 
 The test for "substantial similarity" is 
 "whether an average lay observer would recognize the alleged copy 
 as having been appropriated from the copyrighted work." 
-[*Warner Bros. Inc. v. ABC* (2d Cir. 1981)](http://scholar.google.com/scholar_case?case=11184341880970931909).
+[*Warner Bros. Inc. v. ABC*](http://scholar.google.com/scholar_case?case=11184341880970931909) (2d Cir. 1981).
 
-In [*Nichols v Universal* (2d Cir. 1930)](http://scholar.google.com/scholar_case?case=14991934121439658064), 
+In [*Nichols v Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064) (2d Cir. 1930), 
 Judge Learned Hand compared a play, *Abie's Irish Rose*, 
 with a movie, *The Cohens and the Kellys*, in a copyright suit.
 
@@ -800,19 +782,19 @@ Plaintiff is a respected and prolific author. He has written 24 novels,
 more than 1,000 scripts for radio and television, screenplays for three
 feature films and teleplays for 12 network specials. Seven of his plays
 have been produced on Broadway and two at the  Kennedy Center
-for Performing Arts in Washington D.C. Plaintiff's *Horowitz and Mrs.
-Washington,* the subject of these lawsuits, originally was published as
+for Performing Arts in Washington D.C. 
+Plaintiff's *Horowitz and Mrs. Washington,* 
+the subject of these lawsuits, originally was published as
 a novel in 1979 by G.P. Putnam's Sons and then as a condensed book by
-Reader's Digest in 1980. Later rewritten for the stage, *Horowitz and
-Mrs. Washington* had a run of seven performances at the Joshua Golden
+Reader's Digest in 1980. Later rewritten for the stage, *Horowitz and Mrs. Washington* had a run of seven performances at the Joshua Golden
 Theater on Broadway in April 1980.
 
 Alfred Uhry, a defendant in both actions, has been writing lyrics, plays
 and screenplays since 1958. *Driving Miss Daisy,* his Pulitzer Prize
 winning play, first was produced in New York by defendant Playwrights
-Horizons in 1987&hellip; Adapted for the screen
+Horizons in 1987 &hellip; Adapted for the screen
 by Uhry in 1988, *Driving Miss Daisy* won four Academy Awards including
-Best Picture and Best Screenplay&hellip;
+Best Picture and Best Screenplay &hellip;
 
 #### A. *Horowitz and Mrs. Washington*
 
@@ -830,7 +812,7 @@ outset that he believes, notwithstanding his doctor's insistence to the
 contrary, that his stroke was precipitated by an earlier mugging at the
 hands of a gang of "black bastards," and that his doorman, Juan, who
 refuses to accept a tip because of Horowitz's illness, is really a
-"[s]hrewd little Puerto Rican ... set[ting him] up for bigger tips."
+"shrewd little Puerto Rican &hellip; setting him up for bigger tips."
 
 Upon arriving at his apartment, Horowitz is horrified to learn that
 Marvin and his sister Mona Fields have hired Harriet Washington, a
@@ -847,12 +829,10 @@ the "Black Hitler," insists that Horowitz perform a variety of tasks
 designed to rehabilitate his hand and leg, including cutting his food,
 crumpling newspapers, shuffling cards, walking, and buttoning his
 clothes. The nature of Denker's work and its characters is illustrated
-by the following exchange from the play&hellip;
+by the following exchange from the play &hellip;
 
 > WASHINGTON: Lift your foot like this. Didn't they teach you at the
 > hospital?
-
-> \* \* \*
 
 > HOROWITZ: And if I try I'll be able to dance in the ballet? (He barely
 > raises it.) There! Better?
@@ -861,8 +841,6 @@ by the following exchange from the play&hellip;
 
 > HOROWITZ: Tell me, my dear Mrs. Washington, you ever had the ambition
 > to run a concentration camp?
-
-> \* \* \*
 
 > WASHINGTON: Tomorrow will be better. And now for your occupational
 > therapy.
@@ -1068,16 +1046,14 @@ feeding it to her.
 
 #### II.
 
-\* \* \*
-
 #### A. *Theme*
 
 The summary judgment standard is easier stated than applied. There is no
 bright line rule to distinguish between idea and expression, and in
 comparing works of fiction the distinction "is especially elusive."
-[*Hoehling v. Universal City Studios,* (2d Cir. 1980)](http://scholar.google.com/scholar_case?case=1452880530764001390)&hellip;
+[*Hoehling v. Universal City Studios,*](http://scholar.google.com/scholar_case?case=1452880530764001390) (2d Cir. 1980) &hellip;
 
-In the case at hand&hellip;, there are indeed similarities
+In the case at hand &hellip;, there are indeed similarities
 between the works. Each is about an elderly, white Jewish person, who,
 in the face of advancing age and resulting loss of independence,
 requires the assistance of a black helper, and after initial resistance,
@@ -1138,8 +1114,7 @@ in addition to the racism in a particular person.
 
 The works also differ in total concept and feel; such a difference
 provides a proper basis for determining that a defendant's work does not
-infringe a plaintiff's. [*Reyher v. Children's Television Workshop,* (2d Cir.),](http://scholar.google.com/scholar_case?case=278412908033774123)
-[*cert. denied,* (1976)](http://scholar.google.com/scholar_case?about=8163016428273810663).
+infringe a plaintiff's. 
 Despite its serious themes, *Horowitz and Mrs. Washington* is
 principally a comedy. Horowitz, although a bigot, is a comedic
 character. His racial and ethnic slurs, interaction with Mona, temper
@@ -1164,7 +1139,7 @@ are not similarities at all.
 Plaintiff points out that each of the works opens with an "accident"
 befalling the main character. Notwithstanding plaintiff's recommendation
 that the Court "take judicial notice of the common use of the term
-\`cerebral accident' to refer to a stroke", to
+'cerebral accident' to refer to a stroke", to
 claim that the events are similar in that both are "accidents" is less
 an argument than a pun; the events are distinct not only as expression
 but also in the ideas they express. Horowitz is mugged and subsequently
@@ -1190,7 +1165,7 @@ plaintiff is correct in the sense that in both works the helper
 demonstrates loyalty by traveling to work at some personal risk, such
 generalized plot devices, like the so-called "accidents" discussed
 above, are not entitled to copyright protection. In [*Smith v.
-Weinstein,* (S.D.N.Y)](http://scholar.google.com/scholar_case?case=12415086356592717983).),
+Weinstein,*](http://scholar.google.com/scholar_case?case=12415086356592717983) (SDNY),
 *aff'd without op.,* [(2d Cir. 1984),](http://scholar.google.com/scholar_case?about=14278387849317213525)
 both plaintiff's screenplay and defendant's allegedly infringing movie
 included scenes wherein convicts escaped during a rodeo. In granting
@@ -1247,9 +1222,7 @@ The remainder of the similarities alleged by plaintiff involve *scenes a
 faire*—incidents or events that necessarily follow from a common theme
 or setting. It is well-accepted
 that copyright protection, does not extend "to \`stock' themes commonly
-linked to a particular genre." [*Walker*](http://scholar.google.com/scholar_case?case=16443246039845209842)&hellip;
-
-\* \* \*
+linked to a particular genre." [*Walker*](http://scholar.google.com/scholar_case?case=16443246039845209842) &hellip;
 
 Because, based on the differences discussed above, no reasonable juror
 could find the works substantially similar and because the few
@@ -1263,14 +1236,14 @@ is warranted.
 Nor has plaintiff established that the characters in *Driving Miss
 Daisy* are substantially similar to the characters in *Horowitz and Mrs.
 Washington.* The protection afforded characters depicted in a creative
-work is limited&hellip; 
+work is limited &hellip; 
 
 Ultimately, then, the inquiry, whether applied to plot or characters, is
 the same: the court must determine whether defendant has so invaded
 plaintiff's work as to appropriate plaintiff's expression. Expression,
 as it must, remains for the most part undefined, except only as it is
 distinguished  from uncopyrightable ideas or *scenes a faire,*
-concepts which themselves resist precise definition or easy application&hellip;
+concepts which themselves resist precise definition or easy application &hellip;
 
 Plaintiff contends that the following characters are substantially
 similar: (1) Daisy Werthan and Samuel Horowitz; (2) Hoke Coleburn and
@@ -1312,15 +1285,11 @@ and refer to having some kind of relationship with their children and
 grandchildren—are broad, unprotectible character outlines; they mark
 where the similarities end
 
-\* \* \*
-
 Because plaintiff has not established any similarities between the
 characters in *Horowitz and Mrs. Washington* and the characters in
 *Driving Miss Daisy* beyond unprotectible ideas and broad character
 outlines, summary judgment on the issue of infringement of characters is
 appropriate.
-
-\* \* \*
 
 For the reasons stated above, summary judgment in both actions is
 warranted on the issue of improper appropriation, and the complaints are
@@ -1383,7 +1352,7 @@ assuming defendants used Quirk's novel as a starting point, and "copied"
 from it as they worked, the final film does not include substantial
 similarities to any copyrightable expressions of the novel. "Copying
 deleted or so disguised as to be unrecognizable is not copying." [*See
-v. Durang,* (9th Cir. 1983)](http://scholar.google.com/scholar_case?case=14363671654333117332).
+v. Durang,*](http://scholar.google.com/scholar_case?case=14363671654333117332) (9th Cir. 1983).
 While a *Desny* claim does allow protection for ideas in narrow
 circumstances, even assuming defendants had a copy of Quirk's novel in
 hand, liability does not follow for a number of reasons explained below.
@@ -1429,7 +1398,7 @@ substantial similarity of copyright-protected material between his novel
 and Defendants' motion picture."
 
 The analysis here is guided by the Ninth Circuit's opinion in [*Funky
-Films v. Time Warner,* (9th Cir. 2006)](http://scholar.google.com/scholar_case?case=11311670671390043431),
+Films v. Time Warner,*](http://scholar.google.com/scholar_case?case=11311670671390043431) (9th Cir. 2006),
 in which the court upheld a summary judgment ruling that the HBO series
 "Six Feet Under" bore no "substantial similarity" to the plaintiff's
 screenplay for a proposed series called "The Funk Parlor," which had
@@ -1437,7 +1406,7 @@ previously been provided to an HBO executive. As explained in *Funky
 Films,* a plaintiff bringing a claim for copyright infringement must
 demonstrate "(1) ownership of a valid copyright, and (2) copying of
 constituent elements of the work that are original." [*Feist Pubs., Inc.
-v. Rural Tel. Serv. Co.,* (Sct. 1991)](http://scholar.google.com/scholar_case?case=1195336269698056315).
+v. Rural Tel. Serv. Co.,*](http://scholar.google.com/scholar_case?case=1195336269698056315) (US 1991).
 Here, as Quirk's ownership in the copyright of his novel is undisputed,
 he need only demonstrate a triable issue of fact whether the defendants
 "copied anything that was 'original' to" the work. *Id.*
@@ -1445,8 +1414,7 @@ he need only demonstrate a triable issue of fact whether the defendants
 Except in cases with direct evidence of copying, "proof of infringement
 involves fact-based showings that the defendant had 'access' to the
 plaintiff's work and that the two works are 'substantially similar.'"
-[*Three Boys Music Corp. v. Bolton,* (9th Cir.
-2000)](http://scholar.google.com/scholar_case?case=12110552630017561844).
+[*Three Boys Music Corp. v. Bolton,*](http://scholar.google.com/scholar_case?case=12110552630017561844)(9th Cir. 2000).
 For purposes of this motion, defendants have not challenged that they
 had access to Quirk's novel, so the only question presented is whether
 the two works are substantially similar.
@@ -1454,25 +1422,16 @@ the two works are substantially similar.
 "When the issue is whether two works are substantially similar, summary
 judgment is appropriate if no reasonable juror could find substantial
 similarity of ideas and expression." [*Kouf v. Walt Disney Pictures &
-Television,* (9th Cir.
-1994)](http://scholar.google.com/scholar_case?case=14520876886135816173)
+Television,*](http://scholar.google.com/scholar_case?case=14520876886135816173) (9th Cir.
+1994).
 
-While "summary judgment is
+While summary judgment is
 not highly favored on the substantial similarity issue in copyright
-cases," [*Berkic v. Crichton,* (9th Cir.
-1985),](http://scholar.google.com/scholar_case?case=4645996206573075884)
-the question "may often be decided as a matter of law." [*Sid & Marty
-Krofft Television Prods., Inc. v. McDonald's Corp.,* (9th Cir.
-1977)](http://scholar.google.com/scholar_case?case=16740683432222862864).
-Indeed, the Ninth Circuit has "frequently affirmed summary judgment in
-favor of copyright defendants on the issue of substantial similarity."
-[*Shaw v. Lindheim,* (9th Cir.
-1990)](http://scholar.google.com/scholar_case?case=4721891391972530140).
-See [*Berkic,*](http://scholar.google.com/scholar_case?case=4645996206573075884)
-("we have frequently affirmed summary judgments in favor of copyright
-defendants on the substantial similarity issue") (citing cases); *see
-also* [*Kouf,*](http://scholar.google.com/scholar_case?case=14520876886135816173)
-(finding no substantial similarity as a matter of law). Thus, while
+cases,
+the question may often be decided as a matter of law. 
+Indeed, the Ninth Circuit has frequently affirmed summary judgment in
+favor of copyright defendants on the issue of substantial similarity.
+Thus, while
 Quirk quite reasonably stresses that summary judgment on substantial
 similarity is to be approached with caution, it plainly is available in
 appropriate circumstances.
@@ -1481,21 +1440,21 @@ The substantial-similarity test contains an extrinsic and intrinsic
 component. At summary judgment, courts apply only the extrinsic test;
 the intrinsic test, which examines an ordinary person's subjective
 impressions of the similarities between two works, is exclusively the
-province of the jury. *See* [*Shaw,*](http://scholar.google.com/scholar_case?case=4721891391972530140).
-A "plaintiff who cannot satisfy the extrinsic test necessarily loses on
+province of the jury. 
+A plaintiff who cannot satisfy the extrinsic test necessarily loses on
 summary judgment, because a jury may not find substantial similarity
-without evidence on both the extrinsic and intrinsic tests." [*Kouf,*](http://scholar.google.com/scholar_case?case=14520876886135816173).
+without evidence on both the extrinsic and intrinsic tests. 
 
-The extrinsic test is objective and "it depends not on the responses of
+The extrinsic test is objective and it depends not on the responses of
 the trier of fact, but on specific criteria which can be listed and
-analyzed." [*Krofft,*](http://scholar.google.com/scholar_case?case=16740683432222862864).
-The focus is on the presence or absence of "articulable similarities
+analyzed. 
+The focus is on the presence or absence of articulable similarities
 between the plot, themes, dialogue, mood, setting, pace, characters, and
-sequence of events" in the two works. [*Kouf,*](http://scholar.google.com/scholar_case?case=14520876886135816173)
-(citations omitted). In applying the extrinsic test, the court
-"compares, not the basic plot ideas for stories, but the actual concrete
+sequence of events in the two works. 
+In applying the extrinsic test, the court
+compares, not the basic plot ideas for stories, but the actual concrete
 elements that make up the total sequence of events and the relationships
-between the major characters." [*Berkic,*](http://scholar.google.com/scholar_case?case=4645996206573075884).
+between the major characters.
 
 "Protectable expression includes the specific details of an author's
 rendering of ideas." [*Metcalf v. Bochco,* (9th Cir.
@@ -1807,7 +1766,7 @@ judgment on the copyright claims is warranted.
 
 * [Fair Use](http://www.copyright.gov/fls/fl102.html) (very short "official" explanation of fair use).
 
-> Fair use is a DEFENSE to copyright infringement. It allows the taking of some part of a copyrighted work without the need to secure the author's permission. Examples of fair use include: news reporting, criticism, comment, teaching . . . parody, scholarship, or research.
+> Fair use is a *defense* to copyright infringement. It allows the taking of some part of a copyrighted work without the need to secure the author's permission. Examples of fair use include: news reporting, criticism, comment, teaching . . . parody, scholarship, or research.
 
 > *Pocket Lawyer For Filmmakers,* 2nd Edition, page 245.
 
@@ -1828,15 +1787,15 @@ if such finding is made upon consideration of all the above factors.
 
 #### Who decides whether use of a copyrighted work was fair?
 
-The court does. AFTER the fact. 
+The court does. *After* the fact. 
 Meaning that the accused infringer 
 has already been hauled into court by the copyright holder. 
 Attorney's fees (ka-ching!). 
-This why copyright CLEARANCES and LICENSING are essential 
-BEFORE the movie is made. 
+This why copyright clearances and licensing are essential 
+before the movie is made. 
 Clearances are designed to keep the artist from being sued in the first place.
 
-#### *Harper & Row v. The Nation* (Sct. 1985)
+#### *Harper & Row v. The Nation* (US 1985)
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=12801604581154452950)
 * [case at Westlaw][harper]
@@ -2080,7 +2039,7 @@ use remained exclusively judge-made doctrine until the passage of the
 1976 Copyright Act, in which Justice Story's summary is
 discernible:
 
-**§ 107. Limitations on exclusive rights: Fair use**
+*§ 107. Limitations on exclusive rights: Fair use*
 
 > "Notwithstanding the provisions of sections 106 and 106A, the fair use
 > of a copyrighted work, including such use by reproduction in copies or
@@ -2528,13 +2487,13 @@ proceedings consistent with this opinion.
 
 *It is so ordered.*
 
-**An omitted (but instructive) footnote:**
+*An omitted (but instructive) footnote:*
 
 > Finally, regardless of the weight one might place on the alleged infringer's state of mind, compare [*Harper & Row*](http://scholar.google.com/scholar_case?case=12801604581154452950) (fair use presupposes good faith and fair dealing) with [*Folsom* v. *Marsh*](http://scholar.google.com/scholar_case?about=4495747226837550380) (good faith does not bar a finding of infringement); &hellip; we reject Acuff-Rose's argument that 2 Live Crew's request for permission to use the original should be weighed against a finding of fair use. Even if good faith were central to fair use, 2 Live Crew's actions do not necessarily suggest that they believed their version was not fair use; the offer may simply have been made in a good-faith effort to avoid this litigation. If the use is otherwise fair, then no permission need be sought or granted.  Thus, being denied permission to use a work does not weigh against a finding of fair use. See [*Fisher* v. *Dees* ](http://scholar.google.com/scholar_case?case=16874877052780018691). 
 
 #### APPENDIX A TO OPINION OF THE COURT
 
-**"Oh, Pretty Woman" by Roy Orbison and William Dees**
+*"Oh, Pretty Woman" by Roy Orbison and William Dees*
 
 | Pretty Woman, walking down the street,
 | Pretty Woman, the kind I like to meet,
@@ -2566,8 +2525,9 @@ proceedings consistent with this opinion.
 
 #### APPENDIX B TO OPINION OF THE COURT
 
-**"Pretty Woman" as Recorded by 2 Live Crew**
+"Pretty Woman" as Recorded by 2 Live Crew
 
+~~~
 | Pretty woman walkin' down the street
 | Pretty woman girl you look so sweet
 | Pretty woman you bring me down to that knee
@@ -2594,6 +2554,7 @@ proceedings consistent with this opinion.
 | Two timin' woman now I know the baby ain't mine
 | Oh, two timin' woman
 | Oh pretty woman
+~~~
 
 ### Summary of Fair Use Factors
 
