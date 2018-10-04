@@ -809,6 +809,7 @@ Bailey's defamation and false light claims were dismissed.
 
 * [*Spahn v. Julian Mesner,*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=23+a.d.2d+216&appflag=67.12) (NY 1965). 
 * [False Light at Wikipedia](http://en.wikipedia.org/wiki/False_light). 
+* Matt Knight, [The Legal Risks Of Writing Memoirs \- Sidebar Saturdays](https://www.sidebarsaturdays.com/2018/03/31/https-wp-me-p7vddb-ao/).
 
 [survival]: http://www.amazon.com/Independent-Film-Producers-Survival-Guide/dp/0825637236/ref=sr_1_1?ie=UTF8&qid=1375835406&sr=8-1&keywords=independent+producers+survival+guide "Independent Producers Survival Guide"
 [courtney]: http://www.abajournal.com/news/article/courtney_love_takes_stand_in_former_attorneys_libel_lawsuit_over_critical "Courtney Love Sued For Defaming Via Twitter"

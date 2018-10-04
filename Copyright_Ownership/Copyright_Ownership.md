@@ -9,28 +9,153 @@ chapter: Copyright Ownership
 
 ###### by Richard Dooling
 
+## I Disclaim
+
+I am an author and sometimes a screenwriter. 
+I'm also a lawyer, 
+and I teach Entertainment Law at the University of Nebraska College of Law, 
+but I am not *your* lawyer, 
+and the text you find here is *not* legal advice. 
+
+To paraphrase Hunter Thompson: 
+
+> The entertainment industry 
+> is a cruel and shallow money trench &hellip; a long plastic 
+> hallway where thieves and pimps run free 
+> and good men die like dogs.
+
+It's no place to be guessing about your legal rights. 
+If you need legal advice, please get a lawyer.
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
 ## Copyright Ownership
 
-Who owns the rights?
+###### Who owns the rights?
 
-#### § 201 . Ownership of copyright
+Citations are to the Copyright Laws of the United States, Title 17, United States Code.
 
-a. Initial Ownership. --- 
-Copyright in a work protected under this title 
+### § 201 . Ownership of copyright
+
+a. *Initial Ownership.* --- Copyright in a work protected under this title
 vests initially in the author or authors of the work. 
 The authors of a joint work are coowners of copyright in the work.
 
-b. Works Made for Hire. --- 
-In the case of a work made for hire, 
-the employer or other person for whom the work was prepared 
-is considered the author for purposes of this title, 
-and, unless the parties have expressly agreed otherwise 
-in a written instrument signed by them, 
+b. *Works Made for Hire.* --- In the case of a work made for hire, 
+the employer or other person 
+for whom the work was prepared 
+is considered the author for purposes of this title, and, 
+unless the parties have expressly agreed otherwise in a *written instrument signed by them*, 
 owns all of the rights comprised in the copyright.
 
-[Copyright Act § 201][201]
+[17 U.S.C. &sect; 201][201]
+
+Authors own copyrights, initially, 
+but if the author was hired to prepare the work, 
+then the employer is considered the author and initial owner of the copyright.
+These two paths to copyright ownership 
+depend upon two different business models. 
+Compare the New York publishing industry,
+where authors write books and therefore own and usually retain copyright in their works, 
+to the Hollywood film industry, 
+where giant corporations own copyrights in the movies they hired employees to create for them. 
+
+### Authors vs. Writers
+
+Authors and writers put one word after another for a living, 
+but to illustrate copyright ownership and work for hire, 
+think of authors as those who write and publish books for a living, 
+and think of writers as those who write for their employers.
+Screenwriters, journalists, composers of corporate newsletters, gag writers,
+all are probably writers working for hire, meaning they do not own 
+copyright in the works they create, their employers do. 
+
+If the author writes a poem, the author owns the copyright to the poem, 
+and can license the right to print or perform that work to others.
+However if the greeting card company hires a writer 
+to create poems to be printed on its greeting cards, 
+then the company owns the copyrights to the poems, 
+unless the writer and the company have agreed otherwise in a signed writing.
+
+On a much larger scale, 
+Hollywood studios hire writers to create screenplays, 
+with all parties knowing full well 
+that the studios will own the rights to the screenplay and the movie. 
+Writers are unionized employees who get hired and fired 
+until the script is just right. 
+
+### Definitions: "A Work Made For Hire"
+
+> In Hollywood, writers are considered only the first draft of human beings.
+
+> --Frank Deford
+
+#### &sect; 101 -- Definitions
+
+Under [§ 101][101] of the Copyright Act, a “work made for hire” is— 
+
+1. a work prepared by an employee within the scope of his or her employment; *or*
+
+2. a work specially ordered or commissioned for use 
+    - as a contribution to a collective work, 
+    - as a part of a motion picture or other audiovisual work, 
+    - as a translation, 
+    - as a supplementary work, 
+    - as a compilation, 
+    - as an instructional text, 
+    - as a test, 
+    - as answer material for a test, 
+    - or as an atlas,
+    - *if* the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire.&hellip; 
+
+[17 U.S.C. &sect; 101](http://www.copyright.gov/title17/92chap1.html#101)
+
+Employees hired to create works for their employer usually understand the bargain. They trade any rights they might have in copyright for job security and fringe benefits. 
+The employer is author and owner in the work the employee creates within the scope of her employment.
+
+But works may also be "specially ordered or commissioned." 
+IP lawyer and author, Matt Knight, has a nice description of [how that works](https://www.sidebarsaturdays.com/2017/09/16/httpswp-mep7vddb-vq/).
+
+> If a person or an entity hires a non-employee to create a work, that work is a “work made for hire” if the work is created under a written “work made for hire” contract and the work created falls within one of the following nine statutory categories, the work is a work made for hire. 
+
+Matt Knight [Work Made For Hire](https://www.sidebarsaturdays.com/2017/09/16/httpswp-mep7vddb-vq/)
+
+#### But What Is An Employee?
+
+In the next case, the United States Supreme Court applies these straightforward provisions to a messy set of facts. 
+
+In the words of Francois La Rochefoucauld:
+
+> There is nothing more horrible than the murder of a beautiful theory by a gang of brutal facts.
+
+### *Community For Creative Non-Violence v. Reid*
+
+###### United States Supreme Court (1989). 
+
+* [case on Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012)
+* [case on Westlaw][ccnv]
+* [Wikipedia](http://en.wikipedia.org/wiki/Community_for_Creative_Non-Violence_v._Reid). 
+
+Please read this case in its entirety by [downloading from Westlaw][ccnv], 
+or [reading at Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012). 
+
+This case is an important United States Supreme Court case 
+decided on its facts 
+and on a careful reading 
+of the work for hire provisions of the Copyright Act. 
+It has major implications in many areas of the law 
+(contract, employment, intellectual property, torts), 
+because it addresses the crucial status of an artist 
+as either employee or independent contractor. 
 
 ## Joint Authorship 
+
+So far, so good. 
+If the author creates the work, 
+the author owns the copyright. 
+If the author creates the work *with* somebody else, 
+and they created a [joint work][201], 
+then they are both authors and coowners of copyright in the work. 
 
 The Copyright Act defines a "joint work" as:
 
@@ -39,7 +164,11 @@ The Copyright Act defines a "joint work" as:
 > be merged into inseparable or interdependent parts 
 > of a unitary whole.
 
-[§ 101 - Definitions][101]
+If the author writes a poem *with* another author, 
+they create a [joint work][201], 
+and both authors are coowners of the copyright in the poem. 
+
+[17 U.S.C. § 101 --- Definitions][101]
 
 ### Who Controls the Copyright?
 
@@ -301,76 +430,6 @@ A playwright does not so easily acquire a co-author.
 
 * Leslie J. Lott, Esq., [*When does an Editor’s input create a Joint Work of Authorship?*][leslie]
 
-## Works Made For Hire
-
-So far, so good. 
-If the author creates the work, 
-the author owns the copyright. 
-If the author creates the work *with* somebody else, 
-and they created a [joint work][201], 
-then they are both authors and coowners of copyright in the work. 
-
-But what about hired guns? 
-What happens if somebody else pays the author to create the work? 
-Shouldn't the person who hired the author 
-own the copyright in the work? Yes.
-
-The copyright statute calls this 
-a "work made for hire," 
-and says that ["the employer or other person for whom the work was prepared"][201] is considered the author of the copyrighted work. 
-
-For example, 
-if the studio hires the screenwriter to create a screenplay, 
-the studio owns the copyright to the screenplay, 
-which is why writers are hired and fired 
-until the script is just right. 
-Yes, I am oversimplifying. 
-The copyright statute's definition of a "work made for hire" 
-is more elaborate, 
-but Hollywood screenwriters, especially *hired* screenwriters, 
-create works made for hire, or works owned by somebody else.
-
-Under [§ 101][101] of the Copyright Act, a “work made for hire” is— 
-
-1. a work prepared by an employee within the scope of his or her employment; or
-
-2. a work specially ordered or commissioned for use 
-    - as a contribution to a collective work, 
-    - as a part of a motion picture or other audiovisual work, 
-    - as a translation, 
-    - as a supplementary work, 
-    - as a compilation, 
-    - as an instructional text, 
-    - as a test, 
-    - as answer material for a test, 
-    - or as an atlas,
-    - *if* the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire.&hellip; 
-
-In the next case, the United States Supreme Court applies these straightforward provisions to a messy set of facts. 
-
-In the words of Francois La Rochefoucauld:
-
-> There is nothing more horrible than the murder of a beautiful theory by a gang of brutal facts.
-
-### *Community For Creative Non-Violence v. Reid*
-
-###### United States Supreme Court (1989). 
-
-* [case on Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012)
-* [case on Westlaw][ccnv]
-* [Wikipedia](http://en.wikipedia.org/wiki/Community_for_Creative_Non-Violence_v._Reid). 
-
-Please read this case in its entirety by [downloading from Westlaw][ccnv], 
-or [reading at Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012). 
-
-This case is an important United States Supreme Court case 
-decided on its facts 
-and on a careful reading 
-of the work for hire provisions of the Copyright Act. 
-It has major implications in many areas of the law 
-(contract, employment, intellectual property, torts), 
-because it addresses the crucial status of an artist 
-as either employee or independent contractor. 
 
 ## Licensing
 
@@ -1588,6 +1647,44 @@ create the songs that top the charts](http://www.theatlantic.com/magazine/archiv
 
 * [Judge Explores Boundaries of Authorship With Nods to 'Star Wars,' Spike Lee and 'Love Actually' | Hollywood Reporter](http://www.hollywoodreporter.com/thr-esq/judge-tests-boundaries-authorship-nods-star-wars-spike-lee-love-actually-1004811) (Modded video games get likened to movies in a tour de force of legal writing). 
 * ['Sully' Producers Face Airplane Consultant's Co-authorship Claim | Hollywood Reporter](http://www.hollywoodreporter.com/thr-esq/sully-producers-face-airplane-consultants-authorship-claim-1008439) (After selling producers a plane, Scott Heger is looking to establish the Clint Eastwood film depended on his creativity). 
+
+
+### Peak TV
+
+[Hollywood Writers and the Gig Economy](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1595&context=uclf)
+
+
+> Even though some Hollywood writers look rather like &hellip; 
+> independent contractors or supervisors---and, therefore, 
+> not employees entitled to bargain collectively---writers 
+> insist on their status as employees and union members. 
+> They position themselves as labor for four main reasons. 
+> First, they recognize the importance for all writers of maintaining solidarity. 
+> Second, even the most powerful and successful feel vulnerable 
+> to studio cost-cutting and to being fired, 
+> and they value the collectively bargained pension and health insurance programs.
+> Third, they feel that unionization is necessary 
+> to preserve writers' claims to residuals and separated rights, 
+> which are all that writers get of the intellectual property rights in their work. 
+> Fourth, they recognize that studios and networks 
+> have the real power over content, 
+> and so they position themselves as labor 
+> to maintain a sense of artistic integrity and autonomy 
+> and to distance themselves from the bad judgments made in corporate suites.
+
+> Catherine L. Fish, [*Hollywood Writers and the Gig Economy*](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1595&context=uclf) (2018)
+
+> Writing for TV is collaborative and social, 
+> but it also requires writers to be quite aggressive in finding a job 
+> and in working collaboratively so that they keep their job 
+> and are hired for the next season and the one after that. 
+> As one said, “To succeed in the business you have to be able to sell, to
+> pitch---whether it’s &hellip; pitching a show, 
+> or pitching yourself in a hiring meeting, 
+> or pitching to the network 
+> that the idea they want to throw out 
+> is really worth taking a second look at.
+
 
 
 [leslie]: http://lottfischer.com/general.php?category=Resources&subhead=Articles&headline=+When+does+an+Editor%E2%80%99s+input+create+a+Joint+Work+of+Authorship "When Does Creative Input Become Joint Authorship?"

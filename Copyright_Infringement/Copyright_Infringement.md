@@ -1306,7 +1306,7 @@ SO ORDERED.
 
 ###### United States District Court (N.D. CA 2013)
 
-* [case on Google Scholar](http://scholar.google.com/scholar_case?case=13241423897271288276) 
+* [case on Google Scholar](https://scholar.google.com/scholar_case?case=4787009604360559524)
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2013+WL+1345075&appflag=67.12)
 
 Order granting motions for summary judgment.
@@ -2593,7 +2593,7 @@ taking fiction is less fair.
 
 ![Market Effect][market]
 
-#### Totally Optional Readings and Viewings ####
+#### Totally Optional Readings and Viewings 
 
 * [Shepard Fairey and the Obama "Hope" Poster](http://en.wikipedia.org/wiki/Barack_Obama_%22Hope%22_poster).
 * ['Hope' poster artist Shepard Fairey faces arrest in Detroit](
@@ -2604,7 +2604,7 @@ http://www.politico.com/story/2015/06/shepard-fairey-arrest-warrant-graffiti-119
 * [Article about *Woods v. Universal.*](http://www.copyrightwebsite.com/Visual/Monkeys/Monkeys.aspx)
 * [Led Zeppelin Win in 'Stairway to Heaven' Trial - Rolling Stone](http://www.rollingstone.com/music/news/led-zeppelin-prevail-in-stairway-to-heaven-lawsuit-20160623) (Led Zeppelin have won a copyright lawsuit that claimed they had plagiarized the music to their most celebrated song, "Stairway to Heaven." A Los Angeles jury determined Thursday that the lawyer representing the estate of late guitarist Randy Wolfe, who played with the group Spirit, did not prove that the hard rockers lifted the song's intro from Spirit's 1968 instrumental "Taurus.") 
 
-#### More Totally Optional Reading & Viewing ###
+#### More Totally Optional Reading & Viewing 
 
 * [An Overview of the Elements of a Copyright Infringement Cause of Action - Part I: Introduction and Copying][aba-copyright], by Jason E. Slowan
 * [Robin Thicke (*Blurred Lines*) vs. Marvin Gaye: Independent Creation vs. Subconscious Copying]( http://creativeartsadvocate.com/independent-creation-vs-subconscious-copying/)

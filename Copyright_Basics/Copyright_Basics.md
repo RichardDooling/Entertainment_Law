@@ -31,6 +31,10 @@ These materials are published under an [MIT license](https://github.com/RichardD
 
 ## What Is Copyright?
 
+> Instead of defining the relationship between a person and "his" things, property law discusses the relationships that arise *between people* with respect to things.
+
+> ---Bruce A. Ackerman, Private Property And The Constitution 26 (1977)
+
 Copyright is a form of "intellectual property." 
 Like "real property," consisting of land and buildings, 
 intellectual property may be bought and sold, 

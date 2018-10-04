@@ -31,23 +31,59 @@ Richard Dooling
 
 ## Why Register the Copyright?
 
-Copyright protection attaches as soon as "original works of authorship" are ["fixed in any tangible medium of expression."](http://www.copyright.gov/title17/92chap1.html#102). Authors and writers 
+Copyright protection attaches as soon as "original works of authorship" 
+are ["fixed in any tangible medium of expression."](http://www.copyright.gov/title17/92chap1.html#102). 
+In the old days, registration mattered whether a work was protected by US copyright, 
+but the current law is explicit: [Registration is not a condition of copyright protection."](http://www.copyright.gov/title17/92chap4.html#408). 
 
-> You do not. There was a time when registration made a difference in whether a work was protected by US copyright, but current law is explicit that ["registration is not a condition of copyright protection."](http://www.copyright.gov/title17/92chap4.html#408). 
+<!-- In other words, original works of authorship are copyrighted as you fix them in a tangible medium of expression.  -->
 
-In other words, your words are copyrighted as you write them down, whether they're in a notebook, a Microsoft Word file, a blog post, a forum posting, or even a Facebook comment. 
+However, copyright registration comes with benefits other than bare protection, 
+including the following:
+
+1. Registration establishes a public record of the copyright holder's ownership.
+
+2. A copyright owner must register the copyright before suing for infringement. [&sect; 411(a)][411]
+
+Registration is a prerequisite to suing infringers in federal court.
+
+3. If made before or within 5 years of publication, establishes sufficient evidence in court concerning the validity of the copyright and the facts stated in the copyright certificate.
+
+4. If registration is made within 3 months of publication of the work or at any time prior to an infringement of the work, the copyright owner is entitled to seek statutory damages and attorney's fees in federal court. Without registration, only an award of actual damages and profits will be available, and these can be quite difficult to prove.
+
+5. Allows the copyright owner to record the registration with U.S. Customs to protect against the importation of infringing copies into the US.
+
+Copyright registration, which is accomplished through a copyright application, is generally necessary before you can bring a lawsuit to enforce your copyright. Copyright registration within three months of the original publication date, or before infringement begins, allows you to claim "statutory" damages and attorney's fees when enforcing your copyright. "Statutory" damages are fixed by the court as an alternative to actual damages and are often sought when the measure of actual damages is difficult to determine. A copyright application filed within five years from the date of first publication of the work gives rise to a presumption that the copyright is valid.
+
 
 ### Copyright Statutory Damages
 
-> Normally, when someone infringes your copyright, you’re entitled only to “actual damages” and “profits of the infringer that are attributable to the infringement” [17 USC §504(b)](
-http://www.copyright.gov/title17/92chap5.html#504). This can be a burden that makes pursuing a legal remedy not worthwhile: How do you prove the profits that some random web site made from publishing your story without permission? And how do you prove what sales you might have lost because of the web site’s unauthorized publication of your story? Since the US operates under the "American Rule" where each party pays their own lawyers, you might not even be able to afford to pay a lawyer to stop the infringing activity.
+&sect; 504. Remedies for infringement: Damages and profits
+
+An infringer of copyright is liable for either:
+
+1. the copyright owner's actual damages and any additional profits of the infringer; or 
+2. statutory damages &hellip; 
+
+(c) Statutory Damages.—
+
+(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are li-able jointly and severally, in a sum of not less than $750 or more than $30,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work.
+
+(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $150,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in section 118(f )) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work.
+
+(3) (A) In a case of infringement, it shall be a rebuttable presumption that the infringement was committed willfully for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the infringement.
+
+When someone infringes copyright, 
+the copyright owner older is usually entitled only to “actual damages” 
+and “profits of the infringer that are attributable to the infringement” [17 USC §504(b)](
+http://www.copyright.gov/title17/92chap5.html#504). 
+This can be a burden that makes pursuing a legal remedy not worthwhile: How do you prove the profits that some random web site made from publishing your story without permission? And how do you prove what sales you might have lost because of the web site’s unauthorized publication of your story? Since the US operates under the "American Rule" where each party pays their own lawyers, you might not even be able to afford to pay a lawyer to stop the infringing activity.
 
 > But with timely registration, you get the option of electing statutory damages instead. [17 USC §504(c)](http://www.copyright.gov/title17/92chap5.html#504). This can be between $750 to $30,000 per work (and up to $150,000 per work if the infringement was willful). Plus, you may get attorney’s fees and costs at the court’s discretion, making it more likely that you can retain a lawyer on a contingency fee basis. [17 USC §505](http://www.copyright.gov/title17/92chap5.html#505). With these benefits, it may well make sense to pursue cases that otherwise you would not.
 
 > Ken Liu, [The Benefits Of Copyright Registration](http://www.sfwa.org/2013/02/the-benefits-of-copyright-registration/).
 
-
-
+[What are the benefits of registering a copyright?](https://law.freeadvice.com/intellectual_property/copyright_law/benefit_copyright_registration.htm)
 
 ### The Book Business
 
@@ -264,7 +300,8 @@ not registration with the WGA.
 
 [shutdown]: http://zernerlaw.wordpress.com/2010/12/03/it%E2%80%99s-time-for-the-writer%E2%80%99s-guild-to-shut-down-the-wga-registry/
 
-[412]: http://www.copyright.gov/title17/92chap4.html#412
+[412]: https://www.copyright.gov/title17/92chap4.html#412
+[411]: https://www.copyright.gov/title17/92chap4.html#411
 
 
 
