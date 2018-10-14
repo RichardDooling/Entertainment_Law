@@ -5,6 +5,32 @@ subtitle: Entertainment Law
 chapter: Trademark
 ---
 
+# Lawyers For The Talent
+
+###### by Richard Dooling
+
+Copyright (c) 2014 Richard Dooling
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE) (MIT)
+
+## I Disclaim
+
+I am an author and sometimes a screenwriter. 
+I'm also a lawyer, 
+and I teach Entertainment Law at the University of Nebraska College of Law, 
+but I am not *your* lawyer, 
+and the text you find here is *not* legal advice. 
+
+To paraphrase Hunter Thompson: 
+
+> The entertainment industry 
+> is a cruel and shallow money trench &hellip; a long plastic 
+> hallway where thieves and pimps run free 
+> and good men die like dogs.
+
+It's no place to be guessing about your legal rights. 
+If you need legal advice, please get a lawyer.
+
 ## Trademark 
 
 ### Lanham Act &sect; 43(a)
@@ -35,7 +61,686 @@ Watch this video from the US Patent & Trademark Office:
 Read [What some companies get wrong about trademarks
 Can’t you just smell the Play-Doh?](https://medium.com/@alexandrajroberts/what-some-companies-get-wrong-about-trademarks-be023cb02422) by Prof. Alexandra J. Roberts @lexlanham.
 
-#### "Passing off," "Palming off," "Reverse passing off"
+
+## *Matal v. Tam*
+
+###### United States Supreme Court (2017)
+
+This case introduces federal trademark law and the United States Patent and Trademark Office (PTO).
+It's also a nice review of the First Amendment. It's always with us.
+
+* [case on Google Scholar](http://scholar.google.com/scholar_case?case=14085180484211709676)
+
+> Justice ALITO announced the judgment of the Court and delivered the
+opinion of the Court with respect to Parts I, II, and III-A, and an
+opinion with respect to Parts III-B, III-C, and IV, in which THE CHIEF
+JUSTICE, Justice THOMAS, and Justice BREYER join.
+
+This case concerns a dance-rock band's application for federal trademark
+registration of the band's name, "The Slants." "Slants" is a derogatory
+term for persons of Asian descent, and members of the band are
+Asian-Americans. But the band members believe that by taking that slur
+as the name of their group, they will help to "reclaim" the term and
+drain its denigrating force.
+
+The Patent and Trademark Office (PTO) denied the application based on a
+provision of federal law prohibiting the registration of trademarks that
+may "disparage &hellip; or bring &hellip; into contempt or disrepute" any
+"persons, living or dead." 15 U.S.C. § 1052(a). We now hold that this
+provision violates the Free Speech Clause of the First Amendment. It
+offends a bedrock First Amendment principle: Speech may not be banned on
+the ground that it expresses ideas that offend.
+
+### I
+
+#### A
+
+"The principle underlying trademark protection is that distinctive marks
+— words, names, symbols, and the like — can help distinguish a
+particular artisan's goods from those of others." 
+[*B & B Hardware, Inc. v. Hargis Industries, Inc.*][BB] (2015).
+A trademark "designates the goods as the product of a particular
+trader" and "protects his good will against the sale of another's
+product as his." It helps consumers identify goods and services that they wish to
+purchase, as well as those they want to avoid. 
+
+"Federal law does not create trademarks." [*B & B Hardware, supra.*][BB]
+Trademarks and their precursors have ancient origins, and trademarks
+were protected at common law and in equity at the time of the founding
+of our country. 
+
+For most of the 19th century, 
+trademark protection was the province of the States. 
+Eventually, Congress stepped in to provide a degree of national uniformity, 
+passing the first federal legislation protecting trademarks in 1870. 
+
+The foundation of current federal trademark law is the Lanham Act, enacted in 1946. 
+By that time, trademark had expanded far beyond phrases 
+that do no more than identify a good or service. 
+Then, as now, trademarks often consisted of catchy phrases that convey a message.
+
+Under the Lanham Act, trademarks that are "used in commerce" 
+may be placed on the "principal register," 
+that is, they may be federally registered. [15 U.S.C. § 1051(a)(1)][1501].
+There are now more than two million marks that have active federal certificates of registration. 
+
+This system of federal registration helps to ensure that trademarks are fully protected
+and supports the free flow of commerce. 
+"National protection of trademarks is desirable," we have explained, 
+"because trademarks foster competition and the maintenance of quality 
+by securing to the producer the benefits of good reputation." 
+[*San Francisco Arts & Athletics*](https://scholar.google.com/scholar_case?case=1174535828769123599).
+See also [*Park 'N Fly*](https://scholar.google.com/scholar_case?case=16323007241887299048)
+(“The Lanham Act provides national protection of trademarks in order to secure to the owner of the mark the goodwill of his business and to protect the ability of consumers to distinguish among competing producers”).
+
+#### B
+
+Without federal registration, a valid trademark may still be used in commerce. 
+And an unregistered trademark can be
+enforced against would-be infringers in several ways. 
+Most important, even if a trademark is not federally registered, 
+it may still be enforceable under [§ 43(a) of the Lanham Act](https://www.law.cornell.edu/uscode/text/15/1125), 
+which creates a federal cause of action for trademark infringement. 
+
+Federal registration, however, "confers important legal rights and
+benefits on trademark owners who register their marks." [*B & B
+Hardware supra*][BB].
+Registration also enables the trademark holder "to stop the importation
+into the United States of articles bearing an infringing mark." 
+
+#### C
+
+The Lanham Act contains provisions that bar certain trademarks from the principal register. 
+For example, a trademark cannot be registered 
+if it is "merely descriptive or deceptively misdescriptive" of goods, [§ 1052(e)(1)][1502], 
+or if it is so similar to an already registered trademark or trade name 
+that it is "likely &hellip; to cause confusion, 
+or to cause mistake, or to deceive," § 1052(d).
+
+At issue in this case is one such provision, 
+which we will call "the disparagement clause." 
+This provision prohibits the registration of a trademark 
+"which may disparage &hellip; persons, living or dead, institutions,
+beliefs, or national symbols, or bring them into contempt, or disrepute." [§ 1052(a)][1502]. 
+This clause appeared in the original Lanham Act 
+and has remained the same to this day. 
+
+When deciding whether a trademark is disparaging, 
+an examiner at the PTO generally applies a "two-part test." 
+The examiner first considers 
+"the likely meaning of the matter in question, 
+taking into account not only dictionary definitions, 
+but also the relationship of the matter to the other elements in the mark, 
+the nature of the goods or services, 
+and the manner in which the mark is used in the marketplace 
+in connection with the goods or services." 
+[Trademark Manual of Examining Procedure][manual]
+"If that meaning is found to refer to identifiable persons, institutions, beliefs
+or national symbols," the examiner moves to the second step, 
+asking "whether that meaning may be disparaging 
+to a substantial composite of the referenced group." 
+If the examiner finds that a "substantial composite, 
+although not necessarily a majority, 
+of the referenced group would find the proposed mark &hellip; 
+to be disparaging in the context of contemporary attitudes," 
+a prima facie case of disparagement is made out, 
+and the burden shifts to the applicant 
+to prove that the trademark is not disparaging. 
+What is more, the PTO has specified that 
+"the fact that an applicant may be a member of that group 
+or has good intentions underlying its use of a term 
+does not obviate the fact that a substantial composite of the referenced group 
+would find the term objectionable." 
+
+#### D
+
+Simon Tam is the lead singer of "The Slants." 
+He chose this moniker in order to 
+"reclaim" and "take ownership" of stereotypes 
+about people of Asian ethnicity. 
+The group "draws inspiration for its lyrics 
+from childhood slurs and mocking nursery rhymes" 
+and has given its albums names such as "The Yellow Album" 
+and "Slanted Eyes, Slanted Hearts." 
+
+Tam sought federal registration of "THE SLANTS," 
+on the principal register, but an examining attorney at the PTO rejected the
+request, applying the PTO's two-part framework and finding that "there
+is &hellip; a substantial composite of persons who find the term in the
+applied-for mark offensive." The examining attorney relied
+in part on the fact that "numerous dictionaries define 'slants' or
+'slant-eyes' as a derogatory or offensive term." The
+examining attorney also relied on a finding that "the band's name has
+been found offensive numerous times" — citing a performance that was
+canceled because of the band's moniker and the fact that "several
+bloggers and commenters to articles on the band have indicated that they
+find the term and the applied-for mark offensive."
+
+Tam contested the denial of registration before the examining attorney
+and before the PTO's Trademark Trial and Appeal Board (TTAB) but to no avail. 
+Eventually, he took the case to federal court, 
+where the en banc Federal Circuit 
+ultimately [found the disparagement clause facially unconstitutional 
+under the First Amendment's Free Speech Clause](http://scholar.google.com/scholar_case?case=9806644333158430855&q=matal+v+tam&hl=en&as_sdt=6,28).
+The majority found that the clause engages in viewpoint-based discrimination, 
+that the clause regulates the expressive component of trademarks 
+and consequently cannot be treated as commercial speech, 
+and that the clause is subject to and cannot satisfy strict scrutiny. 
+The majority also rejected the Government's argument 
+that registered trademarks constitute government speech, 
+as well as the Government's contention 
+that federal registration is a form of government subsidy.
+And the majority opined that even if the disparagement clause were analyzed 
+under this Court's commercial speech cases, 
+the clause would fail the "intermediate scrutiny" 
+that those cases prescribe. 
+
+The Government filed a petition for certiorari, 
+which we granted in order to decide 
+whether the disparagement clause 
+"is facially invalid under the Free Speech Clause of the First Amendment." 
+
+### II 
+
+###### Omitted
+
+### III
+
+Because the disparagement clause applies to marks that disparage the
+members of a racial or ethnic group, we must decide whether the clause
+violates the Free Speech Clause of the First Amendment. And at the
+outset, we must consider three arguments that would either eliminate any
+First Amendment protection or result in highly permissive rational-basis
+review. Specifically, the Government contends:
+
+1. that trademarks are government speech, not private speech,
+2. that trademarks are a form of government subsidy, and 
+3. that the constitutionality of the
+disparagement clause should be tested under a new "government-program"
+doctrine. 
+
+We address each of these arguments below.
+
+#### A
+
+The First Amendment prohibits Congress and other government entities and actors 
+from "abridging the freedom of speech"; 
+the First Amendment does not say 
+that Congress and other government entities must abridge 
+their own ability to speak freely. 
+And our cases recognize that "the Free Speech Clause &hellip; 
+does not regulate government speech." [*Pleasant Grove City v. Summum*][Summum] (2009);
+[*Johanns v. Livestock Marketing Assn.*][Johanns] (2005)("the Government's own speech 
+&hellip; is exempt from First Amendment scrutiny").
+
+As we have said, "it is not easy to imagine how government could function" 
+if it were subject to the restrictions that the First Amendment imposes on private speech. 
+[*Summum*][Summum].
+See [*Walker v. Texas Div., Sons of Confederate Veterans, Inc.,*][Walker]
+"The First Amendment forbids the government to regulate speech 
+in ways that favor some viewpoints or ideas at the expense of others,"
+but imposing a requirement of viewpoint-neutrality on government speech
+would be paralyzing. 
+When a government entity embarks on a course of action, 
+it necessarily takes a particular viewpoint and rejects others.
+The Free Speech Clause does not require government to maintain viewpoint
+neutrality when its officers and employees speak about that venture.
+
+Here is a simple example. 
+During the Second World War, 
+the Federal Government produced and distributed millions of posters 
+to promote the war effort. 
+There were posters urging enlistment, the purchase of war bonds, 
+and the conservation of scarce resources. 
+These posters expressed a viewpoint, 
+but the First Amendment did not demand 
+that the Government balance the message of these posters 
+by producing and distributing posters 
+encouraging Americans to refrain from engaging in these activities.
+
+But while the government-speech doctrine is important — indeed,
+essential — it is a doctrine that is susceptible to dangerous misuse. 
+If private speech could be passed off as government speech by simply
+affixing a government seal of approval, government could silence or
+muffle the expression of disfavored viewpoints. For this reason, we must
+exercise great caution before extending our government-speech
+precedents.
+
+At issue here is the content of trademarks that are registered by the PTO, 
+an arm of the Federal Government. 
+The Federal Government does not dream up these marks, 
+and it does not edit marks submitted for registration. 
+Except as required by the statute involved here, [15 U.S.C.  § 1052(a)][1502], 
+an examiner may not reject a mark based on the viewpoint that it appears to express. 
+Thus, unless that section is thought to apply, 
+an examiner does not inquire whether any viewpoint conveyed by a mark is
+consistent with Government policy or whether any such viewpoint is
+consistent with that expressed by other marks already on the principal
+register. Instead, if the mark meets the Lanham Act's viewpoint-neutral
+requirements, registration is mandatory. *Ibid.* (requiring that "no
+trademark &hellip; shall be refused registration on the principal register on
+account of its nature unless" it falls within an enumerated statutory
+exception). 
+And if an examiner finds that a mark is eligible for
+placement on the principal register, that decision is not reviewed by
+any higher official unless the registration is challenged. 
+Moreover, once a mark is
+registered, the PTO is not authorized to remove it from the register
+unless a party moves for cancellation, the registration expires, or the
+Federal Trade Commission initiates proceedings based on certain grounds.
+
+In light of all this, it is far-fetched to suggest that the content of a
+registered mark is government speech. If the federal registration of a
+trademark makes the mark government speech, the Federal Government is
+babbling prodigiously and incoherently. It is saying many unseemly
+things. It is expressing contradictory views.
+It is unashamedly endorsing a vast array of commercial products and
+services. And it is providing Delphic advice to the consuming public.
+
+For example, if trademarks represent government speech, 
+what does the Government have in mind 
+when it advises Americans to "make believe" (Sony), 
+"Think different" (Apple), "Just do it" (Nike), 
+or "Have it your way" (Burger King)? 
+Was the Government warning about a coming disaster 
+when it registered the mark "EndTime Ministries?"
+
+The PTO has made it clear that registration does not constitute approval of a mark. 
+See [*In re Old Glory Condom Corp.*](http://scholar.google.com/scholar_case?about=13521889352680666284&q=matal+v+tam&hl=en&as_sdt=6,28) (TTAB 1993).
+("Issuance of a trademark registration &hellip; is not a government imprimatur"). 
+And it is unlikely that more than a tiny fraction of the public 
+has any idea what federal registration of a trademark means. 
+
+None of our government speech cases even remotely supports the idea that
+registered trademarks are government speech. 
+Trademarks have not traditionally been used to convey a Government message. 
+With the exception of the enforcement of [15 U.S.C. § 1052(a)][1502], 
+the viewpoint expressed by a mark has not played a role in the decision 
+whether to place it on the principal register. 
+And there is no evidence that the public associates the contents of trademarks with the Federal
+Government.
+
+This brings us to the case on which the Government relies most heavily,
+[*Walker,*][Walker] which likely marks the outer bounds of the government-speech doctrine. 
+Holding that the messages on Texas specialty license plates are government speech, 
+the *Walker* Court cited three factors distilled from [*Summum*][Summum].
+First, license plates have long been used by the States to convey state messages. 
+Second, license plates "are often closely identified in the public mind"
+with the State, since they are manufactured and owned by the State,
+generally designed by the State, and serve as a form of "government ID."
+Third, Texas "maintained direct control over the messages conveyed
+on its specialty plates." 
+As explained above, none of these factors are present in this case.
+
+Holding that the registration of a trademark 
+converts the mark into government speech 
+would constitute a huge and dangerous extension of the government-speech doctrine. 
+For if the registration of trademarks constituted government speech, 
+other systems of government registration could easily be characterized in the same way.
+
+Perhaps the most worrisome implication of the Government's argument 
+concerns the system of copyright registration. 
+If federal registration makes a trademark government speech 
+and thus eliminates all First Amendment protection, 
+would the registration of the copyright for a book
+produce a similar transformation? 
+
+The Government attempts to distinguish copyright on the ground that it
+is "the engine of free expression," 
+[*Eldred*](http://scholar.google.com/scholar_case?case=12147684852241107557&q=matal+v+tam&hl=en&as_sdt=6,28),
+but as this case illustrates, trademarks often have an expressive content. 
+Companies spend huge amounts to create and publicize trademarks that convey a message. 
+It is true that the necessary brevity of trademarks limits what they can say. 
+But powerful messages can sometimes
+be conveyed in just a few words.
+
+Trademarks are private, not government, speech.
+
+#### B
+
+###### Omitted
+
+(Court rejected the government's argument that this case is governed by
+cases in which this Court has upheld the constitutionality of government
+programs that subsidized speech expressing a particular viewpoint.)
+
+#### C
+
+Our cases use the term "viewpoint" discrimination in a broad sense, 
+and in that sense, the disparagement clause discriminates on the bases of "viewpoint." 
+To be sure, the clause evenhandedly prohibits disparagement of all groups. 
+It applies equally to marks that damn Democrats and Republicans, 
+capitalists and socialists, and those arrayed on both sides of every possible issue. 
+It denies registration to any mark 
+that is offensive to a substantial percentage of the members of any group. 
+But in the sense relevant here, 
+that is viewpoint discrimination:
+Giving offense is a viewpoint.
+
+We have said time and again that 
+"the public expression of ideas may not be prohibited 
+merely because the ideas are themselves offensive to some of their hearers." 
+[*Street v. New York,*](http://scholar.google.com/scholar_case?case=6391101560513832626&q=matal+v+tam&hl=en&as_sdt=6,28).
+See also [*Texas v. Johnson*](http://scholar.google.com/scholar_case?case=2084618710761560217&q=matal+v+tam&hl=en&as_sdt=6,28) (US 1989)
+("If there is a bedrock principle underlying the First Amendment, it is
+that the government may not prohibit the expression of an idea simply
+because society finds the idea itself offensive or disagreeable"). 
+[*Hustler Magazine, Inc. v. Falwell*](http://scholar.google.com/scholar_case?case=5069891851949874011&q=matal+v+tam&hl=en&as_sdt=6,28) (US 1988).
+
+For this reason, the disparagement clause cannot be saved by analyzing
+it as a type of government program in which some content- and
+speaker-based restrictions are permitted.
+
+### IV
+
+Having concluded that the disparagement clause cannot be sustained under
+our government-speech or subsidy cases or under the Government's
+proposed "government-program" doctrine, we must confront a dispute
+between the parties on the question whether trademarks are commercial
+speech and are thus subject to the relaxed scrutiny outlined in
+[*Central Hudson Gas*](http://scholar.google.com/scholar_case?case=1962482840967580827).
+
+The Government and *amici* supporting its position argue that all
+trademarks are commercial speech. They note that the central purposes of
+trademarks are commercial and that federal law regulates trademarks to
+promote fair and orderly interstate commerce. Tam and his *amici,* on
+the other hand, contend that many, if not all, trademarks have an
+expressive component. In other words, these trademarks do not simply
+identify the source of a product or service but go on to say something
+more, either about the product or service or some broader issue. The
+trademark in this case illustrates this point. The name "The Slants" not
+only identifies the band but expresses a view about social issues.
+
+We need not resolve this debate between the parties because the
+disparagement clause cannot withstand even *Central Hudson* review.
+Under *Central Hudson,* a
+restriction of speech must serve "a substantial interest," and it must
+be "narrowly drawn." 
+This means, among other things, that "the
+regulatory technique may extend only as far as the interest it serves."
+The disparagement clause fails this requirement.
+
+It is claimed that the disparagement clause serves two interests. The
+first is phrased in a variety of ways in the briefs. Echoing language in
+one of the opinions below, the Government asserts an interest in
+preventing "underrepresented groups" from being "bombarded with
+demeaning messages in commercial advertising." 
+An *amicus* supporting the Government refers to "encouraging racial
+tolerance and protecting the privacy and welfare of individuals." 
+But no matter how the point is phrased, its unmistakable thrust is this: 
+The Government has an interest in preventing speech expressing ideas that offend. 
+And, as we have explained, that idea strikes at the heart of the First Amendment. 
+Speech that demeans on the basis of race, ethnicity,
+gender, religion, age, disability, or any other similar ground is hateful; 
+but the proudest boast of our free speech jurisprudence is that
+we protect the freedom to express "the thought that we hate." 
+
+The second interest asserted is protecting the orderly flow of commerce.
+Commerce, we are told, is disrupted by trademarks
+that "involve disparagement of race, gender, ethnicity, national
+origin, religion, sexual orientation, and similar demographic
+classification." 
+Such trademarks are analogized to discriminatory conduct, 
+which has been recognized to have an adverse effect on commerce. 
+
+A simple answer to this argument is that the disparagement clause is not "narrowly drawn" 
+to drive out trademarks that support invidious discrimination. 
+The clause reaches any trademark 
+that disparages *any person, group, or institution.* 
+It applies to trademarks like the following: 
+"Down with racists," "Down with sexists," "Down with homophobes." 
+It is not an anti-discrimination clause; it is a happy-talk clause. 
+In this way, it goes much further than is necessary to serve the interest asserted.
+
+The clause is far too broad in other ways as well. 
+The clause protects every person living or dead as well as every institution. 
+Is it conceivable that commerce would be disrupted by a trademark saying:
+"James Buchanan was a disastrous president" or "Slavery is an evil institution"?
+
+There is also a deeper problem with the argument that commercial speech
+may be cleansed of any expression likely to cause offense. The
+commercial market is well stocked with merchandise that disparages
+prominent figures and groups, and the line between commercial and
+non-commercial speech is not always clear, as this case illustrates. If
+affixing the commercial label permits the suppression of any speech that
+may lead to political or social "volatility," free speech would be endangered.
+
+For these reasons, we hold that the disparagement clause violates the
+Free Speech Clause of the First Amendment. The judgment of the Federal
+Circuit is affirmed.
+
+*It is so ordered.*
+
+### Concurrence
+
+> Justice GORSUCH took no part in the consideration or decision of this
+case. Justice KENNEDY, with whom Justice GINSBURG, Justice SOTOMAYOR, and
+Justice KAGAN join, concurring in part and concurring in the judgment.
+
+The Patent and Trademark Office (PTO) has denied the substantial
+benefits of federal trademark registration to the mark THE SLANTS. 
+The PTO did so under the mandate of the disparagement clause in [15 U.S.C. § 1052(a)][1501], 
+which prohibits the registration of marks that may
+"disparage ... or bring ... into contempt or disrepute" any "persons,
+living or dead, institutions, beliefs, or national symbols."
+
+As the Court is correct to hold, § 1052(a) constitutes viewpoint
+discrimination — a form of speech suppression so potent that it must be
+subject to rigorous constitutional scrutiny. The Government's action and
+the statute on which it is based cannot survive this scrutiny.
+
+The Court is correct in its judgment, and I join Parts I, II, and III-A
+of its opinion. This separate writing explains in greater detail why the
+First Amendment's protections against viewpoint discrimination apply to
+the trademark here. It submits further that the viewpoint discrimination
+rationale renders unnecessary any extended treatment of other questions
+raised by the parties.
+
+#### I
+
+Those few categories of speech that the government can regulate or
+punish — for instance, fraud, defamation, or incitement — are well
+established within our constitutional tradition. 
+See [*United States v. Stevens*](http://scholar.google.com/scholar_case?case=85657697512539256&q=matal+v+tam&hl=en&as_sdt=6,28) (US 2010).
+Aside from these and a few other narrow exceptions, it is a fundamental
+principle of the First Amendment that the government may not punish or
+suppress speech based on disapproval of the ideas or perspectives the
+speech conveys. 
+
+The First Amendment guards against laws "targeted at specific subject
+matter," a form of speech suppression known as content based
+discrimination. [*Reed v. Town of Gilbert,*](http://scholar.google.com/scholar_case?case=11849441774186097924&q=matal+v+tam&hl=en&as_sdt=6,28) (2015).
+This category includes a subtype of laws that go further, aimed at the
+suppression of ["particular views ... on a subject."](http://scholar.google.com/scholar_case?case=5541076601148584638&q=matal+v+tam&hl=en&as_sdt=6,28).
+A law found to discriminate based on viewpoint is an "egregious form of
+content discrimination," which is "presumptively unconstitutional."
+
+At its most basic, the test for viewpoint discrimination is whether —
+within the relevant subject category — the government has singled out a
+subset of messages for disfavor based on the views expressed. See
+[*Cornelius v. NAACP Legal Defense & Ed. Fund, Inc.,*](http://scholar.google.com/scholar_case?case=823565288601804204&q=matal+v+tam&hl=en&as_sdt=6,28) (1985)
+("the government violates the First Amendment when it denies access
+to a speaker solely to suppress the point of view he espouses on an
+otherwise includible subject"). 
+In the instant case, the disparagement clause the Government now seeks to implement and enforce 
+identifies the relevant subject as "persons, living or dead, institutions, beliefs, or
+national symbols." [15 U.S.C. § 1052(a)][1501]. 
+Within that category, an
+applicant may register a positive or benign mark but not a derogatory
+one. The law thus reflects the Government's disapproval of a subset of
+messages it finds offensive. This is the essence of viewpoint
+discrimination.
+
+The Government disputes this conclusion. It argues, to begin with, that
+the law is viewpoint neutral because it applies in equal measure to any
+trademark that demeans or offends. This misses the point. 
+A subject that is first defined by content 
+and then regulated or censored by mandating only one sort of comment is not viewpoint neutral. 
+To prohibit all sides from criticizing their opponents makes a law more viewpoint based, 
+not less so. [*Rosenberger*](http://scholar.google.com/scholar_case?case=5541076601148584638&q=matal+v+tam&hl=en&as_sdt=6,28)("The ... declaration that debate is not skewed so long as multiple
+voices are silenced is simply wrong; the debate is skewed in multiple ways"). 
+The logic of the Government's rule is that a law would be
+viewpoint neutral even if it provided that public officials could be
+praised but not condemned. The First Amendment's viewpoint neutrality
+principle protects more than the right to identify with a particular
+side. It protects the right to create and present arguments for
+particular positions in particular ways, as the speaker chooses. By
+mandating positivity, the law here might silence dissent and distort the
+marketplace of ideas.
+
+The Government next suggests that the statute is viewpoint neutral
+because the disparagement clause applies to trademarks regardless of the
+applicant's personal views or reasons for using the mark. Instead,
+registration is denied based on the expected reaction of the applicant's
+audience. In this way, the argument goes, it cannot be said that
+Government is acting with hostility toward a particular point of view.
+For example, the Government does not dispute that respondent seeks to
+use his mark in a positive way. Indeed, respondent endeavors to use The
+Slants to supplant a racial epithet, using new insights, musical
+talents, and wry humor to make it a badge of pride. Respondent's
+application was denied not because the Government thought his object was
+to demean or offend but because the Government thought his trademark
+would have that effect on at least some Asian-Americans.
+
+The Government may not insulate a law from charges of viewpoint
+discrimination by tying censorship to the reaction of the speaker's
+audience. The Court has suggested that
+viewpoint discrimination occurs when the government intends to suppress
+a speaker's beliefs, [*Reed, supra*](http://scholar.google.com/scholar_case?case=11849441774186097924&q=matal+v+tam&hl=en&as_sdt=6,28)
+but viewpoint discrimination need not take that form in every instance.
+The danger of viewpoint discrimination is that the government is
+attempting to remove certain ideas or perspectives from a broader
+debate. That danger is all the greater if the ideas or perspectives are
+ones a particular audience might think offensive, at least at first
+hearing. An initial reaction may prompt further reflection, leading to a
+more reasoned, more tolerant position.
+
+Indeed, a speech burden based on audience reactions is simply government
+hostility and intervention in a different guise. The speech is targeted,
+after all, based on the government's disapproval of the speaker's choice
+of message. And it is the government itself that is attempting in this
+case to decide whether the relevant audience would find the speech
+offensive. For reasons like these, the Court's cases have long
+prohibited the government from justifying a First Amendment burden by
+pointing to the offensiveness of the speech to be suppressed. 
+
+The Government's argument in defense of the statute assumes that
+respondent's mark is a negative comment. In addressing that argument on
+its own terms, this opinion is not intended to imply that the
+Government's interpretation is accurate. From respondent's submissions,
+it is evident he would disagree that his mark means what the Government
+says it does. The trademark will have the effect, respondent urges, of
+reclaiming an offensive term for the positive purpose of celebrating all
+that Asian-Americans can and do contribute to our diverse Nation. 
+While thoughtful persons can agree or
+disagree with this approach, the dissonance between the trademark's
+potential to teach and the Government's insistence on its own, opposite,
+and negative interpretation confirms the constitutional vice of the
+statute.
+
+#### II
+
+The parties dispute whether trademarks are commercial speech and whether
+trademark registration should be considered a federal subsidy. The
+former issue may turn on whether certain commercial concerns for the
+protection of trademarks might, as a general matter, be the basis for
+regulation. However that issue is resolved, the viewpoint based
+discrimination at issue here necessarily invokes heightened scrutiny.
+
+"Commercial speech is no exception," the Court has explained, to the
+principle that the First Amendment "requires heightened scrutiny
+whenever the government creates a regulation of speech because of
+disagreement with the message it conveys." [*Sorrell*](http://scholar.google.com/scholar_case?case=838098438403992670&q=matal+v+tam&hl=en&as_sdt=6,28). 
+Unlike content based discrimination,
+discrimination based on viewpoint, including a regulation that targets
+speech for its offensiveness, remains of serious concern in the
+commercial context. See [*Bolger Drug*](http://scholar.google.com/scholar_case?case=1599769972215052549).
+
+To the extent trademarks qualify as commercial speech, they are an
+example of why that term or category does not serve as a blanket
+exemption from the First Amendment's requirement of viewpoint
+neutrality. Justice Holmes' reference to the "free trade in ideas" and
+the "power of... thought to get itself accepted in the competition of
+the market," [*Abrams v. United States*](http://scholar.google.com/scholar_case?case=14321466231676186426&q=matal+v+tam&hl=en&as_sdt=6,28),
+was a metaphor. In the realm of trademarks, the metaphorical marketplace
+of ideas becomes a tangible, powerful reality. Here that real
+marketplace exists as a matter of state law and our common-law
+tradition, quite without regard to the Federal Government. 
+These marks make up part of the expression of everyday life, as
+with the names of entertainment groups, broadcast networks, designer
+clothing, newspapers, automobiles, candy bars, toys, and so on. 
+Nonprofit organizations — ranging from medical-research
+charities and other humanitarian causes to political advocacy groups —
+also have trademarks, which they use to compete in a real economic sense
+for funding and other resources as they seek to persuade others to join
+their cause. To permit
+viewpoint discrimination in this context is to permit Government
+censorship.
+
+This case does not present the question of how other provisions of the
+Lanham Act should be analyzed under the First Amendment. It is well
+settled, for instance, that to the extent a trademark is confusing or
+misleading the law can protect consumers and trademark owners. 
+This case also does not involve laws related to product labeling or otherwise designed
+to protect consumers. 
+See [*Sorrell*](http://scholar.google.com/scholar_case?case=838098438403992670&q=matal+v+tam&hl=en&as_sdt=6,28) 
+("the government's legitimate interest in protecting consumers from
+commercial harms explains why commercial speech can be subject to
+greater governmental regulation than noncommercial speech."
+These considerations, however, do not alter
+the speech principles that bar the viewpoint discrimination embodied in
+the statutory provision at issue here.
+
+It is telling that the Court's precedents have recognized just one
+narrow situation in which viewpoint discrimination is permissible: where
+the government itself is speaking or recruiting others to communicate a
+message on its behalf. 
+The exception is necessary to allow the government to stake out
+positions and pursue policies. 
+But it is also narrow, to prevent the
+government from claiming that every government program is exempt from
+the First Amendment. These cases have identified a number of factors
+that, if present, suggest the government is speaking on its own behalf;
+but none are present here. 
+
+There may be situations where private speakers are selected for a
+government program to assist the government in advancing a particular
+message. That is not this case either. The central purpose of trademark
+registration is to facilitate source identification. To serve that broad
+purpose, the Government has provided the benefits of federal
+registration to millions of marks identifying every type of product and
+cause. Registered trademarks do so by means of a wide diversity of
+words, symbols, and messages. Whether a mark is disparaging bears no
+plausible relation to that goal. While defining the purpose and scope of
+a federal program for these
+purposes can be complex 
+our cases are clear that viewpoint discrimination is not permitted
+where, as here, the Government "expends funds to encourage a diversity
+of views from private speakers." 
+
+A law that can be directed against speech found offensive to some
+portion of the public can be turned against minority and dissenting
+views to the detriment of all. The First Amendment does not entrust that
+power to the government's benevolence. Instead, our reliance must be on
+the substantial safeguards of free and open discussion in a democratic
+society.
+
+For these reasons, I join the Court's opinion in part and concur in the
+judgment.
+
+> Justice THOMAS, concurring in part and concurring in the judgment.
+
+< (On the First Amendment issue, 
+Justice wrote separately because, 
+"I continue to believe that when the
+government seeks to restrict truthful speech in order to suppress the
+ideas it conveys, strict scrutiny is appropriate, whether or not the
+speech in question may be characterized as commercial.")
+
+
+## Trademark Violations
+
+###### "Passing off," "Palming off," "Reverse passing off"
 
 If an artist puts her name 
 on someone else's goods or services 
@@ -73,7 +778,7 @@ misattribution of authorship.
 We have jurisdiction of this appeal under 28 U.S.C. § 1291, and we
 reverse.
 
-#### FACTS
+### Facts
 
 Viewing the evidence in the light most favorable to Lamothe and Jones,
 the nonmoving parties, the facts pertinent to this appeal are that
@@ -95,9 +800,7 @@ lyrics of "Scene of the Crime" were attributed to Robinson Crosby and
 Juan Croucier. Neither Robert Lamothe nor Ronald Jones received credit
 for their roles in the writing of these songs.
 
-### III
-
-#### ANALYSIS
+#### Analysis 
 
 The principal issue on appeal is whether Lamothe and Jones have stated a
 claim under section 43(a) of the Lanham Act &hellip; which
@@ -135,7 +838,7 @@ plaintiffs have an interest protected by the Lanham Act, we turn our
 attention to whether the defendants' conduct in this case constitutes a
 violation of section 43(a).
 
-#### 1. *Prohibited Conduct Under Section 43(a)*
+#### 1. Prohibited Conduct Under Section 43(a)
 
 The Lanham Act applies to two different types of unfair competition in
 interstate commerce. The first is "palming off" or "passing off," which
@@ -150,7 +853,7 @@ motion for summary judgment, have produced evidence satisfying the
 elements of a "reverse passing off" claim, we need not decide whether
 the defendants' actions also constitute false advertising.
 
-#### 2. *Passing Off*
+####  2. Passing Off
 
 The leading case in this circuit discussing the "passing off" doctrine
 embodied in section 43(a) is [*Smith v. Montoro,* (9th
@@ -262,9 +965,7 @@ the prohibitions of the Lanham Act. Whether the licensees affixed the
 incomplete authorship or had knowledge of the false designation of
 origin are matters best left to the trier of fact to resolve.
 
-### IV
-
-#### CONCLUSION
+#### Conclusion
 
 Because we conclude that summary judgment was inappropriate, we reverse
 the decision of the district court and remand the case with instructions
@@ -286,20 +987,20 @@ The 9th Circuit Court of Appeals ruled in favor of Lamothe and Jones:
 
 > In the present case, the [musicians] clearly have a legitimate interest in protecting their work from being falsely designated as the creation of another.
 
-### The *Polaroid* test
+## The *Polaroid* test
 
 To state a claim for trademark infringement under the Lanham Act, 
 the plaintiff must show that the defendant's use of its mark 
 is likely to cause an appreciable 
 number of ordinarily prudent purchasers "confusion as to the origin,
-sponsorship, or approval" of the defendant's product.&hellip; 
+sponsorship, or approval" of the defendant's product. &hellip; 
 
 Courts look to the eight
 factor test first articulated in [*Polaroid Corp. v. Polarad Elecs.
 Corp.,* (2d Cir.1961),](http://scholar.google.com/scholar_case?case=2293827617926067028)
 to determine whether there is a likelihood of confusion.
-When applying these factors, courts try to focus "on the ultimate
-question of whether consumers are likely to be confused." &hellip; 
+When applying these factors, courts try to focus 
+"on the ultimate question of whether consumers are likely to be confused." &hellip; 
 
 The *Polaroid* factors are: 
 
@@ -312,11 +1013,11 @@ The *Polaroid* factors are:
 7. the quality of defendant's product; and 
 8. the sophistication of the buyers. 
 
-[*Polaroid,* 287 F.2d at 495](http://scholar.google.com/scholar_case?case=2293827617926067028).
+[*Polaroid*](http://scholar.google.com/scholar_case?case=2293827617926067028).
 
 In the following case, the Second Circuit Court of Appeals applies those eight factors to decide whether Jim Henson's character "Spa'am" from *Muppett Treasure Island* infringes on Hormel's Spam products.
 
-### *Hormel Foods Corporation v. Jim Henson Productions, Inc.*
+## *Hormel Foods Corporation v. Jim Henson Productions, Inc.*
 
 ###### United States Court Of Appeals Second Circuit (1996)
 
@@ -342,7 +1043,7 @@ Hormel argues that the district court erred in finding no infringement
 and that it misinterpreted New York's anti-dilution statute, 
 N.Y.Gen. Bus.Law § 368-d (McKinney 1984). For the reasons that follow, we affirm.
 
-### BACKGROUND
+### Background
 
 Since 1937, Hormel has used the trademark name "SPAM" to market its
 luncheon meat. It is beyond dispute that SPAM is a distinctive, widely
@@ -405,7 +1106,9 @@ concerns Henson's proposed use of the Spa'am likeness with and without
 the name "Spa'am" on movie-related merchandise &hellip; 
 Henson has shelved its plans to place the name
 "Spa'am" on its *Muppet Treasure Island* merchandise pending the outcome
-of this litigation. However, according to Henson's proposals &hellip; if it were permitted to go ahead with its plans, the merchandise
+of this litigation. 
+However, according to Henson's proposals &hellip; 
+if it were permitted to go ahead with its plans, the merchandise
 would carry only the Spa'am likeness or the Spa'am likeness beside the
 name "Spa'am." The name "Spa'am" would not appear alone. Moreover, any
 merchandise in which Spa'am appeared would clearly display the words
@@ -443,7 +1146,7 @@ concerning the spelling, pronunciation, and use of the two words.
 However, each of them antedated the initial public showing of *Muppet
 Treasure Island.*
 
-### DISCUSSION
+### Discussion
 
 ### A. Trademark Infringement
 
@@ -774,8 +1477,6 @@ mark that is made fun of." [41 F.3d at
 44](http://scholar.google.com/scholar_case?case=11078526421590500494)
 (citation omitted). Their reliance is misplaced.
 
-\* \* \*
-
 The sine qua non of tarnishment is a finding that plaintiff's mark will
 suffer negative associations through defendant's use. Hormel claims that
 linking its luncheon meat with a wild boar will adversely color
@@ -815,309 +1516,7 @@ Henson's use will cause negative associations, (2) Henson is not a
 direct competitor, and (3) the parody inheres in the product, we find
 that there is no likelihood of dilution under a tarnishment theory.
 
-\* \* \*
-
 We affirm the district court's denial of injunctive relief.
-
-## *Browne v. McCain*
-
-###### United States District Court, CD California (2009)
-
-* [case on Google Scholar](http://scholar.google.com/scholar_case?case=8358901490325237172)
-* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=612fsupp2d1125&appflag=67.12) 
-* [*Browne v. McCain,* WSJ Blogs](http://blogs.wsj.com/law/2008/08/15/browne-v-mccain-political-rocker-sues-politico-over-running-on-empty/).
-
-R. GARY KLAUSNER, District Judge.
-
-### I. *INTRODUCTION*
-
-A few months before the 2008 Presidential election, Jackson Browne
-("Browne" or "Plaintiff") sued Republican Presidential candidate,
-Senator John McCain ("Senator McCain"), along with the Republican
-National Committee ("RNC"), and the Ohio Republican Party ("ORP")
-(collectively "Defendants") for copyright infringement, and other
-related claims. Browne's claims arise out of Defendants' alleged
-improper use of his song *Running on Empty* in a campaign commercial for
-Senator McCain.
-
-Presently before the Court is RNC's Motion to Dismiss for Failure to
-State a Claim. For the following reasons, the Court DENIES RNC's Motion.
-
-### II. FACTUAL BACKGROUND
-
-Plaintiff alleges the following facts:
-
-Browne is a singer and songwriter who is closely associated with liberal
-causes and Democratic political candidates. Browne's
-public support for the Democratic Party and President Barack Obama is
-well-known. In fact, Browne has performed at political
-rallies for Democratic Party candidates. 
-
-Senator McCain is a citizen of Arizona and ran as the Republican
-Presidential candidate in the 2008 Presidential election. RNC is a non-profit political organization based in the District of
-Columbia. ORP is a non-profit political organization based
-in Ohio. 
-
-#### A. *The Composition*
-
-In 1977, Browne released an album entitled *Running on Empty* (the
-"Album"),  which
-contained a composition of the same name (the "Composition"). The Album reached platinum status (i.e., sales of one million or
-more) seven times over. The Album and Composition are both
-famously associated with Browne, who owns a federally registered
-copyright in the Composition. It is that Composition
-that Browne alleges Defendants improperly used in a campaign commercial
-for Senator McCain.&hellip; 
-
-#### B. *The Commercial*
-
-In anticipation of then-Democratic Presidential candidate Barack Obama's
-visit to Ohio the week of August 4, 2008, ORP, acting as an agent for
-the RNC and Senator McCain, created a web video to criticize and comment
-on Barack Obama's energy policy and his suggestion that the country
-could conserve gasoline by keeping their automobile tires inflated to
-the proper pressure (the "Commercial"). During the
-Commercial, a sound recording of Browne performing the Composition,
-*Running on Empty,* plays in the background. 
-
-The Commercial is approximately one minute and twenty seconds. It begins by displaying the words "Pain at the Pump"
-in large white and black letters, with bluish-pink graphics, followed by
-a twenty-five second montage of Ohio news broadcasts regarding the high
-price of gas. The montage features reporters from Channels 5, 6,
-and 10, who state: (1) "we don't have to say it, we are all certainly
-sick of the pain at the pump"; (2) "now the price at the pump is going
-up once again"; (3) "$3.64 for a gallon"; (4) "gallon of regular going
-for $3.69"; (5) "gas prices are thirty-eight percent higher now than
-they were this time last year"; and (6) "for most of us, fill-up can be
-a budget buster." The montage concludes with a Channel 5 reporter
-asking "so how do you bring down the price of gas here in northeast Ohio
-and across the U.S.A.?"
-
-The Commercial then cuts to a CNN broadcast of then-Democratic candidate
-Barack Obama at a rally saying "making sure your tires are properly
-inflated." The sound of a needle dragged across a record is heard
-as the screen flashes the word "What!?" Next, an image of Senator
-McCain appears, along with the words "Senator McCain has [illegible]." The Commercial then cuts to information on Senator McCain's energy
-plan, including the words: "Expand Domestic Oil and Natural Gas
-Production; Reform Transportation Sector; Invest in Clean, Alternative
-Sources of Energy; Address Climate Change; Promote Energy Efficiency."
-
- At approximately
-thirty-seven seconds, the Commercial cuts to Senator McCain at a rally
-saying "my friends this is a national security issue and who is paying
-the most today, who is bearing the burden? Low income Americans who are
-driving the oldest automobiles. We owe it to them and we owe it to all
-Americans." 
-
-At approximately fifty seconds, the Instrumental Introduction of the
-Composition begins playing as the screen displays the words "What's that
-Obama plan again?" At approximately fifty-seven seconds, the
-volume on the Composition is lowered, but is still audible, and the
-Commercial cuts back to the CNN broadcast of Obama at a rally saying
-"making sure your tires are properly inflated, simple thing, but we
-could save all the oil that they are talking about getting off drilling
-if everybody was just inflating their tires?" At approximately one
-minute eight seconds, the volume of the Composition increases as the
-Commercial cuts to a CNN broadcast of former Presidential candidate
-Senator Hillary Clinton saying "shame on you Barack Obama." 
-
-At approximately one minute ten seconds, the Commercial cuts to a photo
-of Barack Obama with the words "Barack Obama: No Solutions," which
-changes to "Baraek Obama: Not Ready to Lead" as Browne is heard singing
-the Chorus of the Composition.
-
-The Commercial then concludes with a black screen containing small print
-at the bottom that reads "Paid for by the Ohio Republican Party.
-www.ohiogop.org. Not authorized by any candidate or candidate
-committee."
-
-Neither Senator McCain, ORP, nor RNC received a license nor Browne's
-permission to use the Composition in the Commercial. 
-
-ORP posted the Commercial on You-Tube.com ("YouTube").
-The Commercial also aired on television and cable networks in Ohio and
-Pennsylvania, as well as other websites such as the Huffingtonpost.com.
- The Commercial was also aired on and discussed by the national
-news media, including MSNBC.
-
-Since the Commercial first appeared on television and the Internet,
-Browne has received numerous inquiries expressing concern about
-Defendants' use of the Composition and Browne's performance. 
-
-Browne contends that the Commercial falsely suggests that he sponsors,
-endorses, or is associated with Senator McCain and the Republican Party,
-"when nothing could be further from the truth." 
-
-As a result, Browne sued Defendants on August 14, 2008, asserting claims
-for (1) Copyright Infringement, (2) Vicarious Copyright Infringement,
-(3) Violation of the Lanham Act (False Association or Endorsement), and
-(4) Violation of California Common Law Right of Publicity.
-
-###  DISCUSSION
-
-[Court's discussion of plaintiff's copyright claims omitted.]
-
-#### C. *Lanham Act Claim*
-
-RNC contends that the Court should dismiss Plaintiffs Lanham Act claim
-because:
-
-1. the Lanham Act applies only to commercial speech, 
-2. the First Amendment and artistic relevance test bar the claim, and
-3. Plaintiff cannot, as a matter of law, establish likelihood of confusion.
-For the following reasons, the Court disagrees.
-
-#### *1. Application of the Lanham Act to Political Speech*
-
-RNC contends that Plaintiff cannot state a claim for false association
-or endorsement under 15 U.S.C. § 1125(a)(1)(A) of the Lanham Act
-("Section 43(a)(1)(A)") because the Lanham Act applies only to
-commercial speech and does *not* apply to political speech. For the
-following reasons, the Court disagrees.
-
-RNC appears to collapse several distinct arguments into one general
-contention that the Lanham Act does not apply to political speech. Each
-distinct argument is addressed separately below.
-
-First, contrary to RNC's assertions, courts have recognized that the
-Lanham Act applies to noncommercial (i.e., political) *and* commercial
-speech. *See, e.g.,* [*United We Stand America, Inc. v. United We Stand,
-America New York, Inc.,* (2d Cir. 1997)](http://scholar.google.com/scholar_case?case=4833614207083058193);
-[*MGM-Pathe Commns. Co. v. Pink Panther Patrol,* (S.D.N.Y.
-1991)](http://scholar.google.com/scholar_case?case=15515381657632192294).
-Indeed, the Act's purpose of reducing consumer confusion supports
-application of the Act to political speech, where the consequences of
-widespread confusion as to the source of such speech could be dire.
-*See* [*United We Stand America, Inc.*](http://scholar.google.com/scholar_case?case=4833614207083058193)
-Thus, to the extent RNC's Motion is based on its theory that the Lanham
-Act applies only to commercial speech, that theory is rejected.
-
-Second, to the extent that RNC argues that Plaintiffs Lanham Act claim
-must yield to important First Amendment concerns over protecting
-political speech, such concerns are addressed in the Court's discussion
-of the First Amendment and artistic relevance test in Section IV.2.
-below.
-
-Third, the mere fact that a defendant is engaged in political speech,
-alone, does not bar a plaintiffs Lanham Act claim. *See* [*MGM-Pathe
-Commns. Co*](http://scholar.google.com/scholar_case?case=15515381657632192294).
-Thus, to the extent RNC's Motion is based on its theory that the mere
-fact that Browne's Lanham Act claim is based on political speech bars
-his claim as a matter of law, that theory is rejected.
-
-Fourth, contrary to the implications of RNC's arguments, the Lanham
-Act's reference to use "in commerce" does not require a plaintiff who
-asserts a claim under Section 43(a)(1)(A) to show that the defendant
-actually used the mark in commerce. [*United We Stand America, Inc*](http://scholar.google.com/scholar_case?case=4833614207083058193).
-Rather, the Act's reference  to use "in commerce" actually
-"reflects Congress's intent to legislate to the limits of its authority
-under the Commerce Clause" to regulate interstate commerce. *Id.* The
-interstate commerce jurisdictional predicate for the Lanham Act merely
-requires a party to show that the defendant's conduct affects interstate
-commerce, such as through diminishing the plaintiffs ability to control
-use of the mark, thereby affecting the mark and its relationship to
-interstate commerce. *See* [*Stauffer v. Exley,* (9th Cir. 1950)](http://scholar.google.com/scholar_case?case=15896581322123241159);
-*see, e.g.,* [*Maier Brewing Co. v. Fleischmann Distilling Corp.,* (9th Cir. 1968)](http://scholar.google.com/scholar_case?case=3785793747909278971);
-[*F.E.L. Publications, Ltd. v. National Conference of Catholic Bishops,*
-(D.C.Ill. 1978)](http://scholar.google.com/scholar_case?case=4064965770617757909).
-As such, the "scope of 'in commerce' as a jurisdictional predicate of
-the Lanham Act is broad and has a sweeping reach." [*Planned Parenthood
-Federation of America, Inc. v. Bucci,* (S.D.N.Y)](http://scholar.google.com/scholar_case?about=2055558481777012858))
-(citing [*Steele v. Bulova Watch Co*(S.Ct. 1952)](http://scholar.google.com/scholar_case?case=17007260925322207512)).
-
-Thus, to the extent. RNC's Motion is based on its theory that Browne
-cannot state a claim under the Lanham Act because he has not shown
-actual use in commerce, that theory is rejected. Moreover, since RNC has
-not actually argued that Plaintiffs claim fails to satisfy the
-interstate commerce requirement, the Court will not address that issue
-at this time.
-
-#### *2. The First Amendment and Artistic Relevance Test*
-
-RNC also contends that Plaintiff cannot state a claim under the Lanham
-Act because the Commercial is an expressive work and thus the claim is
-barred under the First Amendment and artistic relevance test. For the
-following reasons, the Court disagrees.
-
-In the Ninth Circuit, a Lanham Act claim based on use of a mark in an
-artistic work is analyzed under the Second Circuit's *Rogers* artistic
-relevance test, which was developed to address the competing interests
-of the First Amendment's protection of artistic works and trademark
-protection. *See* [*Mattel, Inc. v. MCA Records, Inc.,* (9th
-Cir. 2002)](http://scholar.google.com/scholar_case?case=4174039731032587001).
-Under this test, "[a]n artistic work's use of a trademark that otherwise
-would violate the Lanham Act is not actionable [1] 'unless the use of
-the mark has no artistic relevance to the underlying work whatsoever,
-or, [2] if it has some artistic relevance, unless it explicitly misleads
-as to the source or content of the work.'" [*E.S.S. Entm't 2000, Inc. v.
-Rock Star Videos, Inc.* (9th
-Cir. 2008)](http://scholar.google.com/scholar_case?case=6229102239124683155)
-(citing [*MCA Records, Inc.*](http://scholar.google.com/scholar_case?case=4174039731032587001)).
-
-Here, the Court finds that RNC has not established that the First
-Amendment and artistic relevance test bar Plaintiffs Lanham Act claim at
-this time. First, RNC has not established that the Commercial is an
-artistic work, requiring application of the artistic relevance test.
-Second, RNC has not shown that the First Amendment and artistic
-relevance test bar Browne's claim merely because the Commercial is
-noncommercial, political speech. In fact, courts that have applied the
-Lanham Act to noncommercial and political speech have implicitly
-rejected the theory that claims based on such speech are barred, as a
-matter of law, based on the First Amendment and artistic relevance test.
-*See, e.g.,* [*MGM-Pathe Commns. Co.*](http://scholar.google.com/scholar_case?case=15515381657632192294);
-*see generally* [*United We Stand America, Inc*](http://scholar.google.com/scholar_case?case=4833614207083058193).
-Finally, it appears that, in light of the Court's limited inquiry on a
-12(b)(6) motion, the Court would have difficulty applying the artistic
-relevance test at this time.
-
-Thus, the Court finds that RNC has not established that Plaintiff's
-Lanham Act claim is barred by the First Amendment and artistic relevance
-test at this time and  rejects RNC's contention that the
-Court should dismiss this claim on that basis.
-
-#### *3. Likelihood of Confusion*
-
-RNC also contends that Plaintiff cannot state a claim under the Lanham
-Act because the Commercial clearly identifies its source as ORP, so
-there is no likelihood of confusion as to its origin. For the following
-reasons, the Court disagrees.
-
-The Ninth Circuit considers the following factors, known as *Sleekcraft*
-factors, in determining whether likelihood of confusion exists (1)
-strength of the mark, (2) proximity or relatedness of the goods, (3)
-similarity of the marks, (4) evidence of actual confusion, (5) marketing
-channels used, (6) degree of care customers are likely to exercise in
-purchasing the goods, (7) defendant's intent in selecting the mark, and
-(8) likelihood of expansion into other markets. [*KP Permanent Make-Up,
-Inc. v. Lasting Impression I, Inc.*(9th
-Cir. 2005)](http://scholar.google.com/scholar_case?case=1804350555375013920).
-
-Here, the Court finds that RNC has not established, at this time, that
-Plaintiff cannot show likelihood of confusion. RNC's contention that the
-Commercial clearly identifies its source as ORP, alone, does not show
-that a consumer could not possibly be confused as to whether Browne
-endorsed Senator McCain, RNC, or ORP. Moreover, RNC has failed to
-address all of the *Sleekcraft* factors and whether they weigh against
-likelihood of confusion. Without the parties' arguments as to these
-factors, the Court is unable to thoroughly analyze likelihood of
-confusion at this time.
-
-Thus, the Court finds that RNC has not established that Plaintiff cannot
-show likelihood of confusion at this time and rejects RNC's contention
-that the Court should dismiss this claim on that basis.
-
-The Court accordingly DENIES RNC's Motion to Dismiss Plaintiffs Lanham
-Act claim.
-
-### V. *CONCLUSION*
-
-In light of the foregoing, the Court DENIES RNC's Motion to Dismiss
-Plaintiff's claims for Copyright Infringement, Vicarious Copyright
-Infringement, and Violation of the Lanham Act. The Court addresses RNC's
-grounds for dismissal of Plaintiffs California Common Law Right of
-Publicity claim in its Order Re RNC's Special Motion to Strike.
-
-IT IS SO ORDERED.
 
 ## *Louis Vuitton v. Warner Brothers, Inc.*
 
@@ -1271,7 +1670,7 @@ Vuitton asserts three causes of action:
 2. common law unfair competition, and 
 3. trademark dilution in violation of New York General Business Law § 360. 
 
-[The standards for § 43(a) claims of the Lanham Act and common law unfair competition claims "are almost indistinguishable." &hellip;  [*Tri-Star Pictures, Inc. v. Unger,* (S.D.N.Y.1998)](http://scholar.google.com/scholar_case?case=305622687625915731); [*Louis Vuitton Malletier v. Dooney & Bourke, Inc.,* (S.D.N.Y.2008)](http://scholar.google.com/scholar_case?case=9787575094444941549) (noting that the elements of unfair competition "mirror" the Lanham Act, except that plaintiffs must additionally show bad faith on the state law claim)].
+The standards for § 43(a) claims of the Lanham Act and common law unfair competition claims "are almost indistinguishable." &hellip;  [*Tri-Star Pictures, Inc. v. Unger,*](http://scholar.google.com/scholar_case?case=305622687625915731) (S.D.N.Y.1998); [*Louis Vuitton Malletier v. Dooney & Bourke, Inc.,* (S.D.N.Y.2008)](http://scholar.google.com/scholar_case?case=9787575094444941549) (noting that the elements of unfair competition "mirror" the Lanham Act, except that plaintiffs must additionally show bad faith on the state law claim)].
 
 Warner Bros. now moves to dismiss the complaint in its entirety 
 on the ground that its use of the Diophy bag in the Film is protected by the
@@ -1289,9 +1688,7 @@ addition to showing that it has a valid mark, the plaintiff must show
 that the defendant's use of its mark is likely to cause "an appreciable
 number of ordinarily prudent purchasers" "confusion as to the origin,
 sponsorship, or approval" of the defendant's product.&hellip; Courts look to the eight
-factor test first articulated in [*Polaroid Corp. v. Polarad Elecs.
-Corp.,* (2d Cir.1961),](http://scholar.google.com/scholar_case?case=2293827617926067028)
-to determine whether there is a likelihood of confusion.
+factor test first articulated in [*Polaroid Corp.*](http://scholar.google.com/scholar_case?case=2293827617926067028) (2d Cir.1961) to determine whether there is a likelihood of confusion.
 When applying these factors, courts should focus "on the ultimate
 question of whether consumers are likely to be confused." &hellip; 
 
@@ -1305,7 +1702,9 @@ as long as the defendant's use of the mark is
 (2) not "explicitly misleading" 
 as to the source or content of the work.
 
-The court in *Rogers* applied this test to the use of a trademark in a movie title, but courts have extended it to the content of expressive works as well. [*Cliffs Notes, Inc. v. Bantam Doubleday Dell Publ'g Group, Inc.* (2d Cir. 1989)](http://scholar.google.com/scholar_case?case=3543157455154245054) ("[T]he *Rogers* balancing approach is generally applicable to Lanham claims against works of artistic expression."); *see also* [*E.S.S.  Entm't 2000, Inc. v. Rock Star Videos, Inc.* (9th Cir.2008)](http://scholar.google.com/scholar_case?case=6229102239124683155) ("Rock Star Videos") ("[T]here is no principled reason why [the *Rogers* test] ought not also apply to the use of a trademark in the body of the work.") (citing [*Mattel, Inc. v. Walking Mountain Prods.* (9th Cir.2003)](http://scholar.google.com/scholar_case?case=7581792703482092445)). The parties do not dispute the application of *Rogers* to the content of a movie.]
+The court in *Rogers* applied this test to the use of a trademark in a movie title, 
+but courts have extended it to the content of expressive works as well. 
+[*Cliffs Notes, Inc. v. Bantam Doubleday Dell Publ'g Group, Inc.* (2d Cir. 1989)](http://scholar.google.com/scholar_case?case=3543157455154245054) ("[T]he *Rogers* balancing approach is generally applicable to Lanham claims against works of artistic expression."); *see also* [*E.S.S.  Entm't 2000, Inc. v. Rock Star Videos, Inc.* (9th Cir. 2008)](http://scholar.google.com/scholar_case?case=6229102239124683155) ("Rock Star Videos") ("[T]here is no principled reason why [the *Rogers* test] ought not also apply to the use of a trademark in the body of the work.") (citing [*Mattel, Inc. v. Walking Mountain Prods.* (9th Cir.2003)](http://scholar.google.com/scholar_case?case=7581792703482092445)). The parties do not dispute the application of *Rogers* to the content of a movie.]
 
 Louis Vuitton does not dispute 
 that Warner Bros. challenged use of the mark is noncommercial, 
@@ -1381,15 +1780,16 @@ The Court is satisfied that Warner Bros.' use of the Diophy bag
 (whether intentional or inadvertent) 
 was intended to create an artistic association with Louis Vuitton, 
 and there is no indication that its use was commercially motivated. 
-*See* [*Rogers,* 875 F.2d at 1001](http://scholar.google.com/scholar_case?case=1704090655237798849).
+*See* [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849).
 
-[In a footnote, the Court distinguished cases cited by Louis Vuitton, 
-including [*Parks v. LaFace Records* Cir.2003)](http://scholar.google.com/scholar_case?case=11600086449229682086)
+> In a footnote, the Court distinguished cases cited by Louis Vuitton, 
+including [*Parks v. LaFace Records*] (http://scholar.google.com/scholar_case?case=11600086449229682086)
+(6th Cir.2003).
 (finding that "reasonable persons could conclude that there is no
 relationship of any kind between Rosa Park's name and the content of the
 song," and noting that the "marketing power" of the song's title
 "unquestionably enhanced the song's potential sale to the consuming
-public").]
+public").
 
 Accordingly, 
 the Court concludes that the use of the Diophy bag 
@@ -1422,25 +1822,21 @@ Rogers endorsed the *[defendant's] film* or had a role in producing
 it.") (emphasis added) &hellip; *see also, e.g.,* [*Walking Mountain*](http://scholar.google.com/scholar_case?case=7581792703482092445)
 ("The photograph titles do not explicitly mislead as to [plaintiff]
 Mattel's sponsorship of *[defendant's] works.*") (emphasis added);
-[*Parks,* 329 F.3d at
-459](http://scholar.google.com/scholar_case?case=11600086449229682086)
-("[T]he title "Rosa Parks" makes no explicit statement that the
+[*Parks*](http://scholar.google.com/scholar_case?case=11600086449229682086)
+("the title "Rosa Parks" makes no explicit statement that the
 *[defendant's] work* is about that person in any direct sense.")
-(emphasis added); [*Westchester Media v. PRL USA Holdings, Inc.,* 214
-F.3d 658, 668 (5th
+(emphasis added); [*Westchester Media v. PRL USA Holdings, Inc.* (5th
 Cir. 2000)](http://scholar.google.com/scholar_case?case=5449983782264273856)
 (finding that consumers could plausibly believe "that [*defendant's
 magazine*] is associated with [plaintiff's goods]") (emphasis added);
-[*Twin Peaks,* 996 F.2d at
-1379](http://scholar.google.com/scholar_case?case=1671961186681268324)
+[*Twin Peaks,*](http://scholar.google.com/scholar_case?case=1671961186681268324)
 ("The question then is whether the title is misleading in the sense that
 it induces members of the public to believe *[defendant's] Book* was
 prepared or otherwise authorized by [the plaintiff].") (emphasis added);
-[*Cliffs Notes,* 886 F.2d at
-495](http://scholar.google.com/scholar_case?case=3543157455154245054)
+[*Cliffs Notes,*](http://scholar.google.com/scholar_case?case=3543157455154245054)
 ("[W]e do not believe that there is a likelihood that an ordinarily prudent
-purchaser would think that *[defendant's book]* is actually a study
-guide produced by appellee.") (emphasis added).&hellip; 
+purchaser would think that [defendant's book] is actually a study
+guide produced by appellee.") (emphasis added) &hellip; 
 
 It is not a coincidence that courts frame the confusion in relation to
 the defendant's artistic work, and not to someone else's. This narrow
@@ -1451,8 +1847,7 @@ are used to "dupe consumers into buying a product they mistakenly
 believe is sponsored by the trademark owner." [*Rock Star Videos*](http://scholar.google.com/scholar_case?case=6229102239124683155)
 (quoting [*Walking Mountain*](http://scholar.google.com/scholar_case?case=7581792703482092445)).
 When this concern is present it will generally outweigh the public's
-interest in free expression. *See* [*Rogers,* 875 F.2d at
-1000](http://scholar.google.com/scholar_case?case=1704090655237798849)
+interest in free expression. *See* [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849)
 ("If such explicit references [signifying endorsement] were used in a
 title and were false as applied to the underlying work, the consumer's
 interest in avoiding deception would warrant application of the Lanham
@@ -1460,8 +1855,7 @@ Act, even if the title had some artistic relevance to the work.").
 However, if a trademark is not used, "in any direct sense," to designate
 the source or sponsorship of the defendant's work, then "the consumer
 interest in avoiding deception is too slight to warrant application of
-the Lanham Act." [*Syler v. Woodruff* (S.D.N.Y. 2009)](http://scholar.google.com/scholar_case?case=2693087962354215527)(quoting [*Rogers,* 875 F.2d at
-1000](http://scholar.google.com/scholar_case?case=1704090655237798849));
+the Lanham Act." [*Syler v. Woodruff* (S.D.N.Y. 2009)](http://scholar.google.com/scholar_case?case=2693087962354215527)(quoting [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849));
 *see also* 4 McCarthy on Trademarks and Unfair Competition § 23:11.50
 (4th ed.) ("[I]f the defendant does not use the accused designation as
 defendant's own identifying trademark, then confusion will usually be
@@ -1475,14 +1869,10 @@ rather, extends to confusion as to the source or content of a
 third-party's goods. Curiously, Louis Vuitton makes this
 argument without addressing the clear rule set forth in *Twin Peaks* and
 instead relies on [*Dallas Cowboys Cheerleaders, Inc. v. Pussycat
-Cinema, Ltd.,* 604 F.2d 200, 205 (2d
-Cir.1979),](http://scholar.google.com/scholar_case?case=11014508973363071529)
+Cinema, Ltd.,* (2d Cir.1979),](http://scholar.google.com/scholar_case?case=11014508973363071529)
 a decision whose First Amendment approach *Rogers* expressly declined to
-follow and which has been criticized by other courts. [*Rogers,* 875
-F.2d at 999 n.
-4](http://scholar.google.com/scholar_case?case=1704090655237798849);
-*see* [*Parks,* 329 F.3d at
-449-50](http://scholar.google.com/scholar_case?case=11600086449229682086)
+follow and which has been criticized by other courts. [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849);
+*see* [*Parks*](http://scholar.google.com/scholar_case?case=11600086449229682086)
 (discussing the problems that *Rogers* and other courts have found with
 the *Dallas Cowboys Cheerleaders* approach to First Amendment issues).
 Notwithstanding the inapplicability of *Dallas Cowboys Cheerleaders* to
@@ -1490,10 +1880,7 @@ noncommercial speech, like the speech at issue here, that case does not
 stand for the proposition Louis Vuitton claims it does.
 
 In *Dallas Cowboys Cheerleaders,* the Second Circuit affirmed a
-preliminary injunction barring the defendants from exhibiting or
-distributing a pornographic film that depicted the plaintiff's
-trademarked cheerleader uniforms. [604 F.2d
-200](http://scholar.google.com/scholar_case?case=11014508973363071529).
+preliminary injunction barring the defendants [from exhibiting or distributing a pornographic film that depicted the plaintiff's trademarked cheerleader uniforms.](http://scholar.google.com/scholar_case?case=11014508973363071529).
 There, the court rejected the defendants' argument that the Lanham Act
 only prevents confusion as to the origin of the film, and ruled that the
 Act also prevents confusion that "the mark's owner sponsored or
@@ -1549,7 +1936,7 @@ The Court concludes that Louis Vuitton's allegations of confusion are
 not plausible, let alone "particularly compelling." First, it is highly
 unlikely that an appreciable number of people watching the Film would
 even notice that Alan's bag is a knock-off. *Cf.* [*Gottlieb Dev. LLC v.
-Paramount Pictures Corp.* (S.D.N.Y.2008) (Chin, J.)](http://scholar.google.com/scholar_case?case=7004261802942021108) (no confusion of plaintiff sponsoring defendant's film where "it would
+Paramount Pictures Corp.* (SDNY 2008) (Chin, J.)](http://scholar.google.com/scholar_case?case=7004261802942021108) (no confusion of plaintiff sponsoring defendant's film where "it would
 be difficult for even a keen observer to pick out [plaintiff's]
 trademark" since "it appears in the background of the scene" and
 "occupies only a minute fraction [of] the frame for three segments
@@ -1571,7 +1958,7 @@ would take seriously enough Alan's statements about designer handbags
 attribute his views to the company that produced the
 Film. This assumption is hardly conceivable, and it does
 not cross the line into the realm of plausibility. *See* [*Twombly*
-(S.Ct. 1955)](http://scholar.google.com/scholar_case?case=18057384228100022643).
+(US 1955)](http://scholar.google.com/scholar_case?case=18057384228100022643).
 Lastly, Louis Vuitton is objecting to a statement made by a fictional
 character in a fictional movie, which it characterizes as an affirmative
 misrepresentation. However, this assumes that the fictional Alan
@@ -1667,7 +2054,7 @@ caused by an unnecessary rights issue
 and how many hours of legal work it took.)
 
 Again, a price worth paying 
-if you NEED that Star Wars logo or trademark 
+if you *need* that Star Wars logo or trademark 
 because your hero dreams of Luke Skywalker
 and models his life upon him, 
 but if Star Wars means nothing to your film 
@@ -1695,6 +2082,14 @@ it's one less thing to worry about
 and one less issue for insurers or distributors 
 who want to buy your film.
 
+
+[BB]: http://scholar.google.com/scholar_case?case=8172713504190922779&q=matal+v+tam&hl=en&as_sdt=6,28
+[manual]: http://tmep.uspto.gov
+[1501]: https://www.law.cornell.edu/uscode/text/15/1051
+[1502]: https://www.law.cornell.edu/uscode/text/15/1052
+[Johanns]: http://scholar.google.com/scholar_case?case=8395881287361075212&q=matal+v+tam&hl=en&as_sdt=6,28
+[Summum]: http://scholar.google.com/scholar_case?case=16990792622269283104&q=matal+v+tam&hl=en&as_sdt=6,28
+[Walker]: http://scholar.google.com/scholar_case?case=14885642386066449353&q=matal+v+tam&hl=en&as_sdt=6,8
 
 <!-- BEGIN COMMENT -->
 

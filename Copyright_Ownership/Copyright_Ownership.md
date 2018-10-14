@@ -1292,9 +1292,11 @@ Newton should be allowed to present his claims of infringement to a
 jury. I therefore dissent from the majority's conclusion to the
 contrary.
 
-####Note on *Newton v. Diamond*
+#### Note on *Newton v. Diamond*
 
-For anyone interested, in 2012, Bloomberg Law made a short [Youtube video][beastie] on the Beastie Boys' legal troubles that features the 3-note sample in question in this case.
+For anyone interested, in 2012, Bloomberg Law made a short 
+[Youtube video][beastie] on the Beastie Boys' legal troubles 
+that features the 3-note sample in question in this case.
 
 ### Bridgeport Music, Inc. v. Dimension Films
 
@@ -1696,7 +1698,7 @@ create the songs that top the charts](http://www.theatlantic.com/magazine/archiv
 [102]: http://www.copyright.gov/title17/92chap1.html#102 "Section 102: Subject Matter"
 [106]: http://www.copyright.gov/title17/92chap1.html#106 "Section 106: Exlusive rights in copyrighted works"
 [201]: http://www.copyright.gov/title17/92chap2.html#201 "Section 201: Ownership of Copyright"
+[203]: https://www.copyright.gov/title17/92chap2.html#203 "Termination of transfers and licenses"
 [beastie]: https://www.youtube.com/watch?v=KARQOgivaGA
 [passman]: http://www.amazon.com/Need-Know-About-Music-Business/dp/1451682468/inscape-20 "Donald Passman, All You Need To Know About The Music Business"
 [goodcopy]: https://www.youtube.com/watch?v=WEKl5I_Q044 "A documentary featuring Girl Talk, Danger Mouse, and many others."
-
