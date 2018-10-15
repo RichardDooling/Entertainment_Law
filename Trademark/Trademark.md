@@ -11,7 +11,7 @@ chapter: Trademark
 
 Copyright (c) 2014 Richard Dooling
 
-These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE) (MIT)
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE) (MIT).
 
 ## I Disclaim
 

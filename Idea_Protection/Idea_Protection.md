@@ -5,6 +5,32 @@ subtitle: Entertainment Law
 chapter: Idea Protection
 ---
 
+# Lawyers For The Talent
+
+###### by Richard Dooling
+
+Copyright (c) 2014 Richard Dooling
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE) (MIT).
+
+## I Disclaim
+
+I am an author and sometimes a screenwriter. 
+I'm also a lawyer, 
+and I teach Entertainment Law at the University of Nebraska College of Law, 
+but I am not *your* lawyer, 
+and the text you find here is *not* legal advice. 
+
+To paraphrase Hunter Thompson: 
+
+> The entertainment industry 
+> is a cruel and shallow money trench &hellip; a long plastic 
+> hallway where thieves and pimps run free 
+> and good men die like dogs.
+
+It's no place to be guessing about your legal rights. 
+If you need legal advice, please get a lawyer.
+
 ## Idea Protection
 
 If the screenwriter has not yet written the screenplay she has in mind, 
@@ -16,20 +42,24 @@ and developing it with someone else?
 
 ## *Desny v. Wilder,* (CA. 1956).
 
+###### California Supreme Court (1956)
+
 * [Case at Google Scholar](http://scholar.google.com/scholar_case?case=3141417353271271191&hl=en&as_sdt=6&as_vis=1&oi=scholarr)
 * [Case in Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=46+Cal.2d+715&appflag=67.12)
 * [A Good Summary](http://thesterlingfirm.tumblr.com/post/89193789930/theft-in-the-idea-submission-context-a-case-brief)
 
-Writer Victor Desny called director-producer Billy Wilder 
-to set up an appointment to meet Wilder and pitch his story idea for a movie. 
+In the late 1940s, 
+writer Victor Desny telephoned director-producer [Billy Wilder](https://en.wikipedia.org/wiki/Billy_Wilder) 
+([*Sunset Blvd*](https://en.wikipedia.org/wiki/Sunset_Boulevard_(film)), *Some Like It Hot*, and many others)
+to set up an appointment to meet with Wilder, so that Desny could pitch his story idea for a movie. 
 Wilder's secretary told Desny to write a synopsis describing the idea. 
 Two days later, Desny called back and dictated the synopsis to the secretary. 
 Desny told the secretary that he expected compensation if the idea was used, 
 and she assured him that he would be paid if his idea were used. 
 Wilder stole Desny's idea and made a movie called *Ace In The Hole*.
 
-Desny sued and won because he made a deal that he would be paid 
-if his idea were used. Otherwise, as the court observes, "ideas are as free as the air."
+Desny sued and won because he had made a deal that he would be paid if his idea were used. 
+Otherwise, as the court observed, "ideas are as free as the air."
 
 ### Excerpts From *Desny v. Wilder*
 
@@ -37,30 +67,102 @@ if his idea were used. Otherwise, as the court observes, "ideas are as free as t
 
 SCHAUER, J.
 
-[Desny completed an untitled dramatic composition based on the life of Floyd Collins. Desny called Wilder's office at Paramount and spoke to his secretary, stating that he wished to see Wilder. The secretary asked that he explain his purpose and he "told her about this fantastic unusual story," describing a story about a boy trapped in a cave. Desny asked if he could send a copy of his story to Wilder, but the secretary stated it would need to be edited down to a synopsis by the script department first. Desny told the secretary he would abbreviate it himself. Two days later, Desny called Wilder's office to inform her the synopsis was ready. The secretary asked that he read it to her over the phone so she could take it down in shorthand and Desny did so. The secretary stated she would talk it over with Wilder and get back to Desny. Desny told her Wilder could use the story only if they paid him "the reasonable value of it.&hellip;" The secretary said that if Wilder used the story, "naturally we will pay you for it." Desny only spoke to Wilder's office again in 1950 to protest the alleged use of his composition and idea in the movie *Ace in the Hole* made by Wilder. *Ace in the Hole* closely parallels both Desny's synoposis and the history and life of Floyd Collins. It also contains a fictional incident which appears in Desny's synoposis and which he claims is his creation.]
+[Desny completed an untitled dramatic composition based on the life of Floyd Collins. 
+Desny called Wilder's office at Paramount and spoke to his secretary, 
+stating that he wished to see Wilder. 
+The secretary asked that he explain his purpose 
+and he "told her about this fantastic unusual story," 
+describing a story about a boy trapped in a cave. 
+Desny asked if he could send a copy of his story to Wilder, 
+but the secretary stated it would need to be edited down to a synopsis by the script department first. 
+Desny told the secretary he would abbreviate it himself. 
+Two days later, Desny called Wilder's office to inform her the synopsis was ready. 
+The secretary asked that he read it to her over the phone 
+so she could take it down in shorthand and Desny did so. 
+The secretary stated she would talk it over with Wilder and get back to Desny. 
+Desny told her Wilder could use the story 
+only if they paid him "the reasonable value of it &hellip;" 
+The secretary said that if Wilder used the story, 
+"naturally we will pay you for it." 
+Desny spoke to Wilder's office once again in 1950 
+to protest the alleged use of his composition and idea in the movie *Ace in the Hole* made by Wilder. 
+*Ace in the Hole* closely parallels both Desny's synoposis 
+and the history and life of Floyd Collins. 
+It also contains a fictional incident which appears in Desny's synoposis 
+and which he claims is his creation.]
 
-\* \* \*
+It may be that plaintiff's concessions and arguments, 
+in the light of the pleadings and evidence, 
+are intended to suggest that there is some nebulous middle area 
+between an abstract idea and a literary composition, 
+wherein the idea has been cast in “concrete” form 
+but not “concrete” enough to constitute a literary property.&hellip; 
 
-It may be that plaintiff's concessions and arguments, in the light of the pleadings and evidence, are intended to suggest that there is some nebulous middle area between an abstract idea and a literary composition, wherein the idea has been cast in “concrete” form but not “concrete” enough to constitute a literary property.&hellip; 
+However, for the purposes of this case at least, 
+we find it unnecessary and undesirable to recognize any such hybrid, 
+although we are aware that the Supreme Court of the United States 
+has spoken of a “quasi property” right in news gathered and disseminated 
+by a news service agency. 
+The plaintiff here, we conclude, must stand or fall, 
+and this case will be resolved, 
+on rules applicable to ideas on the one hand or literary property on the other.
 
-However, for the purposes of this case at least, we find it unnecessary and undesirable to recognize any such hybrid, although we are aware that the Supreme Court of the United States has spoken of a “quasi property” right in news gathered and disseminated by a news service agency. The plaintiff here, we conclude, must stand or fall, and this case will be resolved, on rules applicable to ideas on the one hand or literary property on the other.
+Generally speaking, ideas are as free as the air&hellip; 
+But there can be circumstances when neither air nor ideas may be acquired without cost &hellip; 
+The producer may think up the idea himself, 
+dress it and portray it; 
+or he may purchase either the conveyance of the idea alone 
+or a manuscript embodying the idea in the author's concept of a literary vehicle 
+giving it form, adaptation and expression. 
+It cannot be doubted that some ideas are of value to a producer.
 
-\* \* \*
+An idea is usually not regarded as property, 
+because all sentient beings may conceive and evolve ideas 
+throughout the gamut of their powers of cerebration 
+and because our concept of property implies something 
+which may be owned and possessed to the exclusion of all other persons &hellip;
 
-Generally speaking, ideas are as free as the air.&hellip; 
-But there can be circumstances when neither air nor ideas may be acquired without cost &hellip;  The producer may think up the idea himself, dress it and portray it; or he may purchase either the conveyance of the idea alone or a manuscript embodying the idea in the author's concept of a literary vehicle giving it form, adaptation and expression. It cannot be doubted that some ideas are of value to a producer.
+We conclude that conveyance of an idea can constitute valuable consideration 
+and can be bargained for before it is disclosed to the proposed purchaser &hellip; 
+But, assuming legality of consideration, 
+the idea purveyor cannot prevail in an action to recover compensation 
+for an abstract idea unless 
+(a) before or after disclosure he has obtained an express promise to pay, or 
+(b) the circumstances preceding and attending disclosure, 
+together with the conduct of the offeree acting with knowledge of the circumstances, 
+show a promise of the type usually referred to as “implied” or “implied-in-fact.” &hellip; 
+Such inferred or implied promise, if it is to be found at all, 
+must be based on circumstances which were known to the producer 
+at and preceding the time of disclosure of the idea to him 
+and he must voluntarily accept the disclosure, 
+knowing the conditions on which it is tendered &hellip; 
+Unless the offeree has opportunity to reject he cannot be said to accept. 
 
-An idea is usually not regarded as property, because all sentient beings may conceive and evolve ideas throughout the gamut of their powers of cerebration and because our concept of property implies something which may be owned and possessed to the exclusion of all other persons.&hellip;
+It is not essential to recovery 
+that plaintiff's story or synopsis possess the elements of copyright protectibility 
+if the fact of consensual contract be found &hellip; 
+Neither can we hold, on the state of the record, 
+that plaintiff's synopsis is devoid of the elements necessary 
+to give it some measure of such protectibility. 
+While the trial court, or an appellate court on a sufficient record, 
+may determine the specific extent of an author's property right in any particular work &hellip; 
+it is unnecessary on this appeal to define the limits more exactly than has already been done.
 
-\* \* \*
-
-[W]e conclude that conveyance of an idea can constitute valuable consideration and can be bargained for before it is disclosed to the proposed purchaser &hellip; But, assuming legality of consideration, the idea purveyor cannot prevail in an action to recover compensation for an abstract idea unless (a) before or after disclosure he has obtained an express promise to pay, or (b) the circumstances preceding and attending disclosure, together with the conduct of the offeree acting with knowledge of the circumstances, show a promise of the type usually referred to as “implied” or “implied-in-fact.” &hellip; Such inferred or implied promise, if it is to be found at all, must be based on circumstances which were known to the producer at and preceding the time of disclosure of the idea to him and he must voluntarily accept the disclosure, knowing the conditions on which it is tendered &hellip; Unless the offeree has opportunity to reject he cannot be said to accept. 
-
-\* \* \*
-
-It is not essential to recovery that plaintiff's story or synopsis possess the elements of copyright protectibility if the fact of consensual contract be found &hellip;  Neither can we hold, on the state of the record, that plaintiff's synopsis is devoid of the elements necessary to give it some measure of such protectibility. While the trial court, or an appellate court on a sufficient record, may determine the specific extent of an author's property right in any particular work &hellip; it is unnecessary on this appeal to define the limits more exactly than has already been done.
-
-Here, as conceded by defendants for purposes of their summary judgment motion, plaintiff, in accordance with his testimony, submitted his synopsis to them through defendant Wilder's secretary and such submission included a declaration by both plaintiff and the secretary that defendants were to pay for his story if they used it. The mere fact that at the time of plaintiff's first telephone call to Wilder's office he described the central idea of the story to the secretary in response to her insistence that he explain the purpose of his call would not as a matter of law deprive plaintiff of the right to payment for the story as discussed by him and the secretary when he again spoke with her two days later and at her request read his synopsis to her, for her to take down in shorthand for defendants' consideration; the two conversations appear to have been parts of a single transaction and must be construed as such.&hellip;
+Here, as conceded by defendants for purposes of their summary judgment motion, 
+plaintiff, in accordance with his testimony, 
+submitted his synopsis to them through defendant Wilder's secretary 
+and such submission included a declaration by both plaintiff and the secretary 
+that defendants were to pay for his story if they used it. 
+The mere fact that at the time of plaintiff's first telephone call to Wilder's office 
+he described the central idea of the story to the secretary 
+in response to her insistence that he explain the purpose of his call
+would not as a matter of law deprive plaintiff of the right to payment 
+for the story as discussed by him and the secretary 
+when he again spoke with her two days later 
+and at her request read his synopsis to her, 
+for her to take down in shorthand for defendants' consideration; 
+the two conversations appear to have been parts of a single transaction 
+and must be construed as such &hellip;
 
 ## *Montz v. Pilgrim Films & Television, Inc.*
 
@@ -84,8 +186,11 @@ if the producer uses the concept. [*Desny v. Wilder* (CA 1956)][desny]
 
 A so-called "*Desny* claim" 
 has remained viable under California law for over fifty years. 
-This court applied that California law in [*Grosso v. Miramax Film Corp.* (9th Cir. 2004),][grosso] where we held that such an implied contractual claim is not preempted by federal copyright law. We
-explained that the contractual claim requires that there be an
+This court applied that California law in 
+[*Grosso v. Miramax Film Corp.* (9th Cir. 2004),][grosso] 
+where we held that such an implied contractual claim 
+is not preempted by federal copyright law. 
+We explained that the contractual claim requires that there be an
 expectation on both sides that use of the idea requires compensation,
 and that such bilateral understanding of payment constitutes an
 additional element that transforms a claim from one asserting a right
@@ -164,8 +269,7 @@ that defendants breached an implied-in-fact contract.
 The complaint described the terms of the agreement:
 
 > Plaintiffs communicated their ideas and creative concepts for the
-> "Ghost Hunters" 
-> Concept to the Defendants, pursuant to the standard custom and
+> "Ghost Hunters" to the Defendants, pursuant to the standard custom and
 > practice in the industry with respect to the exchange of creative
 > ideas, under the following terms:
 
@@ -200,7 +304,7 @@ that compensation was expected in accord with industry practice.
 Plaintiffs also alleged that defendants breached their confidential
 relationship "by taking Plaintiffs' novel ideas and concepts, exploiting
 those ideas and concepts, and profiting therefrom to the Plaintiffs'
-exclusion.&hellip;" The complaint therefore alleged a claim
+exclusion &hellip;" The complaint therefore alleged a claim
 under California law of breach of confidence.
 
 ### II. Procedural Background
@@ -318,14 +422,15 @@ consistently over the decades.
 
 In recent years, litigation has, not surprisingly, moved to the federal
 courts where defendants have hoped for greater success in pressing for
-copyright preemption.&hellip;
+copyright preemption &hellip;
 
 In a later case, however, a district court held 
 that an implied-in-fact contract claim survived Copyright Act preemption 
 because it was substantively different from a copyright claim: 
 "The whole purpose of the contract 
 was to protect Plaintiff's rights to his ideas 
-beyond those already protected by the Copyright Act.&hellip;" [*Groubert v. Spyglass Entm't Group,* (C.D.Cal. 2002)](http://scholar.google.com/scholar_case?about=5654145615804941089).
+beyond those already protected by the Copyright Act.&hellip;" 
+[*Groubert v. Spyglass Entm't Group,* (C.D.Cal. 2002)](http://scholar.google.com/scholar_case?about=5654145615804941089).
 Nimmer expressly approved this decision. 
 We agreed with this assessment 
 when we decided in *Grosso* 
@@ -358,7 +463,7 @@ was supposed to be kept confidential. But the complaint clearly contains these a
 The judgment of the district court is REVERSED and the matter REMANDED
 for further proceedings on plaintiffs' remaining claims.
 
-### *Montz* Dissents
+### *Montz* Dissent
 
 O'SCANNLAIN, Circuit Judge, Joined by GOULD, TALLMAN and BEA, Circuit
 Judges, dissenting:
@@ -373,7 +478,7 @@ or to disclose ideas embodied in copyrighted material without
 authorization asserts rights equivalent to those protected by the
 Copyright Act. Accordingly, the district court's determination that the
 Copyright Act preempts Montz's claims should be affirmed. I respectfully
-dissent from the Court's opinion to the contrary.&hellip; 
+dissent from the Court's opinion to the contrary &hellip; 
 
 ### I
 
@@ -384,7 +489,7 @@ to the exclusive rights afforded to copyright owners by section 106.
 #### A
 
 Montz's breach-of-implied-contract claim consists of the following
-allegations: (1) "[t]he Plaintiffs presented their ideas for the 'Ghost
+allegations: (1) "the Plaintiffs presented their ideas for the 'Ghost
 Hunter' Concept to the Defendant in confidence, pursuant to the
 custom and practice of the entertainment industry, for the express
 purpose of offering to partner with the Defendants in the production,
@@ -401,19 +506,18 @@ the express consent of the Plaintiffs,* and to share with the Plaintiffs
 &hellip; the profits and credit for their idea and concepts." (emphasis
 added).
 
-To distinguish itself from a copyright claim, a state law claim "must
-protect rights which are qualitatively different from the copyright
-rights." [*Laws* at
-1143](http://scholar.google.com/scholar_case?case=16156934007444564709)
-(internal quotation marks omitted). This requires that the state claim
-have an "extra element which transforms the nature of the action." *Id.* 
+To distinguish itself from a copyright claim, a state law claim 
+"must protect rights which are qualitatively different from the copyright rights." 
+[*Laws v. Sony*](http://scholar.google.com/scholar_case?case=16156934007444564709) (9th Cir. 2006). 
+This requires that the state claim
+have an "extra element which transforms the nature of the action." 
 Montz's breach-of-implied-contract claim fails this test.
 
 Under section 106, a copyright owner has the exclusive rights to
 reproduce, to distribute, and to display the copyrighted work, as well
 as to prepare derivative works based on the copyrighted work. 17 U.S.C.
 § 106. Section 106 also provides a copyright owner with the exclusive
-rights  to authorize
+rights to authorize
 such reproduction, distribution, display, and preparation. *Id.* Montz
 alleges that "by producing and broadcasting" *Ghost Hunters,* "the
 Defendants breached their implied agreement not to disclose, divulge or
@@ -434,8 +538,7 @@ authorizing Pilgrim to use his ideas so long as it pays him.
 A copyright is not just the right to receive money upon the use of a work; 
 it is "the right to control the work, 
 including the decision to make the work
-available to or withhold it from the public." [*Laws* at
-1137](http://scholar.google.com/scholar_case?case=16156934007444564709). 
+available to or withhold it from the public." [*Laws*](http://scholar.google.com/scholar_case?case=16156934007444564709). 
 Indeed, because a copyright gives its owner 
 a property right---not merely a liability right---injunctive relief 
 for copyright infringement is provided for by
@@ -455,16 +558,15 @@ materials without his consent.
 
 Thus, Montz does not claim to have sold the rights to the ideas embodied
 in his materials, as did the plaintiff in [*Grosso v. Miramax Film
-Corp.,* (9th Cir. 2004)][grosso].
+Corp.,*][grosso] (9th Cir. 2004).
 *Grosso* involved a particular type of breach-of-implied-contract claim,
 the elements of which the California Supreme Court elucidated in [*Desny
-v. Wilder,* (1956)][desny]
+v. Wilder,*][desny] (CA 1956).
 To state a *Desny* claim, the plaintiff must plead that he "prepared the
 work, disclosed the work to the offeree for sale, and did so under
 circumstances from which it could be concluded that the offeree
 voluntarily accepted the disclosure knowing the conditions on which it
-was tendered and the reasonable value of the work." [*Grosso,* at
-967][grosso].
+was tendered and the reasonable value of the work." [*Grosso*][grosso].
 
 "Mirroring the requirements of *Desny,*" the complaint in *Grosso*
 alleged the plaintiff had submitted a movie script to the defendants
@@ -472,11 +574,11 @@ alleged the plaintiff had submitted a movie script to the defendants
 reasonably compensated for its use by Defendants." *Id.* 
 We concluded that the defendants' "implied
 promise to pay" for use of the idea embodied in the script constituted
-"an 'extra element' for preemption purposes." *Id.* at 968. The subject
+"an 'extra element' for preemption purposes." The subject
 of the implied contract, then, was the sale of the plaintiff's idea. The
 plaintiff asserted that he had "disclosed [his] work to the offeree for
 sale," and that, by using the ideas embodied in his work, the offeree
-had implicitly agreed to pay for it. *Id.* at 967.
+had implicitly agreed to pay for it. *Grosso*.
 
 By contrast, Montz alleges that he retained his rights as a copyright
 owner. Montz "presented [his] ideas for the 'Ghost Hunter' Concept to
@@ -499,8 +601,8 @@ the difference between authorizing the use of one's work in exchange for
 money, and not authorizing the use of one's work at all. I am mindful of Montz's
 allegation that he expected to receive compensation and credit if his
 ideas were ever used. But this fact alone is not sufficient to
-"transform the nature of the action." [*Laws* at
-1144](http://scholar.google.com/scholar_case?case=16156934007444564709).
+"transform the nature of the action." 
+[*Laws*](http://scholar.google.com/scholar_case?case=16156934007444564709).
 Montz expected to receive compensation and credit for use of his work
 only because he also expected---as any copyright owner would---that his work
 would not be used without authorization. Far from being
@@ -533,14 +635,15 @@ a balance between the property rights of copyright owners, and the
 expressive rights of the rest of the creative community, by permitting
 copyright suits only where "there is substantial similarity between the
 protected elements" of the two works. [*Benay v. Warner Bros. Entm't,
-Inc.,* (9th Cir.2010)](http://scholar.google.com/scholar_case?case=1156296074793113648).
+Inc.*](http://scholar.google.com/scholar_case?case=1156296074793113648) (9th Cir. 2010).
 Here, Montz attempts to use an implied contract claim to do what the
 Copyright Act does (i.e., to protect the unauthorized use of copyrighted
 materials). The only difference is that Montz's implied contract claim
 would protect those rights more broadly because California implied
 contract law does not require as strict a showing of substantial
 similarity as federal copyright law. 
-But the "fact that the state-created right is &hellip; broader &hellip; than its federal counterpart will not save it from pre-emption." 
+But the "fact that the state-created right is &hellip; broader &hellip; 
+than its federal counterpart will not save it from pre-emption." 
 
 ### II
 
@@ -609,7 +712,7 @@ volatility—available to litigants who bring nebulous state law claims
 that in substance assert rights in the nature of copyright. Hence, I
 respectfully dissent.
 
-### *Quirk v. Sony* 
+## *Quirk v. Sony* 
 
 ###### United States District Court (N.D. CA 2013)
 
@@ -645,7 +748,7 @@ rights under copyright law.
 
 [The copyright infringement portions of this opinion are in the chapter on Copyright Infringement.]
 
-## B. *Desny claim*
+### B. *Desny claim*
 
 In 1956, the California Supreme Court recognized an implied contractual
 right to compensation when a writer submits material to a producer with
@@ -654,19 +757,18 @@ concept. [*Desny,*](http://scholar.google.com/scholar_case?case=3141417353271271
 The Ninth Circuit has reaffirmed that *Desny* claims remain viable and
 are not preempted by copyright law. [*Montz v. Pilgrim Films &
 Television, Inc.,* (9th Cir.  2011)](http://scholar.google.com/scholar_case?case=3302514421955048097). The *Montz* court described the essence of the claim as resting on "an expectation *on both sides* that use of the idea requires compensation."
-*Id.* at 976. Such a "bilateral understanding of payment" is critical,
+Such a "bilateral understanding of payment" is critical,
 because it "constitutes an additional element that transforms a claim
 from one asserting a right exclusively protected by federal copyright
 law, to a contractual claim that is not preempted by copyright law."
-*Id.*
 
 The *Desny* court elaborated, "the idea purveyor cannot prevail in an
 action to recover compensation for an abstract idea unless (a) before or
 after disclosure he has obtained an express promise to pay, or (b) the
 circumstances preceding and attending disclosure, together with the
 conduct of the offeree acting with knowledge of the circumstances, show
-a promise of the type usually referred to as \`implied' or
-\`implied-in-fact.'" [*Desny*](http://scholar.google.com/scholar_case?case=3141417353271271191).
+a promise of the type usually referred to as 'implied' or
+'implied-in-fact.'" [*Desny*](http://scholar.google.com/scholar_case?case=3141417353271271191).
 Moreover, "the law will not imply a promise to pay for an idea from
 the mere facts that the idea has been conveyed, is valuable, and has
 been used for profit; this is true even though the conveyance has been
@@ -805,7 +907,7 @@ circumstances under which they were exposed to the novel (if they were)
 years later. Accordingly, summary judgment must be granted in
 defendants' favor on the *Desny* claim.
 
-## V. CONCLUSION
+### V. CONCLUSION
 
 Defendants' motions for summary judgment are granted. A separate
 judgment will issue.
