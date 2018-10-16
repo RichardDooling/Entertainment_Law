@@ -5,6 +5,32 @@ subtitle: Entertainment Law
 chapter: Other Rights
 ---
 
+# Lawyers For The Talent
+
+###### by Richard Dooling
+
+Copyright (c) 2014 Richard Dooling
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE) (MIT).
+
+## I Disclaim
+
+I am an author and sometimes a screenwriter. 
+I'm also a lawyer, 
+and I teach Entertainment Law at the University of Nebraska College of Law, 
+but I am not *your* lawyer, 
+and the text you find here is *not* legal advice. 
+
+To paraphrase Hunter Thompson: 
+
+> The entertainment industry 
+> is a cruel and shallow money trench &hellip; a long plastic 
+> hallway where thieves and pimps run free 
+> and good men die like dogs.
+
+It's no place to be guessing about your legal rights. 
+If you need legal advice, please get a lawyer.
+
 # Other Rights
 
 ###### by Richard Dooling
@@ -46,10 +72,12 @@ For example, in [*Paramount Productions, Inc. v. Smith* (9th Cir.  1937)](https:
 author Smith sold his story “Cruise to Nowhere” to Paramount
 Productions, Inc. for $2,500 and the following credit agreement:
 
-> [Paramount] agrees to announce on the film of the motion picture photoplays that may be produced pursuant hereto that such motion picture photoplays are based upon or adapted from a story written by the Author, or words to that effect.
+> Paramount agrees to announce on the film of the motion picture photoplays that may be produced pursuant hereto that such motion picture photoplays are based upon or adapted from a story written by the Author, or words to that effect.
 
 In 1945 Paramount began exhibiting a movie entitled *We’re Not Dressing*, 
-which was based on author Smith's story, but Smith received no credit. Paramount argued that damages were too speculative. 
+which was based on author Smith's story, 
+but Smith received no credit. 
+Paramount argued that damages were too speculative. 
 How could the jury determine the worth of something 
 so insubstantial as a credit? 
 The Ninth Circuit had no trouble with that calculation, 
@@ -303,12 +331,12 @@ The district court correctly noted that a false reference to the origin
 of a work, or a reference which, while not literally false, is
 misleading or likely to confuse, may form the basis of a claim under
 section 43(a) of the Lanham Act &hellip; (prohibiting use in commerce of "any false designation  of origin, false
-or misleading description of fact,   or false or misleading
+or misleading description of fact, or false or misleading
 representation of fact" which is "likely to cause confusion . . . or to
 deceive as to affiliation, connection, or association"); [*Gilliam v.
 ABC, Inc.*, (2d Cir. 1976)][gilliam].
 
-**A. The Possessory Credit** 
+*A. The Possessory Credit*
 
 We perceive no error in the district court's conclusion that King is
 likely to succeed on the merits of his objection to the possessory
@@ -336,7 +364,7 @@ In any event, as the district court recognized, no evidence of public
 confusion is required where, as is the case with the possessory credit,
 the attribution is false on its face.&hellip; 
 
-**B. The "Based Upon" Credit**
+*B. The "Based Upon" Credit*
 
 As the district court recognized, a "based upon" credit by definition
 affords more "leeway" than a possessory credit. The district court
@@ -460,10 +488,10 @@ in Lanham Act cases once the plaintiff establishes likelihood of success
 on a claim of literal falseness, as King has established with respect to
 the possessory credit.
  
-(The court then rejected Allieds arguments that this presumption was rebutted
+(The court then rejected Allied's arguments that this presumption was rebutted
 by King's delay or because he enjoyed the movie.)
 
-### CONCLUSION ###
+### Conclusion ###
 
 The order of the district court granting a preliminary injunction is
 affirmed to the extent it prohibits use of the possessory credit, but
@@ -694,7 +722,8 @@ awards in the future.
 We are bound by the very deferential standard of review that we must
 give arbitral decisions. "Courts &hellip; do not sit to hear claims of
 factual or legal error by an arbitrator as an appellate court does in
-reviewing decisions of lower courts.&hellip; That a court is convinced an arbitrator committed serious error does not suffice to overturn
+reviewing decisions of lower courts.&hellip; 
+That a court is convinced an arbitrator committed serious error does not suffice to overturn
 his decision." &hellip; Regardless of whether this is
 the solution that we would come up with through our own independent
 interpretation of the Basic Agreement, we must abide by the arbitrator's
