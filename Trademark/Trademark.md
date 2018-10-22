@@ -98,7 +98,7 @@ the ground that it expresses ideas that offend.
 "The principle underlying trademark protection is that distinctive marks
 — words, names, symbols, and the like — can help distinguish a
 particular artisan's goods from those of others." 
-[*B & B Hardware, Inc. v. Hargis Industries, Inc.*][BB] (2015).
+[*B & B Hardware, Inc. v. Hargis Industries, Inc.*][BB] (US 2015).
 A trademark "designates the goods as the product of a particular
 trader" and "protects his good will against the sale of another's
 product as his." It helps consumers identify goods and services that they wish to
@@ -129,8 +129,8 @@ and supports the free flow of commerce.
 "National protection of trademarks is desirable," we have explained, 
 "because trademarks foster competition and the maintenance of quality 
 by securing to the producer the benefits of good reputation." 
-[*San Francisco Arts & Athletics*](https://scholar.google.com/scholar_case?case=1174535828769123599).
-See also [*Park 'N Fly*](https://scholar.google.com/scholar_case?case=16323007241887299048)
+[*San Francisco Arts & Athletics*](https://scholar.google.com/scholar_case?case=1174535828769123599) (US 1987).
+See also [*Park 'N Fly*](https://scholar.google.com/scholar_case?case=16323007241887299048) (US 1984)
 (“The Lanham Act provides national protection of trademarks in order to secure to the owner of the mark the goodwill of his business and to protect the ability of consumers to distinguish among competing producers”).
 
 #### B
@@ -269,14 +269,14 @@ the First Amendment does not say
 that Congress and other government entities must abridge 
 their own ability to speak freely. 
 And our cases recognize that "the Free Speech Clause &hellip; 
-does not regulate government speech." [*Pleasant Grove City v. Summum*][Summum] (2009);
-[*Johanns v. Livestock Marketing Assn.*][Johanns] (2005)("the Government's own speech 
+does not regulate government speech." [*Pleasant Grove City v. Summum*][Summum] (US 2009);
+[*Johanns v. Livestock Marketing Assn.*][Johanns] (US 2005)("the Government's own speech 
 &hellip; is exempt from First Amendment scrutiny").
 
 As we have said, "it is not easy to imagine how government could function" 
 if it were subject to the restrictions that the First Amendment imposes on private speech. 
 [*Summum*][Summum].
-See [*Walker v. Texas Div., Sons of Confederate Veterans, Inc.,*][Walker]
+See [*Walker v. Texas Div., Sons of Confederate Veterans, Inc.,*][Walker] (US 2015)
 "The First Amendment forbids the government to regulate speech 
 in ways that favor some viewpoints or ideas at the expense of others,"
 but imposing a requirement of viewpoint-neutrality on government speech
@@ -420,7 +420,7 @@ Giving offense is a viewpoint.
 We have said time and again that 
 "the public expression of ideas may not be prohibited 
 merely because the ideas are themselves offensive to some of their hearers." 
-[*Street v. New York,*](http://scholar.google.com/scholar_case?case=6391101560513832626&q=matal+v+tam&hl=en&as_sdt=6,28).
+[*Street v. New York,*](http://scholar.google.com/scholar_case?case=6391101560513832626&q=matal+v+tam&hl=en&as_sdt=6,28) (US 1968).
 See also [*Texas v. Johnson*](http://scholar.google.com/scholar_case?case=2084618710761560217&q=matal+v+tam&hl=en&as_sdt=6,28) (US 1989)
 ("If there is a bedrock principle underlying the First Amendment, it is
 that the government may not prohibit the expression of an idea simply
@@ -730,7 +730,7 @@ judgment.
 
 > Justice THOMAS, concurring in part and concurring in the judgment.
 
-< (On the First Amendment issue, 
+> (On the First Amendment issue, 
 Justice wrote separately because, 
 "I continue to believe that when the
 government seeks to restrict truthful speech in order to suppress the
@@ -1177,7 +1177,7 @@ These findings will be disturbed only if clearly erroneous. Moreover,
 because we are reviewing the district court's decision after a bench
 trial on the merits, we give special deference to the court's
 determinations of witness credibility. [*Anderson v. City of Bessemer
-City,* (S.Ct. 1985)](http://scholar.google.com/scholar_case?case=4660598599950299463).
+City,* (US 1985)](http://scholar.google.com/scholar_case?case=4660598599950299463).
 With the foregoing in mind, we examine each of the *Polaroid* factors in
 turn.
 
@@ -1197,7 +1197,7 @@ instead of that of the junior user.
 
 However, this does not always lead to confusion. As then District Judge
 Leval explained in [*Yankee Publishing Inc. v. News America Publishing
-Inc.,* (S.D.N.Y.1992),](http://scholar.google.com/scholar_case?case=10303687158773885878)
+Inc.,* (SDNY 1992),](http://scholar.google.com/scholar_case?case=10303687158773885878)
 "[w]here the plaintiff's mark is being used as part of a jest or
 commentary.... [and] both plaintiff['s] and defendant's marks are
 strong, well recognized, and clearly associated in the consumers' mind
@@ -1331,7 +1331,7 @@ was a business association between [Henson] and [Hormel]." [809 F. Supp
 at 275](http://scholar.google.com/scholar_case?case=10303687158773885878).
 Indeed, the lack of subtlety in Henson's parody is evidence in itself
 that Henson intended no deceit. *See* [*Tetley, Inc. v. Topps Chewing
-Gum, Inc.,* (E.D.N.Y.1983)](http://scholar.google.com/scholar_case?case=3692925699656865799).
+Gum, Inc.,* (EDNY.1983)](http://scholar.google.com/scholar_case?case=3692925699656865799).
 There is nothing to indicate that Henson acted in bad faith.
 
 #### *Quality of the Products*
@@ -1459,11 +1459,11 @@ The mark may also be tarnished if it loses its ability to serve as a
 Tarnishment can occur through a variety of uses. Some cases have found
 that a mark is tarnished when its likeness is placed in the context of
 sexual activity, obscenity, or illegal activity. *See, e.g.,* [*Eastman
-Kodak Co. v. Rakow,* (W.D.N.Y.1989)](http://scholar.google.com/scholar_case?case=18366776276641723279);
-[*Dallas Cowboys Cheerleaders, Inc. v. Pussycat Cinema, Ltd.,* (S.D.N.Y)](http://scholar.google.com/scholar_case?case=4398729965656614180).),
+Kodak Co. v. Rakow,* (WDNY 1989)](http://scholar.google.com/scholar_case?case=18366776276641723279);
+[*Dallas Cowboys Cheerleaders, Inc. v. Pussycat Cinema, Ltd.,* (SDNY)](http://scholar.google.com/scholar_case?case=4398729965656614180).),
 *aff'd,* [(2d
 Cir. 1979)](http://scholar.google.com/scholar_case?case=11014508973363071529);
-[*Pillsbury Co. v. Milky Way Productions, Inc.,* (N.D.Ga.
+[*Pillsbury Co. v. Milky Way Productions, Inc.,* (ND Ga.
 1981)](http://scholar.google.com/scholar_case?about=7033763304563322440).
 However, tarnishment is not limited to seamy conduct. 
 Hormel argues that the image of Spa'am, as a "grotesque," "untidy" wild
