@@ -65,7 +65,7 @@ As the authors of the leading Entertainment Law textbook put it:
 > Some deal memos also include arrangements 
 > for the level of creative control 
 > and personal perks that a party will enjoy. 
-> **Often these deal memos are never signed by the parties.** 
+> *Often these deal memos are never signed by the parties.* 
 > While contracting parties contemplate 
 > the completion of lengthy, signed agreements, 
 > in many cases pre-production work, even filming, 
@@ -74,7 +74,7 @@ As the authors of the leading Entertainment Law textbook put it:
 > and drafting a final personal service contract.
 
 > *Entertainment, Media, and The Law: Text, Cases, and Problems*, 
-> (4th Ed. 2011), Paul C. Weiler, Gary C. Meyers.
+> (4th Ed. 2011), Paul C. Weiler, Gary C. Meyers, William Berry III.
 
 When deals fall through, 
 a judge or jury comes along 
@@ -115,9 +115,7 @@ some of which lead to enforceable contracts; others not.
 - *Legal capacity* - the parties are all of legal age and competent to contract. 
 - *Legal purpose* - can't contract to do anything illegal.
 
-## Offer and acceptance
-
-### *Mainline v. Basinger*
+## *Mainline v. Basinger*
 
 ###### Court of Appeal, California (1994)
  
@@ -136,7 +134,7 @@ relating to production of the movie “Boxing Helena.”
 (A “loan-out” corporation is a personal service corporation 
 which lends the services of an artist to a production company.)&hellip; 
 
-#### FACTS
+### Facts
 
 In December 1990, 
 Main Line sent a copy of the screenplay of “Boxing Helena” to Basinger. 
@@ -302,7 +300,7 @@ included in this document.
 On June 10, 1991, Main Line learned that Basinger was not going
 to act in “Boxing Helena.”
 
-#### PROCEDURAL BACKGROUND
+### Procedural Background
 
 On June 21, 1991, Main Line filed a complaint naming as defendants
 Basinger and Mighty Wind. The complaint alleged that defendants breached
@@ -318,6 +316,220 @@ million in damages. The jury did not award any punitive damages.
 &hellip; Upon motion, the trial court awarded
 Main Line $713,522.05 in attorney's fees and costs. A $8,135,216.05
 judgment was entered against Basinger and/or Mighty Wind.
+
+## *Alexander v. MGM*
+
+###### United States District Court, C.D. California (2017)
+
+* [Case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2017+WL+5633407&appflag=67.12)
+
+HONORABLE RONALD S.W. LEW, Senior U.S. District Judge
+
+Currently before the Court is Defendants Metro-Goldwyn-Mayer
+Studios Inc. (“MGM”), Warner Brothers Entertainment, Inc. (“Warner
+Brothers”), New Line Cinema Corporation (“New Line”), Chartoff-Winkler
+Productions Inc. (“CWP”), Sylvester Stallone (“Stallone”), Ryan Coogler
+(“Coogler”), and Aaron Covington’s (“Covington”) (collectively,
+“Defendants”) Motion to Dismiss Plaintiff Jarrett Alexander’s
+(“Plaintiff”) Complaint in its Entirety with Prejudice (“Motion”
+or “Motion to Dismiss”). Having reviewed all papers submitted pertaining
+to this Motion, the Court *NOW FINDS AND RULES AS FOLLOWS:* the Court
+*GRANTS* Defendants’ Motion to Dismiss *WITHOUT LEAVE TO AMEND.*
+
+### I. BACKGROUND
+
+#### A. Factual Background
+
+This is an Action common to this district, where a plaintiff claims that
+defendants, typically entertainment industry corporations or executives,
+stole his idea for a popular television show or motion picture.
+
+Plaintiff is a New Jersey citizen and a largely unknown television and
+movie actor. 
+MGM, Warner Brothers, New
+Line, and CWP are Delaware corporations, a Delaware LLC, and a
+California corporation, respectively.
+All have their
+principal place of business throughout the greater Los Angeles area.
+
+*Rocky* is an internationally-known movie released in 1976.
+Stallone starred as the titular character,
+Rocky Balboa, a professional boxer. Apollo Creed is another character
+featured in four of the *Rocky* franchise sequels. 
+
+In 2008, Plaintiff, a lifelong fan of the *Rocky* franchise, allegedly
+came up with an idea to create a story about the fighting career of
+Apollo Creed’s son.  The story would emphasize
+the theme of building one’s own legacy.
+He drafted a screenplay, initially titled “Creed: Rocky Legacy,”
+later titled “Creed” (the “Screenplay”). 
+The Screenplay follows Apollo Creed’s son as he establishes himself in the
+boxing community, copes with his father’s death, and builds his own
+legacy with Rocky Balboa’s advice and mentorship.
+
+In 2010, Plaintiff registered the Screenplay, titled “Creed: Rocky
+Legacy” with the Writer’s Guild of America (“WGA”), registration number
+VPFA4D8DCEF2. 
+Thereafter, he registered the
+Screenplay, this time entitled “Creed,” with the United States Copyright
+Office, registration number PA0001861140. 
+
+Plaintiff also made a “pitch reel,” a short promotional film about the
+Screenplay and its “legacy” theme (the “Pitch Reel”). 
+The Pitch Reel starts with a reporter interviewing Apollo
+Creed’s son and asking him whether he will uphold his father’s legacy.
+Plaintiff posted the Pitch Reel on Vimeo, a
+social networking platform for sharing video content. In 2012, he created a website, www.creedmovie.com (the
+“Website”), which was later transferred to a different domain,
+www.jarrettalexander.com, after the original domain lapsed in June 2014.
+The Website contained the Pitch Reel and
+described how Plaintiff developed the Screenplay. The Screenplay, Pitch Reel, and Website are collectively referred to
+as the “Creed Idea.”
+
+Between 2010 and 2013, Plaintiff attempted to generate interest
+in the Creed Idea. In 2010, he circulated the Screenplay to individuals
+in the movie industry. He alleges that
+Coogler knows and interacts with some of these individuals; for example,
+Coogler and one of the Screenplay recipients both attended the American
+Black Film Festival in Miami, Florida in July 2011. 
+
+Because Plaintiff lacked the financial means or connections to make a
+movie on his own, he also took to social media to pitch the Creed Idea
+to movie industry insiders. In April 2012,
+Plaintiff and several friends started promoting the Creed Idea on
+Twitter, a social media platform where individuals can post or “tweet”
+short, public messages that can be directed at specific users.
+They tweeted links to the Website and the
+Pitch Reel to several individuals in the movie and professional fighting
+industries. 
+
+For instance, they tweeted at actor and ex-professional wrestler, Dwayne
+“The Rock” Johnson, Stallone, and Carl Weathers (the actor who played
+Apollo Creed in the *Rocky* movies), attaching a link to the Website.
+Stallone, MGM, and New Line all allegedly
+“follow” Dwayne Johnson’s twitter account and Plaintiff alleges that
+Stallone and Dwayne Johnson are friends. 
+Plaintiff’s friend also tweeted Stallone directly: “@TheSlyStallone
+next rocky installment4u? 2min trailer. Wants to meet u creedmovie.com.”
+Between April 2012 and July 2013, Plaintiff
+and his friends allegedly sent more than 25 tweets that hyperlinked to
+the Website and encouraged Stallone to work with Plaintiff on the Creed
+Idea. Plaintiff alleges that Defendants reviewed the Screenplay,
+Website, and Pitch Reel. 
+
+On July 24, 2013, MGM and Stallone announced their plans to develop
+*Creed*, a motion picture about Apollo Creed’s son. They recruited Coogler to write the screenplay. 
+Plaintiff alleges that Defendants’ movie, *Creed*, is premised exactly
+on the Creed Idea he created. Specifically,
+Defendants’ *Creed* follows Apollo Creed’s son as he strives to create
+his own legacy under the tutelage of the now-retired fighter, Rocky
+Balboa. And the official *Creed* trailer
+features the following phrase: “Your Legacy is More Than a Name.”
+Alleging that Defendants stole his idea,
+Plaintiff filed the instant Action.
+
+#### b. Breach of Implied Contract
+
+“California law recognizes that an implied-in-fact contract arises when
+the writer submits material to a producer with the understanding that
+the writer expects to be paid if the producer uses his concept.” 
+[Counts v. Meriwether](https://scholar.google.com/scholar_case?case=18143547733996127593&q=counts+v.+meriwether&hl=en&as_sdt=3,28) (C.D. Cal. 2015)(citing [Desny][desny]).
+As the Ninth Circuit has recognized, the so-called
+[Desny][desny] claim protects individuals “who wish to find an
+outlet for creative concepts and ideas.” [Montz][montz].
+
+“To establish a [Desny][desny] claim for breach of implied-in-fact
+contract, the plaintiff must show that the plaintiff prepared the work,
+disclosed the work to the offeree for sale, and did so under
+circumstances from which it could be concluded that the offeree
+voluntarily accepted the disclosure knowing the conditions on which it
+was tendered and the reasonable value of the work.” 
+
+Plaintiff alleges that he prepared the Creed Idea between 2008 and 2011,
+creating the Screenplay, Pitch Reel, and Creed Website. 
+He disclosed the Creed Idea at least to Stallone, by tweeting him a link
+to the Website, and by distributing the Screenplay to individuals who
+apparently know and work with Coogler. Plaintiff claims that the
+remaining Defendants “reviewed” the Creed Idea, but alleges no facts to
+support this allegation.
+
+But Plaintiff has no allegations that the Creed Idea was offered
+for sale. “The law will not imply a promise to pay for an idea from the
+mere facts that the idea has been conveyed, is valuable, and has been
+used for profit &hellip; plaintiff must fail unless &hellip; he can establish
+a contract to pay. [Desny][desny]. 
+*See also* [Wilder v. CBS Corp.](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2016+WL+693070&appflag=67.12) (C.D. Cal. 2016) (plaintiff told defendants during a pitch meeting that she wanted
+payment for her proposed talk-show idea). Indeed, the allegations
+portray that Plaintiff offered the Creed Idea gratuitously—asking
+Stallone, through his Twitter account, “@TheSlyStallone next rocky
+installment4u? 2min trailer. Wants to meet u creedmovie.com.” 
+
+Plaintiff argues that he understood, based on industry custom, that he
+would be compensated for the Creed Idea. He
+adds that industry custom dictates that writers will submit ideas to
+producers and industry insiders with the expectation of compensation,
+and that Defendants implicitly understood this norm was in play here.
+While industry custom may inform the
+implied contract calculus, “reasonable expectation of payment &hellip; 
+should be inferred from the facts and circumstances.” 
+
+The facts and circumstances do not show Plaintiff was to receive
+compensation. Plaintiff’s allegations make two tenuous inferences: (1)
+that he expected payment for tweeting his Creed Idea to Stallone’s
+Twitter account (Stallone has over 1.7 million followers), to which no
+response was received; (2) or that he expected compensation after
+plastering his Creed Idea all over the Internet. 
+Indeed, Plaintiff invites the Court to premise a claim for breach of
+implied contract on a “tweet” that was never responded to. 
+[Jordan-Benel v. Univ. City Studios, Inc.](https://scholar.google.com/scholar_case?case=2662111906404568876&q=jordan+benel+v+universal+city+studios+inc&hl=en&as_sdt=6,28)
+(C.D. Cal. Feb. 13, 2015) (“There needs to be more
+than a unilateral offer and Plaintiff only offers arguments as to
+his intent, not Defendants’ understanding or conduct”). While
+requiring an in-person meeting for a misappropriation of idea claim in
+the world of movie and television pitching may be unrealistic in light
+of communication and social media advancements, Plaintiff’s theory of
+implied contract by tweet and by mass-mailing of his Screenplay might
+turn mere idea submission into a free-for-all.
+
+Plaintiff’s breach of implied contract claim also fails to show that
+“defendants voluntarily accepted the disclosure knowing the
+conditions on which it was tendered and the reasonable value of the
+work.” [*Grosso*][grosso]. 
+Defendants argue that the
+Complaint is devoid of this requisite privity between the parties, and
+the Court agrees. Nowhere in his Complaint does Plaintiff
+indicate the conditions on which he sent Defendants the Screenplay or
+link to the Website. Instead, Plaintiff alleges that
+he “intended to generate interest in the Creed Idea so that it would
+be produced into a motion picture with the expectation that
+Plaintiff would be compensated for use of the concept,” and he
+expected that Defendants would just compensate him down the road.
+Plaintiff does not allege any exchange or dialogue with
+Defendants. It strains reason that Defendants “accepted” Plaintiff’s
+offer to enter a contract or understood the conditions under which he
+tendered the Creed Idea from a unilateral tweet and from Plaintiff
+disseminating his Creed Idea on the Internet. [*Desny*][desny]
+(contract liability cannot attach where defendant has
+not had an opportunity to reject an idea before its disclosure). Even in
+cases where the plaintiff alleged a more concrete exchange between the
+parties, courts have been wary to let an implied contract claim proceed
+at the motion to dismiss stage. 
+[*Reed v. Nat’l Football League*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2015+WL+13333481&appflag=67.12) 
+(C.D. Cal. 2015)(granting motion to dismiss even where
+plaintiff sent defendants a voicemail with his proposed idea for a
+television series, defendants’ representative told him to forward his
+proposal to another executive, and the NFL informed plaintiff it would
+not accept his unsolicited proposal).
+
+Above all else, the concern outlined in [Desny][desny]
+comes to fruition here: “the idea man who blurts out his idea
+without having first made his bargain has no one but himself to blame
+for the loss of his bargaining power. The law will not in any event,
+from demands stated subsequent to the unconditioned disclosure of an
+abstract idea, imply a promise to pay for the idea, for its use, or for
+its previous disclosure.” The Court thus GRANTS
+Defendants’ Motion to Dismiss as to the breach of implied contract
+claim.
 
 ## Did We Make A Deal?
 
@@ -647,7 +859,8 @@ Or do they mean we *will* have a deal, once we sign contracts?
 
 ###### District Court of Appeal California (1955)
 
-* [Case on Westlaw][goldseal] 286 P.2d 954 (Cal.Ct.App.2d 1955)(17 pages);
+* [Case on Westlaw][goldseal] 
+* [Case on Google Scholar](https://scholar.google.com/scholar_case?case=8431096527468598726&q=gold+seal+v.+rko&hl=en&as_sdt=6,28)
 
 An oldie but a goodie. 
 
@@ -764,9 +977,7 @@ In *Mancuso v. Krackov,* it was said: "It is not necessary that each term [of an
 
 > The significance of shaking hands, under such circumstances and following the conversation herein before mentioned, and at the same time saying ‘We have a deal,’ was material. The intention of the persons who shook hands and used those words, under such circumstances, was material. The testimony of both persons, with respect to intention, was to the same effect—that they intended to close the deal.
 
-[The court ultimately decided that on May 16th the parties entered into an oral contract and that they intended it to be legally binding.
-
-Two drafts incorporated those terms and the parties orally agreed to them. Skirball conceded that there were other points to be decided, but the parties had stated they would be handled according to the terms of the deal he for the other movie he had going at RKO.]
+[The court ultimately decided that on May 16th the parties entered into an oral contract and that they intended it to be legally binding. Two drafts incorporated those terms and the parties orally agreed to them. Skirball conceded that there were other points to be decided, but the parties had stated they would be handled according to the terms of the deal he for the other movie he had going at RKO.]
 
 ## Consideration and Mutuality
 
@@ -779,7 +990,7 @@ Consideration fulfills at least two functions in entertainment law contracts:
 
 Must both sides assume some detriment or obligation?
 
-### *Wood v. Lucy, Lady Duff-Gordon*
+## *Wood v. Lucy, Lady Duff-Gordon*
 
 ###### New York (1917)
 
@@ -797,7 +1008,7 @@ Judge Cardozo famously found that the agreement contained an implied promise:
 
 > The law has outgrown its primitive stage of formalism when the precise word was the sovereign talisman, and every slip was fatal. It takes a broader view to-day. A promise may be lacking, and yet the whole writing may be "instinct with an obligation," imperfectly expressed. If that is so, there is a contract.
 
-### *Bonner v. Westbound Records* 
+## *Bonner v. Westbound Records* 
 
 ###### Illinois Court of Appeals (1979)
 
@@ -898,19 +1109,16 @@ carrying out its purposes.
 
 In [*Wood v. Lucy*](http://scholar.google.com/scholar_case?about=17497756576520329824)*,* an often-cited decision, the plaintiff, a dress manufacturer, obtained exclusive rights to market dresses designed by the defendant, a prominent designer, in return for the plaintiff's agreement to pay the designer one-half of its profits. The designer endorsed fabrics and dresses of plaintiff's competitors, and defended the plaintiff's suit for damages by contending, as the plaintiffs in this case argue, that the contract lacked mutuality because it did not require the plaintiff to do anything. Mr. Justice Cardozo, speaking for the New York Court of Appeals, rejected this argument, saying:
 
-> "[The defendant insists] that the plaintiff does not bind himself to
-> anything. *It is true that he does not promise in so many words that
+> The defendant insists that the plaintiff does not bind himself to
+> anything. It is true that he does not promise in so many words that
 > he will use reasonable efforts to place the defendant's indorsements
-> and market her designs. We think, however, that such a*
->  *promise is fairly
-> to be implied.* The law has outgrown its primitive stage of formalism
+> and market her designs. We think, however, that such a promise is fairly
+> to be implied. The law has outgrown its primitive stage of formalism
 > when the precise word was the sovereign talisman, and every slip was
 > fatal. It takes a broader view today. A promise may be lacking, and
-> yet the whole writing may be \`instinct with an obligation,'
-> imperfectly expressed. [Citations.] If that is so, there is a
-> contract." [222 N.Y. 88, 90-91, 118 N.E.
-> 214](http://scholar.google.com/scholar_case?about=17497756576520329824).
-> (Emphasis added.)
+> yet the whole writing may be 'instinct with an obligation,'
+> imperfectly expressed. If that is so, there is a
+> contract." 
 
 Justice Cardozo relied upon features identical with those included in
 the recording agreement as a basis for implying that the manufacturer
@@ -1128,13 +1336,13 @@ Yet the Culkin family was embroiled in litigation over custody of Culkin himself
 
 When dealing with minors, the studios and other contracting parties must consider other issues, as well.&hellip;
 
-### *Scott Eden Management v. Kavovit*
+## *Scott Eden Management v. Kavovit*
 
 ###### 563 NYS2d 1001 (NY 1990)
 
 - [Case at Westlaw][kavovit]
 
-#### Facts
+### Facts
 
 Defendant was 12-year-old actor who entered into deal with Eden to act as his manager. Eden was to receive 15% commission of Kavovit's earnings. After two years, Eden had Kavovit sign with Andreadis Agency, who would receive an additional 10% commission. Soon after, Kavovit signed a contract to be on "As the World Turns." Kavovit's attorney contacted Eden, informing him that Kavovit was disaffirming the contract on the grounds of infancy.
 
@@ -1184,7 +1392,7 @@ but the same theory has been used right up to the present day,
 and will likely be deployed in a major dispute between two 
 talent titans (CAA vs. UTA).
 
-#### [CAA vs. UTA, Corporate Raiding and the Ghost of Ed Limato (Analysis)](http://www.hollywoodreporter.com/thr-esq/caa-uta-corporate-raiding-ghost-785655)
+### [CAA vs. UTA, Corporate Raiding and the Ghost of Ed Limato (Analysis)](http://www.hollywoodreporter.com/thr-esq/caa-uta-corporate-raiding-ghost-785655)
 
 > Consider the case of the late legendary agent, 
 > who spent most of his career at ICM 
@@ -1281,3 +1489,6 @@ The price may vary greatly, but it must be negotiated up front at the time the o
 [aretha_scholar]: https://scholar.google.com/scholar_case?case=18444995163017745133& 
 [basinger_latimes]: http://articles.latimes.com/1993-03-01/entertainment/ca-150_1_boxing-helena-lawsuit
 [tent poles]: https://en.wikipedia.org/wiki/Tent-pole_(entertainment) "definition of tent poles"
+[desny]: https://scholar.google.com/scholar_case?case=3141417353271271191 "Desny v. Wilder"
+[montz]: http://scholar.google.com/scholar_case?case=3302514421955048097 "Montz v. Pilgrim"
+[grosso]: https://scholar.google.com/scholar_case?case=9970479884551762667 "Grosso v. Miramax"
