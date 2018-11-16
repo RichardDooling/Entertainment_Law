@@ -32,66 +32,73 @@ Richard Dooling
 ## Why Register the Copyright?
 
 Copyright protection attaches as soon as "original works of authorship" 
-are ["fixed in any tangible medium of expression."](http://www.copyright.gov/title17/92chap1.html#102). 
+are ["fixed in any tangible medium of expression."](http://www.copyright.gov/title17/92chap1.html#102) 
 In the old days, registration mattered whether a work was protected by US copyright, 
-but the current law is explicit: [Registration is not a condition of copyright protection."](http://www.copyright.gov/title17/92chap4.html#408). 
+but the current law is explicit: 
+[Registration is not a condition of copyright protection."](http://www.copyright.gov/title17/92chap4.html#408) 
+I use "author" below to refer to the author of the copyrightable work, 
+or to the copyright holder of the work. 
 
 <!-- In other words, original works of authorship are copyrighted as you fix them in a tangible medium of expression.  -->
 
-However, copyright registration comes with benefits other than bare protection, 
+Copyright registration comes with benefits
+other than bare protection, 
 including the following:
 
-1. Registration establishes a public record of the copyright holder's ownership.
+1. By registering copyright in a work, the author creates a public record of the author's claim to ownership.
 
-2. A copyright owner must register the copyright before suing for infringement. [&sect; 411(a)][411]
+2. Registration is a prerequisite to suing infringers in federal court. 
+Although original works of authorship are protected from the moment of creation, 
+the author must register copyright in the work before suing for infringement. [&sect; 411(a)][411] 
 
-Registration is a prerequisite to suing infringers in federal court.
+3. Proof of claim. If the author registers copyright in the work *before* the work is published, 
+or within 5 years after publication, registration creates the presumption that the copyright is valid.
 
-3. If made before or within 5 years of publication, establishes sufficient evidence in court concerning the validity of the copyright and the facts stated in the copyright certificate.
+4. Statutory damages, attorneys' fees, and costs. 
+By registering the work, the author is entitled to statutory damages and attorneys' fees for infringement, 
+but probably not for unpublished works, like screenplays, discussed below.
 
-4. If registration is made within 3 months of publication of the work or at any time prior to an infringement of the work, the copyright owner is entitled to seek statutory damages and attorney's fees in federal court. Without registration, only an award of actual damages and profits will be available, and these can be quite difficult to prove.
+5. Registration allows the author to record the registration with U.S. Customs to protect against the importation of infringing copies into the US.
 
-5. Allows the copyright owner to record the registration with U.S. Customs to protect against the importation of infringing copies into the US.
-
-Copyright registration, which is accomplished through a copyright application, is generally necessary before you can bring a lawsuit to enforce your copyright. Copyright registration within three months of the original publication date, or before infringement begins, allows you to claim "statutory" damages and attorney's fees when enforcing your copyright. "Statutory" damages are fixed by the court as an alternative to actual damages and are often sought when the measure of actual damages is difficult to determine. A copyright application filed within five years from the date of first publication of the work gives rise to a presumption that the copyright is valid.
-
+Of the benefits listed, probably none is more important than statutory damages and attorneys fees. 
+Otherwise an author claiming copyright infringement must prove "actual damages" or profits of the infringers.
 
 ### Copyright Statutory Damages
 
-&sect; 504. Remedies for infringement: Damages and profits
+###### &sect; 504. Remedies for infringement: Damages and profits
 
 An infringer of copyright is liable for either:
 
 1. the copyright owner's actual damages and any additional profits of the infringer; or 
 2. statutory damages &hellip; 
 
-(c) Statutory Damages.—
+#### Actual Damages versus Statutory Damages
 
-(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are li-able jointly and severally, in a sum of not less than $750 or more than $30,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work.
+The author is usually entitled only to “actual damages” 
+and “profits of the infringer that are attributable to the infringement” 
+[17 USC §504(b)](http://www.copyright.gov/title17/92chap5.html#504). 
 
-(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $150,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in section 118(f )) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work.
+In a case where damages are uncertain or are hard to prove,
+statutory damages and attorneys' fees are often preferred 
+and range from not less than $750 or more than $30,000 as the court considers just.
+And in the case of *willful* infringement, 
+the court may award up to $150,000. 
 
-(3) (A) In a case of infringement, it shall be a rebuttable presumption that the infringement was committed willfully for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the infringement.
+Proving damages can be such a burden 
+that it makes litigation not worth the trouble. 
+How does the screenwriter prove how she was injured when a producer stole her work and make a movie that lost money? Timely registration enables the screenwriter to seek statutory damages instead, 
+and the screenwriter could also seek attorneys fees 
+and costs, making it more likely for an entertainment lawyer to take the case. 
+[17 USC §505](http://www.copyright.gov/title17/92chap5.html#505).
 
-When someone infringes copyright, 
-the copyright owner older is usually entitled only to “actual damages” 
-and “profits of the infringer that are attributable to the infringement” [17 USC §504(b)](
-http://www.copyright.gov/title17/92chap5.html#504). 
-This can be a burden that makes pursuing a legal remedy not worthwhile: How do you prove the profits that some random web site made from publishing your story without permission? And how do you prove what sales you might have lost because of the web site’s unauthorized publication of your story? Since the US operates under the "American Rule" where each party pays their own lawyers, you might not even be able to afford to pay a lawyer to stop the infringing activity.
+See also: [What are the benefits of registering a copyright?](https://law.freeadvice.com/intellectual_property/copyright_law/benefit_copyright_registration.htm)
 
-> But with timely registration, you get the option of electing statutory damages instead. [17 USC §504(c)](http://www.copyright.gov/title17/92chap5.html#504). This can be between $750 to $30,000 per work (and up to $150,000 per work if the infringement was willful). Plus, you may get attorney’s fees and costs at the court’s discretion, making it more likely that you can retain a lawyer on a contingency fee basis. [17 USC §505](http://www.copyright.gov/title17/92chap5.html#505). With these benefits, it may well make sense to pursue cases that otherwise you would not.
-
-> Ken Liu, [The Benefits Of Copyright Registration](http://www.sfwa.org/2013/02/the-benefits-of-copyright-registration/).
-
-[What are the benefits of registering a copyright?](https://law.freeadvice.com/intellectual_property/copyright_law/benefit_copyright_registration.htm)
-
-### The Book Business
+## The Book Business
 
 Ask someone in the publishing industry 
-if you should copyright your manuscript 
+if an author should copyright her manuscript 
 before submitting it to agents and publishers, 
-and they'll say, 
-"Why? The publisher will copyright the book for you."
+and they'll probably ask, "Why? The publisher will copyright the book for the author."
 
 This is true, and nobody seems too worried 
 that the author's precious words might be stolen 
@@ -126,7 +133,6 @@ It's easy to go ahead and do it,
 if it makes an anxious author sleep easier.
 But most publishing people don't bother.
 
-
 So much for the publishing world. 
 Authors probably don't need to register their manuscripts before submission, 
 but if they do, they too will enjoy the protections outlined below.
@@ -137,11 +143,11 @@ but if they do, they too will enjoy the protections outlined below.
 
 Registration is not required to enjoy copyright protection, 
 but there are good reasons to register spec screenplays with the copyright office. 
-Registration of the screenplay brings added protections, 
-most important, the screenwriter seeking infringement will 
-enjoy the statutory damages described above. 
+Registration of the screenplay brings the added protections outlined above, 
+most important, the screenwriter pursuing a claim of infringement will 
+be entitled to seek the statutory damages and attorneys' fees. 
 
-Most screenwriters don't register their screenplays with the copyright office,
+Alas, most screenwriters don't register their screenplays with the copyright office,
 probably because they register them with a script registration service 
 operated by the Writers Guild of America.
 The two leading software programs 
@@ -166,12 +172,11 @@ in Hollywood, with fringe benefits negotiated by their powerful guilds.
 
 #### Spec Screenplays
 
-Screenwriters trying to break into the industry
-write screenplays "on spec," 
+Screenwriters trying to break into the industry often write screenplays "on spec," 
 meaning nobody hired the writer to write the screenplay.
 Spec is short for speculation, 
 because like gold speculators,
-spec writers hope that a production company or studio will buy their screenplays
+spec screenwriters hope that a production company or studio will buy their screenplays
 and hire them to write the movies. 
 Also like gold speculators, 
 the writers' efforts often come to naught. 
@@ -188,10 +193,9 @@ It is an unpublished and unregistered work.
 
 Several years ago, [Larry Zerner](http://www.zernerlaw.com/about-the-firm), a Los Angeles, entertainment lawyer who specializes in copyright law, warned screenwriters and 
 other artists about not registering their works. 
-He also [publicly called on the Writers of Guild of America][shutdown] to shut down the script registration service, 
-because it was making his job as a Hollywood copyright lawyer an exercise in frustration.
+He also [publicly called on the Writers of Guild of America][shutdown] to shut down the script registration service, because it was making his job as a Hollywood copyright lawyer an exercise in frustration.
 
-Why? Section 412 of the Copyright Act. It provides:
+Why? Because of Section 412 of the Copyright Act. It provides:
 
 <!-- Writers Guild Registry -->
 
@@ -206,25 +210,32 @@ no award of statutory damages or of attorney’s fees . . . shall be made for �
 
 > [§ 412. Registration as prerequisite to certain remedies for infringement][412]
 
-For copyrights in spec screenplays, then, three dates are crucial:
+For copyrights in unpublished spec screenplays, then, two dates are crucial:
 
 1. The date the copyright was registered;
-2. The date of publication of the work; 
 3. The date infringement commenced.
 
-The writer of a spec screenplay usually does not "publish" the screenplay 
-or offer it for sale or distribution to the public. 
+The writer of a spec screenplay usually does not "publish" the screenplay, 
+meaning, the writer does not offer it for sale or distribution to the public. 
+Unlike novels or how-to books, 
+screenplays are not stand-alone works of art.
+In the words of screenwriter Paul Schrader (*Raging Bull*, *Taxi Driver*), 
+screenplays are "invitations to others to collaborate on a work of art."
+Unless they get made into films, screenplays are often both unregistered and "unpublished,"
+both disfavored states under the Copyright Act, 
+which favors works that are both registered and published.
 
-Section 412(1) of the U.S. Copyright Act 
-means that in a lawsuit for 
-copyright infringement, 
-the screenwriter will receive neither attorney’s fees nor statutory damages, 
-unless they registered with the Copyright Office before the infringement commences.
-Unlikely for most scenarios.
+So assuming that screenplays are not published, 
+the author cannot collect statutory damages or attorneys' fees 
+for any infringement commenced before registration of the work.
 
- If the work has not been published, which means it hasn't been offered for sale or distribution to the public, you cannot collect statutory damages or attorney's fees in the event of an infringement unless you have registered the unpublished work before that infringement began."
+In the typical situation in which an aspiring screenwriter registers his work with 
+the Writers Guild of America, 
+but does not register his work with the Copyright Office, 
+and then learns, years later perhaps, 
+that someone has infringed on his unpublished screenplay, 
+it is too late to obtain statutory damages.
 
- If the work has not been published, which means it hasn't been offered for sale or distribution to the public, you cannot collect statutory damages or attorney's fees in the event of an infringement unless you have registered the unpublished work before that infringement began."
 
 #### When is Commencement of Infringement?
 
@@ -247,7 +258,7 @@ he or she could not receive statutory damages or attorney's fees in any subseque
 Notice the operative date is when infringement commenced, 
 not when the rights holder learned of the infringement.
 
-#### When is a Screenplay "Published"
+#### Is a Screenplay Ever "Published"?
 
 When a screenwriter circulates her script to agents and
 producers, it probably has not been "published." 
@@ -267,7 +278,7 @@ that the screenwriter may not claim statutory damages or attorneys fees for
 "any infringement of copyright . . . commenced before the effective date of its registration."
 
 In most cases, the writer doesn't learn about the infringement
-until the movie is about to be released. 
+until the infringing movie is about to be released. 
 By then it is too late to register the screenplay and recover attorney's fees and statutory damages.
 
 In all likelihood, a lawyer will not take such a case, 
@@ -297,11 +308,9 @@ not registration with the WGA.
 * [Larry Zerner: WGAw Registration vs. Copyright Registration]( http://www.writersstore.com/wgaw-registration-vs-copyright-registration/)
 
 
-
 [shutdown]: http://zernerlaw.wordpress.com/2010/12/03/it%E2%80%99s-time-for-the-writer%E2%80%99s-guild-to-shut-down-the-wga-registry/
 
 [412]: https://www.copyright.gov/title17/92chap4.html#412
 [411]: https://www.copyright.gov/title17/92chap4.html#411
-
 
 
