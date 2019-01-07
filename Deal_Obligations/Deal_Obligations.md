@@ -488,7 +488,8 @@ a Hollywood screenwriter, blacklisted during the 1950s:
 
 [![Screenwriter Dalton Trumbo](https://upload.wikimedia.org/wikipedia/commons/0/04/Dalton_and_Cleo_Trumbo_%281947_HUAC_hearings%29.png)](https://en.wikipedia.org/wiki/Dalton_Trumbo)
 
-The following case dramatizes the blacklisting of another screenwriter, Lester Cole, one of the infamous Hollywood Ten, along with Dalton Trumbo.
+The following case dramatizes the blacklisting of another screenwriter, Lester Cole, who, 
+like Trumbo, was one of the infamous Hollywood Ten.
 
 ### *Loew's, Inc. v. Cole* 
 
@@ -542,34 +543,28 @@ MGM appealed and the Ninth Circuit Court of Appeals reversed, holding that Cole 
 * [Morals Clauses][morals].
 * [Hold That Tiger: After Woods Scandal, More Lawyers Teeing Up "Morals Clauses"][tiger_morals]
 
-Blacklisting of the Hollywood 10, 
-including such prominent writers as Dalton Trumbo and Ring Lardner, 
-and 
-
-The infamous witch-hunts 
-conducted by the House Un-American Activities Committee (HUAC) 
+The Red Scare and the witch hunts conducted by the House Un-American Activities Committee (HUAC) 
 were shameful, dark, and fearful, 
-blights on our nation's history and on the entertainment industry's . 
-Richard periods in our nation's history 
-
-(one of whose members was a newly elected congressman named Richard Nixon) 
-and in the entertainment industry. 
+blots on our nation's history. 
+The entertainment industry embarrassed itself for all time 
+by showing spineless deference to what amounted to government censorship of the arts.
+These were not fringe activities. 
+Senator Robert "Bobby" Kennedy worked for Senator Joe McCarthy early on, 
+and another newly elected congressman at the time, Richard Nixon, was a member of HUAC.
 
 If you have trouble believing that writers could be blacklisted,
 hauled before Congress, 
 and asked about their party affiliations in the United States of America, 
 try imagining Ronald Reagan as a liberal Democrat 
-and president of the screen actors guild 
-(both of which he was at the time).
+and president of the Hollywood Screen Actors Guild (both of which he was at the time).
 
-As to Senator Joseph McCarthy's "Red Scare" demagoguery, 
-the studios took the position that HUAC's hearings were nonsense 
+At first the studios stood up to Senator Joseph McCarthy and his "Red Scare" demagoguery.
+The studios took the position that HUAC's hearings were nonsense 
 and that they were not going to penalize talent 
 for refusing to answer questions about their political affiliations. 
-But when public pressure started to build 
-in the form of boycotts by the American Legion 
-and other politically powerful groups, 
-the box office was threatened, and the studios caved. 
+But when boycotts by the American Legion 
+and other politically powerful groups threatened the box office, 
+the studios caved. 
 
 #### NBC's Brian Williams
 
