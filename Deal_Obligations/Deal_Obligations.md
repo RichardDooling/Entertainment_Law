@@ -544,10 +544,15 @@ MGM appealed and the Ninth Circuit Court of Appeals reversed, holding that Cole 
 
 Blacklisting of the Hollywood 10, 
 including such prominent writers as Dalton Trumbo and Ring Lardner, 
-and the infamous witch-hunts 
-conducted by the House Un-American Activities Committee (HUAC)
+and 
+
+The infamous witch-hunts 
+conducted by the House Un-American Activities Committee (HUAC) 
+were shameful, dark, and fearful, 
+blights on our nation's history and on the entertainment industry's . 
+Richard periods in our nation's history 
+
 (one of whose members was a newly elected congressman named Richard Nixon) 
-were dark periods in our nation's history 
 and in the entertainment industry. 
 
 If you have trouble believing that writers could be blacklisted,
@@ -604,6 +609,29 @@ is beginning to be included in negotiations
 in the wake of the Harvey Weinstein and Kevin Spacey situations.
 
 [Studios Race to Add 'Morality Clauses' to Contracts](https://www.hollywoodreporter.com/news/metoo-hits-movie-deals-studios-race-add-morality-clauses-contracts-1082563)
+
+#### Morals Clauses and Publishing Deals
+
+Even publishing is not immune to the latest craze for morals clauses. 
+Publishers have entertained the idea ever since author Michael Moore's book, 
+*Stupid White Men*, was scheduled to be published *one day* after 9/11.
+*Stupid White Men* harshly criticized President Bush. 
+The publisher, HarperCollins, tried to back out, 
+or wanted Moore to rewrite the parts about the President. 
+Moore successfully got the nations librarians behind him, 
+and they petitioned the publisher on behalf of Moore's book. 
+
+[*Stupid White Men* at Wikipedia](https://en.wikipedia.org/wiki/Stupid_White_Men)
+
+Scott H. Greenfield described the latest morals clauses to pop up in the publishing industry in "The Moral Hole," a [post at his *Simple Justice* blog](https://blog.simplejustice.us/2019/01/07/the-moral-hole/) :
+
+> Over the past few years, Simon & Schuster, HarperCollins and Penguin Random House have added such clauses to their standard book contracts. I’ve heard that Hachette Book Group is debating putting one in its trade book contracts, though the publisher wouldn’t confirm it. These clauses release a company from the obligation to publish a book if, in the words of Penguin Random House, “past or future conduct of the author inconsistent with the author’s reputation at the time this agreement is executed comes to light and results in sustained, widespread public condemnation of the author that materially diminishes the sales potential of the work.”
+
+Greenfield describes another clause, from publisher Conde Nast, 
+which is even more problematic for authors:
+
+> If, in the company’s “sole judgment,” the clause states, the writer “becomes the subject of public disrepute, contempt, complaints or scandals,” Condé Nast can terminate the agreement. In other words, a writer need not have done anything wrong; she need only become scandalous. In the age of the Twitter mob, that could mean simply writing or saying something that offends some group of strident tweeters.
+
 
 ## Studio-Publisher Obligations 
 

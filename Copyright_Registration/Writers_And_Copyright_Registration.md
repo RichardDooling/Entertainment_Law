@@ -23,7 +23,7 @@ To paraphrase Hunter Thompson:
 > and good men die like dogs.
 
 It's no place to be guessing about your legal rights. 
-If you need legal advice, *get a lawyer!* Please.
+If you need legal advice, *Please get a lawyer.*
 
 Richard Dooling
 
@@ -86,9 +86,12 @@ the court may award up to $150,000.
 
 Proving damages can be such a burden 
 that it makes litigation not worth the trouble. 
-How does the screenwriter prove how she was injured when a producer stole her work and make a movie that lost money? Timely registration enables the screenwriter to seek statutory damages instead, 
-and the screenwriter could also seek attorneys fees 
-and costs, making it more likely for an entertainment lawyer to take the case. 
+How does the screenwriter prove how she was injured 
+when a producer stole her work 
+and made a movie that lost money? 
+Timely registration enables the screenwriter to seek statutory damages instead, 
+and the screenwriter could also seek attorneys fees and costs, 
+making it more likely for an entertainment lawyer to take the case. 
 [17 USC §505](http://www.copyright.gov/title17/92chap5.html#505).
 
 See also: [What are the benefits of registering a copyright?](https://law.freeadvice.com/intellectual_property/copyright_law/benefit_copyright_registration.htm)
@@ -167,8 +170,8 @@ A writer hired to work on a television show or a feature film
 doesn't have to worry about registering any copyrights.
 They are working for hire, the way the studio likes it, 
 so that the studios own the copyright and not the writer.
-That's okay because writers are usually very well-paid 
-in Hollywood, with fringe benefits negotiated by their powerful guilds. 
+That's okay because writers are usually well-paid in Hollywood, 
+with fringe benefits negotiated by their powerful guilds. 
 
 #### Spec Screenplays
 

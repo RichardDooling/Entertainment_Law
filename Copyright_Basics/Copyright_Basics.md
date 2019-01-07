@@ -408,6 +408,8 @@ to recreate the full original.
 
 The case settled before trial.
 
+* [Fresh Prince Star Alfonso Ribeiro Accuses Fortnite Creators of Stealing His 'Carlton' Dance](https://people.com/tv/alfonso-ribeiro-sues-video-game-fortnite-carlton-dance/)
+
 ### What Doesn't Copyright Protect?
 
 #### Ideas

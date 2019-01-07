@@ -125,6 +125,16 @@ People who can make something that others want to read, see, hear, watch, *share
 You may think of them (and yourselves) 
 as human oil wells gushing potentially valuable [intellectual property][wipo]. 
 
+As Orson Welles once put it, 
+a writer needs a pen, an artist needs a brush, 
+and a filmmaker needs an army. 
+the average big budget Hollywood feature probably boasts a crew of at least five hundred people. 
+For special-effects-driven tentpole spectacles, 
+crew numbers climb into the thousands – Iron Man 3, for example, credited a staggering total of 3,310 people. That’s an army.
+
+
+
+
 Modern information technologies make it easy 
 for hundreds, even thousands, of musicians, 
 visual and graphics artists, programmers, 
@@ -259,3 +269,4 @@ You should spend time getting to know the following resources.
 [patsy]: http://quoteinvestigator.com/2011/07/09/poker-patsy/ "patsy at the poker table"
 [4ever-1day]: http://www.youtube.com/watch?v=tk862BbjWx4 "Forever Less One Day: Copyright"
 [vine]: https://vine.co/ "Vine"
+[Film Crew]: (https://blog.celtx.com/role-call-8-essential-film-crew-positions/)
