@@ -408,6 +408,15 @@ to recreate the full original.
 
 The case settled before trial.
 
+#### Fortnite Dance Moves Litigation
+
+> Three performers have sued Epic Games, which makes Fortnite, an addictive, money-minting juggernaut of a survival game where players fight it out to stay alive while they kill everybody else. The game is free to download, but players purchase add-ons as they go along, including a rotating offering of dance moves called “emotes.”
+
+> When deciding if a dance is eligible for copyright, courts look at a combination of factors, including its level of creativity, its complexity or length, and whether the work was independently created. You can’t copyright a musical note or a word, for example, but string enough of them together and you’ve got a song you can own. Individual dance steps are likewise not copyrightable, according to the copyright office’s rule book. And the dances targeted in Fortnite are all quite short.
+
+> "The question here is really an unlitigated question, which is what is the minimum quantum necessary for a choreographic work?" said David Nimmer, an expert in copyright law. "Is there enough here to have a choreographic work, or are they just the basic building blocks, like words are the basic building blocks of poems, and nobody can own it."
+
+* [A Real-World Battle Over Dancing Avatars: Did Fortnite Steal the Floss?](https://www.nytimes.com/2019/01/11/arts/fortnite-floss-dance-lawsuits.html)
 * [Fresh Prince Star Alfonso Ribeiro Accuses Fortnite Creators of Stealing His 'Carlton' Dance](https://people.com/tv/alfonso-ribeiro-sues-video-game-fortnite-carlton-dance/)
 
 ### What Doesn't Copyright Protect?
@@ -430,7 +439,7 @@ The copyright laws do not protect research.
 * [Case on Google Scholar](http://scholar.google.com/scholar_case?case=14231031381424615048).
 * [Wikipedia](http://en.wikipedia.org/wiki/Miller_v._Universal_City_Studios,_Inc.).
 
-#### *Facts*
+#### Facts
 
 In December 1968, 
 the college-aged daughter of a wealthy Florida land developer 
@@ -462,7 +471,7 @@ The most substantial question presented on appeal
 is whether the district court erred in instructing the jury 
 that “research is copyrightable.” 
 
-#### *Is Research Copyrightable?*
+#### Is Research Copyrightable?
 
 It is well settled that copyright protection extends 
 only to an author's expression of facts 
