@@ -74,83 +74,13 @@ for those in the entertainment and publishing industries might go like this:
 
 > Congress shall make no law &hellip; abridging the freedom of speech. 
 
-So much for *Congress* not making laws. 
-Then we add the Fourteenth Amendment, which says:
+Some First Amendment absolutists, like Justice Hugo Black, for instance, 
+argue that the words mean what they say: 
 
-> No State shall make or enforce any law 
-> which shall abridge the privileges or immunities of citizens of the United States; 
-> nor shall any State deprive any person of life, liberty, or property, 
-> without due process of law; 
-> nor deny to any person within its jurisdiction 
-> the equal protection of the laws.
+> The First Amendment's language leaves no room for inference that abridgments of speech and press can be made just because they are slight. That Amendment provides, in simple words, that "Congress shall make no law . . . abridging the freedom of speech, or of the press." I read "no law . . . abridging" to mean no law abridging.
 
-Read together, 
-the First and Fourteenth Amendments prohibit *governments* 
-from making laws abridging the freedom of speech. 
-Private parties using private, lawful means 
-may "abridge" the speech of others without causing First Amendment problems 
-(e.g. by firing "speakers," or boycotting their performances, 
-or slapping an NC-17 rating on their movies, 
-or an [ESRB][esrb] warning on their video games.) 
-
-So always look for *state action* first 
-to determine if you have a First Amendment issue. 
-The easiest way to check for state action? 
-Look for a law (statute, ordinance, regulation), 
-then look at the speech which supposedly violated the law. 
-
-## What Is Speech?
-
-In the United States, the First Amendment protects speech, 
-but what kinds of speech? Spoken words? Printed words? 
-Any behaviors meant to convey a message? 
-Flag burning? Movies? Video games? Nude dancing? Child pornography? 
-Writing a book called: *How To Make A Suitcase Nuke?*
-
-What about slander? Isn't that speech? 
-Or fraud, or hiring somebody to murder your spouse, 
-or lying to an IRS agent, or soliciting a prostitute? 
-
-When courts try to decide whether speech is protected or unprotected 
-they naturally wonder: 
-Is this the sort of speech the Founding Fathers 
-had in mind when they wrote the First Amendment?
-As far as we know, no framer of the Constitution said, 
-"Yay, free speech, but what *is* speech? 
-Did the Founding Fathers mean to say 
-that public nudity, live sex acts, and bestiality are all speech, 
-and therefore Congress had no power to pass laws against such "expressive conduct"? 
-Did they believe that live sex acts are like flag burning or marching in the streets? 
-And did this mean that they believed Congress had no power to pass laws against obscenity, indecency, pornography, nude dancing and the like?
-
-The First Amendment obviously does not protect *all* speech. 
-Author Kurt Vonnegut once observed that: 
-"The First Amendment reads more like a dream than a law." 
-Indeed. So what speech does it protect? 
-Or is it easier to ask what speech is *not* protected by the First Amendment?
-
-If the First Amendment doesn't mean what it says, 
-then what does it mean? Some First Amendment absolutists ask: 
-What part of make no law is it that you don't understand? 
-
-### What is the Purpose of the First Amendment?
-
-Sounds like a question the professor might pose 
-to kill twenty minutes of class time 
-when he's unprepared to teach the next case, 
-but the question lurks in the background of many a Supreme Court opinion. 
-If not all speech is protected, 
-courts often consider what the Founders meant by the simple statement: 
-
-> Congress shall make no law &hellip; abridging the freedom of speech.
-
-Why was the First Amendment added to the Constitution in 1791? 
-And if Congress meant what it said 
-about passing no laws abridging the freedom of speech, 
-then why seven years later, in 1798, 
-did Congress pass the [Alien and Sedition Acts](http://en.wikipedia.org/wiki/Alien_and_Sedition_Acts), 
-which made it a crime for anyone to publish 
-"false, scandalous, and malicious writing against the government or its officials?"
+Most judges and scholars think the Founders had important rights in mind, 
+but probably didn't mean literally Congress shall make no laws abridging anything that might be called speech.
 
 [Eugene Volokh](http://en.wikipedia.org/wiki/Eugene_Volokh) 
 argues that the problematic words are not "make no law," 
@@ -185,6 +115,84 @@ In speculating on what the Founders had in mind, Volokh had this to say.
 > a sound interpretation of the constitutional text.
 
 * [Eugene Volokh on the meaning of "Congress shall make no law . .  ."](http://www.volokh.com/2012/09/19/the-founders-free-speechpress-clause/).
+
+If not all speech is protected, 
+then courts define what the Founders meant by the simple statement: 
+
+> Congress shall make no law &hellip; abridging the freedom of speech.
+
+### State Action
+
+So much for *Congress* not making laws. 
+Then we add the Fourteenth Amendment, which says:
+
+> No State shall make or enforce any law 
+> which shall abridge the privileges or immunities of citizens of the United States; 
+> nor shall any State deprive any person of life, liberty, or property, 
+> without due process of law; 
+> nor deny to any person within its jurisdiction 
+> the equal protection of the laws.
+
+Read together, 
+the First and Fourteenth Amendments prohibit *governments* 
+from making laws abridging the freedom of speech. 
+Private parties using private, lawful means 
+may "abridge" the speech of others without causing First Amendment problems 
+(e.g. by firing "speakers," or boycotting their performances, 
+or slapping an NC-17 rating on their movies, 
+or an [ESRB][esrb] warning on their video games.) 
+
+So always look for *state action* first 
+to determine if you have a First Amendment issue. 
+The easiest way to check for state action? 
+Look for a law (statute, ordinance, regulation), 
+then look at the speech which supposedly violated the law. 
+
+
+
+### What Is Speech?
+
+The First Amendment obviously does not protect *all* speech. 
+Author Kurt Vonnegut once observed that: 
+"The First Amendment reads more like a dream than a law." 
+Indeed. So what speech does it protect? 
+Or is it easier to ask what speech is *not* protected by the First Amendment?
+In the United States, the First Amendment protects speech, 
+but what kinds of speech? Spoken words? Printed words? 
+Any behaviors meant to convey a message? 
+Flag burning? Movies? Video games? Nude dancing? Child pornography? 
+Writing a book called: *How To Make A Suitcase Nuke?*
+
+What about slander? Isn't that speech? 
+Or fraud, or hiring somebody to murder your spouse, 
+or lying to an IRS agent, or soliciting a prostitute? 
+
+When courts try to decide whether speech is protected or unprotected 
+they naturally wonder: 
+Is this the sort of speech the Founding Fathers 
+had in mind when they wrote the First Amendment?
+As far as we know, no framer of the Constitution said, 
+"Yay, free speech, but what *is* speech? 
+Did the Founding Fathers mean to say 
+that public nudity, live sex acts, and bestiality are all speech, 
+and therefore Congress had no power to pass laws against such "expressive conduct"? 
+Did they believe that live sex acts are like flag burning or marching in the streets? 
+And did this mean that they believed Congress had no power to pass laws against obscenity, indecency, pornography, nude dancing and the like?
+
+### What is the Purpose of the First Amendment?
+
+Sounds like a question the professor might pose 
+to kill twenty minutes of class time 
+when he's unprepared to teach the next case, 
+but the question lurks in the background of many a Supreme Court opinion. 
+
+Why was the First Amendment added to the Constitution in 1791? 
+And if Congress meant what it said 
+about passing no laws abridging the freedom of speech, 
+then why seven years later, in 1798, 
+did Congress pass the [Alien and Sedition Acts](http://en.wikipedia.org/wiki/Alien_and_Sedition_Acts), 
+which made it a crime for anyone to publish 
+"false, scandalous, and malicious writing against the government or its officials?"
 
 Do we have a First Amendment 
 because speaking one's mind is a basic human right? 
