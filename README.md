@@ -9,7 +9,7 @@ file: readme.md
 
 ###### By Richard Dooling
 
-I teach Entertainment Law at the University of Nebraska College of Law. I also teach an undergraduate course at the University, which might be called Entertainment Law for Artists. 
+I teach Entertainment Law at the University of Nebraska College of Law. 
 
 * [My University of Nebraska College of Law page](http://law.unl.edu/richard-dooling#about).
 * [My Wikipedia page](http://en.wikipedia.org/wiki/Richard_Dooling).
@@ -39,7 +39,7 @@ These materials are published under an [MIT license](https://github.com/RichardD
 
 ### Open Source Scholarship
 
-If all goes well, the files in this GitHub repository will grow into an open source Entertainment Law textbook. I hope to entice collaborators: students, former students, entertainment lawyers, artists, and other professors, who may find these materials useful and help me improve them. (At the moment, I am especially interested in a collaborator or contributor with experience working in the music industry.) 
+If all goes well, the files in this GitHub repository will grow into an open source Entertainment Law textbook. I hope to entice collaborators: students, former students, entertainment lawyers, artists, and other professors, who may find these materials useful and help me improve them. (At the moment, I am especially interested in a collaborator or contributor with experience working in the music industry or the video game industry.) 
 
 Whenever possible, I link to free content, including Wikipedia, YouTube, [Google Scholar](http://scholar.google.com/), the [SCOTUS blog](http://www.scotusblog.com/), and other notable resources that are not behind paywalls. For the convenience of law students with Westlaw accounts, I often provide links to cases on Westlaw, but whenever possible I also provide a link to the same case on [Google Scholar](http://scholar.google.com/), or to the opinion itself as published by the court.
 
@@ -61,13 +61,11 @@ All files contain the same content, just in different formats. For example, the 
 
 If you click on the Markdown file (Introduction.md) you can view it as you would a webpage. 
 
-If you click on the Introduction.docx or Introduction. pdf, you can't view the files, but you can download them if you click on the button that says "Raw." (Clicking on "View Raw" gives an error.)
-
-![Click On The Raw Button](Download_Single_File.png "Click Raw")
+If you click on the Introduction.docx or Introduction. pdf, you can't view the files, but you can download them by clicking the "Download" button. 
 
 ### Download Zip
 
-If you would like to download ALL of the files in this repository, look for the two buttons at the bottom of the right sidebar: "Clone in Desktop" and "Download Zip".
+If you would like to download *all* of the files in this repository, look for the two buttons at the bottom of the right sidebar: "Clone in Desktop" and "Download Zip".
 
 If you click on the "Download Zip" button, you will download a zip file containing all the files in this repository. Probably not so bad at first, but over the course of the semester more files will be added. You'll have a version problem, which is why Git and GitHub were invented. 
 

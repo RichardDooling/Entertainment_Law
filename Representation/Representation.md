@@ -1537,6 +1537,76 @@ and the regulations remain extremely controversial. *See, e.g.:*
 * [Actors Union Introduces Voluntary Regulation of Talent Managers](http://www.hollywoodreporter.com/thr-esq/sag-aftra-introduces-voluntary-regulation-685773)
 * [Did the California Labor Commissioner Just Shake Up the Music Industry?](http://www.hollywoodreporter.com/thr-esq/did-california-labor-commissioner-just-724960)
 
+### Talent Agencies and Packaging Fees
+
+Labor Action, With a Hollywood Twist: Screenwriters Threaten to Fire Their Agents
+Writers’ union accuses talent agents of conflict of interest in widely used television deals
+
+
+ [Labor Action, With a Hollywood Twist: Screenwriters Threaten to Fire Their Agents - WSJ](https://www.wsj.com/articles/labor-action-with-a-hollywood-twist-screenwriters-threaten-to-fire-their-agents-11553864404?mod=searchresults&page=1&pos=1) 
+ 
+ Labor Action, With a Hollywood Twist: Screenwriters Threaten to Fire Their Agents - WSJ 
+
+Nikolaj Coster-Waldau as Jaime Lannister in a scene from ‘Game of Thrones’ on HBO. PHOTO: MACALL B. POLAY/ASSOCIATED PRESS
+By R.T. Watson and Joe Flint
+March 29, 2019 9:00 a.m. ET
+The middle-class wage squeeze is affecting an unlikely group: Hollywood movie and television writers, who are threatening to fire their agents en masse over what their union calls unfair business practices.
+
+Their union, the Writers Guild of America, is convinced agencies’ pursuit of lucrative side deals—with the studios actually employing the writers—has created conflicts of interests in which talent agents put their own paydays ahead of their clients’, precipitating a decline in wages for a vast swath of the screenwriting community.
+
+Some 15,000 WGA members are currently voting whether the union should demand their agents agree to new employment terms that would bar the longstanding practice known as “packaging,” in which an agency creates the framework for a new television series or movie by bundling various clients—writers, directors, actors and others—and sells it as a whole to a studio that then funds the production and distributes it.
+
+When an agency enters into a package deal with a studio, it collects a fee and waives the commissions it would normally receive from clients involved in the project, meaning the agent’s financial interest isn’t as closely tied as usual to those clients’. The upshot, writers argue, is that the agency is effectively a partner in the production, and that is a conflict of interest.
+
+“The rule of thumb is you work for the person who pays you,” said television writer Evan Wright, whose credits include Showtime’s “Homeland.” Mr. Wright fired his agency, William Morris Endeavor, or WME, last year after learning after the agency received a packaging fee for a show he executive produced for Discovery.
+
+“WME was Col. Tom Parker to me,” Mr. Wright said, comparing the agency to Elvis Presley’s notoriously greedy and controlling manager. The agency declined to comment on the remark.
+
+Hollywood deal making is dominated by four major agencies including WME, Creative Artists Agency, United Talent Agency and ICM Partners.
+
+These agencies counter that packaging deals, which have been widespread in Hollywood for decades, offer their clients more opportunities to work. Such packages are presented to studios as fully developed ideas, increasing the chances they will get made. Nearly 90% of scripted television series during the 2016-2017 season were packaged, according to the WGA. HBO’s “Game of Thrones” is a packaged show.
+
+“Elements of a series need to be assembled or packaged so that studios get a clear vision of what they are buying,” said Chris Silbermann, who as managing director of ICM Partners represents Shonda Rhimes, the creator of “Grey’s Anatomy.”
+
+The writers’ union voting ends Sunday. After that, the WGA and a trade group for talent agencies have less than a week to make a deal before their current contract expires. One outcome could involve a compromise in which agencies would continue packaging shows, but with greater transparency or terms more favorable to writers.
+
+If they fail to reach a new agreement, the next step could be an unusual labor action: Thousands of writers simultaneously dismissing the talent agents who find them work and negotiate their pay.
+
+That could lead to pandemonium in Hollywood, as work begins on a new season of TV shows without any clear process for staffing up.
+
+The dispute comes at what would seem an unlikely moment: a TV-industry boom fueled in part by the rise of streaming services like Netflix Inc., Amazon.com Inc.’s Prime Video and Walt Disney Co. -controlled Hulu, which have poured billions of dollars into developing new series. Netflix has struck multimillion-dollar deals with marquee writers and producers including Ms. Rhimes, Ryan Murphy and Brad Falchuk.
+
+Traditional studios are also ponying up more to keep top talent. Last year AT&T Inc.’s Warner Bros. struck a deal with producer Greg Berlanti, whose credits include “The Flash,” worth more than $300 million.
+
+Earlier this month, Comcast Corp.’s NBCUniversal signed a lucrative deal to keep Mike Schur, whose producing credits include “The Office,” “Brooklyn Nine-Nine” and “The Good Place,” on its lot.
+
+The writers’ union says that while such high-profile writers are enjoying unprecedented success, wages for more typical writers have declined.
+
+Average WGA members saw their weekly incomes decline by more than 20% between 2014 and 2016, the union said.
+
+WME says average pay for writer clients has risen during the past three years.
+
+“There will always be superstar writers who are able to benefit. There are a select few that have been able to get these massive deals,” said Laura Blum-Smith, WGA’s director of research and public policy. “But the middle-class writer is not seeing their earnings rise according to the increase in demand.”
+
+Shorter television seasons are another culprit in typical writers’ declining incomes.
+
+The WGA is also alarmed by a more recent brand of side dealing on the part of the two biggest agencies, WME and CAA. In an effort to diversify their business models, the two agencies have created their own mini-studios that aim to produce content, a move the writers’ union says is an even more blatant conflict of interest than traditional packaging deals. The agencies say these mini-studios don’t represent a conflict, because they are operated separately from their talent-representation businesses. But the writers’ union contends their role in funding productions makes them writers’ counterparties in negotiations, not their representatives.
+
+“That is a monopoly,” said Tony Krantz, a former CAA packaging agent who is now a writer and WGA member. “It doesn’t make sense for your agent to essentially be your boss.”
+
+Write to Joe Flint at joe.flint@wsj.com
+
+### Agency Packaging Fees
+
+<!-- download for class on school machine -->
+
+https://youtu.be/v5p6urW6c7I
+
+It can be hard to understand exactly how agency packaging fees and producing impacts writers’ salaries. This short explainer video does a great job visualizing the issues, and looking at why the WGA is in negotiations to address agency conflict of interest.
+
+https://johnaugust.com/2019/explaining-conflict-of-interest
+
+
 ## Conflicts of Interest:
 
 ## Croce v. Kurnit

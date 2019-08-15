@@ -408,6 +408,16 @@ to recreate the full original.
 
 The case settled before trial.
 
+#### What About Tattoos?
+
+The threat of litigation has prompted agents and players’ unions to advise athletes to get licensing agreements before they get tattooed.
+
+[Athletes Don’t Own Their Tattoos. That’s a Problem for Video Game Developers - The New York Times](https://www.nytimes.com/2018/12/27/style/tattoos-video-games.html).
+
+The most prominent example of tattoos causing copyright problems surfaced in the movie *Hangover II*, where a tattoo copied from boxer Mike Tyson was the subject of copyright litigation. 
+
+[Warner Bros. Settles 'Hangover II' Tattoo Lawsuit.](https://www.hollywoodreporter.com/thr-esq/warner-bros-settles-hangover-ii-203377)
+
 #### Fortnite Dance Moves Litigation
 
 > Three performers have sued Epic Games, which makes Fortnite, an addictive, money-minting juggernaut of a survival game where players fight it out to stay alive while they kill everybody else. The game is free to download, but players purchase add-ons as they go along, including a rotating offering of dance moves called “emotes.”

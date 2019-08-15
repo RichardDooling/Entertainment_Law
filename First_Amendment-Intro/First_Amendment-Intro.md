@@ -148,8 +148,6 @@ The easiest way to check for state action?
 Look for a law (statute, ordinance, regulation), 
 then look at the speech which supposedly violated the law. 
 
-
-
 ### What Is Speech?
 
 The First Amendment obviously does not protect *all* speech. 
@@ -231,7 +229,7 @@ let them fight it out in the marketplace and let's see whose idea wins.
 "Dissents speak to a future age," as Justice Ginsberg once said, 
 and, in *Abrams*, Holmes wrote the most influential dissent in the history of modern First Amendment jurisprudence. His marketplace was a radical idea, and it 
 won out the in the competition for how to think about speech. 
-Holmes imaged a marketplace where there's no such thing as good or bad speech, 
+Holmes imagined a marketplace where there's no such thing as good or bad speech, 
 only speech that competes in the Darwinian marketplace and lives or dies. 
 The Court's job is to strike down any attempts by the government 
 to regulate the marketplace of ideas. 

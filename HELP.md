@@ -14,7 +14,7 @@ These instructions may help if you are new to GitHub but still want to contribut
 
 If you are brand new to GitHub, then probably begin at the [README](https://github.com/RichardDooling/Entertainment_Law/blob/master/README.md) and [CONTRIBUTIONS](https://github.com/RichardDooling/Entertainment_Law/blob/master/CONTRIBUTIONS.md) pages.
 
-The Entertainment Law repository ("repo") lives at [Richard Dooling's GitHub page](https://github.com/RichardDooling/Entertainment_Law), also referenced as the "upstream master" repository in some of the commands that follow. These are the files I use to teach my Entertainment Law courses.  
+The Entertainment Law repository ("repo") lives at [Richard Dooling's GitHub page](https://github.com/RichardDooling/Entertainment_Law), also referenced as the "upstream master" repository in some of the commands that follow. These are the files I use to teach my Entertainment Law courses. 
 
 For instance, when I assign a "chapter" for my students to read, I simply link to the topic for that week. For instance, [Defamation and Privacy Torts](https://github.com/RichardDooling/Entertainment_Law/tree/master/Defamation_Privacy).
 
@@ -28,21 +28,21 @@ Here's how.
 
 Once you have [Git and GitHub installed on your computer](https://help.github.com/articles/set-up-git) and have [forked the Entertainment Law repository](https://help.github.com/articles/fork-a-repo) on GitHub, you will see a button to the right that says: "Clone In Desktop."
 
-Click on it and create a copy of your GitHub FORK of the Entertainment Law files on your computer.
+Click on it and create a copy of your GitHub fork of the Entertainment Law files on your computer.
 
 ## Keeping Files In Sync
 
-As my co-conspirator, you have your own GitHub page and a FORK of my main repo containing copies of all the files. You don't have to worry about mucking things up by playing with these files. You cannot edit or delete the files in my main repo, so don't worry. You can edit only the files in your own FORK of my repo.
+As my co-conspirator, you have your own GitHub page and a fork of my main repo containing copies of all the files. You don't have to worry about mucking things up by playing with these files. You cannot edit or delete the files in my main repo, so don't worry. You can edit only the files in your own FORK of my repo.
 
 So far, so good:
 
-1. I have a main repository on MY GitHub page. 
-2. You have a FORK of that main repository on YOUR GitHub page. 
+1. I have a main repository on *my* GitHub page. 
+2. You have a *fork* of that main repository on *your* GitHub page. 
 
-But we each also have LOCAL repositories on our computers:
+But we each also have *local* repositories on our computers:
 
 1. I have a local copy of the main Entertainment Law GitHub repo on my computer. 
-2. You have a copy of YOUR FORK of the main Entertainment Law repo on your computer (wherever you and the GitHub application decided to put it).
+2. You have a copy of *your fork* of the main Entertainment Law repo on your computer (wherever you and the GitHub application decided to put it).
 
 You should keep only project files in your local copy of the repository. If you create or store other files here, the GitHub app will keep showing them to you and asking you if you want to ADD them to the project. Either move those files or tell the GitHub app to ignore them.
 
@@ -78,7 +78,7 @@ Assume you are about to work on the Entertainment Law repo. Let's say you are go
 
 You want to keep your local copy of my main repository "clean" and a faithful mirror of what's on my GitHub page, including a local copy of my original Copyright_Basics.md file.
 
-So you will create a BRANCH. It's really your WORKING copy of all the files in the repo. You can name the branch anything you want. Let's call it the "copyright" branch. Most branches are temporary and get deleted when the changes you made to them get "pulled" into the main project.
+So you will create a *branch*. It's really your working copy of all the files in the repo. You can name the branch anything you want. Let's call it the "copyright" branch. Most branches are temporary and get deleted when the changes you made to them get "pulled" into the main project.
 
 You create the branch with this command:
 
@@ -102,7 +102,7 @@ Some people prefer using the GitHub app for these commands.
 
 In the GitHub app it's easy to see what files you have changed and even review those changes. 
 
-First COMMIT your proposed changes. Proper commit messages really help everybody who is working on this project. The first line is usually 50 characters or less:
+First commit your proposed changes. Proper commit messages really help everybody who is working on this project. The first line is usually 50 characters or less:
 
 > Edit Copyright File
 
@@ -110,7 +110,7 @@ Below that is a box for more details, where brevity is still a virtue, but you s
 
 After you've committed your changes, you push everything to your GitHub repository. You can do this using the GitHub app. 
 
-Now go to YOUR FORK of the Entertainment Law Repository at GitHub.com.
+Now go to your fork of the Entertainment Law Repository at GitHub.com.
 
 * Read the GitHub Help instructions on: [How to create a pull request](https://help.github.com/articles/creating-a-pull-request).
 
