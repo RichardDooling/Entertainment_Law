@@ -7,7 +7,7 @@ chapter: First Amendment - Intro
 
 # First Amendment - Introduction
 
-I wrote a *Wall Street Journal* article last year 
+I wrote a *Wall Street Journal* article in 2017 
 about the polarized debate surrounding the First Amendment 
 and who gets to say what. It makes for an introduction of sorts. 
 Please follow this link. 
@@ -24,6 +24,8 @@ please find the text below:
 ### By Richard Dooling
 
 ###### Oct. 12, 2017 6:28 p.m. ET
+
+![Illustration: Phil Foster](https://si.wsj.net/public/resources/images/ED-AW898_Doolin_16U_20171012152241.jpg)
 
 If you are absolutely certain that President Trump is or is not an idiot, that climate change is or is not the most pressing problem of our age, that abortion is or is not murder, that football players should or should not be allowed to kneel during the national anthem, that our nation needs more or fewer gun laws, welcome! Most of us feel the same way. Absolute certainty is common, as is the suspicion that anybody who is absolutely certain of the opposite view must be evil, ignorant or a gullible consumer of fake news.
 
@@ -80,7 +82,8 @@ argue that the words mean what they say:
 > The First Amendment's language leaves no room for inference that abridgments of speech and press can be made just because they are slight. That Amendment provides, in simple words, that "Congress shall make no law . . . abridging the freedom of speech, or of the press." I read "no law . . . abridging" to mean no law abridging.
 
 Most judges and scholars think the Founders had important rights in mind, 
-but probably didn't mean literally Congress shall make no laws abridging anything that might be called speech.
+but probably didn't mean literally that Congress shall make no laws abridging anything 
+that might be called speech.
 
 [Eugene Volokh](http://en.wikipedia.org/wiki/Eugene_Volokh) 
 argues that the problematic words are not "make no law," 
@@ -202,7 +205,7 @@ the sort of licensing schemes that inspired the poet John Milton to write
 [Areopagitica](http://en.wikipedia.org/wiki/Areopagitica)? 
 Maybe free speech is a kind of civic "safety valve" 
 allowing aggrieved citizens to march in the streets 
-or issue screeds on street corners 
+or stand on soap boxes and harangue others, 
 instead of arming themselves and starting a civil war? 
 Theories one and all that have been propounded 
 as possible reasons we have a First Amendment.
@@ -227,7 +230,9 @@ or [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Co
 let them fight it out in the marketplace and let's see whose idea wins.
 
 "Dissents speak to a future age," as Justice Ginsberg once said, 
-and, in *Abrams*, Holmes wrote the most influential dissent in the history of modern First Amendment jurisprudence. His marketplace was a radical idea, and it 
+and, in *Abrams*, Holmes wrote the most influential dissent 
+in the history of modern First Amendment jurisprudence. 
+His marketplace was a radical idea, and it 
 won out the in the competition for how to think about speech. 
 Holmes imagined a marketplace where there's no such thing as good or bad speech, 
 only speech that competes in the Darwinian marketplace and lives or dies. 
@@ -255,7 +260,8 @@ that leads to the discovery and spread of "political truth."
 Brandeis wants to protect speech, 
 not because it's an absolute value or good for the soul, 
 but because it's essential for democracy 
-and [civic republicanism](http://www.britannica.com/EBchecked/topic/1916872/civic-republicanism). Quite a different concern than Justice Holmes' marketplace 
+and [civic republicanism](http://www.britannica.com/EBchecked/topic/1916872/civic-republicanism). 
+This is a different concern than Justice Holmes' marketplace 
 where ideas fight it out for survival of the fittest. 
 After his First Amendment epiphany in *Abrams*, 
 Holmes would probably say 
@@ -263,7 +269,9 @@ that there is no such thing as "political truth."
 Truth is whatever the marketplace says it is. 
 If cat videos beat out the President's State of the Union address, so be it.
 
-Holmes did win out, but Supreme Court opinions still can't help suggesting on occasion that some speech is "low-value" speech, or less in need of protection than other speech. 
+Holmes did win out, but Supreme Court opinions still can't help suggesting 
+on occasion that some speech is "low-value" speech, 
+or less in need of protection than other speech. 
 When they do that, they are usually citing Justice Brandeis 
 and his view that we need speech to be good citizens and discuss politics, 
 not to create pornography.
@@ -274,7 +282,7 @@ and governments that want to ban or censor their speech.
 What will happen when the family of a fallen veteran 
 sues the Westboro Baptist Church for picketing their son's funeral? 
 Or what about virtual child pornography? 
-Or pornography made without using real children, 
+That is, pornography made without using real children, 
 and all of the "actors" are computer generated? 
 Is virtual child pornography subject to the same extremely serious penalties 
 that the government imposes on 
@@ -286,7 +294,7 @@ needs an entertainment lawyer, not a con law scholar,
 so we try to be practical whenever possible.
 We are most concerned if our client's speech can be characterized 
 as "unprotected speech" because it's defamatory, or obscene, 
-invades someone's privacy, or is "indecent" because it's broadcast TV and its primetime.
+invades someone's privacy, or is "indecent" because it's broadcast on TV during prime time.
 
 ## Are Movies Speech?
 
@@ -333,8 +341,7 @@ and fifty different ideas about what makes a film
 From 1915 (the date of the *Mutual Film* decision) to 1952, 
 the film industry zealously regulated itself 
 to show the states they need not worry about censoring Hollywood movies. 
-The industry created the infamous Motion Picture Production Code 
-aka the "Hays Code" and aggressively enforced it. 
+The industry created the infamous [Motion Picture Production Code](https://en.wikipedia.org/wiki/Motion_Picture_Production_Code) aka the "Hays Code" and aggressively enforced it. 
 
 Named after Will H. Hays, 
 president of the Motion Picture Producers and Distributors of America from 1922 to 1945, 
@@ -530,7 +537,7 @@ occupation.
 
 Chaplinsky appealed all the way to the Supreme Court, claiming that the law was "vague" and that it infringed upon his First Amendment and Fourteenth Amendment rights to free speech. 
 
-Justice Murphy, writing for a unanimous court, upheld Chaplinsky's conviction under the statute and crafted one of the most widely quoted paragraphs in First Amendment jurisprudence, often cited in cases where the first amendment speaker is about to lose the case:
+Justice Murphy, writing for a unanimous court, upheld Chaplinsky's conviction under the statute and crafted one of the most widely quoted paragraphs in First Amendment jurisprudence, often cited in cases where the First Amendment speaker is about to lose the case:
 
 > The right of free speech is not absolute at all times and under all circumstances. There are certain well-defined and narrowly limited classes of speech, the prevention  and punishment of which have never been thought to raise any Constitutional problem. These include the lewd and obscene, the profane, the libelous, and the insulting or "fighting" words---those which by their very utterance inflict injury or tend to incite an immediate breach of the peace. It has been well observed that such utterances are no essential part of any exposition of ideas, and are of such slight social value as a step to truth that any benefit that may be derived from them is clearly outweighed by the social interest in order and morality. Resort to epithets or personal abuse is not in any proper sense communication of information or opinion safeguarded by the Constitution, and its punishment as a criminal act would raise no question under that instrument.
 
@@ -577,7 +584,10 @@ Child porn and disclosing classified information therefore are both categories o
 
 ### The Opinions We Loathe
 
-The First Amendment sometimes "feels" powerful and protective enough to take for granted, but as Justice Oliver Wendell Holmes observered "We should be eternally vigilant against attempts to check the expression of opinions that we loathe." Indeed, for decades the Republican Right sought to criminalize the speech of liberals who made obscene music or burned American flags. Lately the Democratic Left seeks to ban hate speech 
+The First Amendment sometimes "feels" powerful and protective enough to take for granted, 
+but as Justice Oliver Wendell Holmes observered, 
+"We should be eternally vigilant against attempts to check the expression of opinions that we loathe." 
+Indeed, for decades the Republican Right sought to criminalize the speech of liberals who made obscene music or burned American flags. Lately the Democratic Left seeks to ban hate speech 
 and "speech" containing directions for making 3D guns.
 Neither seems to realize that if their side can legally ban speech, 
 then after the next election the other side will inherit the same powers, 
@@ -585,7 +595,8 @@ along with the support of precedent.
 
 #### Totally Optional Reading
 
-* [Eugene Volokh on the meaning of "Congress shall make no law . .  ."](http://www.volokh.com/2012/09/19/the-founders-free-speechpress-clause/).  If the the tiny print bothers you, try [Readability.](http://www.readability.com/articles/xj1s2qys)
+* [Don't Use These Free-Speech Arguments Ever Again](https://www.theatlantic.com/ideas/archive/2019/08/free-speech-cliches-media-should-stop-using/596506/), by Ken White. "Most speech, hateful or not, is protected by the Constitution. To pretend otherwise is foolhardy."
+* [Eugene Volokh on the meaning of "Congress shall make no law . .  ."](http://www.volokh.com/2012/09/19/the-founders-free-speechpress-clause/). 
 * [Congress Shall Make No Law . . .][dooling_1sta], by Richard Dooling
 * [ACLU: Freedom of Expression in the Arts & Entertainment][aclu_1stA]
 * [*The Atlantic:* "The Most Powerful Dissent in American History"](http://www.theatlantic.com/national/archive/2013/08/the-most-powerful-dissent-in-american-history/278503/) (a book that reveals precisely how and why Oliver Wendell Holmes changed his mind about the first amendment).
@@ -612,6 +623,7 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 ### Changelog
 
 * Version 1.0 - 01-Jan-2018 
+* Version 1.1 - 26-Aug-2019 
 
 <!--Cases -->
 

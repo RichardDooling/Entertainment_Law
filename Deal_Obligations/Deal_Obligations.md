@@ -605,6 +605,10 @@ in the wake of the Harvey Weinstein and Kevin Spacey situations.
 
 [Studios Race to Add 'Morality Clauses' to Contracts](https://www.hollywoodreporter.com/news/metoo-hits-movie-deals-studios-race-add-morality-clauses-contracts-1082563)
 
+#### Miley Cyrus and the Penis Cake
+
+[Miley Cyrus Was Fired From 'Hotel Transylvania' for Penis Cake Photos | Hollywood Reporter](https://www.hollywoodreporter.com/news/miley-cyrus-was-fired-hotel-transylvania-penis-cake-photos-1233931?utm_medium=social&utm_source=twitter&utm_source=t.co&utm_medium=referral). "I got kicked off 'Hotel Transylvania' for buying Liam [Hemsworth] a penis cake for his birthday and licking it," she tweeted Thursday.
+
 #### Morals Clauses and Publishing Deals
 
 Even publishing is not immune to the latest craze for morals clauses. 
