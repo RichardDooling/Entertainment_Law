@@ -321,6 +321,11 @@ You should spend time getting to know the following resources.
 * [ASCAP title search](https://www.ascap.com/home/ace-title-search/index.aspx)
 * [BMI repertoire search](http://repertoire.bmi.com/startpage.asp)
 
+### Optional Reading
+
+* [E-Mail from Bill: Bill Gates’s Vision For The Future](https://www.newyorker.com/magazine/1994/01/10/e-mail-from-bill) by John Seabrook December 26, 1993.
+* [*The Song Machine: Inside The Hit Factory*](https://www.theatlantic.com/magazine/archive/2015/10/hit-charade/403192/?single_page=true), by John Seabrook (W. W. Norton & Company 2015).
+
 [^1]: *Entertainment, Media, and the Law: Text, Cases, and Problems,* 
 5th Edition, by Paul C. Weiler, Gary Myers & William W. Berry III. 
 

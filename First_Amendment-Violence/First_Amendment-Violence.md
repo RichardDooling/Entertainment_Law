@@ -7,24 +7,24 @@ chapter: First Amendment - Violence
 
 # First Amendment - Violence
 
-If speech is just too "sexy," it can be banned. 
-If it's indecent, it can be regulated. 
-But what if speech is just too violent 
-or unreasonably dangerous?
+If speech is just too "sexy," 
+can be banned and punished (*Miller*).
+<!-- movies found legally obscene -->
+If it is indecent, it can be regulated (*Pacifica* and *Fox I and II*). 
+What if speech is just too violent or unreasonably dangerous?
 What if a rap star's lyrics "inspire" 
 or ["cause" somebody to shoot a cop?](http://thediscography.org/discoDbDetail.php?req=942) 
 
 What if a journalist writes a lurid men's magazine article 
 about autoerotic asphyxiation 
-and arguably “causes” teenagers to try such deviant behavior for themselves, 
-[accidentally hanging themselves](http://en.wikipedia.org/wiki/Erotic_asphyxiation)? 
+and arguably "causes" teenagers to try such deviant behavior for themselves?
+What if they [accidentally hang themselves](http://en.wikipedia.org/wiki/Erotic_asphyxiation)? 
 What if, at trial, the victim's family argues 
 that the journalist's lurid article 
 was really just a how-to for teenage thrill-seekers? 
 We sympathize with the parents 
 when they sue the magazine for publishing a glossy magazine article 
-that arguably tempted their adolescent son to experiment, 
-with fatal consequences. 
+that arguably tempted their adolescent son to experiment, with fatal consequences.
 
 What if the recording of a heavy metal hit contains subliminal lyrics 
 that arguably encourage somebody to commit suicide or kill police officers?
@@ -34,6 +34,14 @@ that arguably "causes" or "inspires" a school shooting?
 Should the family members of these victims 
 be allowed to sue magazine publishers, record companies and rappers 
 for indirectly "causing" the death of their loved ones? 
+
+Can a song or movie that is otherwise protected speech 
+become a signal to get your guns and take to the streets?
+Suppose angry activists turn arsonists 
+and adopt "Burning Down The House" as their anthem?
+When fellow activists hear the song at a rally, 
+it inspires them to take hurl flaming Malatov cocktails at the governor's mansion.
+Now every time the song gets played, young people take to the streets with incendiary devices.
 
 What about violent movies? Fourteen different murderers have said 
 that Oliver Stone’s *Natural Born Killers* 
@@ -45,6 +53,10 @@ wherein animals are brutally tortured and killed?
 Do these cruel and sometimes deadly side effects of violent "speech" suggest 
 that extreme violence should be banned or regulated, 
 the way obscenity is banned and indecency is regulated?
+
+But would the United States Supreme Court call a magazine article about autoerotic asphyxiation unprotected "incitement"? Probably not, and the following excerpts from a few landmark United States Supreme Court cases show why. The states may regulate only speech which is "*directed to* inciting or
+producing *imminent* lawless action and *is likely to incite* or produce
+such action."
 
 ## A *Miller* Test For Violence?
 
@@ -1944,7 +1956,8 @@ But is that the end of the question? Of course not.
 
 If the First Amendment prevents states from regulating violent entertainment products, 
 then what about suing the manufacturers of such products after the fact? But here too, the First Amendment and well-settled principles of tort law (duty, foreseeability, causation), have so far prevented victims and family members 
-from bringing civil suits against the manufacturers of video products. 
+from bringing civil suits against the manufacturers of video products, 
+but that doesn't stop them from trying. And ever since the Columbine shootings in 1999. 
 
 Even before the tragic shooting at Columbine High School, perpetrated by two senior students Eric Harris and Dylan Klebold, who murdered a total of 12 students and one teacher and injured 21 others, victims and the families of victims sought judgments against the manufacturers of entertainment products because those products arguably inspired or "incited" criminals to mayhem. Harris and Klebold were [both fans of video games like *Doom* and *Wolfenstein 3D*](http://en.wikipedia.org/wiki/Columbine_High_School_massacre#Video_games) and so (the argument goes) the makers of those games had a hand in "causing" the appalling violence at Columbine, which has been called the Pearl Harbor of the American culture wars.
 

@@ -7,28 +7,47 @@ chapter: First Amendment - Obscenity
 
 # First Amendment - Obscenity 
 
-For several decades in the second half of the last century, 
-the Supreme Court heard one [obscenity](https://en.wikipedia.org/wiki/Obscenity#United_States_obscenity_law) case after another. 
-Obscenity is its own category of speech historically unprotected by the First Amendment, 
-indeed, still unprotected speech almost twenty years into the new century.
-It also offers a case study in how hard it is for government's 
-to define with precision just what kind of speech they wish to ban or regulate. 
-*What is obscenity?* is still a question with no satisfying answer.
-Students new to the First Amendment often expect that any definition of *obscenity* 
-must include foul language or swear words, in the sense of uttering an obscenity.
-But the f-word and its kin are better described as [*indecency*](https://www.fcc.gov/general/obscenity-indecency-and-profanity), another legal category of speech with imprecise boundaries, 
-[as the Federal Communications Commission (FCC) defines it](https://www.fcc.gov/general/obscenity-indecency-and-profanity).
+## Obscenity
+
+Most easily described as "hard core pornography,"
+obscenity gets its own category of speech 
+historically unprotected by the First Amendment.
+The word "obscenity" sounds positively antique in the Information Age, 
+where pornography is widely available via the Internet, 
+and obscenity prosecutions are as rare as new video cassette tapes.
+But for several decades in the second half of the last century, 
+the Supreme Court felt its way toward 
+a working definition of [obscenity](https://en.wikipedia.org/wiki/Obscenity#United_States_obscenity_law) 
+by deciding, case-by-case, whether various films were obscene.
+
+### Movie Day 
+
+In [*The Brethren: Inside The Supreme Court (1979),*](https://en.wikipedia.org/wiki/The_Brethren_(book)), 
+a 1979 book by Bob Woodward and Scott Armstrong,
+the authors provide a "behind-the-scenes" account of the United States Supreme Court during Warren Burger's early years as Chief Justice of the United States, including the Court's struggles to formulate its obscenity doctrine.
+As hundreds of obscenity cases made their way through the lower courts, 
+some of the Justices and their clerks instituted ["movie day"](https://corporate.findlaw.com/litigation-disputes/movie-day-at-the-supreme-court-or-i-know-it-when-i-see-it-a.html) at the United States Supreme Court, 
+a weekly gathering at which the law clerks and the Justices sat down to eat popcorn and view porn films, such as *Vixen* and *Fanny Hill (Memoirs of a Woman of Pleasure)*, for the cases awaiting decisions. 
+Justice Hugo Black, who served from 1937 to 1971, always refused Movie Day by saying "if I want to go see that film, I should pay my money." Justice Black and Justice William Douglas, who served from 1939 to 1975, did not participate in movie day because they believed that whatever was in movies about sex between consenting adults was protected by the First Amendment. Justice Harlan, who by the end of his tenure was nearly blind, "watched the films from the first row, a few feet from the screen, able only to make out the general outlines. His clerk or another Justice would describe the action. 'By Jove,' Harlan would explain. 'Extraordinary.'" *The Brethren*
 
 Justice Potter Stewart gave the most honest and memorable definition of obscenity in 
 [*Jacobellis v. Ohio*](http://en.wikipedia.org/wiki/Jacobellis_v._Ohio) (1964):
 
-> I shall not today attempt further to define the kinds of material I understand to be embraced within that shorthand description ["hard-core pornography"]; and perhaps I could never succeed in intelligibly doing so. **But I know it when I see it**, and the motion picture involved in this case is not that.
+> I shall not today attempt further to define the kinds of material I understand to be embraced within that shorthand description ("hard-core pornography"); and perhaps I could never succeed in intelligibly doing so. But [I know it when I see it](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it), and the motion picture involved in this case is not that.
+
+###  Obscenity Versus Indecency
+
+Students new to the First Amendment often expect that any definition of *obscenity* 
+must include foul language or swear words, in the sense of, 
+"then, the dastardly villain uttered an obscenity." 
+But the f-word and its kin are better described as [*indecency*](https://www.fcc.gov/general/obscenity-indecency-and-profanity), another legal category of speech with imprecise boundaries, 
+[as the Federal Communications Commission (FCC) defines it](https://www.fcc.gov/general/obscenity-indecency-and-profanity).
 
 As we'll see later, obscenity trials are almost pass&eacute; 
 because of the advent of the Internet. 
 The Internet finally allowed the porn industry to reach their customers 
 without displaying their wares on movie marquees and in the magazine racks of 
-gas stations and convenience stores. 
+gas stations, drug stores, and convenience stores. 
 If grandma never catches even a glimpse of porn, 
 then she never writes her congressman, 
 even though the U.S. porn industry [generates over $10-$12 billion revenue in the US, and close to $100 billion globally](https://www.nbcnews.com/business/business-news/things-are-looking-americas-porn-industry-n289431)
@@ -52,11 +71,10 @@ the printed word alone was enough.
 
 Less than fifty years ago, in [*Kaplan v. California*][kaplan] (US 1973), 
 the Supreme Court held that: 
-
 "Obscene material in book form is not entitled to any First Amendment protection 
 merely because it has no pictorial content."
 
-As less than thirty years ago, 
+And less than thirty years ago, 
 at least one federal district court in Florida 
 ruled that 2 Live Crew's "Nasty As They Wanna Be" 
 was legally obscene, based not on any videos or images, 
@@ -66,7 +84,7 @@ and concludes that 2 Live Crew's music is obscene.
 
 ## *Skyywalker Records, Inc. v. Navarro*
 
-###### Federal Dist. Court, SD Florida (1990)
+###### Federal District Court, SD Florida (1990)
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=14837193914817189174)
 * [how cited at Google Scholar](http://scholar.google.com/scholar_case?about=14837193914817189174)
@@ -76,8 +94,7 @@ and concludes that 2 Live Crew's music is obscene.
 
 GONZALEZ, District Judge.
 
-This is a case between two ancient enemies: Anything Goes and Enough
-Already.
+This is a case between two ancient enemies: Anything Goes and Enough Already.
 
 Justice Oliver Wendell Holmes, Jr. observed in [*Schenck v. United
 States* (US 1919),][schenck] that the First Amendment is not absolute and that it does not permit one
@@ -149,7 +166,7 @@ In mid-February 1990, the Broward County Sheriff's office began an
 investigation of the *Nasty* recording. The investigation began in
 response to complaints by South Florida residents.
 
- Broward County Deputy Sheriff Mark Wichner was assigned to the
+Broward County Deputy Sheriff Mark Wichner was assigned to the
 case. On February 26, 1990, he traveled to Sound Warehouse, a Broward
 County retail music store, and purchased a cassette tape copy of the
 *Nasty* recording. The tape was purchased from an open display rack
@@ -225,9 +242,9 @@ been instituted.
 ### Obscenity And The First Amendment
 
 The First Amendment to the United States Constitution provides that
-"Congress shall make no law ... abridging the freedom of speech." The
-Fourteenth Amendment declares that "no State shall ... deprive any
-person of ... liberty ... without due process of law." It is now
+"Congress shall make no law &hellip; abridging the freedom of speech." The
+Fourteenth Amendment declares that "no State shall &hellip; deprive any
+person of &hellip; liberty &hellip; without due process of law." It is now
 well-established that this "liberty" 
 includes the right to free speech. *Chaplinsky v. New Hampshire,* 
 *Miller v. California*. 
@@ -274,12 +291,11 @@ than live sex and nudity can be exhibited or sold without limit in such
 public places." 
 
 The state may also have an important interest in protecting minors and
-unwilling or sensitive adults from exposure to obscene materials. *See*
-[*Miller*](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
-The plaintiffs attempt to diminish the state's interest by
-relying upon language in [*Butler v. Michigan*](http://scholar.google.com/scholar_case?case=8098803622147894006&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0) (US 1957)
-that if materials that are only obscene as to minors are banned, a
-state's statute would "reduce the adult population ... to reading only
+unwilling or sensitive adults from exposure to obscene materials. 
+*See* [*Miller*][miller]. The plaintiffs attempt to diminish the state's interest by
+relying upon language in [*Butler v. Michigan*](http://scholar.google.com/scholar_case?case=8098803622147894006)
+(US 1957) that if materials that are only obscene as to minors are banned, a
+state's statute would "reduce the adult population &hellip; to reading only
 what is fit for children." This decision
 only applies, however, to governmental regulations of materials which
 are not obscene as to adult audiences. Certainly it is not improper for
@@ -287,7 +303,6 @@ a state to protect children from materials which are too lewd for even
 adult consumption.
 
 Words, including musical lyrics, are powerful. As noted in [*Paris Adult Theatre I*][paris]:
-
 
 > If there is a well nigh universal belief that good books, plays, and
 > art lift the spirit, improve the mind, enrich the human personality,
@@ -310,13 +325,12 @@ scheme outlawing obscenity. It is apparent that this legislation is
 intended to regulate obscenity to the maximum extent allowed by the
 Constitution of the United States. Florida Statutes,
 tracks the language of the controlling case of [*Miller v.
-California*](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0)
-in defining obscenity for purposes of the state ban. 
+California*][miller] in defining obscenity for purposes of the state ban. 
 
 The Florida Legislature has enacted a comprehensive set of laws. The
 primary provision &hellip; *criminalizes* the distribution, sale, or production of any
 obscene thing including a "recording" which can be "transmuted into
-auditory ... representations." Subsection (2) similarly makes it a
+auditory &hellip; representations." Subsection (2) similarly makes it a
 *crime* for a person to knowingly have an obscene thing, including
 musical recordings, in his possession. Other sections make it
 *criminal* to transport obscenity into the state or to create, deliver,
@@ -373,9 +387,9 @@ Theatre I*][paris]:
 > exercises of individual free choice—those in politics, religion, and
 > expression of ideas—are explicitly protected by the Constitution.
 > Totally unlimited play for free will, however, is not allowed in our
-> or any other society....
+> or any other society &hellip;
 
-> The States, of course, may follow ... a "laissez-faire" policy and
+> The States, of course, may follow &hellip; a "laissez-faire" policy and
 > drop all controls on commercialized obscenity, if that is what they
 > prefer, just as they can ignore consumer protection in the
 > marketplace, but nothing in the Constitution *compels* the States to
@@ -418,8 +432,8 @@ people are free to pick and choose among which laws they will obey and
 which they will reject. Neither is it a channel selector available to
 every member of the public to use as they deem fit. As noted in the
 Pattern Instructions of the Eleventh Circuit, jurors in deciding the
-rights and liberties of their fellow citizens "must ... follow the law
-... whether.... [they] agree with that law or not."
+rights and liberties of their fellow citizens "must &hellip; 
+follow the law whether &hellip; [they] agree with that law or not."
 
 Men and women in good faith may agree or disagree as to whether
 obscenity should be prohibited. They can argue that the obscenity
@@ -432,7 +446,7 @@ Florida's Legislature has mandated that all sheriffs in the state are to
 ### The Miller v. California Test
 
 In deciding whether a specific work is or is not obscene, the court must
-apply the controlling test enunciated in [*Miller v. California*](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+apply the controlling test enunciated in [*Miller v. California*][miller]
 To be obscene, there must be proof of all three of the following
 factors: (1) the average person, applying contemporary community
 standards, would find that the work, taken as a whole, appeals to the
@@ -587,7 +601,7 @@ property, and even his life, there is no requirement that the government
 prove guilt beyond all possible doubt. As noted in [*Hamling v. United
 States*](http://scholar.google.com/scholar_case?case=487349011929396754&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0) (US 1974), 
 "It is common experience that different juries may reach different
-results ... This is one of the consequences we accept under our jury
+results &hellip; This is one of the consequences we accept under our jury
 system." The same holds true when the court is the finder of fact in a
 bench trial. Application of the "community" and "average person"
 standards are no different than that of applying the standard of the
@@ -612,8 +626,7 @@ the male sexual organ, masturbation, cunnilingus, sexual intercourse,
 and the sounds of moaning. Florida's Legislature has provided a valuable
 source of evidence in the form of its obscenity statutes for determining
 what is sexual conduct. Florida Statutes define "sexual conduct" to include "actual or
-simulated sexual intercourse, deviate sexual intercourse, ...
-masturbation ... sadomasochistic abuse; [or] actual lewd exhibition of
+simulated sexual intercourse, deviate sexual intercourse &hellip; masturbation &hellip; sadomasochistic abuse; [or] actual lewd exhibition of
 the genitals." Florida Statutes define deviate
 sexual intercourse as sexual conduct between unmarried persons involving
 contact between the penis and the anus, the mouth and the penis, or the
@@ -662,12 +675,12 @@ he looks for titillation, not for saving intellectual content."
 
 Consideration of the creator's intent to appeal to the prurient interest
 is still a valid consideration today, even after [*Miller v.
-California*](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+California*][miller].
 
 The record at trial indicates that the plaintiffs' commercial
-exploitation of this work was done in a manner calculated to make a
-salacious appeal. The title of the recording, *As Nasty As They Want To
-Be,* in addition to the names of many of the songs and the illustration
+exploitation of this work was done in a manner calculated to make a salacious appeal. 
+The title of the recording, *As Nasty As They Want To Be,* 
+in addition to the names of many of the songs and the illustration
 on the recordings' insert certainly fit within the confines of the
 *Ginzburg* case for materials "looking for titilation."
 
@@ -698,7 +711,7 @@ appeals to a shameful and morbid interest in sex.
 The court also finds that the second element of the *Miller* test is
 satisfied in that the *Nasty* recording is patently offensive. This is a
 question of fact, which must be measured by contemporary community
-standards.  [*Miller*](http://scholar.google.com/scholar_case?case=287180442152313659&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0).
+standards.  [*Miller*][miller].
 
 It is quite true that not all speech with sex as its topic is obscene.
 The *As Nasty As They Wanna Be* recording is another matter.
@@ -990,7 +1003,7 @@ existence of a censor. The danger is that officials, even if originally
 well-intentioned, may be driven to suppress an ever growing amount of
 speech.
 
- For all of these reasons, the First Amendment casts a jaundiced
+For all of these reasons, the First Amendment casts a jaundiced
 eye on any form of prior restraint. But, as with the right of free
 speech itself, this prohibition is not absolute. A limitation on speech
 prior to its publication may withstand constitutional scrutiny in
@@ -1032,6 +1045,11 @@ unconstitutional as an improper prior restraint of free speech in
 violation of the First and Fourteenth Amendments to the United States
 Constitution.
 
+## On Appeal
+
+On appeal, the Eleventh Circuit Court of Appeals reversed the district court's holding in *Skywalker Records.* 
+See if you can guess why before perusing the opinion at [*Luke Records v. Navarro*](https://scholar.google.com/scholar_case?case=16084488552908068685).
+
 ######
 
 ## Child Pornography 
@@ -1041,7 +1059,7 @@ the U.S. Supreme Court unanimously ruled that the State of New York
 could ban the sale of material depicting children engaged in sexual activity. 
 
 Child pornography, the court said, is unprotected speech, 
-not because it is obscene 
+not because it is obscene, 
 but because actual children are harmed in the making of it, 
 and the resulting product provides a permanent record of the harm done, 
 capable of inflicting grievous damage on child actors long afterwards.
@@ -1086,7 +1104,8 @@ exploited by the production process.
 As a general rule, pornography can be banned only if obscene, 
 but under *Ferber,* pornography showing minors can be proscribed 
 whether or not the images are obscene under the definition set forth in 
-[*Miller* v. *California*](http://scholar.google.com/scholar_case?case=287180442152313659) (US 1973).
+[*Miller* v. *California*][miller]
+(US 1973).
 *Ferber* recognized that "the *Miller* standard, 
 like all general definitions of what may be banned as obscene, 
 does not reflect the State's particular and more compelling interest 
@@ -1312,7 +1331,7 @@ as [an additional category of unprotected speech](http://scholar.google.com/scho
 
 As we have noted, the CPPA is much more than a supplement 
 to the existing federal prohibition on obscenity. 
-Under [*Miller*](http://scholar.google.com/scholar_case?case=287180442152313659) 
+Under [*Miller*][miller],
 the Government must prove that the work, 
 taken as a whole, appeals to the prurient interest, 
 is patently offensive in light of community standards, 
@@ -1604,7 +1623,7 @@ unlawful speech. Protected speech does not become unprotected merely
 because it resembles the latter. The Constitution requires the reverse.
 "[T]he possible harm to society in permitting some unprotected speech to
 go unpunished is outweighed by the possibility that protected speech of
-others may be muted . . . ." [*Broadrick* v. *Oklahoma*](http://scholar.google.com/scholar_case?case=15763855873494372375&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0).
+others may be muted &hellip;" [*Broadrick* v. *Oklahoma*](http://scholar.google.com/scholar_case?case=15763855873494372375&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0).
 The overbreadth doctrine prohibits the Government from banning
 unprotected speech if a substantial amount of protected speech is
 prohibited or chilled in the process.
@@ -1803,9 +1822,9 @@ cf. [*Jacobellis* v. *Ohio*](http://scholar.google.com/scholar_case?case=1535645
 ("In my opinion, the use to which various materials are put—not just the words and pictures themselves—must be considered in determining whether or not the materials are obscene"). I would construe "conveys the impression" as limited to the panderer, which makes the statute entirely consistent with *Ginzburg* and other cases.
 
 In sum, while potentially impermissible applications of the CPPA may
-exist, I doubt that they would be "substantial. . . in relation to the
+exist, I doubt that they would be "substantial &hellip; in relation to the
 statute's plainly legitimate sweep." [*Broadrick* 413 U. S., at
-615](http://scholar.google.com/scholar_case?case=15763855873494372375&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0). 
+615](http://scholar.google.com/scholar_case?case=15763855873494372375)
 The aim of ensuring the enforceability of our Nation's child pornography laws 
 is a compelling one. 
 The CPPA is targeted to this aim by extending the definition of child pornography 
@@ -1819,6 +1838,8 @@ the First Amendment, reverse the Court of Appeals' judgment, and uphold
 the statute in its entirety.
 
 #### USDOJ on Child Pornography
+
+Please read this: 
 
 * [USDOJ Citizens Guide To U.S. Federal Law On Child Pornography](http://www.justice.gov/criminal/ceos/citizensguide/citizensguide_porn.html).
 
