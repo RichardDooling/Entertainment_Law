@@ -22,7 +22,7 @@ by deciding, case-by-case, whether various films were obscene.
 
 ### Movie Day 
 
-In [*The Brethren: Inside The Supreme Court (1979),*](https://en.wikipedia.org/wiki/The_Brethren_(book)), 
+In [*The Brethren: Inside The Supreme Court (1979)*](https://en.wikipedia.org/wiki/The_Brethren_(book)), 
 a 1979 book by Bob Woodward and Scott Armstrong,
 the authors provide a "behind-the-scenes" account of the United States Supreme Court during Warren Burger's early years as Chief Justice of the United States, including the Court's struggles to formulate its obscenity doctrine.
 As hundreds of obscenity cases made their way through the lower courts, 
@@ -1047,7 +1047,7 @@ Constitution.
 
 ## On Appeal
 
-On appeal, the Eleventh Circuit Court of Appeals reversed the district court's holding in *Skywalker Records.* 
+On appeal, the Eleventh Circuit Court of Appeals reversed the district court's holding in *Skyywalker Records.* 
 See if you can guess why before perusing the opinion at [*Luke Records v. Navarro*](https://scholar.google.com/scholar_case?case=16084488552908068685).
 
 ######
@@ -1312,7 +1312,8 @@ Liberties Union*](http://scholar.google.com/scholar_case?case=155722483688742772
 ("In evaluating the free speech rights of adults, we have made it
 perfectly clear that 'sexual expression which is indecent but not
 obscene is protected by the First Amendment'") (quoting [*Sable
-Communications of Cal., Inc.* v. *FCC*] (http://scholar.google.com/scholar_case?case=12959937071120946576) (US 1989)); [*Carey* v. *Population Services Int'l*](http://scholar.google.com/scholar_case?case=4801034783278981738) (US 1977) ("The fact that protected speech may be offensive to some does not justify its suppression").
+Communications of Cal., Inc.* v. *FCC*][sable] (US 1989); 
+[*Carey* v. *Population Services Int'l*](http://scholar.google.com/scholar_case?case=4801034783278981738) (US 1977) ("The fact that protected speech may be offensive to some does not justify its suppression").
 
 As a general principle, 
 the First Amendment bars the government 
@@ -1357,8 +1358,8 @@ and has been a theme in art and literature throughout the ages.
 Under the CPPA, 
 images are prohibited so long as the persons appear to be under 18 years of age.
 This is higher than the legal age for marriage in many States,
-as well as the age at which persons may consent to sexual relations . . . . 
-(48 States permit 16-year-olds to marry with parental consent) . . . . 
+as well as the age at which persons may consent to sexual relations &hellip;
+(48 States permit 16-year-olds to marry with parental consent) &hellip; 
 (in 39 States and the District of Columbia, the age
 of consent is 16 or younger). 
 It is, of course,
@@ -1402,7 +1403,7 @@ severe punishment without inquiry into the work's redeeming value. This
 is inconsistent with an essential First Amendment rule: 
 The artistic merit of a work does not depend on the presence of a single explicit
 scene. See [*Book Named "John Cleland's Memoirs of a Woman of Pleasure"*
-v. *Attorney General of Mass.*](http://scholar.google.com/scholar_case?case=10189557359995044131&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
+v. *Attorney General of Mass.*](http://scholar.google.com/scholar_case?case=10189557359995044131)
 (US 1966) (plurality opinion) ("The social value of the book can neither be weighed against nor
 canceled by its prurient appeal or patent offensiveness"). Under
 *Miller,* the First Amendment requires that redeeming value be judged by
@@ -1448,7 +1449,7 @@ on persons selling, advertising, or otherwise promoting the product."
 Under either rationale, the speech had what the Court in
 effect held was a proximate link to the crime from which it came.
 
-Later, in [*Osborne* v. *Ohio*,](http://scholar.google.com/scholar_case?case=4775063558409617777&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 1990), 
+Later, in [*Osborne* v. *Ohio*](http://scholar.google.com/scholar_case?case=4775063558409617777) (US 1990), 
 the Court ruled that these same interests justified a ban on the
 possession of pornography produced by using children. "Given the
 importance of the State's interest in protecting the victims of child
@@ -1475,7 +1476,7 @@ but depends upon some unquantified potential for subsequent criminal acts.
 The Government says these indirect harms are sufficient 
 because, as *Ferber* acknowledged, 
 child pornography rarely can be valuable speech.
-See [458 U. S., at 762](http://scholar.google.com/scholar_case?case=1226851723986989726&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
+See [458 U. S., at 762][ferber]
 ("The value of permitting live performances and photographic
 reproductions of children engaged in lewd sexual conduct is exceedingly
 modest, if not *de minimis* "). This argument, however, suffers from two
@@ -1515,26 +1516,25 @@ that might be used for immoral purposes,
 yet we would not expect those to be prohibited 
 because they can be misused. 
 The Government, of course, may punish adults who provide unsuitable
-materials  to children, see [*Ginsberg* v. *New York*](http://scholar.google.com/scholar_case?case=8460647428333624773&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 1968),
+materials  to children, see [*Ginsberg* v. *New York*](http://scholar.google.com/scholar_case?case=8460647428333624773) (US 1968),
 and it may enforce criminal penalties for unlawful solicitation. 
 The precedents establish, however, 
 that speech within the rights of adults to hear 
 may not be silenced completely in an attempt to shield children
-from it. See [*Sable Communications*](http://scholar.google.com/scholar_case?case=12959937071120946576&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0).
-In [*Butler* v. *Michigan*](http://scholar.google.com/scholar_case?case=8098803622147894006&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)(US 1957), 
+from it. See [*Sable Communications*][sable].
+In [*Butler* v. *Michigan*](http://scholar.google.com/scholar_case?case=8098803622147894006) (US 1957), 
 the Court invalidated a statute prohibiting distribution of an indecent
 publication because of its tendency to "'incite minors to violent or
 depraved or immoral acts.' " A unanimous Court agreed upon the important
 First Amendment principle that the State could not "reduce the adult
 population . . . to reading only what is fit for children." *Id.,* at
 383. We have reaffirmed this holding. See [*United States* v. *Playboy
-Entertainment Group, Inc.*](http://scholar.google.com/scholar_case?case=11989907166283121695&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) (US 2000)
+Entertainment Group, Inc.*](http://scholar.google.com/scholar_case?case=11989907166283121695) (US 2000)
 ("The objective of shielding children does not suffice to support a
 blanket ban if the protection can be accomplished by a less restrictive
-alternative"); [*Reno* v. *American Civil Liberties Union*](http://scholar.google.com/scholar_case?case=1557224836887427725&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
-(The "governmental interest in protecting children from harmful
+alternative"); [*Reno* v. *American Civil Liberties Union*](http://scholar.google.com/scholar_case?case=1557224836887427725) (The "governmental interest in protecting children from harmful
 materials . . . does not justify an unnecessarily broad suppression of
-speech addressed to adults"); [*Sable Communications*](http://scholar.google.com/scholar_case?case=12959937071120946576&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0)
+speech addressed to adults"); [*Sable Communications*][sable] 
 (striking down a ban on "dial-a-porn" messages that had "the invalid
 effect of limiting the content of adult telephone conversations to that
 which is suitable for children to hear").
@@ -1855,7 +1855,7 @@ Please read this:
 [fox]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=132+S.Ct.+2307\&appflag=67.12 "FCC v. Fox"
 [burstyn]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=72+S.Ct.+777\&appflag=67.12 "Joseph Burstyn v. Wilson" 
 [burstyn-w]: http://en.wikipedia.org/wiki/Joseph_Burstyn,_Inc_v._Wilson "Joseph Burstyn v. Wilson" 
-[navarro]: http://en.wikipedia.org/wiki/2_Live_Crew#As_Nasty_As_They_Wanna_Be "Skywalker v. Navarro at Wikipedia"
+[navarro]: http://en.wikipedia.org/wiki/2_Live_Crew#As_Nasty_As_They_Wanna_Be "Skyywalker v. Navarro at Wikipedia"
 [skyywalker]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=739fsupp578\&appflag=67.12 "*Skyywalker Records v. Navarro* at Westlaw"
 [miller-w]: https://en.wikipedia.org/wiki/Miller_v._California "*Miller v. California* at Wikipedia."
 [ferber]: http://scholar.google.com/scholar_case?case=1226851723986989726	"New York vs. Ferber"
@@ -1863,6 +1863,7 @@ Please read this:
 [schenck]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=249US47&appflag=67.12 "United States v. Schecnk"
 [kaplan]: http://scholar.google.com/scholar_case?case=744658730748459277&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0	"Kaplan v. California"
 [paris]:  http://scholar.google.com/scholar_case?case=7437343063858529835&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0 	"Paris Theater I"
+[sable]: http://scholar.google.com/scholar_case?case=12959937071120946576 "Sable Communications"
 
 <!-- BEGIN COMMENT -->
 

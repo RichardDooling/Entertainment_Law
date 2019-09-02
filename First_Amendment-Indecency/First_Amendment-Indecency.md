@@ -16,28 +16,31 @@ These materials are published under an [MIT license](https://github.com/RichardD
 Just as we get comfortable with the notion 
 that speech is either protected or unprotected under the First Amendment, 
 and that there are certain specific categories of unprotected speech,
-along comes some speech, George Carlin's *Seven Dirty Words* routine, in the 1970s, that the Federal Communications Commission wishes to *regulate* but not *ban*. 
+along comes some speech, George Carlin's *Seven Dirty Words* routine, in the 1970s, 
+that the Federal Communications Commission wishes to *regulate* but not *ban*. 
 
 The words in Carlin's routine are dirty words, 
 but they are not "prurient" or obscene within the meaning of the *Miller* test.
 They are not fighting words or incitement, defamatory, or a threat. 
 They are not so-called "crime-facilitating speech," like conspiracy or fraud.
-Also recall that seven years before *Pacifica*, 
-the Supreme Court had said, in *Cohen v. California* 
-that California could not arrest a man for wearing a jacket that said Fuck The Draft. 
+Also seven years before *Pacifica*, 
+the United States Supreme Court said, in [*Cohen v. California,*][cohen] (US 1969), 
+that California could not arrest a man for wearing a jacket that said, "Fuck The Draft." 
 
 Please listen to [George Carlin's 7 Dirty Words routine][7dirty], 
 which is the subject of the litigation in *FCC v. Pacifica*. 
 It's low comedy, but also wise about how the First Amendment works. 
 
 Never mind *why* we have tabooed words.
-Assume we all know we want to ban some dirty words, or some racist words, or some communist words. 
+Assume we all know we want to ban some dirty words, 
+or some racist words, or some communist words. 
 Carlin's performance dramatizes how difficult it is to define such word categories with precision.
 Meaning that any attempt to make a list of prohibited words, 
 or a "speech code," will ultimately censor protected speech, 
 including protected speech like Carlin's comedy routine.
 
-Seven years before *Pacifica*, Justice Harlan wrote that the f-word was a matter of taste, not law:
+Seven years before *Pacifica*, 
+Justice Harlan wrote that the f-word was a matter of taste, not law:
 
 > How is one to distinguish this from any other offensive word? Surely the State has no right to cleanse public debate to the point where it is grammatically palatable to the most squeamish among us. Yet no readily ascertainable general principle exists for stopping short of that result were we to affirm the judgment below. For, while the particular four-letter word being litigated here is perhaps more distasteful than most others of its genre, it is nevertheless often true that one man's vulgarity is another's lyric. Indeed, we think it is largely because governmental officials cannot make principled distinctions in this area that the Constitution leaves matters of taste and style so largely to the individual.
 
@@ -62,9 +65,11 @@ It's not too long. I would download and print the entire Westlaw decision and re
 
 ## Fleeting Expletives
 
-*Pacifica* is still with us. It's why we don't normally hear Carlin's seven dirty words on broadcast television 
-during the hours of 6 AM to 10 PM to this day. The FCC purports to regulate [obscenity, indecency and profanity](
-https://www.fcc.gov/general/obscenity-indecency-and-profanity) and purport to know these things [when they see and hear them](https://www.fcc.gov/consumers/guides/obscene-indecent-and-profane-broadcasts). 
+*Pacifica* is still with us. It's why, to this day, we don't usually hear any of Carlin's seven dirty words 
+on broadcast television during the hours of 6 a.m. to 10 p.m.. 
+The FCC purports to regulate [obscenity, indecency and profanity](
+https://www.fcc.gov/general/obscenity-indecency-and-profanity) 
+and purports to know these things [when they see and hear them](https://www.fcc.gov/consumers/guides/obscene-indecent-and-profane-broadcasts). 
 
 *Pacifica* spoke of Carlin's "barrage" of dirty words, but by the 2000s, 
 the FCC was threatening fines for the broadcast of even a single dirty word during prime time TV.
@@ -74,7 +79,8 @@ so that we are able to explain why *Pacifica* is still with us,
 even though it no longer makes any sense to make separate rules for cable TV and broadcast television. 
 Don't they all arrive on the same fiber optic cable or satellite dish?
 
-The dissents in *Fox II* spell *Pacifica's* doom, as we observed last week in class.
+The dissents in *Fox II* spell *Pacifica's* doom. 
+The handwriting appears to be on the wall. 
 
 ## *FCC v. Fox Television Stations* (Fox I)
 
@@ -117,7 +123,7 @@ But other portions of the Act sought to criminalize
 "the knowing transmission of obscene or indecent messages to any recipient under 18 years of age."
 
 This was Congress making a regulatory land grab on the Internet, 
-which even in 1996 was already the Wild West of content. 
+and even in 1996 the Internet was already the Wild West of content. 
 <!-- Congress tried to criminalize the distribution of pornographic and "indecent" material on the Internet.  -->
 Recall that *Pacifica* allowed the FCC to regulate, but not ban, 
 indecent speech in broadcasting. 
@@ -127,7 +133,7 @@ on the Internet, but the Court said no.
 
 In the landmark case of [*Reno* v. *American Civil Liberties Union*][reno] (US 1997), 
 the United States Supreme Court struck down the anti-pornography and indecency provisions of the CDA.
-The Court took pains to distinguish *Pacifica* and *Ginsburg*, 
+The Court took pains to distinguish [*Pacifica*][pacifica] and [*Ginsberg*][ginsberg], 
 by observing that the Internet was more like newspapers than broadcasting stations.
 The Court had a long history of striking down content-based regulations of newspapers. [Miami Herald v. Tornillo][tornillo]. 
 The Court reasoned that the Internet was much more like a print medium than a radio or a television.
@@ -136,24 +142,63 @@ The provisions were vague and overbroad:
 
 > We are persuaded that the CDA lacks the precision that the First Amendment requires when a statute regulates the content of speech. In order to deny minors access to potentially harmful speech, the CDA effectively suppresses a large amount of speech that adults have a constitutional right to receive and to address to one another. That burden on adult speech is unacceptable if less restrictive alternatives would be at least as effective in achieving the legitimate purpose that the statute was enacted to serve. 
 
-Back in those days, I was an angry younger man 
+Back in those days, I was younger and angrier, 
 and not yet teaching law, when I penned the following Op-Ed piece in the *New York Times:*
 
 [Dooling, Richard "Most Of These Guys Are Lawyers, Right?" *New York Times* 15 June 1996.][dooling]
 
-Please advice if you hit a paywall, and I'll copy it in.
+I'll copy it in here, in case you hit a paywall.
+
+### Most of These Guys Are Lawyers, Right?
+
+###### *New York Times*, June 15, 1996, by Richard Dooling
+
+Just how much Government time and expense went into drafting, debating and passing the Communications Decency Act, which was declared unconstitutional by a Federal district court last week?
+
+Imagine a second-year law student presented with this question on a constitutional law exam:
+
+Q. May the Government make it a crime punishable by two years in prison and a $250,000 fine to transmit to minors on the Internet "indecent" material -- without defining "indecent"?
+
+Trained to be suspicious of the obvious, our student panics. 
+The statute couldn't be "void for vagueness," could it? 
+This couldn't be the "overbreadth doctrine" learned on the first day of class, could it? 
+Too easy! Must be a trick question. It belongs on a high school civics test.
+
+Yet politicians from two branches of government 
+(President Clinton, a Yale law graduate, signed the bill) 
+spent the last year posturing for the camera, 
+providing sound bites about protecting the nation's children 
+and expressing their antipathy for high-tech pornographers.
+
+Most of these politicians are lawyers; they presumably knew that such a law would violate everything they ever learned about the First Amendment. But apparently, the free publicity was irresistible.
+
+And now we have a 200-plus-page opinion from the third branch of government telling us that an obviously unconstitutional statute is, well, obviously unconstitutional.
+
+Maybe we should have a separate session of Congress every so often so politicians can pass popular bills while pretending that the Constitution doesn't exist. "It's an election year. Aren't we due for another school prayer bill soon?"
+
+And why stop with that one? How about a Workplace Prayer Act? Or a Respect for Mothers Act? Anybody who knowingly conveys or transmits a bad word about moms shall be punished by two years in prison and a $250,000 fine. ("Bad" shall be defined by the bill's sponsors on an as-needed basis.) As for a way around those interminable death row appeals, why not an Immediate Public Execution for Flag Desecration Act?
+
+Of course, politicians wishing to oppose such important pieces of legislation would be free to go on the Sunday morning talk shows and admit that they are godless, mom-hating traitors.
+
+You get the idea. At least flag- burning presents some thorny First Amendment issues on the differences between speech and conduct. And separation of church and state is as clear as mud, thanks to a slew of Supreme Court opinions on menorahs and Nativity displays.
+
+But banning anything some politician might consider "indecent," 
+with fines and imprisonment for anybody who guesses wrong? 
+How about the Patently Unconstitutional, 
+Obviously Void for Vagueness Political Posturing Act?
 
 [7dirty]:  http://www.youtube.com/watch?v=vbZhpf3sQxQ	"George Carlin Seven Dirty Words"
 [fox]:  http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=556+U.S.+502&appflag=67.12
 [fox2]:	 http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=567+U.S.+239&appflag=67.12
 
 [pacifica]:  http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=98sct3026\&appflag=67.12	"FCC v. Pacifica"
-[cohen]:   http://scholar.google.com/scholar_case?case=7398433541275578772&q=luke+records+navarro&hl=en&as_sdt=2006&scilh=0 "Cohen v. California"
+[cohen]:   http://scholar.google.com/scholar_case?case=7398433541275578772 "Cohen v. California"
 [dooling]:  https://www.nytimes.com/1996/06/15/opinion/most-of-these-guys-are-lawyers-right.html  "Most of These Guys Are Lawyers, Right? by Richard Dooling"
 [cda]: https://www.law.cornell.edu/uscode/text/47/230 
 [reno]: http://scholar.google.com/scholar_case?case=1557224836887427725  "Reno v. ACLU (US 1997)"
 [tornillo]: https://scholar.google.com/scholar_case?case=3261378222094247847 "Miami Herald v. Tornillo (US 1974)"
-
+[ginsberg]: http://scholar.google.com/scholar_case?case=8460647428333624773 "Ginsberg v. New York (US 1968)"
+ 
 
 <!-- BEGIN COMMENT -->
 
