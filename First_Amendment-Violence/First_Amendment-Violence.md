@@ -5,16 +5,25 @@ subtitle: Entertainment Law
 chapter: First Amendment - Violence
 ---
 
+# Lawyers For The Talent
+
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
 # First Amendment - Violence
 
 If speech is just too "sexy," 
-can be banned and punished (*Miller*).
+can be banned and punished ([*Miller*][miller_test]).
 <!-- movies found legally obscene -->
-If it is indecent, it can be regulated (*Pacifica* and *Fox I and II*). 
+If it is indecent speech on broadcast television, 
+it can be regulated ([*Pacifica*][pacifica-w], [*Fox I*][fox-w], and [*Fox II*][fox2-w]). 
 What if speech is just too violent or unreasonably dangerous?
+
+## Incitement
+
 What if a rap star's lyrics "inspire" 
 or ["cause" somebody to shoot a cop?](http://thediscography.org/discoDbDetail.php?req=942) 
-
 What if a journalist writes a lurid men's magazine article 
 about autoerotic asphyxiation 
 and arguably "causes" teenagers to try such deviant behavior for themselves?
@@ -22,15 +31,17 @@ What if they [accidentally hang themselves](http://en.wikipedia.org/wiki/Erotic_
 What if, at trial, the victim's family argues 
 that the journalist's lurid article 
 was really just a how-to for teenage thrill-seekers? 
-We sympathize with the parents 
+If plaintiffs can get to a jury in these cases, 
+jurors often sympathize with the parents 
 when they sue the magazine for publishing a glossy magazine article 
 that arguably tempted their adolescent son to experiment, with fatal consequences.
+But appellate courts are wary of imposing a duty on the press to foresee such self-destructive behaviors, 
+let alone ordering the press to curtail their speech about such topics. 
 
 What if the recording of a heavy metal hit contains subliminal lyrics 
 that arguably encourage somebody to commit suicide or kill police officers?
 What if a programmer creates a violent video game 
 that arguably "causes" or "inspires" a school shooting? 
-
 Should the family members of these victims 
 be allowed to sue magazine publishers, record companies and rappers 
 for indirectly "causing" the death of their loved ones? 
@@ -40,8 +51,11 @@ become a signal to get your guns and take to the streets?
 Suppose angry activists turn arsonists 
 and adopt "Burning Down The House" as their anthem?
 When fellow activists hear the song at a rally, 
-it inspires them to take hurl flaming Malatov cocktails at the governor's mansion.
+it inspires them to hurl flaming Malatov cocktails at the governor's mansion.
 Now every time the song gets played, young people take to the streets with incendiary devices.
+Liability for the artist or the publisher? 
+How about for the activists who play the song, 
+knowing the likely effect it will have?
 
 What about violent movies? Fourteen different murderers have said 
 that Oliver Stone’s *Natural Born Killers* 
@@ -54,9 +68,21 @@ Do these cruel and sometimes deadly side effects of violent "speech" suggest
 that extreme violence should be banned or regulated, 
 the way obscenity is banned and indecency is regulated?
 
-But would the United States Supreme Court call a magazine article about autoerotic asphyxiation unprotected "incitement"? Probably not, and the following excerpts from a few landmark United States Supreme Court cases show why. The states may regulate only speech which is "*directed to* inciting or
+Would the United States Supreme Court call such extreme speech "incitement"? 
+Probably not, and the following excerpts from a few landmark United States Supreme Court cases show why. 
+In [*Brandenburg v. Ohio*][brandenburg] (US 1969), the Court quietly stopped asking whether the speech 
+at issue presented a [clear and present danger](https://en.wikipedia.org/wiki/Clear_and_present_danger) 
+under *Abrams* (1919) and *Whitney* (1927) and instead announced that 
+states may regulate only speech which is "*directed to* inciting or
 producing *imminent* lawless action and *is likely to incite* or produce
 such action."
+
+In other words, the abstract advocacy of violence at some future time is probably still protected speech. 
+"If Trump wins in 2020, I think we should burn down the White House," 
+is probably *not* incitement under this test. 
+"Get some gasoline and let's go burn down the White House. Now!" 
+probably is unprotected incitement, 
+especially if a rioter shouted it to an angry mob outside the White House
 
 ## A *Miller* Test For Violence?
 
@@ -71,7 +97,16 @@ that arguably amounts to incitement to violence?
 
 Or perhaps the government could outlaw new categories of unprotected speech?
 How about violent dogfight videos? Protected or unprotected speech?
-How about so-called "crush videos," probably the most disgusting "speech" to come before the Court.
+
+<!-- How about so-called "crush videos," probably the most disgusting "speech" to come before the Court. -->
+Before reading *United States v. Stevens*, please refresh your knowledge about [Levels Of Judicial Scrutiny][scrutiny] by perusing [this article][scrutiny], 
+which comes with nice simple explanations and good graphics. 
+In *Stevens* Justice Roberts applied strict scrutiny to strike down a statute 
+aimed at punishing "crush videos", probably the most disgusting, 
+politically useless speech to come before the Court. 
+
+So far prosecutors have not tempted the Court to adopt new categories of unprotected speech, 
+or to engage in balancing tests weighing speech against a parade of horrible harms expressed by state legislatures.)
 
 ## United States v. Stevens
 
@@ -178,9 +213,9 @@ as a class, are categorically unprotected by the First Amendment. We
 disagree.
 
 The First Amendment provides that "Congress shall make no law . . .
-abridging the freedom of speech." "As a general matter, the First
+abridging the freedom of speech." As a general matter, the First
 Amendment means that government has no power to restrict expression
-because of its message, its ideas, its subject matter, or its content."
+because of its message, its ideas, its subject matter, or its content.
 [*Ashcroft v. ACLU*](http://scholar.google.com/scholar_case?case=8027362013479204062&q=united+states+v+stevens&hl=en&as_sdt=4,60) (US 2002). Section 48 explicitly regulates
 expression based on content: The statute restricts "visual and
 auditory depiction," such as photographs, videos, or sound
@@ -2375,8 +2410,9 @@ that persistent exposure to the defendants' media gradually undermined
 Carneal's moral discomfort with violence to the point that he solved his
 social disputes with a gun. This glacial process of personality
 development is far from the temporal imminence that we have required to
-satisfy the *Brandenburg* test. [*Ashcroft v. Free Speech Coalition,*](http://scholar.google.com/scholar_case?case=4016009721484982910) ("The mere tendency of speech to encourage unlawful acts is not a sufficient reason for banning it absent some showing of a direct
-connection between the speech and imminent illegal conduct."); [*McCoy v. Stewart*](http://scholar.google.com/scholar_case?case=4786465207502783304&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (9th Cir. 2002) (holding that incitement is not imminent if it risks third-party
+satisfy the *Brandenburg* test. 
+[*Ashcroft v. Free Speech Coalition,*](http://scholar.google.com/scholar_case?case=4016009721484982910). 
+("The mere tendency of speech to encourage unlawful acts is not a sufficient reason for banning it absent some showing of a direct connection between the speech and imminent illegal conduct."); [*McCoy v. Stewart*](http://scholar.google.com/scholar_case?case=4786465207502783304&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (9th Cir. 2002) (holding that incitement is not imminent if it risks third-party
 violence at some "indefinite future time"). Third, it is a long
 leap from the proposition that Carneal's actions were foreseeable to the
 *Brandenburg* requirement that the violent content was "likely" to cause
@@ -2471,7 +2507,8 @@ willing to separate the sense in which the tangible containers of those
 ideas are products from their communicative element for purposes of
 strict liability.&hellip; 
 
-[*See, e.g.,* [*Winter v. G.P. Putnam's Sons,* (9th Cir. 1991)](http://scholar.google.com/scholar_case?case=8197049031942033273)(publisher owed no duty of care to mushroom enthusiasts who relied on misinformation contained in *The Encyclopedia of Mushrooms*); [*Jones v. J.B. Lippincott Co.,* (D. MD 1988)](http://scholar.google.com/scholar_case?case=12134749983314046468)(publisher of medical text not liable for injuries suffered by nursing student who treated herself for constipation after consulting the text and suffered injury).]
+*See, e.g.,* [*Winter v. G.P. Putnam's Sons,* (9th Cir. 1991)](http://scholar.google.com/scholar_case?case=8197049031942033273)(publisher owed no duty of care to mushroom enthusiasts who relied on misinformation contained in *The Encyclopedia of Mushrooms*); 
+[*Jones v. J.B. Lippincott Co.,* (D. MD 1988)](http://scholar.google.com/scholar_case?case=12134749983314046468)(publisher of medical text not liable for injuries suffered by nursing student who treated herself for constipation after consulting the text and suffered injury).
 
 We find these decisions well reasoned. The video game cartridges, movie
 cassette, and internet transmissions are not sufficiently "tangible" to
@@ -2952,4 +2989,10 @@ attacker's continued threats to the victim was again straightforward.
 [hitman]: http://users.telenet.be/sterf/texts/other/HitMan-Manual_for_Independent_Contractors.pdf "Hit Man A Manual For Independent Contractors"
 [ginsberg]:  http://scholar.google.com/scholar_case?case=8460647428333624773	"Ginsberg v. New York"
 [erz]:	http://scholar.google.com/scholar_case?case=7611920100258061680	"Erznoznik v. City of Jacksonville" 
+[pacifica]:  http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=98sct3026\&appflag=67.12	"FCC v. Pacifica"
 
+[fox-w]: https://en.wikipedia.org/wiki/FCC_v._Fox_Television_Stations,_Inc._(2009) "FCC v. Fox case at Wikipedia"
+[fox2-w]: http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012) "Fox 2 case at Wikipedia"
+[pacifica-w]: https://en.wikipedia.org/wiki/FCC_v._Pacifica_Foundation "Pacifica case at Wikipedia"
+[brandenburg]: https://en.wikipedia.org/wiki/Brandenburg_v._Ohio "Brandenburg v. Ohio at Wikipedia"
+[scrutiny]: https://www.subscriptlaw.com/blog/levels-of-scrutiny "Levels Of Judicial Scrutiny"

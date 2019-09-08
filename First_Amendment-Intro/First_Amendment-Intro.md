@@ -33,11 +33,11 @@ Along with absolute certainty comes the understandable impulse to regulate or ba
 
 Almost a century ago, Justice Oliver Wendell Holmes Jr., wrestled with similar questions in a pair of Espionage Act cases. Holmes was absolutely certain that in most cases individual rights are subordinate to the needs of the state, and that the First Amendment did not protect an American citizen named Charles Schenck from prosecution for printing and mailing circulars opposing the draft.
 
-In 1919 Holmes wrote to that effect for a unanimous Court in *Schenck v. U.S.*, famous for the misbegotten "fire in a crowded theater" analogy. *Schenck* also introduced the "clear and present danger" test, which most people think of as speech-protective, but according to Holmes and his colleagues was not enough to protect a man who merely advocated resisting the draft.
+In 1919 Holmes wrote to that effect for a unanimous Court in [*Schenck v. U.S.*][schenck], famous for the misbegotten "fire in a crowded theater" analogy. [*Schenck*][schenck] also introduced the "clear and present danger" test, which most people think of as speech-protective, but according to Holmes and his colleagues was not enough to protect a man who merely advocated resisting the draft.
 
-Nine months later, in *Abrams v. U.S.*, Holmes changed his mind about the First Amendment. As described in Thomas Healy’s 2013 book, “The Great Dissent,” Holmes reconsidered his position after reading articles and books sent to him by Zechariah Chafee, Harold Laski and other prominent free-speech advocates.
+Nine months later, in [*Abrams v. U.S.*][abrams], Holmes changed his mind about the First Amendment. As described in Thomas Healy’s 2013 book, "The Great Dissent," Holmes reconsidered his position after reading articles and books sent to him by Zechariah Chafee, Harold Laski and other prominent free-speech advocates.
 
-Holmes’s dissent in *Abrams* gave birth to modern First Amendment jurisprudence, with its veneration for the marketplace of ideas. He began by observing that it makes perfect sense to persecute people for their opinions: “If you have no doubt of your premises or your power and want a certain result with all your heart you naturally express your wishes in law and sweep away all opposition.” The problem, Holmes realized, is that we are almost always absolutely certain of our premises, but sometimes we are wrong.
+Holmes’s dissent in [*Abrams*][abrams] gave birth to modern First Amendment jurisprudence, with its veneration for the marketplace of ideas. He began by observing that it makes perfect sense to persecute people for their opinions: “If you have no doubt of your premises or your power and want a certain result with all your heart you naturally express your wishes in law and sweep away all opposition.” The problem, Holmes realized, is that we are almost always absolutely certain of our premises, but sometimes we are wrong.
 
 Consider the contemporary example of gay rights. The American Psychiatric Association publishes a reference guide, the Diagnostic and Statistical Manual of Mental Disorders, currently in its fifth edition. Originally published in 1952, the DSM listed homosexuality as a mental disorder of one kind or another until 1987. These days, some psychiatrists are pushing to have “homophobia” listed as a mental illness. If that happens, would the APA be announcing that a majority of its members were mentally ill until 1987?
 
@@ -230,7 +230,7 @@ or [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Co
 let them fight it out in the marketplace and let's see whose idea wins.
 
 "Dissents speak to a future age," as Justice Ginsberg once said, 
-and, in *Abrams*, Holmes wrote the most influential dissent 
+and, in [*Abrams*][abrams], Holmes wrote the most influential dissent 
 in the history of modern First Amendment jurisprudence. 
 His marketplace was a radical idea, and it 
 won out the in the competition for how to think about speech. 
@@ -263,7 +263,7 @@ but because it's essential for democracy
 and [civic republicanism](http://www.britannica.com/EBchecked/topic/1916872/civic-republicanism). 
 This is a different concern than Justice Holmes' marketplace 
 where ideas fight it out for survival of the fittest. 
-After his First Amendment epiphany in *Abrams*, 
+After his First Amendment epiphany in [*Abrams*][abrams], 
 Holmes would probably say 
 that there is no such thing as "political truth." 
 Truth is whatever the marketplace says it is. 
@@ -641,7 +641,8 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 [navarro]: http://en.wikipedia.org/wiki/2_Live_Crew#As_Nasty_As_They_Wanna_Be "Skywalker v. Navarro at Wikipedia"
 [skyywalker]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=739fsupp578\&appflag=67.12 "*Skyywalker Records v. Navarro* at Westlaw"
 [miller-w]: https://en.wikipedia.org/wiki/Miller_v._California "*Miller v. California* at Wikipedia."
-
+[abrams]: https://en.wikipedia.org/wiki/Abrams_v._United_States "*Abrams v. United States* at Wikipedia"
+[schenck]: https://en.wikipedia.org/wiki/Schenck_v._United_States "Schenck v. United States at Wikipedia"
 
 
 

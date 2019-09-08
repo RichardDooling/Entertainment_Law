@@ -23,9 +23,19 @@ The words in Carlin's routine are dirty words,
 but they are not "prurient" or obscene within the meaning of the *Miller* test.
 They are not fighting words or incitement, defamatory, or a threat. 
 They are not so-called "crime-facilitating speech," like conspiracy or fraud.
-Also seven years before *Pacifica*, 
+
+## Cohen v. California
+
+Seven years before *Pacifica*, 
 the United States Supreme Court said, in [*Cohen v. California,*][cohen] (US 1969), 
 that California could not arrest a man for wearing a jacket that said, "Fuck The Draft." 
+
+> Absent a more particularized and compelling reason for its actions, the State may not, consistently with the First and Fourteenth Amendments, make the simple public display of this single four-letter expletive a criminal offense. [*Cohen*][cohen] 
+
+Justice John Marshall Harlan II wrote that the 
+wrote that the f-word was a matter of taste, not law:
+
+> How is one to distinguish this from any other offensive word? Surely the State has no right to cleanse public debate to the point where it is grammatically palatable to the most squeamish among us. Yet no readily ascertainable general principle exists for stopping short of that result were we to affirm the judgment below. For, while the particular four-letter word being litigated here is perhaps more distasteful than most others of its genre, it is nevertheless often true that one man's vulgarity is another's lyric. Indeed, we think it is largely because governmental officials cannot make principled distinctions in this area that the Constitution leaves matters of taste and style so largely to the individual. [*Cohen*][cohen]
 
 Please listen to [George Carlin's 7 Dirty Words routine][7dirty], 
 which is the subject of the litigation in *FCC v. Pacifica*. 
@@ -39,11 +49,6 @@ Meaning that any attempt to make a list of prohibited words,
 or a "speech code," will ultimately censor protected speech, 
 including protected speech like Carlin's comedy routine.
 
-Seven years before *Pacifica*, 
-Justice Harlan wrote that the f-word was a matter of taste, not law:
-
-> How is one to distinguish this from any other offensive word? Surely the State has no right to cleanse public debate to the point where it is grammatically palatable to the most squeamish among us. Yet no readily ascertainable general principle exists for stopping short of that result were we to affirm the judgment below. For, while the particular four-letter word being litigated here is perhaps more distasteful than most others of its genre, it is nevertheless often true that one man's vulgarity is another's lyric. Indeed, we think it is largely because governmental officials cannot make principled distinctions in this area that the Constitution leaves matters of taste and style so largely to the individual.
-
 Here in 21st century, Carlin's routine is funny. 
 The words he uses there have lost their charge. 
 They are barely "dirty" or tabooed here in the 2000s. 
@@ -54,6 +59,11 @@ Funny? I don't think so.
 
 With that in mind, Read *Pacifica* with care. 
 It's not too long. I would download and print the entire Westlaw decision and read it.
+[Gerald Gunther](https://en.wikipedia.org/wiki/Gerald_Gunther), 
+one of the 20th century's leading constitutional law scholars, 
+called the *Pacifica* case "startlingly bad news," 
+because it was the first time in the history of the United States that
+there was ["majority support on the Court of a prohibition of speech because it is offensive to the audience."](https://conservancy.umn.edu/bitstream/handle/11299/165196/06_02_Dry.pdf?sequence=1&isAllowed=y).
 
 ## *FCC v. Pacifica Foundation*
 
@@ -187,11 +197,21 @@ with fines and imprisonment for anybody who guesses wrong?
 How about the Patently Unconstitutional, 
 Obviously Void for Vagueness Political Posturing Act?
 
+### Totally Optional Reading
+
+* David L. Hudson Jr., [*Paul Robert Cohen and "his" Famous Free-Speech Case*](https://www.freedomforuminstitute.org/2016/05/04/paul-robert-cohen-and-his-famous-free-speech-case/)
+
+
 [7dirty]:  http://www.youtube.com/watch?v=vbZhpf3sQxQ	"George Carlin Seven Dirty Words"
 [fox]:  http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=556+U.S.+502&appflag=67.12
 [fox2]:	 http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=567+U.S.+239&appflag=67.12
 
-[pacifica]:  http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=98sct3026\&appflag=67.12	"FCC v. Pacifica"
+[fox-w]: https://en.wikipedia.org/wiki/FCC_v._Fox_Television_Stations,_Inc._(2009) "FCC v. Fox case at Wikipedia"
+[fox2-w]: http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012) "Fox 2 case at Wikipedia"
+[pacifica-w]: https://en.wikipedia.org/wiki/FCC_v._Pacifica_Foundation "Pacifica case at Wikipedia"
+[pacifica]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=98sct3026\&appflag=67.12	"FCC v. Pacifica"
+
+
 [cohen]:   http://scholar.google.com/scholar_case?case=7398433541275578772 "Cohen v. California"
 [dooling]:  https://www.nytimes.com/1996/06/15/opinion/most-of-these-guys-are-lawyers-right.html  "Most of These Guys Are Lawyers, Right? by Richard Dooling"
 [cda]: https://www.law.cornell.edu/uscode/text/47/230 
