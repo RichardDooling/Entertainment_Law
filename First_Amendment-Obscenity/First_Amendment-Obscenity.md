@@ -5,6 +5,12 @@ subtitle: Entertainment Law
 chapter: First Amendment - Obscenity
 ---
 
+# Lawyers For The Talent
+
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
 # First Amendment - Obscenity 
 
 ## Obscenity
