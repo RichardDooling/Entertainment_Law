@@ -188,7 +188,7 @@ facially unconstitutional and vacated Stevens's conviction.
 The Court of Appeals first held that § 48 regulates speech that is
 protected by the First Amendment. The Court declined to recognize a new
 category of unprotected speech for depictions
-of animal cruelty, , and rejected the Government's
+of animal cruelty, and rejected the Government's
 analogy between animal cruelty depictions and child pornography.
 
 The Court of Appeals then held that § 48 could not survive strict
@@ -205,7 +205,7 @@ But the Court of Appeals declined to rest its analysis on this ground.
 
 We granted certiorari. 
 
-## II
+### II
 
 The Government's primary submission is that § 48 necessarily complies
 with the Constitution because the banned depictions of animal cruelty,
@@ -336,13 +336,13 @@ is among them. We need not foreclose the future recognition of such
 additional categories to reject the Government's highly manipulable
 balancing test as a means of identifying them.
 
-## III
+### III
 
 Because we decline to carve out from the First Amendment any novel
 exception for § 48, we review Stevens's First Amendment challenge under
 our existing doctrine.
 
-## A
+#### A
 
 Stevens challenged § 48 on its face, arguing that any conviction secured
 under the statute would be unconstitutional. The court below decided the case
@@ -383,7 +383,7 @@ As the parties have presented the issue, therefore, the
 constitutionality of § 48 hinges on how broadly it is construed. It is
 to that question that we now turn.
 
-## B
+#### B
 
 As we explained two Terms ago, "the first step in overbreadth
 analysis is to construe the challenged statute; it is impossible to
@@ -433,7 +433,7 @@ Those seeking to comply with the law thus face a bewildering maze of
 regulations from at least 56 separate jurisdictions.
 
 
-## C
+#### C
 
 The only thing standing between defendants who sell such depictions and
 five years in federal prison---other than the mercy of a prosecutor---is the
@@ -494,7 +494,7 @@ Government, this incorporation of the *Miller* standard into § 48 is
 therefore surely enough to answer any First Amendment objection. 
 
 In *Miller* we held that "serious" value shields depictions of sex from
-Limiting *Miller*'s exception to "serious" value ensured that "a
+limiting *Miller*'s exception to "serious" value ensured that "a
 quotation from Voltaire in the flyleaf of a book would not
 constitutionally redeem an otherwise obscene publication.'" 
 We did not, however, determine that serious value could be used as a
@@ -510,11 +510,11 @@ Thus, the protection of the First Amendment presumptively extends to
 many forms of speech that do not qualify for the serious-value exception
 of § 48(b), but nonetheless fall within the broad reach of § 48(c).
 
-## D
+#### D
 
 Not to worry, the Government says: The Executive Branch construes § 48
-to reach only "extreme" cruelty, , and it
-"neither has brought nor will bring a prosecution for anything less,"
+to reach only "extreme" cruelty, and it
+"neither has brought nor will bring a prosecution for anything less."
 The Government hits this theme hard, invoking its
 prosecutorial discretion several times. 
 But the First Amendment protects against the Government; it does
@@ -834,15 +834,15 @@ when a new and different medium for communication appears.
 [*Joseph Burstyn, Inc. v. Wilson,*](http://scholar.google.com/scholar_case?case=5628256980652867975) (US 1952).
  
 The most basic of those principles is this: 
-"[A]s a general matter &hellip; government has no power 
+"As a general matter &hellip; government has no power 
 to restrict expression because of its message, 
 its ideas, its subject matter, or its content." 
 [*Ashcroft v. American Civil Liberties Union,*](http://scholar.google.com/scholar_case?case=8027362013479204062) (US 2002). 
 There are of course exceptions. 
 "'From 1791 to the present' &hellip; the First Amendment has 'permitted restrictions upon the content of speech in a few limited areas,' 
 and has never 'included a freedom to disregard these traditional limitations.'" 
-[*United States v. Stevens,*](http://scholar.google.com/scholar_case?case=85657697512539256) 
-These limited areas—such as obscenity, [*Roth v. United States,*,](http://scholar.google.com/scholar_case?case=14778925784015245625) (US 1957), incitement, [*Brandenburg v. Ohio,* *(per curiam)*](http://scholar.google.com/scholar_case?case=15538842772335942956) (US 1969), and fighting words, [*Chaplinsky v. New Hampshire*](http://scholar.google.com/scholar_case?case=124249671461500618) (US 1942)---represent "well-defined and narrowly limited classes of speech, the prevention and punishment of which have never been thought to raise any Constitutional problem." 
+[*United States v. Stevens.*](http://scholar.google.com/scholar_case?case=85657697512539256) 
+These limited areas—such as obscenity, [*Roth v. United States*](http://scholar.google.com/scholar_case?case=14778925784015245625) (US 1957), incitement, [*Brandenburg v. Ohio,* *(per curiam)*](http://scholar.google.com/scholar_case?case=15538842772335942956) (US 1969), and fighting words, [*Chaplinsky v. New Hampshire*](http://scholar.google.com/scholar_case?case=124249671461500618) (US 1942)---represent "well-defined and narrowly limited classes of speech, the prevention and punishment of which have never been thought to raise any Constitutional problem." 
 
 Last term, in *Stevens*, 
 we held that new categories of unprotected speech may not be added to the list 
@@ -883,13 +883,13 @@ That does not suffice.
 Our cases have been clear 
 that the obscenity exception to the First Amendment 
 does not cover whatever a legislature finds shocking, 
-but only depictions of "sexual conduct," [*Miller, supra,*](http://scholar.google.com/scholar_case?case=287180442152313659). See also [*Cohen v. California*](http://scholar.google.com/scholar_case?case=7398433541275578772) (US 1971); [*Roth*](http://scholar.google.com/scholar_case?case=14778925784015245625). 
+but only depictions of "sexual conduct," [*Miller, supra*](http://scholar.google.com/scholar_case?case=287180442152313659). See also [*Cohen v. California*](http://scholar.google.com/scholar_case?case=7398433541275578772) (US 1971); [*Roth*](http://scholar.google.com/scholar_case?case=14778925784015245625). 
 
 *Stevens* was not the first time we have encountered 
 and rejected a State's attempt to shoehorn speech about violence into obscenity. 
 In *Winters,* we considered a New York criminal statute 
 "forbidding the massing of stories of bloodshed 
-and lust in such a way as to incite to crime against the person," [*Winters*](http://scholar.google.com/scholar_case?case=16314089118204976902). 
+and lust in such a way as to incite to crime against the person," [*Winters*](http://scholar.google.com/scholar_case?case=16314089118204976902) (US 1948). 
 The New York Court of Appeals upheld the provision as a law against obscenity. 
 "There can be no more precise test of written indecency or obscenity," it said, 
 "than the continuing and changeable experience of the community 
@@ -936,7 +936,7 @@ That is unprecedented and mistaken.
 "Minors are entitled to a significant measure of First Amendment protection, 
 and only in relatively narrow and well-defined circumstances 
 may government bar public dissemination of protected materials to them." 
-[*Erznoznik v. Jacksonville,*][erz]. No doubt a State possesses legitimate power to protect children from harm, 
+[*Erznoznik v. Jacksonville*][erz]. No doubt a State possesses legitimate power to protect children from harm, 
 [*Ginsberg*][ginsberg]; 
 but that does not include a free-floating power 
 to restrict the ideas to which children may be exposed. 
@@ -1083,7 +1083,7 @@ minors to *act* aggressively (which would at least be a beginning).
 Instead, "nearly all of the research is based on correlation, not
 evidence of causation, and most of the studies suffer from significant,
 admitted flaws in methodology." 
-[*Video Software Dealers Assn.*](http://scholar.google.com/scholar_case?case=18016190414381938126).
+[*Video Software Dealers Assn*](http://scholar.google.com/scholar_case?case=18016190414381938126).
 They show at best some correlation between exposure to violent
 entertainment and minuscule real-world effects, 
 such as children's feeling more aggressive 
@@ -1494,7 +1494,7 @@ conveys the notion of an intent to inflict harm.
 See [*United States v. Jeffries,* (CA6 2012)](http://scholar.google.com/scholar_case?case=5838543687001663628), 
 and for example: 
 
-* * Oxford English Dictionary ("to declare (usually conditionally) one's intention of
+* Oxford English Dictionary ("to declare (usually conditionally) one's intention of
 inflicting injury upon"); 
 * Webster's New International Dictionary ("an expression of an intention to inflict
 loss or harm on another by illegal means"); 
@@ -1569,7 +1569,7 @@ even if he does not know that those facts give rise to a crime.
 When interpreting federal criminal statutes 
 that are silent on the required mental state, 
 we read into the statute "only that *mens rea*
-which is necessary to separate wrongful conduct from \`otherwise
+which is necessary to separate wrongful conduct from 'otherwise
 innocent conduct.'" See [*Carter v. United States*](http://scholar.google.com/scholar_case?case=7275088619612465258) (US 2000). 
 In some cases, a general requirement that a defendant *act* knowingly is
 itself an adequate safeguard. For example, in *Carter,* we considered

@@ -33,14 +33,17 @@ the right of publicity is more about property rights than personality rights.
 And since it can be sold and licensed to others, 
 some states provide that the right of publicity survives death. 
 Heirs of dead celebrities then inherit the right to control 
-the licensing of the deceased name, image, and likeness.
+the licensing of the deceased's name, image, and likeness.
 
-Personality rights are generally considered to consist of two types of rights: 
+Lawyers in the entertainment industry often refer to "personality rights," 
+which usually means one or both of the following:
 
-1. The right of publicity, or to keep one's image and likeness from being commercially exploited without permission or contractual compensation, which is similar to the use of a trademark; 
+1. The right of publicity, or the right to keep one's image and likeness from being commercially exploited without permission or contractual compensation (similar to the use of a trademark); 
 2. The right to privacy, or the right to be left alone and not have one's personality represented publicly without permission. 
 
 [Wikipedia: Personality Rights](http://en.wikipedia.org/wiki/Personality_rights)
+
+Poke around Professor Jennifer Rothman's excellent site for quick reference to celebrity publicity rights in all 50 states: [Rothman's Roadmap To The Right of Publicity](https://www.rightofpublicityroadmap.com/)
 
 ### Early "right of publicity" cases 
 
@@ -214,6 +217,7 @@ In 2003, Volokh stated the tension between the right of publicity and the First 
 ### ML King Jr. Center v. American Heritage Products
 
 ###### Georgia Supreme Court (1982)
+
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?about=1102676940012657150)
 * [Casebrief](http://www.casebriefs.com/blog/law/property/property-law-keyed-to-singer/intellectual-property/martin-luther-king-jr-center-for-social-change-inc-v-american-heritage-products-inc/).
@@ -475,6 +479,7 @@ A careful analysis of the right of free speech yields conclusions not inconsiste
 
 ###### United States Supreme Court (1977)
 
+
 * [Zacchini on Google Scholar][zacchini]
 * [Zacchini on Wikipedia](http://en.wikipedia.org/wiki/Zacchini_v._Scripps-Howard_Broadcasting_Co.)
 * [Rothman's Roadmap to the Right of Publicity](https://www.rightofpublicityroadmap.com/law/ohio)
@@ -682,6 +687,7 @@ In "false light" cases, the plaintiff wants to "minimize publication of the dama
 
 ###### Court of Appeals, 6th Circuit (1983)
 
+
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=18021528625868373370)
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=698F2d831&appflag=67.12)
 * [*Hollywood Reporter* on Carson litigation](http://www.hollywoodreporter.com/blogs/thr-esq/johnny-carson-estate-wins-injunction-63785)
@@ -884,6 +890,7 @@ Nimmer, *Does Copyright Abridge the First Amendment Guarantees of Free Speech an
 ### White v. Samsung Electronics America, Inc.
 
 ###### US Court of Appeals, 9th Circuit (1992)
+
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=15763501998860364615)
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=971f2d1395&appflag=67.12) 
@@ -1104,6 +1111,7 @@ One judge dissented in *White v. Samsung,* but the real attack came in the form 
 ### White v. Samsung Electronics, Inc.
 
 ###### US Court of Appeals, 9th Circuit (1993)
+
 
 * [case on Google scholar](http://scholar.google.com/scholar_case?case=15763501998860364615)
 
@@ -1383,6 +1391,7 @@ The judgment of the Court of Appeals is accordingly
 ### *Comedy III Productions v. Gary Saderup, Inc.*
 
 ###### California Supreme Court (2001)
+
 
 * [case at Google Scholar](https://scholar.google.com/scholar_case?case=6376074772628774470&hl=en&as_sdt=6,28)
 * [Rothman's Right of Publicity Roadmap: California](https://www.rightofpublicityroadmap.com/law/california)
@@ -1709,6 +1718,7 @@ The California Court of Appeal, held that:
 
 ###### US Court of Appeals, 9th Circuit (2016)
 
+
 * [Case at Google Scholar](https://scholar.google.com/scholar_case?case=16260639428584030858)
 
 #### Case Excerpts
@@ -1804,6 +1814,7 @@ The Court of Appeals, O'Scannlain, Circuit Judge, held that:
 #### *Parks v. LaFace Records*
 
 ###### (6th Cir. 2001)
+
  
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=329+F.3d+437&appflag=67.12)
 * [case on Wikipedia](http://en.wikipedia.org/wiki/Rosa_Parks_v._LaFace_Records)
@@ -1811,6 +1822,7 @@ The Court of Appeals, O'Scannlain, Circuit Judge, held that:
 #### *ETW Corp. v. Jireh Publishing*
 
 ###### (6th Cir. 2003)
+
 
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=332f3d915&appflag=67.12)
 * [Art on Trial](http://www.tjcenter.org/ArtOnTrial/trademark.html).
