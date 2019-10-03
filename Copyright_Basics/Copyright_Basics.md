@@ -41,6 +41,8 @@ intellectual property may be bought and sold,
 used and borrowed. 
 Consider the following examples. 
 
+## Real Property
+
 Amy Author owns a plot of land 
 called The Hundred Acre Wood. 
 Not being a lawyer, 
@@ -185,7 +187,7 @@ A "copyright" grants authors and artists certain exclusive rights
 
 The [US Copyright Office](https://www.copyright.gov) does a great job 
 of educating people about the copyright laws.
-The materials available at copyright.gov are written in plain English 
+The materials available at [copyright.gov](https://www.copyright.gov) are written in plain English 
 for artists, scientists, employees, authors, and yes law students.
 Under the tab "Law and Guidance Tab," 
 the office provides [circulars](https://www.copyright.gov/circs/)
@@ -442,14 +444,14 @@ not the *idea* expressed.
 
 The copyright laws do not protect research. 
 
-### *Miller v. Universal City Studios, Inc.*
+## *Miller v. Universal City Studios, Inc.*
 
 ###### Court of Appeals, 5th Circuit 1981 
 
 * [Case on Google Scholar](http://scholar.google.com/scholar_case?case=14231031381424615048).
 * [Wikipedia](http://en.wikipedia.org/wiki/Miller_v._Universal_City_Studios,_Inc.).
 
-#### Facts
+### Facts
 
 In December 1968, 
 the college-aged daughter of a wealthy Florida land developer 
@@ -481,7 +483,7 @@ The most substantial question presented on appeal
 is whether the district court erred in instructing the jury 
 that “research is copyrightable.” 
 
-#### Is Research Copyrightable?
+### Is Research Copyrightable?
 
 It is well settled that copyright protection extends 
 only to an author's expression of facts 
@@ -722,7 +724,7 @@ and a new trial is required.
 
 REVERSED AND REMANDED.
 
-#### Notes On *Miller v. Universal* 
+### Notes On *Miller v. Universal* 
 
 > It is well settled 
 > that copyright protection extends only 
@@ -737,7 +739,7 @@ the Second Circuit observed:
 > and each generation remains free 
 > to draw upon the discoveries and insights of the past.” 
 
-#### Sc&#232;nes-&#192;-Faire
+### Sc&#232;nes-&#192;-Faire
 
 Definition: [Sc&#232;nes-&#192;-Faire at Wikipedia](http://en.wikipedia.org/wiki/Sc%C3%A8nes_%C3%A0_faire) 
 
@@ -762,16 +764,16 @@ or in awkward adolescents finding their way in life,
 or tortured geniuses who perservere against all odds. 
 
 These are Sc&#232;nes-&#192;-Faire, 
-which most of us recognize as clich&#233;s 
-and not copyrightable. 
-Maybe Robert Louis Stevenson could have at least 
+which most of us recognize as clich&#233;s, 
+not copyrightable, because they are standard fare. 
+Maybe Robert Louis Stevenson could have 
 argued with a straight face for copyright protection, 
 if he were the first author to create a pirate who said "Arrrgh!" 
 and had an eye patch, bandanna, and hook for a hand. 
 But now these elements are not copyrightable. 
 Why? Because they are not *original.* 
 
-#### Names, Titles, Short Phrases, Expressions
+### Names, Titles, Short Phrases, Expressions
 
 > Copyright law does not protect 
 > names, titles, or short phrases or expressions. 
@@ -793,7 +795,7 @@ Why? Because they are not *original.*
 
 There may be some remedy under the laws of trademark or unfair competition for the use of business and product names created by another without their permission, but this does not fall under the purview of copyright.
 
-#### Characters
+### Characters
 
 What if another author writes her own version 
 of a novel about a young magician called Harry Potter? 
@@ -817,7 +819,7 @@ Cartoon Characters are copyrightable -
 [*Disney v Air Pirates*](http://en.wikipedia.org/wiki/Air_Pirates) (9th Cir. 1978) 
 - cartoons have a visual image rather than just a conceptual quality.
 
-#### Why Register the Copyright?
+### Why Register the Copyright?
 
 Lawyer and programmer, [Ken Liu](http://kenliu.name/), 
 has a great explanation at the Science Fiction and Fantasty Writers of America site.
@@ -868,7 +870,7 @@ instead of having to prove actual damages:
 
 * Ken Liu, [The Benefits Of Copyright Registration](http://www.sfwa.org/2013/02/the-benefits-of-copyright-registration/).
 
-### Recommended Reading & Watching ###
+## Recommended Reading & Watching ###
 
 * [Larry Lessig TED Talk on User Generated Content](http://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity.html).
 * [Work-for-Hire Freelance Writing Agreement](http://www.docracy.com/0s38bg2lkok/work-for-hire-freelance-writing-agreement-1)
@@ -890,6 +892,7 @@ instead of having to prove actual damages:
 
 ## Changelog
 
+* 02-Oct-2019 - light edits, adjust headings
 * 27-Sep-2018 - edit and add intro 
 * 10-Feb-2018 - fix header
 * 08-Feb-2015 - More edits before merging with ABL

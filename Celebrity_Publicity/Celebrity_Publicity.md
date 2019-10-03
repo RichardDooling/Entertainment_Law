@@ -325,7 +325,7 @@ said to be understood as committing us in any way to the doctrine that
 against the consent of relatives the private affairs of a deceased
 person may be published and his picture or statue exhibited." [*Pavesich*][pavesich].
 
-Finding that Pavesich, although an artist, was not recognized as a public figure, the court said: "It is not necessary in this case to hold, nor are we prepared to do so, that the mere fact that a man has become what is called a public character, either by aspiring to public office, or by holding public office, or by exercising a profession which places him before the public, or by engaging in a business which has necessarily a public nature, gives to everyone the right to print and circulate his picture." [*Id.*][pavesich]. 
+Finding that Pavesich, although an artist, was not recognized as a public figure, the court said: "It is not necessary in this case to hold, nor are we prepared to do so, that the mere fact that a man has become what is called a public character, either by aspiring to public office, or by holding public office, or by exercising a profession which places him before the public, or by engaging in a business which has necessarily a public nature, gives to everyone the right to print and circulate his picture." [*Id.*][pavesich] 
 Thus, although recognizing the right of privacy, the *Pavesich* court left open the question facing us involving the likeness of a public figure.&hellip; 
 
 In [*Palmer v. Schonhorn Enterprises,*][palmer]
@@ -343,7 +343,7 @@ highly publicized."
 In [*Haelan Laboratories*][haelan] , the court was concerned with whether a celebrity has the right to the exclusive use of his or her name and likeness. In [*Palmer*][palmer], 
 the court was concerned with whether a person using the celebrity's name for the user's commercial benefit has the right to do so without authorization. At this point it should be emphasized that we deal here with the unauthorized use of a person's name and likeness for the commercial benefit of the user, not with a city's use of a celebrity's name to denominate a street or school.&hellip; 
 
-The right of publicity was first recognized in Georgia by the Court of Appeals in [*Cabaniss v. Hipsley,* (1966)](http://scholar.google.com/scholar_case?case=7744604933524088722). There the court held that the plaintiff, an exotic dancer, could recover from the owner of the Atlanta Playboy Club for the unauthorized use of the dancer's misnamed photograph in an entertainment magazine advertising the Playboy Club. Although plaintiff had had her picture taken to promote her performances, she was not performing at the Playboy Club. The court used Dean William L. Prosser's four-pronged analysis of the right of privacy, saying: ". . . there are four distinct kinds of invasion of four different interests of plaintiff; that there are four disparate torts under a common name. These four torts may be described briefly as: 
+The right of publicity was first recognized in Georgia by the Court of Appeals in [*Cabaniss v. Hipsley* (1966)](http://scholar.google.com/scholar_case?case=7744604933524088722). There the court held that the plaintiff, an exotic dancer, could recover from the owner of the Atlanta Playboy Club for the unauthorized use of the dancer's misnamed photograph in an entertainment magazine advertising the Playboy Club. Although plaintiff had had her picture taken to promote her performances, she was not performing at the Playboy Club. The court used Dean William L. Prosser's four-pronged analysis of the right of privacy, saying: ". . . there are four distinct kinds of invasion of four different interests of plaintiff; that there are four disparate torts under a common name. These four torts may be described briefly as: 
 
 1. intrusion upon the plaintiff's seclusion or solitude, or into his private affairs;
 2. public disclosure of embarrassing private facts about the plaintiff;
@@ -690,7 +690,7 @@ In "false light" cases, the plaintiff wants to "minimize publication of the dama
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=18021528625868373370)
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=698F2d831&appflag=67.12)
-* [*Hollywood Reporter* on Carson litigation](http://www.hollywoodreporter.com/blogs/thr-esq/johnny-carson-estate-wins-injunction-63785)
+* [*Hollywood Reporter* on Carson litigation](https://reporter.blogs.com/thresq/2010/04/johnny-carson.html)
 * [Rothman's Roadmap to the Right of Publicity: Michigan](https://www.rightofpublicityroadmap.com/law/michigan)
 
 BAILEY BROWN, Senior Circuit Judge.
@@ -746,7 +746,7 @@ to accept or reject the claim of an invasion of the right of privacy.
 
 The right of publicity has developed to protect the commercial interest of celebrities in their identities. The theory of the right is that a celebrity's identity can be valuable in the promotion of products, and the celebrity has an interest that may be protected from the unauthorized commercial exploitation of that identity. In [*Memphis Development Foundation v. Factors Etc., Inc.*](http://scholar.google.com/scholar_case?case=10950732871251474707)  (6th Cir. 1980), we stated: "The famous have an exclusive legal right during life to control and profit from the commercial use of their name and personality."
 
-The district court dismissed appellants' claim based on the right of publicity [because appellee does not use Carson's name or likeness.](http://scholar.google.com/scholar_case?case=652682831136403786). It held that it "would not be prudent to allow recovery for a right of publicity claim which does not more specifically identify Johnny Carson." [*Id.*](http://scholar.google.com/scholar_case?case=652682831136403786).  We believe that, on the contrary, the district court's conception of the right of publicity is too narrow. The right of publicity, as we have stated, is that a celebrity has a protected pecuniary interest in the commercial exploitation of his identity. If the celebrity's identity is commercially exploited, there has been an invasion of his right whether or not his "name or likeness" is used. Carson's identity may be exploited even if his name, John W. Carson, or his picture is not used.
+The district court dismissed appellants' claim based on the right of publicity [because appellee does not use Carson's name or likeness](http://scholar.google.com/scholar_case?case=652682831136403786). It held that it "would not be prudent to allow recovery for a right of publicity claim which does not more specifically identify Johnny Carson." [*Id*](http://scholar.google.com/scholar_case?case=652682831136403786). We believe that, on the contrary, the district court's conception of the right of publicity is too narrow. The right of publicity, as we have stated, is that a celebrity has a protected pecuniary interest in the commercial exploitation of his identity. If the celebrity's identity is commercially exploited, there has been an invasion of his right whether or not his "name or likeness" is used. Carson's identity may be exploited even if his name, John W. Carson, or his picture is not used.
 
 In [*Motschenbacher v. R.J. Reynolds Tobacco Co.*](http://scholar.google.com/scholar_case?case=6630116352269581991) (8th Cir. 1974), 
 the court held that the unauthorized use of a picture of a distinctive race car of a well known professional race car driver, whose name or likeness were not used, violated his right of publicity. In this connection, the court said:
@@ -1149,7 +1149,7 @@ This Orwellian notion withdraws far more from the public domain
 than prudence and common sense allow. 
 It conflicts with the Copyright Act and the Copyright Clause. 
 It raises serious First Amendment problems. 
-It's had law, and it deserves a long, hard second look.&hellip;
+It's bad law, and it deserves a long, hard second look.&hellip;
 
 The district judge quite reasonably held that, 
 because Samsung didn't use White's name, likeness, voice or signature, 
@@ -1296,17 +1296,17 @@ This case began in 1986, when the Board first became aware of the contract betwe
 ### I.B.
 
 Looking back from the safety of the Federal Witness Protection Program, Henry Hill recalled: "At the age of twelve my ambition was to be a gangster. To be a wiseguy. To me being a wiseguy was better than being president of the United States." N. Pileggi, Wiseguy: Life in a Mafia
-Family 19 (1985) (hereinafter Wiseguy). Whatever one might think of Hill, at the very least it can be said that he realized his dreams. After a career spanning 25 years, Hill admitted engineering some of the most daring crimes of his day, including the 1978-1979 Boston College
-basketball pointshaving scandal, and the theft of $6 million from Lufthansa Airlines in 1978, the largest successful cash robbery in American history. Wiseguy 9. 
+Family (1985) (hereinafter Wiseguy). Whatever one might think of Hill, at the very least it can be said that he realized his dreams. After a career spanning 25 years, Hill admitted engineering some of the most daring crimes of his day, including the 1978-1979 Boston College
+basketball point-shaving scandal, and the theft of $6 million from Lufthansa Airlines in 1978, the largest successful cash robbery in American history. 
 
 Hill was arrested in 1980. In exchange for immunity from prosecution, he testified against many of his former colleagues. Since his arrest, he has lived under an assumed name in an unknown part of the country.
 
-In August 1981, Hill entered into a contract with author Nicholas Pileggi for the production of a book about Hill's life. The following month, Hill and Pileggi signed a publishing agreement with Simon & Schuster, Inc. Under the agreement, Simon & Schuster agreed to make payments to both Hill and Pileggi. Over the next few years, according to Pileggi, he and Hill "talked at length virtually every single day, with not more than an occasional Sunday or holiday skipped. We spent more than three hundred hours together; my notes of conversations with Henry occupy more than six linear file feet." App. 27. Because producing the book required such a substantial investment of time and effort, Hill sought compensation. *Ibid.* 
+In August 1981, Hill entered into a contract with author Nicholas Pileggi for the production of a book about Hill's life. The following month, Hill and Pileggi signed a publishing agreement with Simon & Schuster, Inc. Under the agreement, Simon & Schuster agreed to make payments to both Hill and Pileggi. Over the next few years, according to Pileggi, he and Hill "talked at length virtually every single day, with not more than an occasional Sunday or holiday skipped. We spent more than three hundred hours together; my notes of conversations with Henry occupy more than six linear file feet." App. 27. Because producing the book required such a substantial investment of time and effort, Hill sought compensation. 
 
 The result of Hill and Pileggi's collaboration was Wiseguy, which was published in January 1986. The book depicts, in colorful detail, the day-to-day existence of organized crime,  primarily in Hill's first-person narrative. Throughout Wiseguy, Hill frankly admits to
 having participated in an astonishing variety of crimes. He discusses, among other things, his conviction of extortion and the prison sentence he served. In one portion of the book, Hill recounts how members of the Mafia received preferential treatment in prison:
 
-> The dorm was a separate three-story building outside the wall, which looked more like a Holiday Inn than a prison. There were four guys to a room, and we had comfortable beds and private baths. There were two dozen rooms on each floor, and each of them had mob guys living in them. It was like a wiseguy convention—the whole Gotti crew, Jimmy Doyle and his guys, 'Ernie Boy' Abbamonte and 'Joe Crow' Delvecchio, Vinnie Aloi, Frank Cotroni.
+> The dorm was a separate three-story building outside the wall, which looked more like a Holiday Inn than a prison. There were four guys to a room, and we had comfortable beds and private baths. There were two dozen rooms on each floor, and each of them had mob guys living in them. It was like a wiseguy convention---the whole Gotti crew, Jimmy Doyle and his guys, 'Ernie Boy' Abbamonte and 'Joe Crow' Delvecchio, Vinnie Aloi, Frank Cotroni.
 
 > It was wild. There was wine and booze, and it was kept in bath-oil or after-shave jars. The hacks in the honor dorm were almost all on the take, and even though it was against the rules, we used to cook in our rooms. Looking back, I don't think Paulie went to the general mess five times in the two and a half years he was there. We had a stove and pots and pans and silverware stacked in the bathroom. We had glasses and an ice-water cooler where we kept the fresh meats and cheeses. When there was an inspection, we stored the stuff in the false ceiling, and once in a while, if it was confiscated, we'd just go to the kitchen and get new stuff.
 
@@ -1334,12 +1334,12 @@ The Son of Sam law is such a content-based statute. It singles out income derive
 The Board tries unsuccessfully to distinguish the Son of Sam law from the discriminatory tax at issue in *Arkansas Writers' Project.* While the Son of Sam law escrows all of the speaker's speech-derived income for at least five years,  rather than taxing a percentage of it outright, this difference can hardly serve as the basis for disparate treatment under the First Amendment. Both forms of financial burden operate as disincentives to speak; indeed, in many cases it will be impossible to discern in advance which type of regulation will be more costly to the speaker.&hellip;
 
 The Son of Sam law establishes a financial disincentive to create or publish works with a particular content. In order to justify such differential treatment, "the State must show that its regulation is necessary to serve a compelling state interest and is narrowly drawn to
-achieve that end." [*Arkansas Writers' Project,*](http://scholar.google.com/scholar_case?case=3104326308181973639).
+achieve that end." [*Arkansas Writers' Project*](http://scholar.google.com/scholar_case?case=3104326308181973639).
 
 ### II.B.
 
 The Board disclaims, as it must, any state interest in suppressing descriptions of crime out of solicitude for the sensibilities of readers. As we have often had occasion to repeat: "'[T]he fact that society may find speech offensive is not a sufficient reason for suppressing it. Indeed, if it is the speaker's opinion that gives offense, that consequence is a reason for according it constitutional protection.'" [*Hustler*][hustler]
-quoting [*Pacifica*](http://scholar.google.com/scholar_case?case=9738309099999149495) (US 1978)). 
+quoting [*Pacifica*](http://scholar.google.com/scholar_case?case=9738309099999149495) (US 1978). 
 
 > If there is a bedrock principle underlying the First Amendment, it is that the Government may not prohibit the expression of an idea simply because society finds the idea itself offensive or disagreeable.
 
@@ -1710,9 +1710,9 @@ The California Court of Appeal, held that:
 
 1. the miniseries was speech that was fully protected by First Amendment;
 2. the portrayal of De Havilland was sufficiently transformative, and thus was entitled to First Amendment protection;
-3. the portrayal of De Havilland engaging in fictitious interview and making comment was not defamatory and would not highly offend reasonable person, as required for false light claim;
-4. the portrayal of De Havilland as twice using obscenity to refer to sister was not highly offensive and were substantially truthful, given her actual words, as required for false light claim; and
-5. De Havilland failed to show probability of proving malice, as required to preclude dismissal of false light claim under anti-SLAPP statute.
+3. the portrayal of De Havilland engaging in a fictitious interview and making comments was not defamatory and would not highly offend a reasonable person, as required for false light claim;
+4. the portrayal of De Havilland as twice using an obscenity to refer to sister was not highly offensive and was substantially truthful, given her actual words, as required for a false light claim; and
+5. De Havilland failed to show the probability of proving malice, as required to preclude dismissal of her false light claim under anti-SLAPP statute.
 
 ### Sarver v. Chartier Entertainment 
 
@@ -1745,7 +1745,7 @@ that he objected to it after reviewing an advance copy,
 and that he attempted to have portions of the article removed 
 before its publication in Reader's Digest.
 
-Boal later wrote the screenplay for the film that became The Hurt Locker, 
+Boal later wrote the screenplay for the film that became *The Hurt Locker*, 
 which was released in June 2009 while Sarver was stationed at the Picatinny Arsenal in New Jersey. 
 Sarver contends that Will James, 
 the movie's main character, is based on his life and experiences, 
@@ -1757,15 +1757,15 @@ in a way that has harmed his reputation.
 
 #### California Right of Publicity
 
-We have interpreted Zacchini to uphold the right of publicity 
+We have interpreted *Zacchini* to uphold the right of publicity 
 in a variety of contexts where the defendant appropriates the economic value 
 that the plaintiff has built in an identity or performance. 
-For example, in [Hilton v. Hallmark Cards](https://scholar.google.com/scholar_case?case=4120319166427200129&q=hilton+v+hallmark&hl=en&as_sdt=6,28), 
+For example, in [*Hilton v. Hallmark Cards*](https://scholar.google.com/scholar_case?case=4120319166427200129&q=hilton+v+hallmark&hl=en&as_sdt=6,28), 
 we held that Paris Hilton could pursue a right of publicity claim 
 for Hallmark's use of her image and catch phrase (“that's hot”) from her television show in one of its greeting cards. In doing so, we suggested that “merely merchandising a celebrity's image without that person's consent, the prevention of which is the core of the right of publicity,” is not protected by the First Amendment. 
 
-Similarly, in [Keller v. Electronic Arts, Inc](https://scholar.google.com/scholar_case?case=1334389017985947449&q=keller+v.+electronic+arts&hl=en&as_sdt=6,28) (9th Cir. 2013), 
-we upheld an action by a college football player who sought to prevent the use of his likeness in EA's video game. See also [Davis v. Electronic Arts, Inc.](https://scholar.google.com/scholar_case?case=1334389017985947449&q=keller+v.+electronic+arts&hl=en&as_sdt=6,28) (9th Cir.2015) (upholding right of publicity action challenging EA's use of professional football player likenesses in a video game). We noted that the video game “literally recreates the football player in the very setting in which he has achieved renown,” Keller, and interferes with his ability “to capitalize on his athletic success,” 
+Similarly, in [*Keller v. Electronic Arts, Inc*](https://scholar.google.com/scholar_case?case=1334389017985947449&q=keller+v.+electronic+arts&hl=en&as_sdt=6,28) (9th Cir. 2013), 
+we upheld an action by a college football player who sought to prevent the use of his likeness in EA's video game. See also [*Davis v. Electronic Arts, Inc.*](https://scholar.google.com/scholar_case?case=1334389017985947449&q=keller+v.+electronic+arts&hl=en&as_sdt=6,28) (9th Cir.2015) (upholding right of publicity action challenging EA's use of professional football player likenesses in a video game). We noted that the video game “literally recreates the football player in the very setting in which he has achieved renown,” Keller, and interferes with his ability “to capitalize on his athletic success,” 
 which took “talent and years of hard work on the football field” to build.
 
 Likewise, we have upheld actions involving celebrities challenging the use of their images in commercial advertising. (Citing *White v. Samsung* and others).
@@ -1773,10 +1773,10 @@ Likewise, we have upheld actions involving celebrities challenging the use of th
 In sum, our precedents have held that speech which either appropriates the economic value of a performance or persona or seeks to capitalize off a celebrity's image in commercial advertisements is unprotected by the First Amendment against a California right-of-publicity claim.
 
 Such lines of cases are not applicable here.
-First, The Hurt Locker is not speech proposing a commercial transaction. 
+First, *The Hurt Locker* is not speech proposing a commercial transaction. 
 Accordingly, our precedents relying on the lesser protection 
 afforded to commercial speech are inapposite. 
-Second, and critically, unlike the plaintiffs in Zacchini, Hilton, and Keller, 
+Second, and critically, unlike the plaintiffs in *Zacchini, Hilton*, and *Keller*, 
 Sarver did not “make the investment required to produce a performance of interest to the public,” [Zacchini][zachini], or invest time and money 
 to build up economic value in a marketable performance or identity. 
 Cf. *Keller.* Rather, Sarver is a private person 
@@ -1788,7 +1788,7 @@ nor the movie that brought the story to life stole Sarver's “entire act”
 or otherwise exploited the economic value of any performance or persona he had worked to develop. 
 The state has no interest in giving Sarver an economic incentive to live his life as he otherwise would.
 
-In sum, The Hurt Locker is speech that is fully protected by the First Amendment, 
+In sum, *The Hurt Locker* is speech that is fully protected by the First Amendment, 
 which safeguards the storytellers and artists who take the raw materials of life---including the stories of real individuals, ordinary or extraordinary and transform them into art, be it articles, books, movies, or plays. 
 If California's right of publicity law applies in
 this case, it is simply a content-based speech restriction. 

@@ -62,7 +62,7 @@ Here are some links to sample life story rights agreements and templates:
 If an agreement can't be had, 
 storytellers and filmmakers may proceed, 
 but often lawyers for the producers or the studio will 
-ask the filmmakers to ``annotate'' the script and provide support for all factual references.
+ask the filmmakers to ''annotate'' the script and provide support for all factual references.
 All factual statements about living people and historical events 
 should be annotated with sources. 
 
@@ -368,7 +368,7 @@ an embarrassing way; thus, his claim is meritless.
 Liability for misappropriation also will not arise when the information
 in question is in the public domain, for the public figure no longer has
 the right to control the dissemination of the information. *See*
-[*Douglass v. Hustler Magazine* (7th Cir.1985),](http://scholar.google.com/scholar_case?case=17887957795289404111). 
+[*Douglass v. Hustler Magazine* (7th Cir. 1985)](http://scholar.google.com/scholar_case?case=17887957795289404111). 
 
 "To whatever degree and whatever connection a man's life ceases to be
 private before the publication under consideration has been made, to
