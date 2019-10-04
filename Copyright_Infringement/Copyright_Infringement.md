@@ -7,16 +7,33 @@ chapter: Copyright Infringement
 
 # Lawyers For The Talent
 
-###### by Richard Dooling &copy;
+###### by Richard Dooling
 
-These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE).
+## I Disclaim
 
-## Infringement 
+I am an author and sometimes a screenwriter. 
+I'm also a lawyer, 
+and I teach Entertainment Law at the University of Nebraska College of Law, 
+but I am not *your* lawyer, 
+and the text you find here is *not* legal advice. 
+
+To paraphrase Hunter Thompson: 
+
+> The entertainment industry 
+> is a cruel and shallow money trench &hellip; a long plastic 
+> hallway where thieves and pimps run free 
+> and good men die like dogs.
+
+It's no place to be guessing about your legal rights. 
+If you need legal advice, please get a lawyer.
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## Copyright Infringement 
 
 ###### Copying, Substantial Similarity, Parody
 
-Copyright is violated only if the prior, copyrighted work has actually been *copied.* 
-
+The copyright laws protect against *copying* an original work. 
 If Mark Musician writes an original song, 
 then Sally Songwriter comes along, *copies* it, 
 and publishes it under her name, 
@@ -25,7 +42,10 @@ that's a copyright violation.
 If Mark Musician writes an original song, 
 and Sally Songwriter just happens to *independently* create an identical song,
 then Mark Musician has no recourse against Sally Songwriter 
-under the copyright laws.
+under the copyright laws. 
+Why? Because Sally didn't *copy* Mark's song, 
+she made her own original song, 
+which just happens to be identical to Mark's.
 
 Judge Learned Hand put it this way:
 
@@ -45,17 +65,26 @@ To prove copyright infringement, the copyright holder must establish:
 
 ### Access & Substantial Similarity
 
+If Sally Songwriter really did steal Mark Musician's song, 
+how does Mark Musician *prove* that Sally didn't just independently create an identical song?
+Usually Mark must prove that Sally had *access* to his work, 
+and then she copied it. 
+
+<!-- Copyright is violated only if the prior, copyrighted work has actually been *copied.*  -->
+
 Direct evidence of copying is rare, 
 so courts rely instead on circumstantial evidence to prove copying, 
-usually by allowing the plaintiff to prove 
-that the works are substantially similar 
-and that the defendant had *access* to the work.
+usually by allowing plaintiff Mark Musician 
+to prove that defendant Sally Songwriter's song is *substantially similar* 
+to Mark's song, and that Sally had *access* to the work.
+Maybe Mark can prove that Sally heard Mark's song on Spotify the year before, 
+and messaged others about how much she liked it. Or if Mark's song was still unpublished, 
+he could prove that his manager submitted it to Sally's manager wondering if Sally would like to collaborate with Mark on his song. 
 
-Access is usually a crucial component of any copyright claim, 
+Access is a crucial component of any copyright claim, 
 because similarity alone is usually not enough. 
-Creating a substantially similar work 
-is not a copyright violation 
-unless the defendant *copied* plaintiff's work.
+Again if Sally creates a substantially similar song, 
+no copyright violation unless she *copied* Mark's work. 
 
 > Plaintiff has the burden of proving 
 > that the defendant copied original elements 
@@ -71,12 +100,10 @@ unless the defendant *copied* plaintiff's work.
 
 #### Striking Similarity
 
-If the plaintiff is unable to prove 
-that the defendant had access to plaintiff's work, 
-then sometimes the court may allow plaintiff 
-to prove that the two works are so *strikingly similar* 
-that defendant must have had access. 
-However courts are careful to point out that proof of striking similarity is 
+If plaintiff Mark Musician can't prove that defendant Sally had access to Mark's work, 
+then sometimes the court may allow Mark to prove that the two works are so *strikingly similar* 
+that Sally must have had access. 
+However courts are careful to point out that proof of striking similarity is: 
 
 > just one piece of circumstantial evidence 
 > tending to show access 
@@ -313,7 +340,7 @@ to eleven music recording and publishing companies.
 Eight of the companies returned the materials to Selle; 
 three did not respond. 
 This was the extent of the public dissemination of Selle's song. 
-[More facts at *Selle v. Gibb*](http://scholar.google.com/scholar_case?case=11567908603789103293) (N.D.Ill.1983).
+[More facts at *Selle v. Gibb*](http://scholar.google.com/scholar_case?case=11567908603789103293) (N.D.Ill. 1983).
 
 Selle first became aware of
 the Bee Gees' song, "How Deep Is Your Love," in May 1978 and thought
