@@ -1701,4 +1701,4 @@ create the songs that top the charts](http://www.theatlantic.com/magazine/archiv
 [203]: https://www.copyright.gov/title17/92chap2.html#203 "Termination of transfers and licenses"
 [beastie]: https://www.youtube.com/watch?v=KARQOgivaGA
 [passman]: http://www.amazon.com/Need-Know-About-Music-Business/dp/1451682468/inscape-20 "Donald Passman, All You Need To Know About The Music Business"
-[goodcopy]: https://www.youtube.com/watch?v=WEKl5I_Q044 "A documentary featuring Girl Talk, Danger Mouse, and many others."
+[goodcopy]: https://www.youtube.com/watch?v=ByY6j0qzOyM "A documentary featuring Girl Talk, Danger Mouse, and many others."
