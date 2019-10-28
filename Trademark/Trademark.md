@@ -51,6 +51,11 @@ or representations of goods or services.
 > of such person with another person, 
 > or as to the origin, sponsorship or approval 
 > of his or her goods, services or commercial activities &hellip; 
+> or in commercial advertising or promotion, misrepresents the nature,
+> characteristics, qualities, or geographic origin origin of his or her or another person's goods, 
+> services, or commercial activities &&hellip; 
+> shall be liable in a civil action by any person who believes that he or she is or is likely to be damaged by such act. 
+
 
 ### Trademark Basics
 
@@ -58,16 +63,12 @@ Watch this video from the US Patent & Trademark Office:
 
 [Basic Facts About Trademarks: What Every Small Business Should Know Now, Not Later](http://www.uspto.gov/trademarks-getting-started/trademark-basics).
 
-Read [What some companies get wrong about trademarks
-Can’t you just smell the Play-Doh?](https://medium.com/@alexandrajroberts/what-some-companies-get-wrong-about-trademarks-be023cb02422) by Prof. Alexandra J. Roberts @lexlanham.
-
-
 ## *Matal v. Tam*
 
 ###### United States Supreme Court (2017)
 
 This case introduces federal trademark law and the United States Patent and Trademark Office (PTO).
-It's also a nice review of the First Amendment. It's always with us.
+It's also a nice review of the First Amendment, which is always with us.
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=14085180484211709676)
 
@@ -87,8 +88,8 @@ The Patent and Trademark Office (PTO) denied the application based on a
 provision of federal law prohibiting the registration of trademarks that
 may "disparage &hellip; or bring &hellip; into contempt or disrepute" any
 "persons, living or dead." 15 U.S.C. § 1052(a). We now hold that this
-provision violates the Free Speech Clause of the First Amendment. It
-offends a bedrock First Amendment principle: Speech may not be banned on
+provision violates the Free Speech Clause of the First Amendment. 
+It offends a bedrock First Amendment principle: Speech may not be banned on
 the ground that it expresses ideas that offend.
 
 ### I
@@ -737,6 +738,16 @@ government seeks to restrict truthful speech in order to suppress the
 ideas it conveys, strict scrutiny is appropriate, whether or not the
 speech in question may be characterized as commercial.")
 
+### What about "immoral or scandalous" trademarks?
+
+In [*Iancu v. Brunetti*][brunetti], 139 S.Ct. 2294 (2019), 
+the United States Supreme Court held 
+that the Lanham Act's prohibition on registration of "immoral or scandalous" trademarks 
+violates the First Amendment.
+
+> In *Matal v. Tam*, this Court declared unconstitutional the Lanham Act’s ban on registering marks that "disparage" any "person, living or dead." § 1052(a). A divided Court agreed on two propositions.  First, if a trademark registration bar is viewpoint based, it is unconstitutional.  And second, the disparagement bar was viewpoint based.
+
+> The "immoral or scandalous" bar similarly discriminates on the basis of viewpoint and so collides with this Court’s First Amendment doctrine.  Expressive material is "immoral" when it is "inconsistent with rectitude, purity, or good morals"; "wicked"; or "vicious." So the Lanham Act permits registration of marks that champion society's sense of rectitude and morality, but not marks that denigrate those concepts. 
 
 ## Trademark Violations
 
@@ -1783,13 +1794,11 @@ and there is no indication that its use was commercially motivated.
 *See* [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849).
 
 > In a footnote, the Court distinguished cases cited by Louis Vuitton, 
-including [*Parks v. LaFace Records*] (http://scholar.google.com/scholar_case?case=11600086449229682086)
-(6th Cir.2003).
-(finding that "reasonable persons could conclude that there is no
-relationship of any kind between Rosa Park's name and the content of the
-song," and noting that the "marketing power" of the song's title
-"unquestionably enhanced the song's potential sale to the consuming
-public").
+> including [*Parks v. LaFace Records*](http://scholar.google.com/scholar_case?case=11600086449229682086) (6th Cir.2003).
+> (finding that "reasonable persons could conclude that there is no
+> relationship of any kind between Rosa Park's name and the content of the
+> song," and noting that the "marketing power" of the song's title
+> "unquestionably enhanced the song's potential sale to the consuming public").
 
 Accordingly, 
 the Court concludes that the use of the Diophy bag 
@@ -1869,7 +1878,7 @@ rather, extends to confusion as to the source or content of a
 third-party's goods. Curiously, Louis Vuitton makes this
 argument without addressing the clear rule set forth in *Twin Peaks* and
 instead relies on [*Dallas Cowboys Cheerleaders, Inc. v. Pussycat
-Cinema, Ltd.,* (2d Cir.1979),](http://scholar.google.com/scholar_case?case=11014508973363071529)
+Cinema, Ltd.,* (2d Cir. 1979),](http://scholar.google.com/scholar_case?case=11014508973363071529)
 a decision whose First Amendment approach *Rogers* expressly declined to
 follow and which has been criticized by other courts. [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849);
 *see* [*Parks*](http://scholar.google.com/scholar_case?case=11600086449229682086)
@@ -1983,7 +1992,7 @@ whom Warner Bros. has no relationship whatsoever. Any
 Warner Bros. is at most indirect and thus "too slight to warrant
 application of the Lanham Act." *See* [*Syler*](http://scholar.google.com/scholar_case?case=2693087962354215527) (quoting [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849)).
 
-[This limitation on the reach of the Lanham Act is consistent with the text of § 43(a)(1)(A), which expressly requires the "confusion," "mistake," or "dece[ption]" to be "of [the defendant's] goods, services, or commercial activities," and with the core concern of trademark law, which is confusion related to purchasing decisions and not confusion generally.]
+This limitation on the reach of the Lanham Act is consistent with the text of § 43(a)(1)(A), which expressly requires the "confusion," "mistake," or "dece[ption]" to be "of [the defendant's] goods, services, or commercial activities," and with the core concern of trademark law, which is confusion related to purchasing decisions and not confusion generally.
 
 Louis Vuitton maintains that the *Rogers* test cannot be assessed on a
 motion to dismiss. (Opp. at 14-18.) The Court disagrees. Although many
@@ -2035,7 +2044,8 @@ Watch this 6-minute YouTube clip of two entertainment lawyers discussing tradema
 [What Filmmakers Should Know About Featuring Logos & Trademarks In An Independent Movie.](https://www.youtube.com/watch?v=64WGwD6VIhI)
 
 A student sent me this YouTube and asked: 
-"Hey, I thought you said that filmmakers should get logos and copyrighted material out of the shot! These lawyers say logos are no problem?"
+"Hey, I thought you said that filmmakers should get logos and copyrighted material out of the shot! 
+These lawyers say logos are no problem?"
 
 Keep in mind these are two good lawyers getting paid well 
 to solve rights issues that would not exist 
@@ -2045,7 +2055,7 @@ followed by negotiations over insurance contract language.
 
 I'm sure these are two fine lawyers
 who pride themselves on solving rights issues 
-AFTER the film has been shot 
+*after* the film has been shot 
 and the filmmakers need to get insurance. 
 (No mention about whether the filmmakers had to pay a premium 
 over and above the usual 
@@ -2062,12 +2072,12 @@ why put the logo in your shot
 and risk a completely unnecessary insurance or legal issue?
 
 We know from class and from our book and from *Rogers v. Grimaldi* 
-that you usually MAY use a trademark 
+that you usually *may* use a trademark 
 when it is artistically relevant to your work. 
 So that's not news. 
 (Doesn't mean another Ginger Rogers won't sue you anyway and lose.) 
 The Disney example they use here is similar; 
-if the filmmakers are making an undercover movie ABOUT Disney. 
+if the filmmakers are making an undercover movie *about* Disney. 
 That might make Disney and its trademark and logos artistically relevant. 
 Then care should be taken 
 to make sure that the audience is not confused 
@@ -2087,9 +2097,10 @@ who want to buy your film.
 [manual]: http://tmep.uspto.gov
 [1501]: https://www.law.cornell.edu/uscode/text/15/1051
 [1502]: https://www.law.cornell.edu/uscode/text/15/1052
-[Johanns]: http://scholar.google.com/scholar_case?case=8395881287361075212&q=matal+v+tam&hl=en&as_sdt=6,28
-[Summum]: http://scholar.google.com/scholar_case?case=16990792622269283104&q=matal+v+tam&hl=en&as_sdt=6,28
-[Walker]: http://scholar.google.com/scholar_case?case=14885642386066449353&q=matal+v+tam&hl=en&as_sdt=6,8
+[Johanns]: http://scholar.google.com/scholar_case?case=8395881287361075212
+[Summum]: http://scholar.google.com/scholar_case?case=16990792622269283104
+[Walker]: http://scholar.google.com/scholar_case?case=14885642386066449353
+[brunetti]: https://scholar.google.com/scholar_case?case=14505087584960254163
 
 <!-- BEGIN COMMENT -->
 

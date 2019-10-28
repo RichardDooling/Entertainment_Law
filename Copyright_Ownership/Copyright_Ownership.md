@@ -33,7 +33,7 @@ These materials are published under an [MIT license](https://github.com/RichardD
 
 ###### Who owns the rights?
 
-Citations are to the Copyright Laws of the United States, Title 17, United States Code.
+Citations are to the [Copyright Laws of the United States, Title 17, United States Code](https://www.copyright.gov/title17/).
 
 ### § 201 . Ownership of copyright
 
@@ -71,7 +71,7 @@ all are probably writers working for hire, meaning they do not own
 copyright in the works they create, their employers do. 
 
 If the author writes a poem, the author owns the copyright to the poem, 
-and can license the right to print or perform that work to others.
+and can license the right to print or the right to perform that work to others.
 However if the greeting card company hires a writer 
 to create poems to be printed on its greeting cards, 
 then the company owns the copyrights to the poems, 
@@ -1700,5 +1700,5 @@ create the songs that top the charts](http://www.theatlantic.com/magazine/archiv
 [201]: http://www.copyright.gov/title17/92chap2.html#201 "Section 201: Ownership of Copyright"
 [203]: https://www.copyright.gov/title17/92chap2.html#203 "Termination of transfers and licenses"
 [beastie]: https://www.youtube.com/watch?v=KARQOgivaGA
-[passman]: http://www.amazon.com/Need-Know-About-Music-Business/dp/1451682468/inscape-20 "Donald Passman, All You Need To Know About The Music Business"
+[passman]: https://www.amazon.com/Need-Know-About-Music-Business/dp/1501122185/inscape-20 "Donald Passman, All You Need To Know About The Music Business"
 [goodcopy]: https://www.youtube.com/watch?v=ByY6j0qzOyM "A documentary featuring Girl Talk, Danger Mouse, and many others."
