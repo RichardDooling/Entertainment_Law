@@ -388,11 +388,7 @@ Once an idea has been written down or otherwise recorded, however,
 we have recognized that it satisfies the Copyright Act's writing requirement
 because it is fixed in a tangible medium. 
 
-For preemption purposes, ideas and concepts that are fixed in a tangible
-medium fall within the scope of copyright. &hellip; Fixed ideas falls
-within the subject matter of copyright and thus satisfies the first
-prong of the statutory preemption test, despite the exclusion of fixed
-ideas from the scope of actual federal copyright protection.
+For preemption purposes, ideas and concepts that are fixed in a tangible medium fall within the scope of copyright. We agree with Nimmer that state-law protection for fixed ideas falls within the subject matter of copyright and thus satisfies the first prong of the statutory preemption test, despite the exclusion of fixed ideas from the scope of actual federal copyright protection. See 17 U.S.C. § 102 ("In no case does copyright protection for an original work of authorship extend to any idea . . . or concept . . . embodied in such work.")
 
 Accordingly, the major focus of litigation has been on the second prong
 of the preemption test: whether the asserted state right is equivalent

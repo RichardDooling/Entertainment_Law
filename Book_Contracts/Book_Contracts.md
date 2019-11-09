@@ -260,7 +260,15 @@ Many authors are so excited about getting a book deal, they never consider that 
 Every publishing contract should specify a date certain or a time period during which the publisher must publish the book (eighteen (18) months after submission of the final manuscript seems fair). After that time, the author should be free to end the contract, regain all rights granted, and keep the advance. 
 
 
-### Option Clauses
+### Option Clauses In Book Contracts
+
+A typical option clause looks like this:
+
+> The Author grants Publisher the exclusive option to acquire the rights to the next full-length work of [fiction or non-fiction] to be written by the Author. Publisher shall be entitled to a period of sixty (60) days after submission of the next work in which to make an offer for that work, during which time the Author agrees not to solicit any third party offers, directly or indirectly.
+
+*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at paragraph 19.
+
+Here are two others:
 
 #### A Sample Option Clause
 
@@ -279,20 +287,22 @@ because these clauses favor publishers only, not authors.
 An option clause gives the publisher the privilege to publish the author's next book 
 (but only if it wants to).
 
-An option clause potentially binds the author to the publisher, 
+An option clause also potentially binds the author to the publisher, 
 even if the relationship has been unsatisfactory.
-What if the author's editor leaves? What if the author gets a more attractive offer from another publisher?
+What if the author's editor leaves, and the author has a better deal with another publisher? 
+The author must first show her next work to the publisher under the terms of the option clause 
+in her book contract. 
 
-The clause typically contains some or all of the terms you must accept for the optioned work.
-Even “first refusal” clauses and “agreements to agree” impede the author's freedom.
-
-Some publishers will simply delete this provision, but if they won't, consider trying to ask for an editor's clause instead. 
+The option clause usually contains some or all of the terms the author must accept for the optioned work. 
+Even “first refusal” clauses and “agreements to agree” impede the author’s freedom. 
+Some publishers will simply delete option clauses. 
+Consider asking for an editor’s clause instead?
 
 If the author and her representatives cannot get rid of the clause, limit it:
 
 - Avoid options on “the same terms” and “last refusal rights” (allowing publisher to match terms the author has received).
 - Go for a “limited time right of first refusal” on terms “to be mutually agreed upon.”
-- Rather than agreeing to submit "the manuscript," agree to submit a "detailed proposal and sample chapters." Otherwise, the Author will be obligated to complete an entire manuscript before being allowed to seek an advance from this publisher or any other. 
+- Rather than agreeing to submit "the manuscript," the author should agree to submit "a proposal and sample chapters." Otherwise, the author will be obligated to complete an entire manuscript before being allowed to seek an advance from this publisher or any other. 
 - Limit the time the publisher has to consider the manuscript or proposal. Sixty days is too long. Try for thirty days, and perhaps settle on 45 days. 
 - Do not let the publisher require publication of the first work before it is obliged to consider the second manuscript or proposal. Publication takes at least nine months and can take as long as 18 months or more. No author wants to wait two years before getting the deal for the next book going. 
 - Limit option only to similar books. At a minimum only fiction or nonfiction, as the case may be.
@@ -301,6 +311,8 @@ If the publisher requires the Author to wait until publication, then it allows t
 
 * [Option Clauses Shouldn't Hold Authors Hostage](https://www.authorsguild.org/industry-advocacy/option-clauses-shouldnt-hold-authors-hostage/)
 * [Authors Guild: Improving Your Book Contract][improving]
+* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at &para; 19.
+
 
 ### Copyright ###
 
@@ -456,29 +468,6 @@ The court said:
 
 What Pinnacle really needed (and apparently was unable to bargain for) was an "option clause."
 
-#### Authors Guild on Option Clauses	
-
-To the Authors Guild, Option clauses are "Unacceptable Provisions."
-
-A typical option clause looks like this:
-
-> The Author grants Publisher the exclusive option to acquire the rights to the next full-length work of [fiction or non-fiction] to be written by the Author. Publisher shall be entitled to a period of sixty (60) days after submission of the next work in which to make an offer for that work, during which time the Author agrees not to solicit any third party offers, directly or indirectly.
-
-*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at paragraph 19.
-
-As the Authors Guild puts it: These clauses favor publishers only, not authors. An option clause gives your publisher the privilege to publish your next book (but only if they want to).
-
-An book contract option clause binds the author to the publisher, even if the relationship has been unsatisfactory. The clause usually contains some or all of the terms you must accept for the optioned work.  Even “first refusal” clauses and “agreements to agree” impede the author’s freedom.  Some publishers will simply delete option clauses. Consider asking for an editor’s clause instead?
-
-What if your editor leaves? What if you get a better deal elsewhere? You may not want a provision hanging over your head that you MUST show your next book to your current publisher first. 
-
-If you cannot get rid of the clause, limit it: Avoid options on “the same terms” and “last refusal rights” (allowing publisher to match terms the author has received). Go for a “limited time right of first refusal” on terms “to be mutually agreed upon.” 
-
-Also limit the clause to a summary or proposal for the next book (not entire manuscript). Otherwise you may be unable to shop a query, proposal, or summary to another publisher until you finish the second book and show it to your original publisher. 
-
-Limit the time. And don’t let the publisher require publication of the first work. Limit option only to similar books (fiction, non-fiction, poetry). 
-
-*See* [Dooling Book Contract](http://www.richarddooling.com/Entertainment/Rapture_Contract.pdf) at &para; 19.
 
 
 [model]:  https://www.authorsguild.org/member-benefits/legal-services/model-book-contract/
