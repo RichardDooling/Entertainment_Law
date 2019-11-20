@@ -14,7 +14,7 @@ These materials are published under an [MIT license](https://github.com/RichardD
 # First Amendment - Violence
 
 If speech is just too "sexy," 
-can be banned and punished ([*Miller*][miller_test]).
+it can be banned or punished ([*Miller*][miller_test]).
 <!-- movies found legally obscene -->
 If it is indecent speech on broadcast television, 
 it can be regulated ([*Pacifica*][pacifica-w], [*Fox I*][fox-w], and [*Fox II*][fox2-w]). 

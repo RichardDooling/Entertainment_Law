@@ -730,11 +730,11 @@ the author turns in a manuscript which the publisher does not care for?
 * [Case on Westlaw][goldwater] 
 * [Read about it at NYTimes](http://www.nytimes.com/1982/02/04/books/goldwater-in-book-suit.html)
 
-#### OPINION
+#### OPINION:
 
 GRIESA, District Judge.
 
-#### FINDINGS OF FACT AND CONCLUSIONS OF LAW
+#### FINDINGS OF FACT AND CONCLUSIONS OF LAW:
 
 [The issue in this case is whether Jovanovich, Inc. 
 is entitled to rely upon the provision of its contract 
@@ -1230,7 +1230,7 @@ especially if the “author is virtually prevented from performing under the con
 
 As the court observed: “allowing unfettered license to publishers to reject a manuscript submitted under contract would permit overreaching by publishers attempting to extricate themselves from bad deals.”
 
-#### The Satisfactory Manuscript Clause
+#### The Satisfactory Manuscript Clause:
 
 Consider the description of this provision contained in the Authors Guild Model Trade Book Contract: “Conditions Governing the Manuscript and Termination”  Section 3, p. 12.
 
@@ -1242,7 +1242,7 @@ The Authors Guild suggests the following language be used instead:
 
 And let the negotiations begin!
 
-#### Modern Editors
+#### Modern Editors:
 
 Unlike the most prominent editor of the 20th Century, 
 Maxwell Perkins, 
@@ -1293,7 +1293,7 @@ procedural history of this dispute.
 
 ### I.
 
-#### BACKGROUND
+#### BACKGROUND:
 
 In the early 1970s, 
 Tony Curtis, 
@@ -1456,7 +1456,7 @@ cancelled the reprint deal with NAL, formally terminated the September
 $50,000 advance. When Curtis  refused, Doubleday commenced this
 litigation.
 
-#### *Proceedings in the District Court*
+#### *Proceedings in the District Court:*
 
 Invoking the diversity jurisdiction of the federal courts, Doubleday
 filed a complaint on April 3, 1983 in the United States District Court
@@ -1492,7 +1492,7 @@ and the impending deadline with NAL, the editors testified that their
 decision to terminate the contract was motivated by both ethical and
 artistic considerations.
 
-#### *The Decision of the District Court*
+#### *The Decision of the District Court:*
 
 Characterizing the litigation as a "dispute about creativity and the
 respective responsibilities of an author and his publisher," the
@@ -1523,9 +1523,9 @@ advance even if it found the manuscript unsatisfactory.
 
 ### II.
 
-#### DISCUSSION
+#### DISCUSSION:
 
-#### A. *The Publisher's Duty to Perform in Good Faith.*
+#### A. *The Publisher's Duty to Perform in Good Faith:*
 
 We note at the outset that Curtis has never defended his August 1981
 manuscript as a work of publishable quality. Rather, Curtis maintains
@@ -1591,7 +1591,7 @@ contract, provided that the termination is made in good faith, and that
 the failure of an author to submit a satisfactory manuscript was not
 caused by the publisher's bad faith.
 
-#### B. *Doubleday's Good Faith.*
+#### B. *Doubleday's Good Faith:*
 
 Evaluating the Doubleday-Curtis relationship in light of these
 principles, we are convinced that *Starstruck's* failure was not
@@ -1654,7 +1654,7 @@ In light of all the circumstances, we agree with the district court's
 finding that Doubleday exercised good faith in its dealings with Curtis,
 and thus affirm the dismissal of Curtis's counterclaim.
 
-#### C. *Doubleday's Action For Return of the Advance.*
+#### C. *Doubleday's Action For Return of the Advance:*
 
 In dismissing Doubleday's complaint, which sought recovery of the
 $50,000 advance paid to Curtis, the district court found that Doubleday
@@ -1673,7 +1673,7 @@ spirit of fairness embodied in the Federal Rules of Civil Procedure.
 
 ### III.
 
-#### CONCLUSION
+#### CONCLUSION:
 
 Accordingly, we affirm the district court's dismissal of Curtis's
 counterclaims. We reverse the judgment of the district court dismissing
@@ -1681,7 +1681,7 @@ Doubleday's complaint and remand the cause with instructions to enter
 judgment in favor of Doubleday for recovery of its $50,000 advance,
 plus interest.
 
-#### Notes on *Doubleday v. Tony Curtis* 
+#### Notes on *Doubleday v. Tony Curtis*:
 
 Famous actor and part time novelist Tony Curtis ("Curtis") signed a book contract to provide two novels to the publisher Doubleday & Co., Inc. ("Doubleday"). The parties used a standard industry form that required Doubleday to pay royalties on hardcover sales and a share of the proceeds of the sale of paperback rights if Curtis delivered manuscripts "satisfactory" to Doubleday in content and form. 
 
@@ -1958,7 +1958,7 @@ with Zilg's beneficial commercial relationships. We disagree, however,
 with his conclusion that P-H breached its contract with Zilg and reverse
 that judgment.&hellip; 
 
-#### 2. *P-H's Breach of Contract*
+#### 2. *P-H's Breach of Contract*:
 
 We believe Judge Brieant's discussion of P-H's obligations under its
 contract with Zilg, and his finding of a breach of those obligations, is
@@ -2179,7 +2179,7 @@ implications of BOMC's change of heart.
 
 Reversed.
 
-#### Notes on *Zilg v. Prentice-Hall*
+#### Notes on *Zilg v. Prentice-Hall*:
 
 The contract in this case required Author Zilg to deliver a manuscript: 
 “in final form and content acceptable to the publisher.”
@@ -2304,7 +2304,7 @@ Furthermore, Buchwald and Bernheim are Hollywood players
 with high-powered agents. 
 Everybody knows what "net profits" mean in Hollywood.
 
-#### Two Accounting Methods
+#### Two Accounting Methods:
 
 [Hollywood Accounting](http://en.wikipedia.org/wiki/Hollywood_accounting) typically involves two sets of books: 
 
@@ -2323,7 +2323,7 @@ and almost never result in any "new money."
 * [*Buchwald v. Paramount Pictures,*][net_profits] 1992 WL 1462910 (Cal. App. 1992).
 * [LA Times on Buchwald suit](http://articles.latimes.com/1992-03-17/local/me-3895_1_net-profit)
 
-### Totally Optional Readings & Viewings ###
+### Totally Optional Readings & Viewings
 
 * [Ben Stein Sues Firm For Backing Out Of Contract][stein]. Stein, the prolific actor, author, spokesperson, pundit and one-time star of Comedy Central's game show Win Ben Stein's Money, has sued a Japanese company and its New York ad agency for $300,000 for allegedly backing out of a deal to hire him to act in commercials when they found out about his beliefs on global warming.
 * [Penguin Group files lawsuits against prominent writers who fail to deliver books][penguin]. A New York publisher this week filed lawsuits against several prominent writers who failed to deliver books for which they received hefty contractual advances, records show. The Penguin Group's New York State Supreme Court breach of contract/unjust enrichment complaints include copies of book contracts signed by the respective defendants.
