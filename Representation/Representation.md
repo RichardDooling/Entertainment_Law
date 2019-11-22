@@ -13,7 +13,7 @@ chapter: Representation
 
 ###### Talent Representation & Regulation 
 
-### Entertainment/Publishing Lawyers
+### Lawyers
 
 What do entertainment lawyers do?
 
@@ -36,29 +36,32 @@ As in any industry, the lawyer
 is a kind of "super fiduciary," 
 overseeing problems the talent has with "regular" fiduciaries 
 (agents, managers, producers).
-
 Publishing lawyers know the book industry 
 and can offer legal and practical advice. 
-Often an unpublished author needs help answering the eternal question:
-How Do I Get An Agent? 
-Take a peek at [How to Research Literary Agents and Book Publishers](
-https://www.aerogrammestudio.com/2018/09/13/how-to-research-literary-agents-and-book-publishers/) 
-for some good ideas on picking persons and places for the author's first book. 
-The [Rights Report](https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/77966-rights-report-week-of-september-10-2018.html) at [Publishers Weekly](https://www.publishersweekly.com) is also great for researching who is buying what from whom in the book world.
-
 Music lawyers know the music business, 
-and nobody explains it better than Donald Passman in [All You Need To Know About The Music Business](https://www.amazon.com/Need-Know-About-Music-Business/dp/1501104896/inscape-20). The music business has its own representation wrinkles, because managers act more like talent agents in the music biz, 
-and Passman explains the difference well.
+and nobody explains it better than Donald Passman in [*All You Need To Know About The Music Business* (10th ed. 2019)][passman]. The music business has its own representation wrinkles, because managers act more like talent agents in the music business, and Passman explains the difference well.
+
+A good entertainment or publishing lawyer 
+may be able to offer disinterested advice 
+about the disposition of rights 
+when the agents have conflicts of interest with their clients. 
+For example, 
+the Hollywood talent agent who sells film rights 
+to the author's novel usually will go for top dollar, of course, 
+but what if the talent agent is selling those rights to a producer 
+who also happens to be represented by the same large talent agency? 
+There's at least a potential for conflict.
+The big agencies will often provide a second opinion, 
+a disinterested review of the terms to guard against conflicts of interest.
 
 ### Literary Agents
 
 In the publishing world, 
-an author with a great agent often doesn't need a lawyer; 
-that's why finding an agent is the brass ring. The hardest part. 
+an author with a great agent often doesn't need a lawyer. 
+Finding an agent is the brass ring. The hardest part. 
 It can take years, sometimes decades. 
 Real literary agents know what sells, 
 and they are picky when it comes to representing new authors.
-Talent reps are especially interested in representing clients who are hard-working professionals, as well as being talented artists.
 
 As Stephen King put it:
 
@@ -69,27 +72,35 @@ As Stephen King put it:
 > from the successful one is a lot of hard work and study; 
 > a constant process of honing.
 
-So it's a happy day when an agent calls with the good news: 
-They'd love to represent the artist! 
-Before the agent can represent the author or artist, 
-there may be an agency agreement to sign. 
+Literary agents want to represent hard-working professional authors 
+who dependably turn out good prose, 
+not daydreamers who think they might have an idea for a book someday.
+Often an unpublished author with a manuscript to sell 
+needs help answering the eternal question: How Do I Get An Agent? 
+First rule: Nobody phones a literary agent. 
+The would-be author approaches via a query letter, 
+these days usually submitted via email. 
+
+Publishing industry blogger [Jane Friedman][jf] is great on these practical matters, 
+with good posts on 
+[finding a literary agent][jf-agent]
+and writing [query letters][jf-query].
+Also take a peek at [How to Research Literary Agents and Book Publishers](
+https://www.aerogrammestudio.com/2018/09/13/how-to-research-literary-agents-and-book-publishers/).
+Industry folk follow [*Publishers Weekly*][pw] and 
+[Publishers Marketplace][pwm] for what [rights][pw-rights] sold and to whom. 
+
+It's a happy day when an agent calls with the good news: 
+She'd love to represent the author.
+After rejoicing together over their engagement,
+now comes a prenuptial contract in the form of an agency agreement. 
 At this point in the author-agent relationship, 
 the author needs legal advice before signing the agency agreement.
-
-The giant agencies (CAA, WME, UTA) use form agreements 
-whose terms have already been fought over 
-by unions and lawyers for decades. 
-But a boutique literary agency 
-may have a agency agreement 
-that purports to give them the right to 15% of all royalties 
-arising out of the publishing agreement. Forever. 
-These provision are controversial, 
-and lately not enforced by courts. (See *Lampack* below.) 
-
-Unlike California talent agents, 
+ 
+Unlike New York and California talent agents, 
 New York literary agents are not governed 
-by the New York or California Labor Codes, 
-but as agents they are governed by the common law of agency. 
+by the New York or California Labor Codes.
+But literary agents are governed by the common law of agency. 
 The agent's obligations to her author 
 are also often spelled out in a written agreement with the agency. 
 Some agents still have handshake verbal agreements 
@@ -100,7 +111,6 @@ A first-time author needs legal help with that agency agreement.
 First stop, the [Authors Guild][]. 
 If the author does not yet qualify for assistance, 
 then the author should probably find a lawyer. 
-
 Yes, agents owe their clients duties under the law.
 Agents are supposed to bargain *for* their clients, 
 not *with* their clients over the terms of an agency agreement.
@@ -110,21 +120,20 @@ is possibly in negotiations about the terms of the agency agreement itself.
 
 The agent may overreach 
 and attempt to include an interminable agency clause 
-(see *Peter Lampack Agency* case), 
+(see *Peter Lampack Agency* case below), 
 or some other one-sided clause. 
 As discussed in our materials on book contracts, 
 the Authors Guild often will help authors 
-and their representatives negotiate and edit these contracts.
+and their representatives [negotiate and edit these contracts](https://www.authorsguild.org/member-services/legal-services/).
 
-
-#### Contracts With Literary Agents 
+### Literary Agents and Lawyers 
 
 Once the agent and author are fast friends, 
 their interests are usually aligned. 
 The agent gets 15% of everything the author earns, 
 an incentive to work hard for a bigger share.
 
-An author represented by a good talent agent 
+An author represented by a good literary agent 
 may publish several books and never need a lawyer. 
 But when an author "travels," as they say, 
 meaning their books appeal to international audiences, 
@@ -138,25 +147,14 @@ Hollywood deals involve multiple agents, managers, and lawyers
 It's no place to be wandering around without a good lawyer 
 and perhaps a passport, because it feels like a foreign country.
 
-Hollywood aside, a good entertainment or publishing lawyer 
-may be able to offer disinterested advice 
-about the disposition of rights 
-when the agents have conflicts of interest with their clients. 
-
-For example, 
-the Hollywood talent agent who sells film rights 
-to the author's novel will go for top dollar, 
-but what if the talent agent is selling those rights to a producer 
-who also happens to be represented by the same large talent agency? 
-There's at least a potential for conflict.
-The big agencies will often provide a second opinion, 
-a disinterested review of the terms to guard against conflicts of interest.
 
 #### The Interminable Agency Clause
 
 * [Description of clause](http://accrispin.blogspot.com/2011/04/interminable-agency-clause.html)
 
-### *Peter Lampack Agency, Inc. v. Martha Grimes*
+######
+
+## *Peter Lampack Agency, Inc. v. Martha Grimes*
 
 ###### Superior Court New York (2010)
 
@@ -461,18 +459,17 @@ Because PLA did not have a property interest in Grimes' literary works, its agen
 * [Trial Court Opinion: Peter Lampack Agency v. Martha Grimes,](http://scholar.google.co.uk/scholar_case?case=2622311633908231934) (2010 NY Slip Op 51749).
 * [Court of Appeals: Peter Lampack Agency v. Martha Grimes,](http://scholar.google.co.uk/scholar_case?case=5116981929088179346) 93 A.D.3d 430 (NY.Ct. App. 2012).
 
-#### The Interminable Agency Clause
-
-* [Description of clause](http://accrispin.blogspot.com/2011/04/interminable-agency-clause.html)
+######
 
 ## Hollywood Representation
 
 Usually involves one or more of the following:
 
--   Talent Agent
--   Personal Manager
--   Business Manager
--   Entertainment Lawyer
+* Talent Agent
+* Personal Manager
+* Business Manager
+* Entertainment Lawyer
+* The Talent Guild or Union 
 
 Even with suitcases of talent 
 it's a long march to earn a living wage 
@@ -492,7 +489,96 @@ there will be something new to sell soon.
 Until then, interested buyers holding on lines 2 and 3. 
 Goodbye for now.
 
-### New York’s Employment Agent Regulation
+### Talent Agents
+
+Like New York literary agents, talent agents want to represent clients who are hard-working professionals, 
+as well as being talented artists. 
+The giant agencies (CAA, WME, UTA) use form agreements 
+whose terms have already been fought over 
+by unions and lawyers for decades.
+If the talent (actor, writer, director) are members of guilds, 
+then agency agreements with these big agencies are usually safe.
+But a boutique agency 
+may or may not be a "franchised agent," 
+meaning, for actors, an agent licensed by the state in which they operate 
+and officially approved by the guilds (SAG, AFTRA, AEA). 
+Union actors may only work with union-franchised agents. 
+A franchised agent may still represent actors who are not members of the guilds 
+for non-union work, or for work that leads to union membership.
+
+See discussion below in *Marathon v. Blasi* for an excellent description of how the guilds control access to both agents and entities who wish to employ their members.
+
+### Talent Agencies and Packaging Fees
+
+#### The Writers Guild of America At War
+
+Please watch these two videos ahead of us dealing with Representation. The first one I sent you earlier, but watch them both so you understand what the Writers Guild is fighting about.
+
+* [Agency Conflicts of Interest](https://youtu.be/v5p6urW6c7I)
+* [The Truth About Agency Studios](https://www.wga.org/members/membership-information/agency-agreement/the-truth-about-agency-studios)
+
+An article in the *Wall Street Journal*, written in March, 2019, 
+just before the Writers Guild voted to go to war with the Association of Talent Agents (ATA), 
+gives a fair description of the ongoing fight:
+
+> The middle-class wage squeeze is affecting an unlikely group: Hollywood movie and television writers, who are threatening to fire their agents en masse over what their union calls unfair business practices.
+>
+> Their union, the Writers Guild of America, is convinced agencies’ pursuit of lucrative side deals—with the studios actually employing the writers—has created conflicts of interests in which talent agents put their own paydays ahead of their clients’, precipitating a decline in wages for a vast swath of the screenwriting community.
+>
+> Some 15,000 WGA members are currently voting whether the union should demand their agents agree to new employment terms that would bar the longstanding practice known as “packaging,” in which an agency creates the framework for a new television series or movie by bundling various clients—writers, directors, actors and others—and sells it as a whole to a studio that then funds the production and distributes it.
+>
+> When an agency enters into a package deal with a studio, it collects a fee and waives the commissions it would normally receive from clients involved in the project, meaning the agent’s financial interest isn’t as closely tied as usual to those clients’. The upshot, writers argue, is that the agency is effectively a partner in the production, and that is a conflict of interest.
+>
+> “The rule of thumb is you work for the person who pays you,” said television writer Evan Wright, whose credits include Showtime’s “Homeland.” Mr. Wright fired his agency, William Morris Endeavor, or WME, last year after learning after the agency received a packaging fee for a show he executive produced for Discovery.
+>
+> “WME was Col. Tom Parker to me,” Mr. Wright said, comparing the agency to Elvis Presley’s notoriously greedy and controlling manager. The agency declined to comment on the remark.
+>
+> Hollywood deal making is dominated by four major agencies including WME, Creative Artists Agency, United Talent Agency and ICM Partners.
+>
+> These agencies counter that packaging deals, which have been widespread in Hollywood for decades, offer their clients more opportunities to work. Such packages are presented to studios as fully developed ideas, increasing the chances they will get made. Nearly 90% of scripted television series during the 2016-2017 season were packaged, according to the WGA. HBO’s “Game of Thrones” is a packaged show.
+>
+> “Elements of a series need to be assembled or packaged so that studios get a clear vision of what they are buying,” said Chris Silbermann, who as managing director of ICM Partners represents Shonda Rhimes, the creator of “Grey’s Anatomy.”
+>
+> &hellip;
+>
+> The dispute comes at what would seem an unlikely moment: a TV-industry boom fueled in part by the rise of streaming services like Netflix Inc., Amazon.com Inc.’s Prime Video and Walt Disney Co.-controlled Hulu, which have poured billions of dollars into developing new series. Netflix has struck multimillion-dollar deals with marquee writers and producers including Ms. Rhimes, Ryan Murphy and Brad Falchuk.
+>
+> Traditional studios are also ponying up more to keep top talent. Last year AT&T Inc.’s Warner Bros. struck a deal with producer Greg Berlanti, whose credits include “The Flash,” worth more than $300 million.
+>
+> Earlier this month, Comcast Corp.’s NBCUniversal signed a lucrative deal to keep Mike Schur, whose producing credits include “The Office,” “Brooklyn Nine-Nine” and “The Good Place,” on its lot.
+>
+> The writers’ union says that while such high-profile writers are enjoying unprecedented success, wages for more typical writers have declined.
+>
+> Average WGA members saw their weekly incomes decline by more than 20% between 2014 and 2016, the union said.
+>
+> WME says average pay for writer clients has risen during the past three years.
+>
+> “There will always be superstar writers who are able to benefit. There are a select few that have been able to get these massive deals,” said Laura Blum-Smith, WGA’s director of research and public policy. “But the middle-class writer is not seeing their earnings rise according to the increase in demand.”
+>
+> Shorter television seasons are another culprit in typical writers’ declining incomes.
+>
+> The WGA is also alarmed by a more recent brand of side dealing on the part of the two biggest agencies, WME and CAA. In an effort to diversify their business models, the two agencies have created their own mini-studios that aim to produce content, a move the writers’ union says is an even more blatant conflict of interest than traditional packaging deals. The agencies say these mini-studios don’t represent a conflict, because they are operated separately from their talent-representation businesses. But the writers’ union contends their role in funding productions makes them writers’ counterparties in negotiations, not their representatives.
+>
+> “That is a monopoly,” said Tony Krantz, a former CAA packaging agent who is now a writer and WGA member. “It doesn’t make sense for your agent to essentially be your boss.”
+>
+> Write to Joe Flint at joe.flint@wsj.com
+>
+> Excerpted from: [Labor Action, With a Hollywood Twist: Screenwriters Threaten to Fire Their Agents - WSJ](https://www.wsj.com/articles/labor-action-with-a-hollywood-twist-screenwriters-threaten-to-fire-their-agents-11553864404?mod=searchresults&page=1&pos=1) 
+
+The following agencies are currently franchised by the WGA and may represent writers:
+[Talent Agencies Franchised by the WGA](https://apps.wga.org/agency/agencylist.aspx)
+that purports to give them the right to 15% of all royalties 
+arising out of the publishing agreement. Forever. 
+These provision are controversial, 
+and lately not enforced by courts. (See *Lampack* below.) 
+
+By definition, a writer who belongs to the WGA may not work for any entity unless that entity is a signatory to the guild. But in addition the WGA keeps a list of employers who writers may not work for, unless the producer posts a bond with the Guild. 
+
+WGA members are bound by Working Rule 10, which provides: 
+
+> No member may enter into a contract for the rendition of writing services with any producer whose name is contained in the then current Guild unfair list unless such producer shall have first posted a bond with the Guild guaranteeing the full amount of the writer's proposed compensation pursuant to such contract. See, e.g., [Writers Guild of America Strike/Unfair List](https://www.wga.org/employers/signatories/strike-unfair-list)
+
+### New York's Employment Agent Regulation
 
 New York regulates "theatrical employment" agencies under its general business laws where section 171 defines a "theatrical employment agency" as: 
 
@@ -513,7 +599,7 @@ New York regulates "theatrical employment" agencies under its general business l
 
 The following case discusses 
 not only New York's Employment Agent Regulation, 
-but also looks at the intricacies of being both a lawyer AND a manager.
+but also looks at the intricacies of being both a lawyer *and* a manager.
 
 ### *Mandel v. Liebman*
 
@@ -785,8 +871,6 @@ because it attempts to definitively deal with a contentious recurring problem: W
 insofar as they "solicit or procure employment" for their clients? 
 In the course of addressing this issue, 
 the opinion becomes almost an essay about how Hollywood works.
-
-## Representation
 
 ## Marathon Entertainment, Inc. v. Blasi,
 
@@ -1372,7 +1456,7 @@ the opposite conclusion. We conclude the full voiding of the parties'
 contract is available, but not mandatory; likewise, severance is
 available, but not mandatory.
 
-## C. *Application of the Severability Doctrine*
+#### C. *Application of the Severability Doctrine*
 
 Finally, we turn to application of the severability doctrine to the
 facts of this case, insofar as those facts are established by the
@@ -1468,12 +1552,16 @@ the end, whether the present state of affairs is satisfactory is for the
 Legislature to decide, and we leave that question to the Legislature's
 considered judgment.
 
-## Disposition
+### Disposition
 
 For the foregoing reasons, we affirm the Court of Appeal's judgment and
 remand this case for further proceedings consistent with this opinion.
 
-## *Wachs v. Curry,* (Cal.Ct.App.2d 1993).
+######
+
+## *Wachs v. Curry,* 
+
+###### Cal.Ct.App.2d 1993
 
 * [*Wachs v. Curry,*][wachs] 16 Cal.Rptr.2d 496 (Cal.Ct.App.2d 1993).
 
@@ -1537,75 +1625,7 @@ and the regulations remain extremely controversial. *See, e.g.:*
 * [Actors Union Introduces Voluntary Regulation of Talent Managers](http://www.hollywoodreporter.com/thr-esq/sag-aftra-introduces-voluntary-regulation-685773)
 * [Did the California Labor Commissioner Just Shake Up the Music Industry?](http://www.hollywoodreporter.com/thr-esq/did-california-labor-commissioner-just-724960)
 
-### Talent Agencies and Packaging Fees
-
-Labor Action, With a Hollywood Twist: Screenwriters Threaten to Fire Their Agents
-Writers’ union accuses talent agents of conflict of interest in widely used television deals
-
-
- [Labor Action, With a Hollywood Twist: Screenwriters Threaten to Fire Their Agents - WSJ](https://www.wsj.com/articles/labor-action-with-a-hollywood-twist-screenwriters-threaten-to-fire-their-agents-11553864404?mod=searchresults&page=1&pos=1) 
- 
- Labor Action, With a Hollywood Twist: Screenwriters Threaten to Fire Their Agents - WSJ 
-
-Nikolaj Coster-Waldau as Jaime Lannister in a scene from ‘Game of Thrones’ on HBO. PHOTO: MACALL B. POLAY/ASSOCIATED PRESS
-By R.T. Watson and Joe Flint
-March 29, 2019 9:00 a.m. ET
-The middle-class wage squeeze is affecting an unlikely group: Hollywood movie and television writers, who are threatening to fire their agents en masse over what their union calls unfair business practices.
-
-Their union, the Writers Guild of America, is convinced agencies’ pursuit of lucrative side deals—with the studios actually employing the writers—has created conflicts of interests in which talent agents put their own paydays ahead of their clients’, precipitating a decline in wages for a vast swath of the screenwriting community.
-
-Some 15,000 WGA members are currently voting whether the union should demand their agents agree to new employment terms that would bar the longstanding practice known as “packaging,” in which an agency creates the framework for a new television series or movie by bundling various clients—writers, directors, actors and others—and sells it as a whole to a studio that then funds the production and distributes it.
-
-When an agency enters into a package deal with a studio, it collects a fee and waives the commissions it would normally receive from clients involved in the project, meaning the agent’s financial interest isn’t as closely tied as usual to those clients’. The upshot, writers argue, is that the agency is effectively a partner in the production, and that is a conflict of interest.
-
-“The rule of thumb is you work for the person who pays you,” said television writer Evan Wright, whose credits include Showtime’s “Homeland.” Mr. Wright fired his agency, William Morris Endeavor, or WME, last year after learning after the agency received a packaging fee for a show he executive produced for Discovery.
-
-“WME was Col. Tom Parker to me,” Mr. Wright said, comparing the agency to Elvis Presley’s notoriously greedy and controlling manager. The agency declined to comment on the remark.
-
-Hollywood deal making is dominated by four major agencies including WME, Creative Artists Agency, United Talent Agency and ICM Partners.
-
-These agencies counter that packaging deals, which have been widespread in Hollywood for decades, offer their clients more opportunities to work. Such packages are presented to studios as fully developed ideas, increasing the chances they will get made. Nearly 90% of scripted television series during the 2016-2017 season were packaged, according to the WGA. HBO’s “Game of Thrones” is a packaged show.
-
-“Elements of a series need to be assembled or packaged so that studios get a clear vision of what they are buying,” said Chris Silbermann, who as managing director of ICM Partners represents Shonda Rhimes, the creator of “Grey’s Anatomy.”
-
-The writers’ union voting ends Sunday. After that, the WGA and a trade group for talent agencies have less than a week to make a deal before their current contract expires. One outcome could involve a compromise in which agencies would continue packaging shows, but with greater transparency or terms more favorable to writers.
-
-If they fail to reach a new agreement, the next step could be an unusual labor action: Thousands of writers simultaneously dismissing the talent agents who find them work and negotiate their pay.
-
-That could lead to pandemonium in Hollywood, as work begins on a new season of TV shows without any clear process for staffing up.
-
-The dispute comes at what would seem an unlikely moment: a TV-industry boom fueled in part by the rise of streaming services like Netflix Inc., Amazon.com Inc.’s Prime Video and Walt Disney Co. -controlled Hulu, which have poured billions of dollars into developing new series. Netflix has struck multimillion-dollar deals with marquee writers and producers including Ms. Rhimes, Ryan Murphy and Brad Falchuk.
-
-Traditional studios are also ponying up more to keep top talent. Last year AT&T Inc.’s Warner Bros. struck a deal with producer Greg Berlanti, whose credits include “The Flash,” worth more than $300 million.
-
-Earlier this month, Comcast Corp.’s NBCUniversal signed a lucrative deal to keep Mike Schur, whose producing credits include “The Office,” “Brooklyn Nine-Nine” and “The Good Place,” on its lot.
-
-The writers’ union says that while such high-profile writers are enjoying unprecedented success, wages for more typical writers have declined.
-
-Average WGA members saw their weekly incomes decline by more than 20% between 2014 and 2016, the union said.
-
-WME says average pay for writer clients has risen during the past three years.
-
-“There will always be superstar writers who are able to benefit. There are a select few that have been able to get these massive deals,” said Laura Blum-Smith, WGA’s director of research and public policy. “But the middle-class writer is not seeing their earnings rise according to the increase in demand.”
-
-Shorter television seasons are another culprit in typical writers’ declining incomes.
-
-The WGA is also alarmed by a more recent brand of side dealing on the part of the two biggest agencies, WME and CAA. In an effort to diversify their business models, the two agencies have created their own mini-studios that aim to produce content, a move the writers’ union says is an even more blatant conflict of interest than traditional packaging deals. The agencies say these mini-studios don’t represent a conflict, because they are operated separately from their talent-representation businesses. But the writers’ union contends their role in funding productions makes them writers’ counterparties in negotiations, not their representatives.
-
-“That is a monopoly,” said Tony Krantz, a former CAA packaging agent who is now a writer and WGA member. “It doesn’t make sense for your agent to essentially be your boss.”
-
-Write to Joe Flint at joe.flint@wsj.com
-
-### Agency Packaging Fees
-
-<!-- download for class on school machine -->
-
-https://youtu.be/v5p6urW6c7I
-
-It can be hard to understand exactly how agency packaging fees and producing impacts writers’ salaries. This short explainer video does a great job visualizing the issues, and looking at why the WGA is in negotiations to address agency conflict of interest.
-
-https://johnaugust.com/2019/explaining-conflict-of-interest
-
+######
 
 ## Conflicts of Interest:
 
@@ -2034,3 +2054,10 @@ IT IS SO ORDERED.
 [latimes_shandling]: http://articles.latimes.com/1998/jan/16/business/fi-8897 "LA Times on Shandling v. Brad Grey"
 [deadline_shandling]: http://www.deadline.com/2008/03/garry-shandlings-testimony-at-pellicano-trial/ "Deadline on Shandling v. Brad Grey"
 [nytimes_shandling]: http://www.nytimes.com/2006/03/13/movies/13holl.html?pagewanted=all&_r=0 "NYTimes on Shandling v. Brad Grey"
+[passman]: https://www.amazon.com/Need-Know-About-Music-Business/dp/1501122185/ref=dp_ob_title_bk "Donald Passman"
+[pwm]: https://www.publishersmarketplace.com/ "Publishers Marketplace"
+[pw]: https://www.publishersweekly.com/ "Publishers Weekly"
+[pw-rights]: https://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/81059-rights-report-week-of-august-26-2019.html "PW Rights Report"
+[jf]: https://www.janefriedman.com/about/ "Jane Friedman"
+[jf-query]: https://www.janefriedman.com/query-letters/ "Jane Friedman on Query Letters"
+[jf-agent]: https://www.janefriedman.com/find-literary-agent/ "Jane Friedman on Finding a Literary Agent"
