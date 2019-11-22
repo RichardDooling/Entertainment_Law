@@ -150,7 +150,15 @@ and perhaps a passport, because it feels like a foreign country.
 
 #### The Interminable Agency Clause
 
-* [Description of clause](http://accrispin.blogspot.com/2011/04/interminable-agency-clause.html)
+
+An interminable agency clause purports to give literary agents the right to 15% of all royalties 
+arising out of the publishing agreement. Forever. 
+These provision are controversial, 
+and lately not enforced by courts. (See *Lampack* below.) 
+
+* [Description of clause](https://ninc.com/member-benefits/articles-and-links/authors-guild-advisory-interminable-agency-clause/).
+
+<!-- http://accrispin.blogspot.com/2011/04/interminable-agency-clause.html) -->
 
 ######
 
@@ -567,11 +575,6 @@ gives a fair description of the ongoing fight:
 
 The following agencies are currently franchised by the WGA and may represent writers:
 [Talent Agencies Franchised by the WGA](https://apps.wga.org/agency/agencylist.aspx)
-that purports to give them the right to 15% of all royalties 
-arising out of the publishing agreement. Forever. 
-These provision are controversial, 
-and lately not enforced by courts. (See *Lampack* below.) 
-
 By definition, a writer who belongs to the WGA may not work for any entity unless that entity is a signatory to the guild. But in addition the WGA keeps a list of employers who writers may not work for, unless the producer posts a bond with the Guild. 
 
 WGA members are bound by Working Rule 10, which provides: 
