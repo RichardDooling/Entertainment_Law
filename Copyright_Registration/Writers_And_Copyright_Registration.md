@@ -55,13 +55,15 @@ the author must register copyright in the work before suing for infringement. [&
 or within 5 years after publication, registration creates the presumption that the copyright is valid.
 
 4. Statutory damages, attorneys' fees, and costs. 
-By registering the work, the author is entitled to statutory damages and attorneys' fees for infringement, 
-but probably not for unpublished works, like screenplays, discussed below.
+By registering the work, the author is entitled to statutory damages and attorneys' fees for infringement.
+The author of an unregistered, unpublished work, like a screenplay, 
+would not be entitled to statutory damages and attorneys fees for infringemnt.
 
 5. Registration allows the author to record the registration with U.S. Customs to protect against the importation of infringing copies into the US.
 
 Of the benefits listed, probably none is more important than statutory damages and attorneys fees. 
-Otherwise an author claiming copyright infringement must prove "actual damages" or profits of the infringers.
+Otherwise an author claiming copyright infringement must prove "actual damages," 
+or prove the “profits of the infringer that are attributable to the infringement” 
 
 ### Copyright Statutory Damages
 
@@ -85,7 +87,7 @@ And in the case of *willful* infringement,
 the court may award up to $150,000. 
 
 Proving damages can be such a burden 
-that it makes litigation not worth the trouble. 
+that it often makes litigation not worth the trouble. 
 How does the screenwriter prove how she was injured 
 when a producer stole her work 
 and made a movie that lost money? 
@@ -239,7 +241,6 @@ and then learns, years later perhaps,
 that someone has infringed on his unpublished screenplay, 
 it is too late to obtain statutory damages.
 
-
 #### When is Commencement of Infringement?
 
 Zerner describes the problem well:
@@ -296,7 +297,7 @@ The sure sign of an amateur is a new writer in Hollywood,
 or an aspiring author in the publishing world, 
 worried about idea protection. 
 We discuss some of those fears in the chapter on Idea Protection.
-Putting a copyright symbol on your screenplay or a legend warning of copyright protection 
+Putting a copyright symbol on your screenplay or a legend warning others about copyright protection 
 would scream amateur to most agents.
 But for the writer who is worried about infringement, 
 copyright registration is the way to do it, 
