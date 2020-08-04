@@ -73,10 +73,6 @@ If you click on the "Download Zip" button, you will download a zip file containi
 
 Consider investing a little time and learning how to "clone" the entire repository in your desktop. If you click on "Clone in Desktop" you will download the GitHub program, and you will be asked to create a free GitHub account. Using a simple GitHub app you will be able to quickly fetch the latest versions of these files to your computer using a simple free application available at [GitHub](https://github.com/). 
 
-### Contributing
-
-No obligation here. Only for the curious, but if you get interested in how GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS](https://github.com/RichardDooling/Entertainment_Law/blob/master/CONTRIBUTIONS.md) and [HELP](https://github.com/RichardDooling/Entertainment_Law/blob/master/HELP.md) pages.
-
 #### Typos, Glitches
 
 If you spot a typo or formatting glitch please [submit an issue.](https://github.com/RichardDooling/Entertainment_Law/issues). 

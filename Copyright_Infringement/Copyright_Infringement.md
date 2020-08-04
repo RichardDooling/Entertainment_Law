@@ -742,6 +742,40 @@ or that both copies are based on a common source in the public domain.
 > because the jury cannot draw an inference of access 
 > based upon speculation and conjecture alone.
 
+#### More On Inverse Ratio Rule
+
+ [Led Zeppelin Scores Big Win in ‘Stairway to Heaven’ Copyright Case](https://variety.com/2020/music/news/led-zeppelin-stairway-to-heaven-copyright-lawsuit-1203527581/)
+
+By GENE MADDAUS 
+
+Led Zeppelin scored a major win on Monday in the copyright battle over “Stairway to Heaven,” as the 9th Circuit Court of Appeals upheld a jury verdict finding the song did not infringe on the 1968 song “Taurus.”
+
+The ruling is also a significant win for the music industry, which has felt itself fighting a losing battle against frivolous copyright suits since the “Blurred Lines” trial in 2015. The court overturned the so-called “inverse ratio rule,” a precedent that has governed copyright cases in the 9th Circuit for the last 43 years.
+
+To prove copyright infringement, a plaintiff must show that the alleged infringer had access to the plaintiff’s work, and that the two works are “substantially similar.” The inverse ratio rule — which had not been adopted in other circuits — held that the more access was shown, the less similarity was required to establish infringement. The rule has been a thorn in the side of defendants — including record labels and major artists — for decades.
+
+In overturning the rule, the appeals court noted that the idea of “access” has become diluted in the digital age, as millions of works are readily available on Netflix, YouTube, and Spotify. The court also held that the rule has the effect of establishing a lower burden of proof for infringement of popular works.
+
+“It was a terrible rule,” said Ed McPherson, an attorney who filed an amicus brief in support of Led Zeppelin, on behalf of songwriters, producers and musicians. “If you have a lot of access, that shouldn’t mean there should be a lesser standard to prove copyright infringement. It’s never made sense to me.”
+
+The court also pushed back on the claims of similarity in the Led Zeppelin case, in an opinion that should hearten critics of the “Blurred Lines” decision.
+
+“We have never extended copyright protection to just a few notes,” the court held. “Instead we have held that ‘a four-note sequence common in the music field’ is not the copyrightable expression in a song.”
+
+The Zeppelin case began in 2014, when journalist Michael Skidmore filed suit on behalf of the estate of Randy Wolfe, the late frontman of the band “Spirit.” The lawsuit alleged that the iconic opening instrumental riff in “Stairway to Heaven” was lifted from Spirit’s 1968 song “Taurus.”
+
+A jury ruled against the plaintiffs in 2016, but a three-judge panel of the 9th Circuit Court of Appeals revived the case in September 2018. The panel held that Judge Gary Klausner had given the wrong jury instructions, and ordered a new trial.
+
+Led Zeppelin’s attorneys appealed to the full circuit, which heard the case last September.
+
+McPherson said he was not sure whether the court would take the opportunity to overturn the inverse ratio rule, as the subject hardly came up at oral argument.
+
+“I’m thrilled they did do it,” he said. “It’s a terrific decision. I have renewed faith in the 9th Circuit.”
+
+I am an enthusiast of L.Z. In OTHER cases it was clearly established that they’d infringed upon other’s works. In the TAURUS claim, I hear similarity to the L.Z. song S.T.H., but would only go that far. There is “similarity to”, but NOT “theft” of the band SPIRIT’S song entitled TAURUS. Listen to the old songs JENNY 867-5309 and also WHAT I LIKE ABOUT YOU, I hear a lot of similarity. Likewise Michael Jackson’s THRILLER as compared to the old song, GIVE IT TO ME BABY… These song writers hear the songs of others constantly! It us not possible that they’d never be influenced by one another! I’m sure J.Page was influenced to some degree by hearing TAURUS. I maintain the opinion that S.T.H. is NOT a stolen copy of SPIRIT’S song.
+
+Led Zeppelin Scores Big Win in 'Stairway to Heaven' Copyright Case
+
 ## Substantial Similarity
 
 Copyright plaintiffs must prove 

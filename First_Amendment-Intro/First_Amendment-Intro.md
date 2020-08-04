@@ -572,7 +572,7 @@ By way of example, peek at the wide variety of free speech laws
 collected at Wikipedia: [Free Speech By Country](http://en.wikipedia.org/wiki/Freedom_of_speech_by_country). 
 Canadian courts have held that pornography 
 that is "degrading or dehumanizing" to women may be prohibited 
-(see [R. v. Butler](http://en.wikipedia.org/wiki/R._v._Butler) 
+(see [R. v. Butler](http://en.wikipedia.org/wiki/R._v._Butler), 
 an analysis explicitly rejected by Judge Frank Easterbrook in [*American Booksellers v.  Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986), [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
 
 In the United States, 
@@ -622,8 +622,7 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 
 ### Changelog
 
-* Version 1.0 - 01-Jan-2018 
-* Version 1.1 - 26-Aug-2019 
+* Version 1.0 - 04-Aug-2020 
 
 <!--Cases -->
 

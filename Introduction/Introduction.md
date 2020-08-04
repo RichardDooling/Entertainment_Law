@@ -191,12 +191,13 @@ Nowadays, thanks to the Internet,
 so the "entertainment industry" 
 arguably embraces almost all artistic endeavors 
 from publishing to video games, to the visual arts, fine arts, dance, 
-making [vines][vine], [mashups](http://djearworm.com/), music (all kinds!), 
+making TikTok videos, or [mashups](http://djearworm.com/), music (all kinds!), 
 as well as the usual feature films, television, and radio 
 (Pandora, Spotify, and your local AM station).
 Many giant entertainment industry conglomerates are losing money in their film divisions, 
-but making it back with video games. *See, e.g.,* 
-[Warner Loses at Box Office, but Its Videogames Score Big: Most of studio’s high-profile movies fall flat, while its big investment in games is paying off](https://www.wsj.com/articles/warner-loses-at-box-office-but-its-videogames-score-big-1444603877)
+but making it back with video games. 
+
+<!-- *See, e.g.,* [Warner Loses at Box Office, but Its Videogames Score Big: Most of studio’s high-profile movies fall flat, while its big investment in games is paying off](https://www.wsj.com/articles/warner-loses-at-box-office-but-its-videogames-score-big-1444603877) -->
 
 Wikipedia breaks the industry down into the following categories, most of which come with their own issues, specific trade unions, production techniques, rules, customs, case law, and negotiation strategies:
 
@@ -217,7 +218,8 @@ of intellectual property, representation, contracts, taxes,
 satisfactory work product, guilds and unions, and more.
 
 Contracts, including personal service contracts, govern these relationships, 
-but often the industries move too fast for the talent to sit around waiting for the lawyers to finish poring over long-form agreements. 
+but often the industries move too fast for the talent to sit around 
+waiting for the lawyers to finish poring over long-form agreements. 
 
 ## Intellectual Property
 
@@ -306,18 +308,17 @@ defamation, clearance of rights, product placement, advertising, criminal law, t
 
 #### Power Lawyers
 
-Maybe the easiest way to get an idea of what entertainment lawyers actually do is to read the thumbnail bios of [The Hollywood Reporter's Power Lawyers 2018: The Talent Lawyers](https://www.hollywoodreporter.com/lists/power-lawyers-2018-hollywoods-top-100-attorneys-1097287/item/karl-austen-power-lawyers-2018-1097283) or [Power Lawyers 2017: Hollywood's Top 100 Attorneys Revealed](https://www.hollywoodreporter.com/gallery/power-lawyers-2017-top-entertainment-attorneys-gather-thr-breakfast-997872/1-patrick-whitesell-seth-krauss-and-matthew-belloni).
+Maybe the easiest way to get an idea of what entertainment lawyers actually do is to read the thumbnail bios of [Power Lawyers 2020: Hollywood's Top 100 Attorneys](https://www.hollywoodreporter.com/lists/power-lawyers-2020-hollywoods-top-100-attorneys-1282318).
 
 ## Entertainment Law Resources 
 
 You should spend time getting to know the following resources. 
 
-* [*The Hollywood Reporter, Esq.*][thresq]. I often wonder about teaching an entire Entertainment Law course just by following the day's stories in [THR Esquire][thresq].
+* [*The Hollywood Reporter, Esq.*][thresq]. I often wonder about teaching an entire Entertainment Law course just by following the day's stories in [THR Esquire][thresq]. If you glance at this daily, you will likely often see something we read about or talked about during class.
 * [*Deadline*](http://www.deadline.com/hollywood/), currently the website of choice for industry news and gossip. 
 * [Publishers Weekly](http://www.publishersweekly.com/).
 * [IMDB](http://www.imdb.com/). At some point during the course, you may wish to play with the IMDB-Pro subscription (which often provides contact information and identifies agents, managers, and lawyers for each artist). There is a two-week trial offer but you must remember to cancel after two weeks to avoid being charged. No worries if you don’t want to indulge, we’ll be perusing IMDB Pro live in class.
 * [AllMusic.com](http://allmusic.com). The near-equivalent to IMDB in the music world. Like IMDB it lists credits, albums, and songs of all musicians. But to my knowledge there is no "Pro" feature providing information about representation. The American Society of Composers, Authors and Publishers ([ASCAP](http://en.wikipedia.org/wiki/American_Society_of_Composers,_Authors_and_Publishers)) and Broadcast Music, Inc. ([BMI](http://en.wikipedia.org/wiki/Broadcast_Music,_Inc.)) also provide databases where you can search for music by title or by artist and discover the publisher for each song: 
-
 * [ASCAP title search](https://www.ascap.com/home/ace-title-search/index.aspx)
 * [BMI repertoire search](http://repertoire.bmi.com/startpage.asp)
 

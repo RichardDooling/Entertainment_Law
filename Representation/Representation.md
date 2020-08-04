@@ -574,12 +574,12 @@ gives a fair description of the ongoing fight:
 > Excerpted from: [Labor Action, With a Hollywood Twist: Screenwriters Threaten to Fire Their Agents - WSJ](https://www.wsj.com/articles/labor-action-with-a-hollywood-twist-screenwriters-threaten-to-fire-their-agents-11553864404?mod=searchresults&page=1&pos=1) 
 
 The following agencies are currently franchised by the WGA and may represent writers:
-[Talent Agencies Franchised by the WGA](https://apps.wga.org/agency/agencylist.aspx)
-By definition, a writer who belongs to the WGA may not work for any entity unless that entity is a signatory to the guild. But in addition the WGA keeps a list of employers who writers may not work for, unless the producer posts a bond with the Guild. 
+[Talent Agencies Franchised by the WGA](https://apps.wga.org/agency/agencylist.aspx).
+By definition, a writer who belongs to the WGA may not work for any entity unless that entity is a signatory to the guild. But in addition the WGA keeps a list of employers who writers may not work for, unless the producer posts a bond with the Guild. See, e.g., [Writers Guild of America Strike/Unfair List](https://www.wga.org/employers/signatories/strike-unfair-list).
 
 WGA members are bound by Working Rule 10, which provides: 
 
-> No member may enter into a contract for the rendition of writing services with any producer whose name is contained in the then current Guild unfair list unless such producer shall have first posted a bond with the Guild guaranteeing the full amount of the writer's proposed compensation pursuant to such contract. See, e.g., [Writers Guild of America Strike/Unfair List](https://www.wga.org/employers/signatories/strike-unfair-list)
+> No member may enter into a contract for the rendition of writing services with any producer whose name is contained in the then current Guild unfair list unless such producer shall have first posted a bond with the Guild guaranteeing the full amount of the writer's proposed compensation pursuant to such contract. 
 
 ### New York's Employment Agent Regulation
 
@@ -965,7 +965,7 @@ finding that Marathon had violated the Act
 by providing talent agency services without a license, 
 including "procuring] work for [Blasi] as an actress
 on the &hellip; television series, *Strong Medicine."* 
-It voided the parties'contract *ab initio* and barred Marathon from recovery.
+It voided the parties' contract *ab initio* and barred Marathon from recovery.
 
 Marathon appealed the Labor Commissioner's ruling 
 to the superior court for a trial de novo.&hellip; 
@@ -1135,7 +1135,7 @@ maintenance of a client trust account,
 posting of a bond, and prohibitions against discrimination,
 kickbacks, and certain conflicts of interest.&hellip; No
 separate analogous licensing or regulatory scheme extends to personal
-managers. [*Waisbren v. Peppercorn Productions, Inc.,*](http://scholar.google.com/scholar_case?case=823549855453847638). 
+managers. [*Waisbren v. Peppercorn Productions, Inc.*](http://scholar.google.com/scholar_case?case=823549855453847638) 
 
 With this background in mind, 
 we turn to two questions not previously addressed by this court: 
@@ -1171,7 +1171,7 @@ employment—any individual, any corporation, any manager—is a talent
 agency subject to regulation.&hellip; 
 Consequently, as the Courts of Appeal have unanimously held, a personal
 manager who solicits or procures employment for his artist-client is
-subject to and must abide by the Act. [*Park v. Deftones,*](http://scholar.google.com/scholar_case?case=14383445149997334293); [*Waisbren v. Peppercorn Productions, Inc.*](http://scholar.google.com/scholar_case?case=823549855453847638)&hellip; 
+subject to and must abide by the Act. [*Park v. Deftones*](http://scholar.google.com/scholar_case?case=14383445149997334293); [*Waisbren v. Peppercorn Productions, Inc.*](http://scholar.google.com/scholar_case?case=823549855453847638)&hellip; 
 The Labor Commissioner, whose interpretations of the
 Act we may look to for guidance &hellip; 
 has similarly uniformly applied the Act to personal managers. 
@@ -1594,7 +1594,7 @@ be held void for uncertainty if any reasonable and practical
 construction can be given its language.  It will be upheld if its terms
 may be made reasonably certain by reference to other definable sources. The Talent Agencies Act focuses on the employment procurement function and most people in the industry know what procuring employment means.
 
-RULE: If the agent's employment procurement function constitutes a significant part
+*Wachs* rule: If the agent's employment procurement function constitutes a significant part
 of the agent's business as a whole, *then he/she is subject to the
 licensing requirement of the Act, even if procurement of employment was
 only an incidental part of the agent's overall duties*
@@ -1614,7 +1614,7 @@ Notice that California's regulation of agents contains an exception under the TA
 
 > . . . except that the activities of procuring, offering, or promising to procure recording contracts for an artist or artists shall not of itself subject a person or corporation to regulation and licensing under this chapter.
 
-Meaning the TAA prohibits managers from procuring, offering, or promising employment for their clients, except for managers in the music business. This was a good portion of Manager Wachs argument, i.e., that this exemption for managers in the music business made no sense.
+Meaning the TAA prohibits managers from procuring, offering, or promising employment for their clients, except for managers in the music business. Manager Wachs argued that this exemption for managers in the music business made no sense.
 
 But the *Wachs* court explained the music-manager exception this way:
 
