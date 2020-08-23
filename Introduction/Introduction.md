@@ -223,7 +223,7 @@ waiting for the lawyers to finish poring over long-form agreements.
 
 ## Intellectual Property
 
-If you are brand new to intellectual property and copyright, please peruse:
+Please watch these short amusing videos on intellectual property:
 
 * [Introduction to Intellectual Property: Crash Course IP 1](https://www.youtube.com/watch?v=RQOJgEA5e1k)
 * [Copyright Basics: Crash Course Intellectual Property 2](https://www.youtube.com/watch?v=Tamoj84j64I&list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN&index=2)

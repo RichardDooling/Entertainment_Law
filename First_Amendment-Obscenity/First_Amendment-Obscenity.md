@@ -30,11 +30,26 @@ by deciding, case-by-case, whether various films were obscene.
 
 In [*The Brethren: Inside The Supreme Court (1979)*](https://en.wikipedia.org/wiki/The_Brethren_(book)), 
 a 1979 book by Bob Woodward and Scott Armstrong,
-the authors provide a "behind-the-scenes" account of the United States Supreme Court during Warren Burger's early years as Chief Justice of the United States, including the Court's struggles to formulate its obscenity doctrine.
+the authors provide a "behind-the-scenes" account of the United States Supreme Court during Warren Burger's early years as Chief Justice of the United States, 
+including the Court's struggles to formulate its obscenity doctrine.
 As hundreds of obscenity cases made their way through the lower courts, 
-some of the Justices and their clerks instituted ["movie day"](https://corporate.findlaw.com/litigation-disputes/movie-day-at-the-supreme-court-or-i-know-it-when-i-see-it-a.html) at the United States Supreme Court, 
-a weekly gathering at which the law clerks and the Justices sat down to eat popcorn and view porn films, such as *Vixen* and *Fanny Hill (Memoirs of a Woman of Pleasure)*, for the cases awaiting decisions. 
-Justice Hugo Black, who served from 1937 to 1971, always refused Movie Day by saying "if I want to go see that film, I should pay my money." Justice Black and Justice William Douglas, who served from 1939 to 1975, did not participate in movie day because they believed that whatever was in movies about sex between consenting adults was protected by the First Amendment. Justice Harlan, who by the end of his tenure was nearly blind, "watched the films from the first row, a few feet from the screen, able only to make out the general outlines. His clerk or another Justice would describe the action. 'By Jove,' Harlan would explain. 'Extraordinary.'" *The Brethren*
+some of the Justices and their clerks instituted ["movie day"](https://corporate.findlaw.com/litigation-disputes/movie-day-at-the-supreme-court-or-i-know-it-when-i-see-it-a.html) 
+at the United States Supreme Court, 
+a weekly gathering at which the law clerks and the Justices sat down to eat popcorn and view porn films, 
+such as *Vixen* and *Fanny Hill (Memoirs of a Woman of Pleasure)*, 
+for the cases awaiting decisions. 
+Justice Hugo Black, who served from 1937 to 1971, 
+always refused Movie Day by saying "if I want to go see that film, 
+I should pay my money." Justice Black and Justice William Douglas, 
+who served from 1939 to 1975, 
+did not participate in movie day 
+because they believed that whatever was in movies 
+about sex between consenting adults was protected by the First Amendment. 
+Justice Harlan, who by the end of his tenure was nearly blind, 
+"watched the films from the first row, a few feet from the screen, 
+able only to make out the general outlines. 
+His clerk or another Justice would describe the action. 
+'By Jove,' Harlan would explain. 'Extraordinary.'" *The Brethren*
 
 Justice Potter Stewart gave the most honest and memorable definition of obscenity in 
 [*Jacobellis v. Ohio*](http://en.wikipedia.org/wiki/Jacobellis_v._Ohio) (1964):
