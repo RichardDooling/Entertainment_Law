@@ -24,7 +24,9 @@ but they are not "prurient" or obscene within the meaning of the *Miller* test.
 They are not fighting words or incitement, defamatory, or a threat. 
 They are not so-called "crime-facilitating speech," like conspiracy or fraud.
 
-## Cohen v. California
+## *Cohen v. California*
+
+* [case at Wikipedia](https://en.wikipedia.org/wiki/Cohen_v._California)
 
 Seven years before *Pacifica*, 
 the United States Supreme Court said, in [*Cohen v. California,*][cohen] (US 1969), 
@@ -32,8 +34,7 @@ that California could not arrest a man for wearing a jacket that said, "Fuck The
 
 > Absent a more particularized and compelling reason for its actions, the State may not, consistently with the First and Fourteenth Amendments, make the simple public display of this single four-letter expletive a criminal offense. [*Cohen*][cohen] 
 
-Justice John Marshall Harlan II wrote that the 
-wrote that the f-word was a matter of taste, not law:
+Justice John Marshall Harlan II wrote that the f-word was a matter of taste, not law:
 
 > How is one to distinguish this from any other offensive word? Surely the State has no right to cleanse public debate to the point where it is grammatically palatable to the most squeamish among us. Yet no readily ascertainable general principle exists for stopping short of that result were we to affirm the judgment below. For, while the particular four-letter word being litigated here is perhaps more distasteful than most others of its genre, it is nevertheless often true that one man's vulgarity is another's lyric. Indeed, we think it is largely because governmental officials cannot make principled distinctions in this area that the Constitution leaves matters of taste and style so largely to the individual. [*Cohen*][cohen]
 
@@ -75,34 +76,75 @@ there was ["majority support on the Court of a prohibition of speech because it 
 
 ## Fleeting Expletives
 
-*Pacifica* is still with us. It's why, to this day, we don't usually hear any of Carlin's seven dirty words 
-on broadcast television during the hours of 6 a.m. to 10 p.m.. 
-The FCC purports to regulate [obscenity, indecency and profanity](
-https://www.fcc.gov/general/obscenity-indecency-and-profanity) 
+*Pacifica* is still with us. 
+It's why, to this day, we don't usually hear any of Carlin's seven dirty words 
+on broadcast radio or television during the hours of 6 a.m. to 10 p.m.
+When a song pushes the limits like Cardi B's recent *WAP*, 
+at least two song versions appear, 
+one for cable, Internet, and music subscription services, 
+and a "clean" version for broadcast radio and television. 
+
+The FCC still purports to regulate [obscenity, indecency and profanity](https://www.fcc.gov/general/obscenity-indecency-and-profanity) 
 and purports to know these things [when they see and hear them](https://www.fcc.gov/consumers/guides/obscene-indecent-and-profane-broadcasts). 
 
 *Pacifica* spoke of Carlin's "barrage" of dirty words, but by the 2000s, 
-the FCC was threatening fines for the broadcast of even a single dirty word during prime time TV.
+the FCC was threatening fines for the broadcast 
+of even a single dirty word during prime time TV.
 
 Please just read *about* *Fox I* and *Fox II*, 
 so that we are able to explain why *Pacifica* is still with us, 
 even though it no longer makes any sense to make separate rules for cable TV and broadcast television. 
 Don't they all arrive on the same fiber optic cable or satellite dish?
 
-The dissents in *Fox II* spell *Pacifica's* doom. 
+The dissents in *Fox I and II* spell *Pacifica's* doom. 
 The handwriting appears to be on the wall. 
 
-## *FCC v. Fox Television Stations* (Fox I)
+## *FCC v. Fox Television Stations* (2009) (Fox I)
 
 * [case at Google Scholar](https://scholar.google.com/scholar_case?case=6114044271141802936&q=556+U.S.+502&hl=en&as_sdt=3,28)
 * [case at Westlaw][fox]
 * [case at Wikipedia](https://en.wikipedia.org/wiki/FCC_v._Fox_Television_Stations,_Inc._(2009))
 
-## *FCC v. Fox Television Stations* (Fox II)
+In 2002 and 2003, Fox television network broadcast
+two controversial Billboard Music Awards shows. 
+In the 2002 show, presenter Cher said of certain of her critics "fuck 'em"; 
+in the 2003 show, presenter Nicole Richie said of the role she played in a popular television show, "Why do they even call it The Simple Life? Have you ever tried to get cow shit out of a Prada purse? It’s not so fucking simple."
+
+The FCC had previously taken the position, from *Pacifica* onwards, 
+that such fleeting and isolated expletives did not violate its indecency regime, 
+but this time it issued notices of liability to Fox for broadcasting the profane language. 
+The FCC argued that previous decisions referring to "fleeting" expletives were merely staff letters and dicta and did not accurately represent its position on the matter.
+
+Fox appealed the FCC sanctions to the U.S. Court of Appeals for the Second Circuit.
+The Second Circuit held that the FCC's liability order was "arbitrary and capricious" under the governing Administrative Procedure Act because the FCC had completely reversed its position on fleeting expletives without giving a proper justification. 
+The Second Circuit also failed to find any evidence that the expletives were harmful.
+
+The case then went to the United States Supreme Court where in a 5-4 opinion written by Justice Scalia, the Court found that the FCC's indecency rulings were not "arbitrary and capricious" under the Administrative Procedure Act.
+The FCC need not prove that its change in policy is "better" than its prior stance. 
+Rather, the FCC need merely prove that its new policy is "permissible" 
+and that there are good reasons for it, as in this case.
+
+Note that the Supreme Court resolved the administrative law questions without ever reaching the question of whether the FCC's regulations violated Fox's First Amendment rights.
+
+## *FCC v. Fox Television Stations* (2012) (Fox II)
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=9187101700166207966) 
 * [case at Westlaw][fox]
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012)).
+
+Three years later the case was back and once again 
+the Court dodged the First Amendment question and decided the case on other grounds.
+The Court ruled 8-0 that the FCC failed to give Fox and ABC fair notice prior to the broadcasts in question that fleeting expletives and momentary nudity could be found actionably indecent, the FCC’s standards as applied to these broadcasts were vague.
+
+[SCOTUS Blog's Plain English summary](https://www.scotusblog.com/case-files/cases/federal-communications-commission-v-fox-television-stations-inc/) of this 8-0 case case does the job:
+
+> In 2004, the Federal Communications Commission, the government agency that regulates radio and television stations (and, sometimes, those stations’ networks), changed its policy on what it considers “indecent” and thus could not be put on radio or TV between 10 a.m. and 6 p.m., because children might be watching or listening. Before 2004, the FCC banned vulgar four-letter words only if they had been repeated over and over again. With the change in policy, the FCC said it would ban even a single, fleeting use of such a word during the daytime hours. It later said that it would also ban even momentary glimpses, on TV, of a nude body if it was shown in a sexually provocative way. The Supreme Court was asked in this case to decide whether it violates the free-speech rights of radio and TV stations, and their networks, for the FCC to impose such a broad ban. In deciding the case, however, the Court did not settle whether the FCC policy violated the First Amendment. Instead, it held only that broadcasters had a constitutional right to be warned in advance of what the new policy prohibited, and the FCC had imposed its changed policy after the broadcasts had aired, rather than before. The FCC has the option now of reconsidering its policy, or keeping it as is, and awaiting a new constitutional challenge in court. The Court’s ruling was by unanimous vote, but Justice Sonia Sotomayor did not participate, because she had some involvement with the case earlier when she was a judge on the Second Circuit Court of Appeals in New York.
+
+Along the way, several Justices all but predicted the demise of *Pacifica* and the FCC's regulation of indecency, most notably Justice Ginsburg, who dissented in *Fox I* and wrote separately "only to note that there is no way to hide the long shadow the First Amendment casts over what the Commission has done. Today's decision does nothing to diminish that shadow." 
+
+Three years later, in *Fox II*, Justice Ginsburg wrote a separate concurrence 
+to say that in her view, "the Court's decision 
+in *Pacifica* was wrong when it issued. Time, technological advances, and the Commission's untenable rulings in the cases now before the Court show why *Pacifica* bears reconsideration."
 
 ## Indecency On The Internet?
 
@@ -197,10 +239,25 @@ with fines and imprisonment for anybody who guesses wrong?
 How about the Patently Unconstitutional, 
 Obviously Void for Vagueness Political Posturing Act?
 
+### Indecency Lives
+
+In January, 2018, 
+a bipartisan team of senators seeking a 
+compromise on an immigration deal met with President Donald Trump in the Oval Office. 
+Trump rejected their proposals and asked, 
+"Why do we want all these people from shithole countries coming here?" 
+
+Cable, newspaper, online and print media erupted with news of the comment, 
+but radio and television broadcasters had to proceed with caution, 
+because 
+Title 18 of the United States Code, Section 1464, still prohibits the utterance of any obscene, indecent or profane language by means of radio communication. 
+The FCC defines indecency as any language that "depicts or describes sexual or excretory organs or activities and be patently offensive as measured by contemporary community standards for the broadcast medium."
+
+*See, e.g.* [President Trump’s "S&!%hole” Remark Shines New Light on FCC’s Ambiguous Policy on Profanity/Indecency](https://www.wiley.law/blogpost-President-Trumps-Shole-Remark-Shines-New-Light-on-FCCs-Ambiguous-Policy-on-Profanity-Indecency)
+
 ### Totally Optional Reading
 
 * David L. Hudson Jr., [*Paul Robert Cohen and "his" Famous Free-Speech Case*](https://www.freedomforuminstitute.org/2016/05/04/paul-robert-cohen-and-his-famous-free-speech-case/)
-
 
 [7dirty]:  http://www.youtube.com/watch?v=vbZhpf3sQxQ	"George Carlin Seven Dirty Words"
 [fox]:  http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=556+U.S.+502&appflag=67.12
