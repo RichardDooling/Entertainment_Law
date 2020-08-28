@@ -755,6 +755,17 @@ unconstitutional under the overbreadth doctrine.
 
 For these reasons, I respectfully dissent.
 
+### 18 U.S.C. § 48 Amended
+
+Shortly after the Supreme Court issued its opinion in *Stevens*, 
+Congress amended [§ 48](https://www.law.cornell.edu/uscode/text/18/48#) 
+and specified that the term "animal crush video" means any photograph, motion-picture film, video or digital recording, or electronic image that (A) depicts animal crushing; and (B) is *obscene*, an ingenious solution to the constitutional problem, 
+because the new statute punishes only speech 
+that is also obscene within the meaning of *Miller*. 
+
+The Fifth Circuit Court of Appeals has upheld the new statute as written in two opinions. *See*, 
+[*United States v. Justice*](https://scholar.google.com/scholar_case?case=2552175518793815898) (5th Cir. 2017) and 
+[*United States v. Richards*](https://scholar.google.com/scholar_case?case=3842111757562665241)  (5th Cir. 2014).
 
 ## Violent Video Games 
 
