@@ -129,7 +129,7 @@ Note that the Supreme Court resolved the administrative law questions without ev
 ## *FCC v. Fox Television Stations* (2012) (Fox II)
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=9187101700166207966) 
-* [case at Westlaw][fox]
+* [case at Westlaw][fox2]
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012)).
 
 Three years later the case was back and once again 
