@@ -36,12 +36,13 @@ an author invades the privacy of others?
 Publicly discloses embarrassing private facts about their lives?
 
 Every major film attracts lawsuits, 
-and some plaintiffs sue 
-even though they are not mentioned by name. 
+and some plaintiffs sue, 
+even though they are not mentioned by name in the film, 
+because they are just sure that everybody knows a certain character is based on them. 
 Docu-dramas invite litigation, 
 because they purport to dramatize "real" events. 
 
-What if documentary filmmakers wearing hidden microphones 
+What if filmmakers wearing hidden microphones 
 and cameras make a documentary about a quack doctor 
 who is selling banned substances, 
 or unsafe herbal remedies? 
@@ -50,8 +51,7 @@ Or investigative journalism?
 Or some other species of reality entertainment?
 
 Stories, songs, movies, even photos about real people, 
-may defame them, 
-if those works of art contain or suggest false statements of fact. 
+may be defamatory if those works of art contain or suggest false statements of fact. 
 
 <!-- Add bare essentials  -->
 
@@ -107,7 +107,7 @@ that they are considered to be *defamatory per se*.
 In the common law tradition, 
 damages for such false statements are presumed and do not have to be proven.
 
-Statements are defamatory *per se* where they falsely impute to the plaintiff one or more of the following:
+Statements are defamatory *per se* when they falsely impute to the plaintiff one or more of the following:
 
 1. Allegations or imputations "injurious to another in their trade, business, or profession"
 2. Allegations or imputations "of loathsome disease" (historically leprosy and sexually transmitted disease, now also includes mental illness)
@@ -135,7 +135,11 @@ It all started in Montgomery, Alabama and the civil rights movement in the South
 * [Image of "Heed Their Rising Voices" ad][heed]'
 * [Transcript of "Heed Their Rising Voices ad][heed_transcript] 
 
-On March 29th, 1960, civil rights groups, including The Committee To Defend Martin Luther King and The Struggle For Freedom In The South ran a full-page advertisement in the New York Times. The ad, captioned ["Heed Their Rising Voices,"][heed], began:
+On March 29th, 1960, civil rights groups, 
+including The Committee To Defend Martin Luther King 
+and The Struggle For Freedom In The South 
+ran a full-page advertisement in the New York Times. 
+The ad, captioned ["Heed Their Rising Voices,"][heed] began:
 
 > As the whole world knows by now, 
 > thousands of Southern Negro students are engaged 
@@ -157,7 +161,7 @@ L.B. Sullivan was the police commissioner for the city of Montgomery.
 Even though he wasn't named in the ad, 
 Sullivan filed suit against the *New York Times*, 
 alleging that it had wrongfully implied that he was guilty of misconduct. 
-Four other suits were filed by other government officials. 
+Four other government officials also filed suit.
 
 At trial the evidence showed 
 that at least some of the statements in the ad were incorrect. 
@@ -183,9 +187,9 @@ or *with reckeless disregard for the truth*.
 To protect news organizations from defamation claims, 
 the Supreme Court held that the Constitution 
 required public officials to prove actual malice to state a claim. 
-Not only that, but in defamation cases, 
-appellate court were charged with the duty 
-to examine *the entire record* on review 
+The Court also held that in defamation cases, 
+appellate courts had to 
+examine *the entire record* on review 
 to insure that a trial judgment did not tread on First Amendment freedoms. 
 
 ### Lawsuits Over False Statements of Fact
@@ -214,7 +218,7 @@ Do not confuse *actual malice* with *legal malice*.
 In defamation law, actual malice means 
 the defendant who allegedly made a defamatory statement
 did so with *with knowledge that the statement was false* 
-or *with reckeless disregard for the truth* 
+or *with reckeless disregard for the truth*.
 Actual malice does not mean evil intent or evil purpose, 
 it means the defendant knew the statement was false and made it anyway, 
 or had reckless disregard for the truth.
@@ -1064,6 +1068,45 @@ have that in this case.
 
 Accordingly, the judgment of the District Court is affirmed.
 
+## Defamation Still Hot
+
+Did Amber Heard defame Johnny Depp 
+when she wrote an op-ed for the Washington Post titled 
+"I spoke up against sexual violence — and faced our culture's wrath. That has to change." 
+Depp isn't mentioned by name, but in Virginia (where he's suing and the Post has its printing presses) plaintiffs can pursue claims for defamation by inference, implication or insinuation.
+[*Johnny Depp Seeks Defamation Trial Delay*](https://www.hollywoodreporter.com/thr-esq/johnny-depp-seeks-defamation-trial-delay-because-of-fantastic-beasts-3-filming).
+
+Sarah Palin will proceed to trial against The New York Times next February (2021), pandemic permitting. U.S. District Court Judge Jed Rakoff rejected the paper's summary judgment motion in a big libel case over an editorial about gun violence. 
+The editorial linked one of Palin's political action committee ads to a 2011 mass shooting that severely wounded then-Arizona Congresswoman Gabby Giffords. 
+The New York federal judge concluded that Palin had provided enough evidence to establish actual malice on the part of the paper's former op-ed chief. 
+[*Sarah Palin Gets Libel Trial Against New York Times | Hollywood Reporter*](https://www.hollywoodreporter.com/thr-esq/sarah-palin-gets-libel-trial-against-new-york-times). 
+ 
+### Summary Judgment in Defamation Cases
+
+Surviving summary judgment is a landmark in any litigation, 
+but especially so in a defamation lawsuit. 
+Recall from your Civil Procedure class, 
+that in [Anderson v. Liberty Lobby][anderson], (US 1986), 
+the United States Supreme Court held 
+under Federal Rule 56 a trial court
+weighing a motion for summary judgment 
+must take into account the burden plaintiff will have to meet at trial.
+In other words, if plaintiff is a public figure suing a tabloid, plaintiff will have to prove actual malice at trial, and the appropriate summary judgment question will be whether the evidence in the record could support a reasonable jury finding either that the plaintiff has shown actual malice by clear and convincing evidence or that the plaintiff has not.
+
+Critics of [*Anderson*][anderson] argue that this amounts to a trial on paper, 
+because a court must "pre-screen" many factual issues, 
+which are usually the province of jurors. 
+Whether the issue is a matter of public or private concern is a question for the judge, 
+and some circuits say that this is so even if disputed facts preclude resolution of the issue at the summary judgment stage. Questions like: How widely known is the plaintiff? 
+Did plaintiff have access to the media to defend herself? 
+Was her participation voluntary?
+
+Some explain the odds of winning a defamation lawsuit by way of the rule of three-fourths.
+Defendants win 75% of defamation suits by way of summary judgment, 
+usually on the “actual malice” issue.
+Of cases that go to trial, plaintiffs win more than 75% of the jury verdicts with median awards over a $1 million.
+On appeal, 75% of the defendants get the verdicts at least partially reversed.
+
 ## What About Other Torts?
 
 What if instead of suing for defamation, the unhappy public figure sues for intentional infliction of emotional distress?
@@ -1353,7 +1396,7 @@ Blurred lines: Ninth Circuit applies same First Amendment protections to blogger
 [hepps]: http://scholar.google.com/scholar_case?case=3066699330828671613 "Philadelphia v. Hepps"
 [reno]: http://scholar.google.com/scholar_case?case=1557224836887427725  "Reno v. ACLU (US 1997)"
 [deangelo]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=2005+WL+857242&appflag=67.12 "Bailey v. Mathers"
-
+[anderson]: https://scholar.google.com/scholar_case?case=9272001251064530131 "Anderson v. Liberty Lobby"
 
 
 
