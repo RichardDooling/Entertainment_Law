@@ -959,7 +959,7 @@ law and analysis of the constitutional malice standard.
 
 On this issue the Fifth Circuit has reached the same conclusion as the
 District of Columbia Circuit in *Wolston.* In [*Brewer v. Memphis
-Publishing Co., Inc.,*](http://scholar.google.com/scholar_case?case=3470754345585952877&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0) (5th Cir. 1980).
+Publishing Co. Inc.*](http://scholar.google.com/scholar_case?case=3470754345585952877&q=street+v.+national+broadcasting+co&hl=en&as_sdt=6,28&scilh=0) (5th Cir. 1980),
 plaintiff sued when a newspaper implied that she was reviving a
 long-dormant romantic relationship with Elvis Presley. The Fifth Circuit
 concluded that although the passage of time might narrow the range of
@@ -1086,7 +1086,7 @@ The New York federal judge concluded that Palin had provided enough evidence to 
 Surviving summary judgment is a landmark in any litigation, 
 but especially so in a defamation lawsuit. 
 Recall from your Civil Procedure class, 
-that in [Anderson v. Liberty Lobby][anderson], (US 1986), 
+that in [*Anderson v. Liberty Lobby*][anderson], (US 1986), 
 the United States Supreme Court held 
 under Federal Rule 56 a trial court
 weighing a motion for summary judgment 
@@ -1154,7 +1154,7 @@ Petitioners' motion for judgment notwithstanding the verdict was denied.
 
 On appeal, the United States Court of Appeals for the Fourth Circuit
 affirmed &hellip; rejecting Flynt and Hustler's argument that the "actual malice"
-standard of [*New York Times Co.* v. *Sullivan* (US 1964)][sullivan] 
+standard of [*New York Times Co.* v. *Sullivan*][sullivan] (US 1964)
 must be met before Falwell (concededly a public figure) could recover for emotional distress.
 
 In the Fourth Circuit's view, the *New York Times* decision emphasized the
@@ -1163,7 +1163,7 @@ defendant's disregard for the truth, but of the heightened level of
 culpability embodied in the requirement of "knowing . . . or reckless"
 conduct. Here, the *New York*  *Times* standard is satisfied by
 the state-law requirement, and the jury's finding, that the defendants
-have acted intentionally or recklessly, and that the sole issue before the court was "whether [the ad's] publication was sufficiently outrageous to constitute intentional
+have acted intentionally or recklessly, and that the sole issue before the court was "whether the ad's publication was sufficiently outrageous to constitute intentional
 infliction of emotional distress." 
 
 This case presents us with a novel question involving First Amendment
@@ -1179,8 +1179,9 @@ speech could not reasonably have been interpreted as stating actual
 facts about the public figure involved. This we decline to do.&hellip;
 
 Of course, this does not mean that *any* speech about a public figure is
-immune from sanction in the form of damages. Since [*New York Times Co.*
-v. *Sullivan* (US 1964),][sullivan] we have consistently ruled that a public figure may hold a speaker liable for the damage to reputation caused by publication of a
+immune from sanction in the form of damages. 
+Since [*New York Times Co.* v. *Sullivan*][sullivan] (US 1964), 
+we have consistently ruled that a public figure may hold a speaker liable for the damage to reputation caused by publication of a
 defamatory falsehood, but only if the statement was made "with knowledge
 that it was false or with reckless disregard of whether it was false or
 not." &hellip; False statements of fact are particularly
@@ -1193,7 +1194,7 @@ are "nevertheless inevitable in free debate," and a rule
 that would impose strict liability on a publisher for false factual
 assertions would have an undoubted "chilling" effect on speech relating
 to public figures that does have constitutional value. "Freedoms of
-expression require " 'breathing space.'" &hellip; This breathing space is provided by a constitutional rule that allows
+expression require breathing space." &hellip; This breathing space is provided by a constitutional rule that allows
 public figures to recover for libel or defamation only when they can
 prove *both* that the statement was false and that the statement was
 made with the requisite level of culpability.
@@ -1202,7 +1203,7 @@ Respondent argues, however, that a different standard should apply in
 this case because here the State seeks to prevent not reputational
 damage, but the severe emotional distress suffered by the person who is
 the subject of an offensive publication. Cf. [*Zacchini* v.
-*Scripps-Howard Broadcasting Co.,* (US 1977)](http://scholar.google.com/scholar_case?case=16238771870259020023)
+*Scripps-Howard Broadcasting Co.,*](http://scholar.google.com/scholar_case?case=16238771870259020023)(US 1977)
 (ruling that the "actual malice" standard does not apply to the tort of
 appropriation of a right of publicity). In respondent's view, and in the
 view of the  Court of Appeals, so long as the utterance was
@@ -1291,7 +1292,7 @@ liability on the basis of the jurors' tastes or views, or perhaps on the
 basis of their dislike of a particular expression. An "outrageousness"
 standard thus runs afoul of our longstanding refusal to allow damages to
 be awarded because the speech in question may have an adverse emotional
-impact on the audience. See [*NAACP* v. *Claiborne Hardware Co.* (US 1982)](http://scholar.google.com/scholar_case?case=7271075303659098319) ("Speech does not lose its protected character. . . simply because it may embarrass others or coerce them into action"). 
+impact on the audience. See [*NAACP* v. *Claiborne Hardware Co.*](http://scholar.google.com/scholar_case?case=7271075303659098319) (US 1982)("Speech does not lose its protected character. . . simply because it may embarrass others or coerce them into action"). 
 
 > We conclude that public figures and public officials may not recover for
 the tort of intentional infliction of emotional distress by reason of

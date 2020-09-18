@@ -2003,7 +2003,7 @@ But is that the end of the question? Of course not.
 If the First Amendment prevents states from regulating violent entertainment products, 
 then what about suing the manufacturers of such products after the fact? But here too, the First Amendment and well-settled principles of tort law (duty, foreseeability, causation), have so far prevented victims and family members 
 from bringing civil suits against the manufacturers of video products, 
-but that doesn't stop them from trying. And ever since the Columbine shootings in 1999. 
+but that doesn't stop them from trying. 
 
 Even before the tragic shooting at Columbine High School, perpetrated by two senior students Eric Harris and Dylan Klebold, who murdered a total of 12 students and one teacher and injured 21 others, victims and the families of victims sought judgments against the manufacturers of entertainment products because those products arguably inspired or "incited" criminals to mayhem. Harris and Klebold were [both fans of video games like *Doom* and *Wolfenstein 3D*](http://en.wikipedia.org/wiki/Columbine_High_School_massacre#Video_games) and so (the argument goes) the makers of those games had a hand in "causing" the appalling violence at Columbine, which has been called the Pearl Harbor of the American culture wars.
 
@@ -2208,7 +2208,7 @@ us to determine with the assistance of hindsight &hellip; The mere fact that the
 Kentucky courts wrestling with foreseeability questions ask about the "likelihood of the injuries
 produced." For instance, in dram shop cases, injured plaintiffs have also sought to hold defendant dram shops liable for the actions of their overserved customers. In 1987, the Kentucky Supreme Court held that an automobile accident injuring third parties
 was a [reasonably foreseeable result of the negligent act of serving alcohol to an intoxicated individual](http://scholar.google.com/scholar_case?case=16532176860606685190). But twelve years later the court held that [an intoxicated patron fighting
-with and shooting a fellow customer was simply not a foreseeable result of continuing to serve the patron alcohol.](http://scholar.google.com/scholar_case?case=8378611870130381594)]
+with and shooting a fellow customer was simply not a foreseeable result of continuing to serve the patron alcohol.](http://scholar.google.com/scholar_case?case=8378611870130381594)
 
 Intentional violence is less likely to result from intoxication than
 negligent operation of a motor vehicle. Yet, the Kentucky Supreme Court
@@ -2382,7 +2382,7 @@ regulations of protected speech, even those designed for the protection
 of children, that are imposed pursuant to a trial for tort liability.
 Crucial to the safeguard of strict scrutiny is that we have a clear
 limitation, articulated in the legislative statute or an administrative
-regulation, to evaluate. "Whither our children,"as Appellant's brief
+regulation, to evaluate. "Whither our children," as Appellant's brief
 states at 3, is an important question, but their guidance through the
 regulation of protected speech should be directed in the first instance
 to the legislative and executive branches of state and federal
@@ -2422,7 +2422,7 @@ Carneal's moral discomfort with violence to the point that he solved his
 social disputes with a gun. This glacial process of personality
 development is far from the temporal imminence that we have required to
 satisfy the *Brandenburg* test. 
-[*Ashcroft v. Free Speech Coalition,*](http://scholar.google.com/scholar_case?case=4016009721484982910). 
+[*Ashcroft v. Free Speech Coalition*](http://scholar.google.com/scholar_case?case=4016009721484982910) 
 ("The mere tendency of speech to encourage unlawful acts is not a sufficient reason for banning it absent some showing of a direct connection between the speech and imminent illegal conduct."); [*McCoy v. Stewart*](http://scholar.google.com/scholar_case?case=4786465207502783304&q=james+meow&hl=en&as_sdt=6,28&scilh=0) (9th Cir. 2002) (holding that incitement is not imminent if it risks third-party
 violence at some "indefinite future time"). Third, it is a long
 leap from the proposition that Carneal's actions were foreseeable to the
@@ -2824,7 +2824,7 @@ State's interest in 'safeguarding the physical and psychological
 wellbeing of a minor' is 'compelling'." [*Ferber*](http://scholar.google.com/scholar_case?case=1226851723986989726&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
 The Court has even gone so far as to uphold an FCC regulation banning
 "indecent" speech from the airwaves at the times when children would be
-in the audience. [* Pacifica*](http://scholar.google.com/scholar_case?case=9738309099999149495&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+in the audience. [*Pacifica*](http://scholar.google.com/scholar_case?case=9738309099999149495&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
 States already regulate the distribution of pornography to minors, *see*
 Schauer, *supra* n. 9, at 196-97, and a remedy for the collateral
 consequences of unauthorized distribution, by way of a civil action for
@@ -2871,7 +2871,7 @@ of Hustler may be found legally obscene and therefore entitled to no
 first amendment protection. Second, tort liability would result
 after-the-fact, not as a prior restraint, and would be based on harm
 directly caused by the publication in issue. *See* [*NAACP v. Claiborne
-Hardware Co.,*](http://scholar.google.com/scholar_case?case=7271075303659098319&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0).
+Hardware Co.*](http://scholar.google.com/scholar_case?case=7271075303659098319&q=herceg+hustler&hl=en&as_sdt=6,28&scilh=0)
 Third, to the extent any chilling effect existed from the exposure to
 tort liability, this would, in my view, protect society from loss of
 life and limb, a legitimate, indeed compelling, state interest. Fourth,

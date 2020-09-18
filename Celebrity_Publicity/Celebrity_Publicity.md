@@ -19,7 +19,7 @@ These materials are published under an [MIT license](https://github.com/RichardD
 > the name or likeness of another 
 > is subject to liability to the other for invasion of his privacy.
 
-> [Restatement 2nd of Torts &sect; 652C: Appropriation of Name or Likeness](http://tinyurl.com/mwxvn5y)
+[Restatement 2nd of Torts &sect; 652C: Appropriation of Name or Likeness](http://tinyurl.com/mwxvn5y).
 
 The right of publicity, 
 also known by far too many other names 
@@ -41,9 +41,13 @@ which usually means one or both of the following:
 1. The right of publicity, or the right to keep one's image and likeness from being commercially exploited without permission or contractual compensation (similar to the use of a trademark); 
 2. The right to privacy, or the right to be left alone and not have one's personality represented publicly without permission. 
 
-[Wikipedia: Personality Rights](http://en.wikipedia.org/wiki/Personality_rights)
+[Wikipedia: Personality Rights](http://en.wikipedia.org/wiki/Personality_rights).
 
-Poke around Professor Jennifer Rothman's excellent site for quick reference to celebrity publicity rights in all 50 states: [Rothman's Roadmap To The Right of Publicity](https://www.rightofpublicityroadmap.com/)
+Poke around Professor Jennifer Rothman's excellent site for quick reference to celebrity publicity rights in all 50 states: [Rothman's Roadmap To The Right of Publicity](https://www.rightofpublicityroadmap.com/). This is the quickest way to acquaint yourself with the patchwork of state laws. For example, consider the entry for Nebraska:
+
+> Nebraska recognizes a statutory right of privacy, including a cause of action for the exploitation of a person for advertising or commercial purposes.  The state also provides post-mortem rights by statute. 
+ 
+[Nebraska | Rothman's Roadmap To The Right of Publicity](https://www.rightofpublicityroadmap.com/law/nebraska). 
 
 ### Early "right of publicity" cases 
 
@@ -105,7 +109,7 @@ but found that the facts of Abigail's case stated no known cause of action.
 When she lost her case, the ensuing public outrage led the New York state legislature 
 to create the state's first right of privacy statute. 
 
-See [Rothman's Roadmap to the Right of Publicity: New York](https://www.rightofpublicityroadmap.com/law/new-york)
+See [Rothman's Roadmap to the Right of Publicity: New York](https://www.rightofpublicityroadmap.com/law/new-york).
 
 Likewise, three years later, 
 in [*Pavesich v. New England Mutual Life Insurance,*][pavesich] (GA 1905), 
@@ -1777,7 +1781,7 @@ First, *The Hurt Locker* is not speech proposing a commercial transaction.
 Accordingly, our precedents relying on the lesser protection 
 afforded to commercial speech are inapposite. 
 Second, and critically, unlike the plaintiffs in *Zacchini, Hilton*, and *Keller*, 
-Sarver did not “make the investment required to produce a performance of interest to the public,” [Zacchini][zachini], or invest time and money 
+Sarver did not “make the investment required to produce a performance of interest to the public,” [Zacchini][zacchini], or invest time and money 
 to build up economic value in a marketable performance or identity. 
 Cf. *Keller.* Rather, Sarver is a private person 
 who lived his life and worked his job. 
