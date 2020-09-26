@@ -742,9 +742,33 @@ or that both copies are based on a common source in the public domain.
 > because the jury cannot draw an inference of access 
 > based upon speculation and conjecture alone.
 
-#### More On Inverse Ratio Rule
+### Recent Erosion of the Inverse Ratio Rule
 
- [Led Zeppelin Scores Big Win in ‘Stairway to Heaven’ Copyright Case](https://variety.com/2020/music/news/led-zeppelin-stairway-to-heaven-copyright-lawsuit-1203527581/)
+After following the inverse ratio rule for several decades, the Second Circuit expressly rejected it in 1961, concluding that the rule “confuses more than it clarifies.” *Arc Music Corp. v. Lee*, 296 F.2d 186 (2d Cir. 1961).
+
+In *Peters v. West*, 692 F.3d 629 (7th Cir. 2012), the Seventh Circuit appeared to distinguish the rule it applied in *Selle* and distance itself from the inverse ratio rule: 
+
+> This court's rule has not been so explicit, although we have occasionally endorsed something that comes close to this inverse approach. In *Selle v. Gibb,*
+we held that the “degree of similarity required to establish an inference of access [should be] in an inverse ratio to the quantum of direct evidence adduced to establish access.” More recently, we noted that “similarity that is so close as to be highly unlikely to have been an accident of independent creation is evidence of access.” 
+
+> Notably, however, we have never endorsed the other side of the inverse relation: the idea that a “high degree of access” justifies a “lower standard of proof” for similarity. As we explained above, evidence of access is required because independent creation is a defense to copyright infringement, and so a plaintiff must show that the defendant had an opportunity to copy her original work. This issue is independent of the question whether an alleged infringer breached his duty not to copy another's work. Once a plaintiff establishes that a defendant could have copied her work, she must separately prove---regardless of how good or restricted 
+the opportunity was---that the allegedly infringing work is indeed a copy of her original.
+
+### 9th Circuit Rejects Inverse Ratio Rule
+
+In *Skidmore v. Led Zeppelin*, 952 F.3d 1051 (9th Cir. 2020), 
+aka the "Stairway To Heaven" case, 
+the Ninth Circuit Court of Appeals explicitly rejected the inverse ratio rule.
+
+> Although we are cautious in overruling precedent---as we should be---the constellation of problems and inconsistencies in the application of the inverse ratio rule prompts us to abrogate the rule. Access does not obviate the requirement that the plaintiff must demonstrate that the defendant actually copied the work. By rejecting the inverse ratio rule, we are not suggesting that access cannot serve as circumstantial evidence of actual copying in all cases; access, however, in no way can prove substantial similarity. We join the majority of our sister circuits that have considered the inverse ratio rule and have correctly chosen to excise it from copyright analysis. In light of this holding, the district court did not err in failing to instruct the jury on the inverse ratio rule.
+
+#### Listen For Yourself
+
+[Stairway to Heaven and Taurus Comparison](https://www.youtube.com/watch?v=deVNnnuf24w).
+
+#### Now Seeking Cert At The US Supreme Court
+
+[Led Zeppelin Scores Big Win in ‘Stairway to Heaven’ Copyright Case](https://variety.com/2020/music/news/led-zeppelin-stairway-to-heaven-copyright-lawsuit-1203527581/)
 
 By GENE MADDAUS 
 

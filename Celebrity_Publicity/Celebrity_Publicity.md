@@ -1126,7 +1126,7 @@ Private property, including intellectual property, is essential to our way of li
 It provides an incentive for investment and innovation; 
 it stimulates the flourishing of our culture; 
 it protects the moral entitlements of people to the fruits of their labors. 
-But reducing too much to private property can be had medicine. 
+But reducing too much to private property can be bad medicine. 
 Private land, for instance, is far more useful 
 if separated from other private land by public streets, roads and highways. 
 Public parks, utility rights-of-way and sewers 
@@ -1299,26 +1299,26 @@ This case began in 1986, when the Board first became aware of the contract betwe
 
 ### I.B.
 
-Looking back from the safety of the Federal Witness Protection Program, Henry Hill recalled: "At the age of twelve my ambition was to be a gangster. To be a wiseguy. To me being a wiseguy was better than being president of the United States." N. Pileggi, Wiseguy: Life in a Mafia
-Family (1985) (hereinafter Wiseguy). Whatever one might think of Hill, at the very least it can be said that he realized his dreams. After a career spanning 25 years, Hill admitted engineering some of the most daring crimes of his day, including the 1978-1979 Boston College
+Looking back from the safety of the Federal Witness Protection Program, Henry Hill recalled: "At the age of twelve my ambition was to be a gangster. To be a wiseguy. To me being a wiseguy was better than being president of the United States." N. Pileggi, *Wiseguy: Life in a Mafia
+Family* (1985) (hereinafter *Wiseguy*). Whatever one might think of Hill, at the very least it can be said that he realized his dreams. After a career spanning 25 years, Hill admitted engineering some of the most daring crimes of his day, including the 1978-1979 Boston College
 basketball point-shaving scandal, and the theft of $6 million from Lufthansa Airlines in 1978, the largest successful cash robbery in American history. 
 
 Hill was arrested in 1980. In exchange for immunity from prosecution, he testified against many of his former colleagues. Since his arrest, he has lived under an assumed name in an unknown part of the country.
 
 In August 1981, Hill entered into a contract with author Nicholas Pileggi for the production of a book about Hill's life. The following month, Hill and Pileggi signed a publishing agreement with Simon & Schuster, Inc. Under the agreement, Simon & Schuster agreed to make payments to both Hill and Pileggi. Over the next few years, according to Pileggi, he and Hill "talked at length virtually every single day, with not more than an occasional Sunday or holiday skipped. We spent more than three hundred hours together; my notes of conversations with Henry occupy more than six linear file feet." App. 27. Because producing the book required such a substantial investment of time and effort, Hill sought compensation. 
 
-The result of Hill and Pileggi's collaboration was Wiseguy, which was published in January 1986. The book depicts, in colorful detail, the day-to-day existence of organized crime,  primarily in Hill's first-person narrative. Throughout Wiseguy, Hill frankly admits to
+The result of Hill and Pileggi's collaboration was *Wiseguy*, which was published in January 1986. The book depicts, in colorful detail, the day-to-day existence of organized crime,  primarily in Hill's first-person narrative. Throughout *Wiseguy*, Hill frankly admits to
 having participated in an astonishing variety of crimes. He discusses, among other things, his conviction of extortion and the prison sentence he served. In one portion of the book, Hill recounts how members of the Mafia received preferential treatment in prison:
 
 > The dorm was a separate three-story building outside the wall, which looked more like a Holiday Inn than a prison. There were four guys to a room, and we had comfortable beds and private baths. There were two dozen rooms on each floor, and each of them had mob guys living in them. It was like a wiseguy convention---the whole Gotti crew, Jimmy Doyle and his guys, 'Ernie Boy' Abbamonte and 'Joe Crow' Delvecchio, Vinnie Aloi, Frank Cotroni.
 
 > It was wild. There was wine and booze, and it was kept in bath-oil or after-shave jars. The hacks in the honor dorm were almost all on the take, and even though it was against the rules, we used to cook in our rooms. Looking back, I don't think Paulie went to the general mess five times in the two and a half years he was there. We had a stove and pots and pans and silverware stacked in the bathroom. We had glasses and an ice-water cooler where we kept the fresh meats and cheeses. When there was an inspection, we stored the stuff in the false ceiling, and once in a while, if it was confiscated, we'd just go to the kitchen and get new stuff.
 
-> We had the best food smuggled into our dorm from the kitchen. Steaks, veal cutlets, shrimp, red snapper. Whatever the hacks could buy, we ate. It cost me two, three hundred a week. Guys like Paulie spent five hundred to a thousand bucks a week. Scotch cost thirty dollars a pint. The hacks used to bring it inside the walls in their lunch pails. We never ran out of booze, because we had six hacks bringing it in six days a week. Depending on what you wanted and how much you were willing to spend, life could be almost bearable." Wiseguy 150-151.
+> We had the best food smuggled into our dorm from the kitchen. Steaks, veal cutlets, shrimp, red snapper. Whatever the hacks could buy, we ate. It cost me two, three hundred a week. Guys like Paulie spent five hundred to a thousand bucks a week. Scotch cost thirty dollars a pint. The hacks used to bring it inside the walls in their lunch pails. We never ran out of booze, because we had six hacks bringing it in six days a week. Depending on what you wanted and how much you were willing to spend, life could be almost bearable." *Wiseguy* 150-151.
 
-Wiseguy was reviewed favorably: The Washington Post called it an "amply detailed and entirely fascinating book that amounts to a piece of revisionist history," while New York Daily News columnist Jimmy Breslin named it "the best book on crime in America ever written." App. 5. The book was also a commercial success: Within 19 months of its publication, more than a million copies were in print. A few years later, the book was converted into a film called Goodfellas, which won a host of awards as the best film of 1990.
+*Wiseguy* was reviewed favorably: The Washington Post called it an "amply detailed and entirely fascinating book that amounts to a piece of revisionist history," while New York Daily News columnist Jimmy Breslin named it "the best book on crime in America ever written." App. 5. The book was also a commercial success: Within 19 months of its publication, more than a million copies were in print. A few years later, the book was converted into a film called Goodfellas, which won a host of awards as the best film of 1990.
 
-From Henry Hill's perspective, however, the publicity generated by the book's success proved less desirable. The Crime Victims Board learned of Wiseguy in January 1986, soon after it was published.
+From Henry Hill's perspective, however, the publicity generated by the book's success proved less desirable. The Crime Victims Board learned of *Wiseguy* in January 1986, soon after it was published.
 
 ### I.C.
 
@@ -1346,6 +1346,8 @@ The Board disclaims, as it must, any state interest in suppressing descriptions 
 quoting [*Pacifica*](http://scholar.google.com/scholar_case?case=9738309099999149495) (US 1978). 
 
 > If there is a bedrock principle underlying the First Amendment, it is that the Government may not prohibit the expression of an idea simply because society finds the idea itself offensive or disagreeable.
+
+> *Texas v. Johnson* (US 1989)(the flag burning case).
 
 The Board thus does not assert any interest in limiting whatever anguish Henry Hill's victims may suffer from reliving their victimization.
 
