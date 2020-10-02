@@ -215,7 +215,6 @@ In most of the world,
 the default length of copyright 
 is the life of the author plus either 50 or 70 years. 
 [List of countries' copyright lengths](http://en.wikipedia.org/wiki/List_of_countries%27_copyright_length).
-In the United States 
 
 In the United States, 
 the law automatically protects a work that is created and fixed in a tangible

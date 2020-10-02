@@ -311,6 +311,11 @@ So Ordered.
 * [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=741f2d896&appflag=67.12) 
 * [Wikipedia](http://en.wikipedia.org/wiki/Selle_v._Gibb).
 
+#### Listen For Yourself
+
+* Listen to [Ronald Selle's "Let It End"](https://www.youtube.com/watch?v=CDsaT9xj4A0).
+* Listen to [The Bee Gee's "How Deep Is Your Love"](https://www.youtube.com/watch?v=CDsaT9xj4A0).
+
 CUDAHY, Circuit Judge.
 
 The plaintiff, Ronald H. Selle, 
@@ -749,7 +754,7 @@ After following the inverse ratio rule for several decades, the Second Circuit e
 In *Peters v. West*, 692 F.3d 629 (7th Cir. 2012), the Seventh Circuit appeared to distinguish the rule it applied in *Selle* and distance itself from the inverse ratio rule: 
 
 > This court's rule has not been so explicit, although we have occasionally endorsed something that comes close to this inverse approach. In *Selle v. Gibb,*
-we held that the “degree of similarity required to establish an inference of access [should be] in an inverse ratio to the quantum of direct evidence adduced to establish access.” More recently, we noted that “similarity that is so close as to be highly unlikely to have been an accident of independent creation is evidence of access.” 
+we held that the “degree of similarity required to establish an inference of access should be in an inverse ratio to the quantum of direct evidence adduced to establish access.” More recently, we noted that “similarity that is so close as to be highly unlikely to have been an accident of independent creation is evidence of access.” 
 
 > Notably, however, we have never endorsed the other side of the inverse relation: the idea that a “high degree of access” justifies a “lower standard of proof” for similarity. As we explained above, evidence of access is required because independent creation is a defense to copyright infringement, and so a plaintiff must show that the defendant had an opportunity to copy her original work. This issue is independent of the question whether an alleged infringer breached his duty not to copy another's work. Once a plaintiff establishes that a defendant could have copied her work, she must separately prove---regardless of how good or restricted 
 the opportunity was---that the allegedly infringing work is indeed a copy of her original.

@@ -70,8 +70,8 @@ Screenwriters, journalists, composers of corporate newsletters, gag writers,
 all are probably writers working for hire, meaning they do not own 
 copyright in the works they create, their employers do. 
 
-If the author writes a poem, the author owns the copyright to the poem, 
-and can license the right to print or the right to perform that work to others.
+If the author writes a poem, the author owns the copyright to the poem 
+and can license the right to, for example, print the work or the right to perform that work.
 However if the greeting card company hires a writer 
 to create poems to be printed on its greeting cards, 
 then the company owns the copyrights to the poems, 
