@@ -171,9 +171,10 @@ with the Writers Guild.
 A writer hired to work on a television show or a feature film 
 doesn't have to worry about registering any copyrights.
 They are working for hire, the way the studio likes it, 
-so that the studios own the copyright and not the writer.
-That's okay because writers are usually well-paid in Hollywood, 
-with fringe benefits negotiated by their powerful guilds. 
+so that the studios own the copyright. 
+The writer gets a fat paycheck, including residuals and benefits 
+negotiated by their powerful guilds, 
+but owns no rights in the works they create.
 
 #### Spec Screenplays
 
