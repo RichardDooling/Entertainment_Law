@@ -945,7 +945,7 @@ copyright in the underlying musical composition.
 
 ### What is a Mechanical License?
 
-Excerpt from [Harry Fox](https://www.harryfox.com/license_music/what_is_mechanical_license.html)
+Excerpt from [Harry Fox](https://www.harryfox.com/#/faq)
 
 A mechanical license grants the rights to reproduce and distribute copyrighted musical compositions (songs) on CDs, records, tapes, ringtones, permanent digital downloads, interactive streams and other digital configurations &hellip; 
 If you want to record and distribute a song that you don’t own or control, or if your business requires the distribution of music that was written by others, you need to obtain a mechanical license. A mechanical license doesn’t include the use of a song in a video. That use requires a *synchronization license* which you will need to obtain by contacting the publisher(s) directly. 
@@ -960,11 +960,11 @@ Master use rights can only be obtained from the owner of the master recording, u
 
 If you are distributing a video that includes music you don’t own or control, you may need a synchronization license. You will need to contact the publisher(s) directly to obtain these rights.
 
-Many publishers have an agreement with YouTube which permits many uses. For more information, click [here](https://www.harryfox.com/license_music/youtube_license.html).
+Many publishers have an agreement with YouTube which permits many uses. For more information, click [here](https://www.harryfox.com/#/faq).
 
 If you are distributing a video for non-commercial use that includes music you don’t own or control, you may be able to obtain a synchronization license using eSynch.
 
-Excerpt from [Harry Fox](https://www.harryfox.com/license_music/what_is_mechanical_license.html)
+Excerpt from [Harry Fox](https://www.harryfox.com/#/faq)
 
 ### *Newton v. Diamond*
 
