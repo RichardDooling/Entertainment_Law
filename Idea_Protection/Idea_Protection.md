@@ -35,10 +35,18 @@ If you need legal advice, please get a lawyer.
 
 If the screenwriter has not yet written the screenplay she has in mind, 
 she is unable to rely on copyright law to protect her idea. 
-But what if she wants to tell a producer about her idea, 
+But what if she wants to "pitch" her idea to a producer, 
 in case the producer wants to hire her to write it? 
 How can she prevent the producer from stealing the idea 
 and developing it with someone else?
+
+Yet another good reason to just [write the damn script](https://www.youtube.com/watch?v=8ExFYpzso8g) instead of wasting weeks at a time pitching in the often fond hope of being hired to write it. [In this YouTube video](https://www.youtube.com/watch?v=8ExFYpzso8g), Dax Shepard and David Palmer explain how pitching is an inherently fraudulent activity, and sometimes it's better to just write the script. 
+
+The problem of idea theft is not a new in Hollywood, 
+and many consider it just another risk of doing business in a competitive industry. 
+In Hollywood, 
+idea theft lawsuits are often called *Desny* claims after the seminal 1956 California Supreme Court case, [*Desny v. Wilder* (CA 1956)](http://scholar.google.com/scholar_case?case=3141417353271271191&hl=en&as_sdt=6&as_vis=1&oi=scholarr)
+
 
 ## *Desny v. Wilder,* (CA. 1956).
 
@@ -56,10 +64,21 @@ Wilder's secretary told Desny to write a synopsis describing the idea.
 Two days later, Desny called back and dictated the synopsis to the secretary. 
 Desny told the secretary that he expected compensation if the idea was used, 
 and she assured him that he would be paid if his idea were used. 
-Wilder stole Desny's idea and made a movie called *Ace In The Hole*.
+Wilder stole Desny's idea and made a movie called [*Ace In The Hole*][ace].
+
+Desny sued. He'd disclosed his idea on the promise of being paid if Wilder used it.
+Wilder's attorneys responded that not only did an oral plot summary not constitute a formal story submission, but the Collins case was history, 
+and historical facts are not protected by copyright laws. 
+
+In December 1953, Judge Stanley Mosk ruled in favor of Wilder and Paramount. 
+Desny appealed and in August 1956 the California Supreme Court ruled in Desny's favor, 
+and ever since this sort of claim bears his name: a Desny claim, meaning I disclosed my idea on the promise of payment if it were used. 
+Wilder's attorneys settled that same month, 
+paying Desny $14,350 (equivalent to $135,000 in 2019)
 
 Desny sued and won because he had made a deal that he would be paid if his idea were used. 
-Otherwise, as the court observed, "ideas are as free as the air."
+Otherwise, as the court observed, without such an implied contract, 
+"ideas are as free as the air."
 
 ### Excerpts From *Desny v. Wilder*
 
@@ -85,8 +104,9 @@ only if they paid him "the reasonable value of it &hellip;"
 The secretary said that if Wilder used the story, 
 "naturally we will pay you for it." 
 Desny spoke to Wilder's office once again in 1950 
-to protest the alleged use of his composition and idea in the movie *Ace in the Hole* made by Wilder. 
-*Ace in the Hole* closely parallels both Desny's synoposis 
+to protest the alleged use of his composition and idea 
+in the movie [*Ace in the Hole*][ace] made by Wilder. 
+[*Ace in the Hole*][ace] closely parallels both Desny's synoposis 
 and the history and life of Floyd Collins. 
 It also contains a fictional incident which appears in Desny's synoposis 
 and which he claims is his creation.]
@@ -459,255 +479,6 @@ was supposed to be kept confidential. But the complaint clearly contains these a
 The judgment of the district court is REVERSED and the matter REMANDED
 for further proceedings on plaintiffs' remaining claims.
 
-### *Montz* Dissent
-
-O'SCANNLAIN, Circuit Judge, Joined by GOULD, TALLMAN and BEA, Circuit
-Judges, dissenting:
-
-Montz does not claim to have sold his rights as a copyright owner. 
-To the contrary, he alleges that he retained those rights, 
-and that Pilgrim implicitly promised 
-*not* to use or to disclose his ideas *without his consent.* 
-As the district court properly held, 
-an action to enforce a promise not to use
-or to disclose ideas embodied in copyrighted material without
-authorization asserts rights equivalent to those protected by the
-Copyright Act. Accordingly, the district court's determination that the
-Copyright Act preempts Montz's claims should be affirmed. I respectfully
-dissent from the Court's opinion to the contrary &hellip; 
-
-### I
-
-I shall address only the second prong [of the preemption analysis]: 
-whether Montz's claims are "equivalent" 
-to the exclusive rights afforded to copyright owners by section 106.
-
-#### A
-
-Montz's breach-of-implied-contract claim consists of the following
-allegations: (1) "the Plaintiffs presented their ideas for the 'Ghost
-Hunter' Concept to the Defendant in confidence, pursuant to the
-custom and practice of the entertainment industry, for the express
-purpose of offering to partner with the Defendants in the production,
-broadcast and distribution of the Concept," (2) "by accepting the
-Plaintiffs' disclosure of its concept," the defendants agreed that they
-"would *not* disclose, divulge or exploit the Plaintiffs' ideas and
-concepts without compensation and *without obtaining the Plaintiffs'
-consent,*" (3) "the Plaintiffs justifiably expected to receive a share
-of any profits and credit that might be derived from the exploitation of
-[their] ideas and concepts," and (4) "by producing and broadcasting the
-Concept," "the Defendants breached their implied agreement not to
-disclose, divulge or exploit the Plaintiffs' ideas and concepts *without
-the express consent of the Plaintiffs,* and to share with the Plaintiffs
-&hellip; the profits and credit for their idea and concepts." (emphasis
-added).
-
-To distinguish itself from a copyright claim, a state law claim 
-"must protect rights which are qualitatively different from the copyright rights." 
-[*Laws v. Sony*](http://scholar.google.com/scholar_case?case=16156934007444564709) (9th Cir. 2006). 
-This requires that the state claim
-have an "extra element which transforms the nature of the action." 
-Montz's breach-of-implied-contract claim fails this test.
-
-Under section 106, a copyright owner has the exclusive rights to
-reproduce, to distribute, and to display the copyrighted work, as well
-as to prepare derivative works based on the copyrighted work. 17 U.S.C.
-§ 106. Section 106 also provides a copyright owner with the exclusive
-rights to authorize
-such reproduction, distribution, display, and preparation. *Id.* Montz
-alleges that "by producing and broadcasting" *Ghost Hunters,* "the
-Defendants breached their implied agreement not to disclose, divulge or
-exploit the Plaintiffs' ideas and concepts without their express
-consent." In other words, Montz asserts that Pilgrim produced and
-broadcast a television program derived from Montz's screenplays, video,
-and other materials *without authorization.* These rights are equivalent
-to the rights of copyright owners under section 106---namely, the
-exclusive rights to authorize reproduction, distribution, and display of
-original works, and to authorize preparation of derivative works. 
-
-#### B
-
-With respect, I suggest the majority does not appreciate the
-significance of Montz's refusal to authorize Pilgrim to use the ideas
-embodied in his materials. This is not the same as
-authorizing Pilgrim to use his ideas so long as it pays him. 
-A copyright is not just the right to receive money upon the use of a work; 
-it is "the right to control the work, 
-including the decision to make the work
-available to or withhold it from the public." [*Laws*](http://scholar.google.com/scholar_case?case=16156934007444564709). 
-Indeed, because a copyright gives its owner 
-a property right---not merely a liability right---injunctive relief 
-for copyright infringement is provided for by
-Congress, and is routinely granted by courts. 
-
-To be sure, many copyright owners choose to sell the right to control
-their work. But a copyright holder may turn down money---or accept less
-money---in exchange for retaining more control over, and more involvement
-with, his work. For instance, Matt Damon and Ben Affleck famously
-refused to sell the rights to *Good Will Hunting* until they were
-promised starring roles in the film. Such is
-the case here: Montz did not offer to sell his idea to Pilgrim; he
-offered "to partner" with Pilgrim in the show's "production and
-distribution." And when that offer was refused, Montz received an
-implied promise that Pilgrim would not use the ideas embodied in his
-materials without his consent.
-
-Thus, Montz does not claim to have sold the rights to the ideas embodied
-in his materials, as did the plaintiff in [*Grosso v. Miramax Film
-Corp.,*][grosso] (9th Cir. 2004).
-*Grosso* involved a particular type of breach-of-implied-contract claim,
-the elements of which the California Supreme Court elucidated in [*Desny
-v. Wilder,*][desny] (CA 1956).
-To state a *Desny* claim, the plaintiff must plead that he "prepared the
-work, disclosed the work to the offeree for sale, and did so under
-circumstances from which it could be concluded that the offeree
-voluntarily accepted the disclosure knowing the conditions on which it
-was tendered and the reasonable value of the work." [*Grosso*][grosso].
-
-"Mirroring the requirements of *Desny,*" the complaint in *Grosso*
-alleged the plaintiff had submitted a movie script to the defendants
-"with the understanding and expectation &hellip; that [he] would be
-reasonably compensated for its use by Defendants." *Id.* 
-We concluded that the defendants' "implied
-promise to pay" for use of the idea embodied in the script constituted
-"an 'extra element' for preemption purposes." The subject
-of the implied contract, then, was the sale of the plaintiff's idea. The
-plaintiff asserted that he had "disclosed [his] work to the offeree for
-sale," and that, by using the ideas embodied in his work, the offeree
-had implicitly agreed to pay for it. *Grosso*.
-
-By contrast, Montz alleges that he retained his rights as a copyright
-owner. Montz "presented [his] ideas for the 'Ghost Hunter' Concept to
-the Defendants &hellip; for the express purpose of offering to partner
-with the Defendants in the production, broadcast and distribution of the
-Concept." Pilgrim rejected the offer but allegedly promised implicitly
-not to use Montz's ideas "without [his] consent." Therefore, according
-to the complaint, Pilgrim did not promise to pay for the use of Montz's
-ideas. Rather, it promised (implicitly) to respect Montz's rights to the
-production, distribution, and broadcast of his work. Put differently, it
-promised to respect the rights afforded to Montz by the Copyright Act.
-
-The majority asserts that there is "no meaningful difference between the
-conditioning of use on payment in *Grosso* and conditioning use in this
-case on the granting of a partnership interest in the proceeds of the
-production." This was never the issue. The *Montz*
-panel did not rely on the difference between seeking compensation in the
-form of a lump sum versus a percentage of profits. Rather, it relied on
-the difference between authorizing the use of one's work in exchange for
-money, and not authorizing the use of one's work at all. I am mindful of Montz's
-allegation that he expected to receive compensation and credit if his
-ideas were ever used. But this fact alone is not sufficient to
-"transform the nature of the action." 
-[*Laws*](http://scholar.google.com/scholar_case?case=16156934007444564709).
-Montz expected to receive compensation and credit for use of his work
-only because he also expected---as any copyright owner would---that his work
-would not be used without authorization. Far from being
-"transformative," entitlement to compensation and credit under the
-implied contract was merely the result of the contract's prohibition
-against unauthorized use of Montz's work. There is thus nothing in the
-complaint that "qualitatively distinguishes" the
-breach-of-implied-contract claim from a copyright claim.
-*Id.*
-
-#### C
-
-The majority insists that by limiting implied contract protection to
-those who authorize the use of their work in exchange for consideration,
-"the dissent misses the point." But it is not clear
-just what point I am missing. If the point is to fill "the gap that
-would otherwise exist between state contract law and copyright law,"
-*Id.* at 981, then I suggest that a focus on authorization is entirely
-appropriate. Where a copyright owner authorizes the use of his work, but
-does not receive the consideration he was promised, he has a contract
-claim; where a copyright owner does not authorize the use of his work,
-but, nonetheless, someone uses it to produce a substantially similar
-work, he has a copyright claim.
-
-If, however, "the point" is to provide greater protection against the
-unauthorized use of copyrighted material than is afforded under the
-Copyright Act, then it is a point I am glad to miss, as it is
-inconsistent with the objectives of Congress. The Copyright Act strikes
-a balance between the property rights of copyright owners, and the
-expressive rights of the rest of the creative community, by permitting
-copyright suits only where "there is substantial similarity between the
-protected elements" of the two works. [*Benay v. Warner Bros. Entm't,
-Inc.*](http://scholar.google.com/scholar_case?case=1156296074793113648) (9th Cir. 2010).
-Here, Montz attempts to use an implied contract claim to do what the
-Copyright Act does (i.e., to protect the unauthorized use of copyrighted
-materials). The only difference is that Montz's implied contract claim
-would protect those rights more broadly because California implied
-contract law does not require as strict a showing of substantial
-similarity as federal copyright law. 
-But the "fact that the state-created right is &hellip; broader &hellip; 
-than its federal counterpart will not save it from pre-emption." 
-
-### II
-
-Montz's breach-of-confidence claim also asserts rights equivalent to the
-rights protected by the Copyright Act. The complaint states that "the
-Plaintiffs' disclosure of their ideas and concepts [was] strictly
-confidential," and that "by taking the Plaintiffs' novel ideas and
-concepts, exploiting those ideas and concepts, and profiting therefrom
-to the Plaintiffs' exclusion, the Defendants breached their confidential
-relationship with the Plaintiffs." Such claim simply echoes the
-allegations of the breach-of-implied-contract claim. Indeed, the alleged
-breach-of-confidence stems from the alleged violation of the very rights
-contained in section 106—the exclusive rights of copyright owners to use
-and to authorize use of their work.
-
-The majority relies on two elements to distinguish the rights asserted
-in Montz's breach-of-confidence claim from the rights protected by the
-Copyright Act. First, the breach-of-confidence claim requires Montz to
-show that Pilgrim disclosed confidential material (i.e., the ideas
-embodied in  Montz's
-materials) to third parties. But a copyright affords
-its owner the same right: the right against unauthorized disclosure of
-copyrighted work. 
-Second, the breach-of-confidence claim requires that Montz show Pilgrim
-breached a confidential relationship or entrustment. 
-Yet a breach of a relationship of trust 
-does not, by itself, transform the nature of an action. 
-The breach-of-confidence claim still asserts rights protected by the
-Copyright Act; the only difference is that the rights are asserted
-against a particular person (i.e., someone with whom the copyright
-holder had a confidential relationship). But the right against
-unauthorized disclosure of copyrighted work already applies against
-everyone, regardless of whether one had a confidential relationship with
-the copyright holder.
-
-Because Montz's breach-of-confidence claim is not qualitatively
-different from a copyright claim, it is preempted.
-
-### III
-
-Montz does not allege that he sold the ideas embodied in his *Ghost
-Hunters* materials to Pilgrim and that Pilgrim simply failed to make
-good on its promise to pay. Instead, he alleges that Pilgrim used the
-ideas embodied in Montz's copyrighted material without his permission.
-Because the Copyright Act protects such equivalent rights, I
-respectfully dissent.
-
-GOULD, Circuit Judge, dissenting:
-
-I join Judge O'Scannlain's dissent. I emphasize my concern with the
-improvident practical results that the majority decision will likely
-engender. The "extra element" argument is impractical for an "implied"
-claim like this. Although an express contract claim can proceed under
-state law, courts should be cautious about implying a contract claim in
-circumstances where the claim functionally looks like a copyright claim. There is no virtue in permitting a
-supplemental state law jurisdiction that in substance expands federal
-copyright law.
-
-Under such a legal regime, film production and network companies face
-the chaotic prospect of having to meet conflicting federal and state
-standards on essentially the same question, a result the Copyright Act
-aimed to avoid. Studio and network ventures need stable law that does
-not unsettle expectations. The majority's decision, however, will lead
-to uncertainty by making state law—with its ambiguity, variability, and
-volatility—available to litigants who bring nebulous state law claims
-that in substance assert rights in the nature of copyright. Hence, I
-respectfully dissent.
-
 ## *Quirk v. Sony* 
 
 ###### United States District Court (N.D. CA 2013)
@@ -783,7 +554,7 @@ obtained the Warner Brothers scripts and a copy of the novel from CAA,
 which undisputedly retained those materials in its files. Specifically,
 Quirk insists it is a "virtual certainty" that defendant Koepp, who was
 also represented by CAA, obtained the *Ultimate Rush* material "through
-his agents at Creative Artists Agency."[^6]
+his agents at Creative Artists Agency."
 
 In support, Quirk relies on the absence of evidence to support any
 *other* method of transmission of either the book or the Warner Brothers
@@ -945,11 +716,11 @@ scripts and the novel through CAA.]
 
 * [Pitch the idea? Or just write it and be done?](https://www.youtube.com/watch?v=8ExFYpzso8g)
 * *Passman*, Chapter 18, Songwriter Deals, Creative Control & Moral Rights (pgs. 296-297). 
-* [Ninth Circuit Revives California Idea Submission Claims](http://www.lexology.com/library/detail.aspx?g=352aeccb-2f72-413a-8c12-881b1a1e3d9c), by Anna R. Buono.
 * ['Leprechaun' Creator Sues Over 'Vamprechaun' Film | Hollywood Reporter](http://www.hollywoodreporter.com/thr-esq/leprechaun-creator-sues-vamprechaun-film-985180?utm_source=twitter&utm_source=Direct) (The legal drama behind the creation of a vampire-leprechaun hybrid film is almost as colorful as the creature itself.) 
 
 [desny]:   http://scholar.google.com/scholar_case?case=3141417353271271191   "Desny v. Wilder"
 [grosso]:   http://scholar.google.com/scholar_case?case=9970479884551762667   "Grosso v. Miramax"
+[ace]: https://en.wikipedia.org/wiki/Ace_in_the_Hole_(1951_film)   "Ace In The Hole"
 
 <!-- BEGIN COMMENT -->
 
