@@ -59,9 +59,11 @@ or representations of goods or services.
 
 ### Trademark Basics
 
-Watch this video from the US Patent & Trademark Office: 
-
-[Basic Facts About Trademarks: What Every Small Business Should Know Now, Not Later](http://www.uspto.gov/trademarks-getting-started/trademark-basics).
+Like the Copyright Office, 
+the US Patent & Trademark Office has accessible materials on their site that may be helpful to clients. It's too long to watch the whole thing, 
+but sample [Basic Facts About Trademarks: What Every Small Business Should Know Now, Not Later](http://www.uspto.gov/trademarks-getting-started/trademark-basics). 
+A small business client might appreciate these clear and simple explanations, 
+instead of the fees they'd have to pay you to explain it all to them.
 
 ## *Matal v. Tam*
 
@@ -511,232 +513,6 @@ Free Speech Clause of the First Amendment. The judgment of the Federal
 Circuit is affirmed.
 
 *It is so ordered.*
-
-### Concurrence
-
-> Justice GORSUCH took no part in the consideration or decision of this
-case. Justice KENNEDY, with whom Justice GINSBURG, Justice SOTOMAYOR, and
-Justice KAGAN join, concurring in part and concurring in the judgment.
-
-The Patent and Trademark Office (PTO) has denied the substantial
-benefits of federal trademark registration to the mark THE SLANTS. 
-The PTO did so under the mandate of the disparagement clause in [15 U.S.C. § 1052(a)][1501], 
-which prohibits the registration of marks that may
-"disparage ... or bring ... into contempt or disrepute" any "persons,
-living or dead, institutions, beliefs, or national symbols."
-
-As the Court is correct to hold, § 1052(a) constitutes viewpoint
-discrimination — a form of speech suppression so potent that it must be
-subject to rigorous constitutional scrutiny. The Government's action and
-the statute on which it is based cannot survive this scrutiny.
-
-The Court is correct in its judgment, and I join Parts I, II, and III-A
-of its opinion. This separate writing explains in greater detail why the
-First Amendment's protections against viewpoint discrimination apply to
-the trademark here. It submits further that the viewpoint discrimination
-rationale renders unnecessary any extended treatment of other questions
-raised by the parties.
-
-#### I
-
-Those few categories of speech that the government can regulate or
-punish — for instance, fraud, defamation, or incitement — are well
-established within our constitutional tradition. 
-See [*United States v. Stevens*](http://scholar.google.com/scholar_case?case=85657697512539256&q=matal+v+tam&hl=en&as_sdt=6,28) (US 2010).
-Aside from these and a few other narrow exceptions, it is a fundamental
-principle of the First Amendment that the government may not punish or
-suppress speech based on disapproval of the ideas or perspectives the
-speech conveys. 
-
-The First Amendment guards against laws "targeted at specific subject
-matter," a form of speech suppression known as content based
-discrimination. [*Reed v. Town of Gilbert,*](http://scholar.google.com/scholar_case?case=11849441774186097924&q=matal+v+tam&hl=en&as_sdt=6,28) (2015).
-This category includes a subtype of laws that go further, aimed at the
-suppression of ["particular views ... on a subject."](http://scholar.google.com/scholar_case?case=5541076601148584638&q=matal+v+tam&hl=en&as_sdt=6,28).
-A law found to discriminate based on viewpoint is an "egregious form of
-content discrimination," which is "presumptively unconstitutional."
-
-At its most basic, the test for viewpoint discrimination is whether —
-within the relevant subject category — the government has singled out a
-subset of messages for disfavor based on the views expressed. See
-[*Cornelius v. NAACP Legal Defense & Ed. Fund, Inc.,*](http://scholar.google.com/scholar_case?case=823565288601804204&q=matal+v+tam&hl=en&as_sdt=6,28) (1985)
-("the government violates the First Amendment when it denies access
-to a speaker solely to suppress the point of view he espouses on an
-otherwise includible subject"). 
-In the instant case, the disparagement clause the Government now seeks to implement and enforce 
-identifies the relevant subject as "persons, living or dead, institutions, beliefs, or
-national symbols." [15 U.S.C. § 1052(a)][1501]. 
-Within that category, an
-applicant may register a positive or benign mark but not a derogatory
-one. The law thus reflects the Government's disapproval of a subset of
-messages it finds offensive. This is the essence of viewpoint
-discrimination.
-
-The Government disputes this conclusion. It argues, to begin with, that
-the law is viewpoint neutral because it applies in equal measure to any
-trademark that demeans or offends. This misses the point. 
-A subject that is first defined by content 
-and then regulated or censored by mandating only one sort of comment is not viewpoint neutral. 
-To prohibit all sides from criticizing their opponents makes a law more viewpoint based, 
-not less so. [*Rosenberger*](http://scholar.google.com/scholar_case?case=5541076601148584638&q=matal+v+tam&hl=en&as_sdt=6,28)("The ... declaration that debate is not skewed so long as multiple
-voices are silenced is simply wrong; the debate is skewed in multiple ways"). 
-The logic of the Government's rule is that a law would be
-viewpoint neutral even if it provided that public officials could be
-praised but not condemned. The First Amendment's viewpoint neutrality
-principle protects more than the right to identify with a particular
-side. It protects the right to create and present arguments for
-particular positions in particular ways, as the speaker chooses. By
-mandating positivity, the law here might silence dissent and distort the
-marketplace of ideas.
-
-The Government next suggests that the statute is viewpoint neutral
-because the disparagement clause applies to trademarks regardless of the
-applicant's personal views or reasons for using the mark. Instead,
-registration is denied based on the expected reaction of the applicant's
-audience. In this way, the argument goes, it cannot be said that
-Government is acting with hostility toward a particular point of view.
-For example, the Government does not dispute that respondent seeks to
-use his mark in a positive way. Indeed, respondent endeavors to use The
-Slants to supplant a racial epithet, using new insights, musical
-talents, and wry humor to make it a badge of pride. Respondent's
-application was denied not because the Government thought his object was
-to demean or offend but because the Government thought his trademark
-would have that effect on at least some Asian-Americans.
-
-The Government may not insulate a law from charges of viewpoint
-discrimination by tying censorship to the reaction of the speaker's
-audience. The Court has suggested that
-viewpoint discrimination occurs when the government intends to suppress
-a speaker's beliefs, [*Reed, supra*](http://scholar.google.com/scholar_case?case=11849441774186097924&q=matal+v+tam&hl=en&as_sdt=6,28)
-but viewpoint discrimination need not take that form in every instance.
-The danger of viewpoint discrimination is that the government is
-attempting to remove certain ideas or perspectives from a broader
-debate. That danger is all the greater if the ideas or perspectives are
-ones a particular audience might think offensive, at least at first
-hearing. An initial reaction may prompt further reflection, leading to a
-more reasoned, more tolerant position.
-
-Indeed, a speech burden based on audience reactions is simply government
-hostility and intervention in a different guise. The speech is targeted,
-after all, based on the government's disapproval of the speaker's choice
-of message. And it is the government itself that is attempting in this
-case to decide whether the relevant audience would find the speech
-offensive. For reasons like these, the Court's cases have long
-prohibited the government from justifying a First Amendment burden by
-pointing to the offensiveness of the speech to be suppressed. 
-
-The Government's argument in defense of the statute assumes that
-respondent's mark is a negative comment. In addressing that argument on
-its own terms, this opinion is not intended to imply that the
-Government's interpretation is accurate. From respondent's submissions,
-it is evident he would disagree that his mark means what the Government
-says it does. The trademark will have the effect, respondent urges, of
-reclaiming an offensive term for the positive purpose of celebrating all
-that Asian-Americans can and do contribute to our diverse Nation. 
-While thoughtful persons can agree or
-disagree with this approach, the dissonance between the trademark's
-potential to teach and the Government's insistence on its own, opposite,
-and negative interpretation confirms the constitutional vice of the
-statute.
-
-#### II
-
-The parties dispute whether trademarks are commercial speech and whether
-trademark registration should be considered a federal subsidy. The
-former issue may turn on whether certain commercial concerns for the
-protection of trademarks might, as a general matter, be the basis for
-regulation. However that issue is resolved, the viewpoint based
-discrimination at issue here necessarily invokes heightened scrutiny.
-
-"Commercial speech is no exception," the Court has explained, to the
-principle that the First Amendment "requires heightened scrutiny
-whenever the government creates a regulation of speech because of
-disagreement with the message it conveys." [*Sorrell*](http://scholar.google.com/scholar_case?case=838098438403992670&q=matal+v+tam&hl=en&as_sdt=6,28). 
-Unlike content based discrimination,
-discrimination based on viewpoint, including a regulation that targets
-speech for its offensiveness, remains of serious concern in the
-commercial context. See [*Bolger Drug*](http://scholar.google.com/scholar_case?case=1599769972215052549).
-
-To the extent trademarks qualify as commercial speech, they are an
-example of why that term or category does not serve as a blanket
-exemption from the First Amendment's requirement of viewpoint
-neutrality. Justice Holmes' reference to the "free trade in ideas" and
-the "power of... thought to get itself accepted in the competition of
-the market," [*Abrams v. United States*](http://scholar.google.com/scholar_case?case=14321466231676186426&q=matal+v+tam&hl=en&as_sdt=6,28),
-was a metaphor. In the realm of trademarks, the metaphorical marketplace
-of ideas becomes a tangible, powerful reality. Here that real
-marketplace exists as a matter of state law and our common-law
-tradition, quite without regard to the Federal Government. 
-These marks make up part of the expression of everyday life, as
-with the names of entertainment groups, broadcast networks, designer
-clothing, newspapers, automobiles, candy bars, toys, and so on. 
-Nonprofit organizations — ranging from medical-research
-charities and other humanitarian causes to political advocacy groups —
-also have trademarks, which they use to compete in a real economic sense
-for funding and other resources as they seek to persuade others to join
-their cause. To permit
-viewpoint discrimination in this context is to permit Government
-censorship.
-
-This case does not present the question of how other provisions of the
-Lanham Act should be analyzed under the First Amendment. It is well
-settled, for instance, that to the extent a trademark is confusing or
-misleading the law can protect consumers and trademark owners. 
-This case also does not involve laws related to product labeling or otherwise designed
-to protect consumers. 
-See [*Sorrell*](http://scholar.google.com/scholar_case?case=838098438403992670&q=matal+v+tam&hl=en&as_sdt=6,28) 
-("the government's legitimate interest in protecting consumers from
-commercial harms explains why commercial speech can be subject to
-greater governmental regulation than noncommercial speech."
-These considerations, however, do not alter
-the speech principles that bar the viewpoint discrimination embodied in
-the statutory provision at issue here.
-
-It is telling that the Court's precedents have recognized just one
-narrow situation in which viewpoint discrimination is permissible: where
-the government itself is speaking or recruiting others to communicate a
-message on its behalf. 
-The exception is necessary to allow the government to stake out
-positions and pursue policies. 
-But it is also narrow, to prevent the
-government from claiming that every government program is exempt from
-the First Amendment. These cases have identified a number of factors
-that, if present, suggest the government is speaking on its own behalf;
-but none are present here. 
-
-There may be situations where private speakers are selected for a
-government program to assist the government in advancing a particular
-message. That is not this case either. The central purpose of trademark
-registration is to facilitate source identification. To serve that broad
-purpose, the Government has provided the benefits of federal
-registration to millions of marks identifying every type of product and
-cause. Registered trademarks do so by means of a wide diversity of
-words, symbols, and messages. Whether a mark is disparaging bears no
-plausible relation to that goal. While defining the purpose and scope of
-a federal program for these
-purposes can be complex 
-our cases are clear that viewpoint discrimination is not permitted
-where, as here, the Government "expends funds to encourage a diversity
-of views from private speakers." 
-
-A law that can be directed against speech found offensive to some
-portion of the public can be turned against minority and dissenting
-views to the detriment of all. The First Amendment does not entrust that
-power to the government's benevolence. Instead, our reliance must be on
-the substantial safeguards of free and open discussion in a democratic
-society.
-
-For these reasons, I join the Court's opinion in part and concur in the
-judgment.
-
-> Justice THOMAS, concurring in part and concurring in the judgment.
-
-> (On the First Amendment issue, 
-Justice wrote separately because, 
-"I continue to believe that when the
-government seeks to restrict truthful speech in order to suppress the
-ideas it conveys, strict scrutiny is appropriate, whether or not the
-speech in question may be characterized as commercial.")
 
 ### What about "immoral or scandalous" trademarks?
 
@@ -2032,12 +1808,12 @@ complaint is granted.
 
 SO ORDERED.
 
-#### Totally Optional Readings & Viewings
+## Totally Optional Readings & Viewings
 
 * [Disney Denies Bid To Keep Characters 3 Hallandale Day-care Centers Are Given One Month To Remove Murals](http://articles.sun-sentinel.com/1989-05-18/news/8901250789_1_day-care-centers-day-care-centers-disney-officials)
 * [Nastiness Is Not a Fantasy In Movie Theme Park War](http://www.nytimes.com/1989/08/13/us/nastiness-is-not-a-fantasy-in-movie-theme-park-war.html)
 
-##### Entertainment Lawyers On Fair Use
+### Entertainment Lawyers On Fair Use
 
 Watch this 6-minute YouTube clip of two entertainment lawyers discussing trademark and copyright issues.
 
@@ -2075,7 +1851,7 @@ We know from class and from our book and from *Rogers v. Grimaldi*
 that you usually *may* use a trademark 
 when it is artistically relevant to your work. 
 So that's not news. 
-(Doesn't mean another Ginger Rogers won't sue you anyway and lose.) 
+(It doesn't mean another Ginger Rogers won't sue you anyway and lose.) 
 The Disney example they use here is similar; 
 if the filmmakers are making an undercover movie *about* Disney. 
 That might make Disney and its trademark and logos artistically relevant. 
