@@ -553,32 +553,16 @@ upheld the award. Tristar appeals.
 
 Apted's relationship with Tristar is governed by a collective bargaining
 agreement (the Basic Agreement) negotiated between the studios and the
-DGA. Two clauses of the agreement are relevant to this appeal. One of
-them, section 8-211, governs claims by a director that he is entitled to
-a pseudonym. In order to avail himself of this remedy, a director must
-first persuade the Director's Council of the DGA that he is entitled to
-a pseudonym. If the Council assents, the pseudonym question is presented
-to a joint panel composed of two representatives from the studio and two
-from the DGA. If a majority of the joint panel sides with the director,
-the film's directing credit goes to a fictitious director, typically
-"Alan Smithee." If not, the studio may continue to use the director's
-name.
+DGA. 
 
-The second relevant provision is the Basic Agreement's arbitration
-clause. Section 2-101 sets forth the arbitrator's jurisdiction, which
-embraces the capacious range of "all grievances, disputes or
-controversies over the interpretation or application" of the Basic
-Agreement. The arbitrator's authority can be invoked under a normal
-arbitration procedure, set forth in section 2-300 of the Basic
-Agreement, or under an expedited arbitration procedure, found in section
-2-400.
+.&hellip; 
 
 In this case, the Director's Council agreed with Apted and on July 7th
 called for the convocation of a joint panel to consider whether Apted
 was entitled to a pseudonym. As of July 12, 1995, however, just six days
 before *Thunderheart* was scheduled to air, the joint panel had not yet
 met. The DGA therefore called for expedited arbitration of 
-the dispute under section 2-400. The arbitration took place two days
+the dispute. The arbitration took place two days
 later.
 
 The arbitrator did not rule on Apted's pseudonym claim, explaining that
@@ -606,118 +590,7 @@ the label "An Adam Smithy Film." (The record does not explain why Tristar switch
 developing a reputation. See Thomas Goetz, *King of the Bs: Appreciating Alan Smithee*, Village Voice, Sept. 2, 1997, at 78 ("The best anyone in 
 Hollywood has to say about director Alan Smithee is that he gets the job done.").
 
-### III ###
-
-Tristar argues that the arbitrator lacked jurisdiction over the dispute.
-Under Tristar's reading of the Basic Agreement, all disputes concerning
-the editing of a film are governed by the pseudonym clause, and the only
-remedy available to a director unhappy with the studio's editing
-decision is to seek a pseudonym. While the language of the arbitration
-clause is very broad, Tristar argues, it should not be read so as to
-render superfluous the more specific procedure in the pseudonym clause,
-which is calibrated to resolve disputes about whether edits made to a
-movie so change its character as to render it no longer the director's
-work.
-
-Tristar's argument is not without force. The pseudonym procedure does
-contain a carefully negotiated mechanism for dealing with precisely the
-type of dispute that arose between Apted and Tristar. Notably, the
-procedure gives the studio considerable leverage in resisting a claim by
-the director. Because the joint panel is made up of an equal number of
-members nominated by the studio and the DGA, a director can only obtain
-a pseudonym by persuading at least one member nominated by the studio; a
-tie vote denies the director the pseudonym. By contrast, the studio has
-no particular leverage for resisting a ruling by the arbitrator - other
-than the inertial force of being the non-moving party. The pseudonym
-clause also gives the director only one possible remedy - a pseudonym -
-while (as we see in this case) the arbitrator can grant other types of
-relief. Finally, the contract provides no standard for obtaining relief
-from the joint council, while the arbitrator is limited to any ground
-available under the terms of the contract and applicable principles of
-contract law, such as breach of the covenant of good faith and fair
-dealing. Given these differences, it would seem almost foolish for a
-director to avail himself of the pseudonym procedure rather than seeking
-relief under the arbitration clause. Indeed, a director might proceed
-under the pseudonym procedure and, if unhappy with the result, then seek
-a separate remedy under the arbitration clause over the same issue.
-
-Tristar also notes that the arbitrator himself saw a tension between the
-broad sweep of the arbitration clause and the pseudonym 
-procedure. He therefore found that arbitration was not the "most
-appropriate way" to resolve a dispute over a pseudonym, noting that the
-parties had established the pseudonym clause as the method for resolving
-disputes of that sort. Seizing upon this concession by the arbitrator as
-to the scope of his authority, Tristar argues that the pseudonym
-provision carves out an area where even the expansive arbitration clause
-does not reach. By making the arbitration award provisional upon whether
-a pseudonym is granted, Tristar claims, the arbitrator impermissibly
-tread upon ground he admitted he had no right to occupy.
-
-Were we interpreting the Basic Agreement in the first instance, this
-would be a difficult case, but we are not. We are reviewing the award of
-an arbitrator who ruled on this issue and held that Tristar had violated
-the implied promise of good faith and fair dealing contained in Article
-7 of the Basic Agreement. Tristar's challenge to the arbitrator's
-jurisdiction fails, not only because of the broad language of the
-arbitration clause, but also because of Tristar's prior actions.
-Although Tristar did suggest at the arbitration hearing that the
-arbitrator had no authority to decide certain issues, it chose to argue
-that the arbitrator lacked authority rather than simply refusing to come
-to the table. In this manner, Tristar "by its conduct evinced
-clearly its intent to allow the arbitrator to decide not only the merits
-of the dispute but also the question of arbitrability." [*George Day
-Constr. Co. v. United Bhd. of Carpenters* (9th Cir. 1984)](https://scholar.google.com/scholar_case?case=9818927215326693767) &hellip; 
-Instead of resting on its present contention that
-the arbitrator could not grant Apted the relief he sought, 
-Tristar put on evidence of its good faith in editing the film, 
-tacitly admitting that it was plausible for the arbitrator to assume jurisdiction over the dispute.
-
-Tristar's complaint that the arbitrator effectively forced it to grant
-Apted a pseudonym, thereby circumventing section 8-211 of the Basic
-Agreement and impermissibly extending the limits of his jurisdiction,
-also fails. Our review of the scope of an arbitrator's award is
-extremely narrow: We may ask only "whether the arbitrator's solution can
-be rationally derived from some plausible theory of the general
-framework or intent of the agreement." &hellip; The Basic Agreement gives the
-arbitrator ample leeway in fashioning remedies: Section 2-501 empowers
-the arbitrator "to require the studio to change or re-do any film
-titles &hellip;  or to order any other reasonable relief the Arbitrator
-deems appropriate in the circumstances, whether relating to credit on
-the screen or in advertising or any other arbitrable matter.&hellip;"
-This clause invokes the rule that "where it is contemplated that the
-arbitrator will determine remedies for contract violations that he
-finds, courts have no authority to disagree with his honest judgment in
-that respect." &hellip; The arbitrator's
-ruling that the covenant of good faith and fair dealing gives an
-aggrieved director more remedies than just seeking a Smithee is not
-completely implausible.
-
-Tristar also seems to argue that the arbitrator abused whatever
-authority he did have by making his award conditional on the actions of
-the joint panel, effectively forcing Tristar to give Apted a pseudonym.
-But the arbitrator was entitled to consider the possibility that his
-remedy might be rendered redundant if the joint panel awarded a Smithee.
-If the arbitrator had authority to order the disclaimer, he
-surely had the lesser power of awarding the disclaimer only in the
-absence of certain conditions. Further, we observe that the disclaimer
-didn't take away the studio's right, arguably granted by section 7-509
-of the Basic Agreement, to edit the film as it sees fit. It only
-required Tristar to disclose Apted's view of the changes Tristar made to
-his film.
-
-Tristar finally argues that affirming this award will create a per se
-rule prohibiting studios from editing movies for television. We are
-unconvinced that a single award will have any such effect. Although
-section 2-309 says that awards interpreting a term of the Basic
-Agreement are binding on the DGA and the studio, it also instructs that
-"in any subsequent arbitration &hellip; involving an interpretation of the
-same term or terms of the Basic Agreement, the Arbitrator may
-determine whether or not, as a result of the different combination of
-facts, the prior arbitration award is relevant or determinative of the
-issue in such subsequent arbitration." Furthermore, if the arbitrator's
-decision was indeed so far removed from the spirit of the agreement, the
-parties are free to renegotiate the governing rules to preclude such
-awards in the future.
+.&hellip; 
 
 We are bound by the very deferential standard of review that we must
 give arbitral decisions. "Courts &hellip; do not sit to hear claims of
