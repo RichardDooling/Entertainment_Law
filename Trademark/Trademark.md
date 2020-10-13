@@ -1312,6 +1312,7 @@ We affirm the district court's denial of injunctive relief.
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=7750062726823071078)
 * [case on Wikipedia](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=868+F.Supp.2d+172&appflag=67.12)
 * [THR Esq: Warner Bros. Beats Louis Vuitton in 'Hangover 2' Knockoff Handbag Lawsuit](http://www.hollywoodreporter.com/thr-esq/louis-vuitton-hangover-2-lawsuit-338650)
+* [Watch the "Lewis Vuitton" clip from *Hangover II*](https://www.youtube.com/watch?v=0W2IVzRYMgs)
 
 ANDREW L. CARTER, JR., District Judge.
 
@@ -1395,6 +1396,8 @@ can sit down between him and Alan.
 Alan reacts by saying: 
 
 > "Careful that is ... that is a Lewis Vuitton." 
+
+* [Watch the "Lewis Vuitton" clip from *Hangover II*](https://www.youtube.com/watch?v=0W2IVzRYMgs)
 
 No other reference to Louis Vuitton 
 or the Diophy bag is made after this point.
