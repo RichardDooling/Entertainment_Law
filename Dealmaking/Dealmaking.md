@@ -1344,7 +1344,7 @@ When dealing with minors, the studios and other contracting parties must conside
 
 ### Facts
 
-Defendant was 12-year-old actor who entered into deal with Eden to act as his manager. Eden was to receive 15% commission of Kavovit's earnings. After two years, Eden had Kavovit sign with Andreadis Agency, who would receive an additional 10% commission. Soon after, Kavovit signed a contract to be on "As the World Turns." Kavovit's attorney contacted Eden, informing him that Kavovit was disaffirming the contract on the grounds of infancy.
+Defendant was 12-year-old actor who entered into a deal with Eden to act as his manager. Eden was to receive 15% commission of Kavovit's earnings. After two years, Eden had Kavovit sign with Andreadis Agency, who would receive an additional 10% commission. Soon after, Kavovit signed a contract to be on "As the World Turns." Kavovit's attorney contacted Eden, informing him that Kavovit was disaffirming the contract on the grounds of infancy.
 
 From the opinion of the court:
 

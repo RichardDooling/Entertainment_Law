@@ -388,7 +388,7 @@ An out-of-print clause allows you to terminate the contract and regain all right
 
 > [*Negotiating A Book Contract,*][levine], by Mark L. Levine
 
-An author represented by an agent or a good lawyer won't have to worry because they'll have good advice about what sub rights to grant and which to reserve. Otherwise, it is a tricky issue because the question is: Who is best able to sell and exploint these rights? A tiny publisher in Anchorage, Alaska is probably not set up to sell film rights in Hollywood, nor is it likely capable of licensing rights to a Japanese publisher. 
+An author represented by an agent or a good lawyer won't have to worry because they'll have good advice about what sub rights to grant and which to reserve. Otherwise, it is a tricky issue because the question is: Who is best able to sell and exploit these rights? A tiny publisher in Anchorage, Alaska is probably not set up to sell film rights in Hollywood, nor is it likely capable of licensing rights to a Japanese publisher. 
 
 Generally all rights should be reserved to the author and her agents, except those traditionally granted to the publisher, which usually include print-related sub rights like book club and paperback reprint editions, publication of selections, condensations or abridgments in anthologies and textbooks, and first and second serial rights (i.e., publication in newspapers or magazines either before or after publication of the hardcover book).
 

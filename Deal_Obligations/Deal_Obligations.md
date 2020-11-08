@@ -1234,7 +1234,7 @@ As the court observed: “allowing unfettered license to publishers to reject a 
 
 Consider the description of this provision contained in the Authors Guild Model Trade Book Contract: “Conditions Governing the Manuscript and Termination”  Section 3, p. 12.
 
-> Almost all publishers' boilerplates contain "satisfactory manuscript" clauses that allow them to terminate contracts despite the work's actual fitness for publication and professional competence.&hellip; When invoked by the publisher, the satisfactory manuscript clause effectively: transforms the advance into a repayable loan; dissolves the publishing commitment; depreives you of your valuable investment of time, labor, and money; gives the publisher a free exclusive option on the book; and makes the contract one-sided and not fully binding.
+> Almost all publishers' boilerplates contain "satisfactory manuscript" clauses that allow them to terminate contracts despite the work's actual fitness for publication and professional competence.&hellip; When invoked by the publisher, the satisfactory manuscript clause effectively: transforms the advance into a repayable loan; dissolves the publishing commitment; deprives you of your valuable investment of time, labor, and money; gives the publisher a free exclusive option on the book; and makes the contract one-sided and not fully binding.
 
 The Authors Guild suggests the following language be used instead:
 
@@ -2319,7 +2319,7 @@ The other way is to simply advise the talent
 that these clauses are meaningless 
 and almost never result in any "new money."
 
-* *Buchwald v. Paramount Pictures,* (Cal. App. 1992)([read about examples of Hollywood Accounting](http://en.wikipedia.org/wiki/Hollywood_accounting).
+* *Buchwald v. Paramount Pictures,* (Cal. App. 1992)([read about examples of Hollywood Accounting](http://en.wikipedia.org/wiki/Hollywood_accounting)).
 * [*Buchwald v. Paramount Pictures,*][net_profits] 1992 WL 1462910 (Cal. App. 1992).
 * [LA Times on Buchwald suit](http://articles.latimes.com/1992-03-17/local/me-3895_1_net-profit)
 
