@@ -232,7 +232,7 @@ And why stop with that one? How about a Workplace Prayer Act? Or a Respect for M
 
 Of course, politicians wishing to oppose such important pieces of legislation would be free to go on the Sunday morning talk shows and admit that they are godless, mom-hating traitors.
 
-You get the idea. At least flag- burning presents some thorny First Amendment issues on the differences between speech and conduct. And separation of church and state is as clear as mud, thanks to a slew of Supreme Court opinions on menorahs and Nativity displays.
+You get the idea. At least flag-burning presents some thorny First Amendment issues on the differences between speech and conduct. And separation of church and state is as clear as mud, thanks to a slew of Supreme Court opinions on menorahs and Nativity displays.
 
 But banning anything some politician might consider "indecent," 
 with fines and imprisonment for anybody who guesses wrong? 

@@ -772,6 +772,8 @@ and had an eye patch, bandanna, and hook for a hand.
 But now these elements are not copyrightable. 
 Why? Because they are not *original.* 
 
+In pop music, there's perhaps no better introduction to the concept of Sc&#232;nes-&#192;-Faire than [The Axis of Awesome's famouse *4 Chords* video](https://www.youtube.com/watch?v=oOlDewpCfZQ). Please watch it if you've never seen it before.
+
 ### Names, Titles, Short Phrases, Expressions
 
 > Copyright law does not protect 

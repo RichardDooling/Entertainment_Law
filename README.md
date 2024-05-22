@@ -9,21 +9,23 @@ file: readme.md
 
 ###### By Richard Dooling
 
-I teach Entertainment Law at the University of Nebraska College of Law. 
+END OF LIFE
 
-* [My University of Nebraska College of Law page](http://law.unl.edu/richard-dooling#about).
+I taught Entertainment Law as an adjunct professor for years, 
+but now these files are four years out of date, at least. 
+
 * [My Wikipedia page](http://en.wikipedia.org/wiki/Richard_Dooling).
 * [My IMDB page](http://www.imdb.com/name/nm0233223/).
 * [One sorely neglected blog](http://dooling.com).
 * [Twitter @RichardDooling](http://twitter.com/richarddooling).
 
-This is a public repository of the files I use to teach Entertainment Law. Since it's open to all, please read the following:
+This is a public repository of the files I used to teach Entertainment Law. Since it's open to all, please read the following:
 
 ### I Disclaim
 
 I am an [author and sometimes a screenwriter](https://en.wikipedia.org/wiki/Richard_Dooling). 
-I'm also a lawyer, 
-and [I teach Entertainment Law at the University of Nebraska College of Law](https://law.unl.edu/richard-dooling/), but I am not *your* lawyer, and the text you find here is *not* legal advice. 
+I'm also used to be a lawyer, 
+but I am not *your* lawyer, and the text you find here is *not* legal advice. 
 
 To paraphrase Hunter Thompson: 
 
@@ -38,8 +40,6 @@ If you need legal advice, please *get a lawyer.*
 These materials are published under an [MIT license](https://github.com/RichardDooling/Entertainment_Law/blob/master/LICENSE).
 
 ### Open Source Scholarship
-
-If all goes well, the files in this GitHub repository will grow into an open source Entertainment Law textbook. I hope to entice collaborators: students, former students, entertainment lawyers, artists, and other professors, who may find these materials useful and help me improve them. (At the moment, I am especially interested in a collaborator or contributor with experience working in the music industry or the video game industry.) 
 
 Whenever possible, I link to free content, including Wikipedia, YouTube, [Google Scholar](http://scholar.google.com/), the [SCOTUS blog](http://www.scotusblog.com/), and other notable resources that are not behind paywalls. For the convenience of law students with Westlaw accounts, I often provide links to cases on Westlaw, but whenever possible I also provide a link to the same case on [Google Scholar](http://scholar.google.com/), or to the opinion itself as published by the court.
 
@@ -85,5 +85,4 @@ Thank you,
 
 Richard Dooling
 
-University of Nebraska College of Law
-
+@RichardDooling
